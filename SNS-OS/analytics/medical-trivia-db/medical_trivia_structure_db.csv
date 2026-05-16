@@ -1,0 +1,4 @@
+id,platform,url,account_name,theme,hook,hook_type,length_sec,telop_structure,comment_cta,save_cta,ending,buzz_reason,views,saves,comments,follows,notes
+MT-001,instagram,,sample,CT被ばく,CTって危険と思ってませんか？,不安代弁,30,大文字フック→結論→3ポイント→安心,CTで不安だったことありますか？,検査前に見返せるよう保存してね,不安な時は相談してOK,不安解消と保存価値がある,,,,,
+MT-002,youtube_shorts,,sample,レントゲン雑学,レントゲンで全部見えると思っていませんか？,誤解破壊,25,疑問→結論→具体例→保存CTA,知らなかった人はコメントで教えてください,家族に説明する時用に保存,知っておくと安心,誤解を壊して知識になる,,,,,
+MT-003,tiktok,,sample,MRI比較,CTとMRI、同じだと思っていませんか？,比較,35,比較タイトル→違い2つ→注意点→質問,CTとMRIどっちが怖いですか？,あとで見返せるよう保存,検査前に聞いてOK,比較で保存されやすい,,,,,

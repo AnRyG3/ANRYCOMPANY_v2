@@ -1,0 +1,23 @@
+﻿[
+    {
+        "id":  "01",
+        "title":  "「念のためCT」って 本当に安心？",
+        "video":  "X:\\reel_assets\\ct_trilogy_3part\\videos\\day1_nen_no_tame_ct.mp4",
+        "narration":  "X:\\reel_assets\\ct_trilogy_3part\\audio\\01_narration.wav",
+        "caption":  "X:\\reel_assets\\ct_trilogy_3part\\投稿文\\01_投稿文.txt"
+    },
+    {
+        "id":  "02",
+        "title":  "CTは危険？ でも救急で必要なことがあります",
+        "video":  "X:\\reel_assets\\ct_trilogy_3part\\videos\\day2_kyukyu_ct.mp4",
+        "narration":  "X:\\reel_assets\\ct_trilogy_3part\\audio\\02_narration.wav",
+        "caption":  "X:\\reel_assets\\ct_trilogy_3part\\投稿文\\02_投稿文.txt"
+    },
+    {
+        "id":  "03",
+        "title":  "CTは悪者じゃない。 目的が大事",
+        "video":  "X:\\reel_assets\\ct_trilogy_3part\\videos\\day3_ct_mokuteki.mp4",
+        "narration":  "X:\\reel_assets\\ct_trilogy_3part\\audio\\03_narration.wav",
+        "caption":  "X:\\reel_assets\\ct_trilogy_3part\\投稿文\\03_投稿文.txt"
+    }
+]

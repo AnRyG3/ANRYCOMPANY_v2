@@ -1,0 +1,5 @@
+content_id,content_type,title,theme,category,hook,main_message,save_cta,comment_cta,repurpose_to_blog,repurpose_to_stamp,status
+CONTENT-001,reel,CTが怖い人へ,CT被ばく,不安解消,CTが怖い人、これだけ知ってください,必要な検査なら過度に怖がりすぎなくて大丈夫,検査前に見返せるよう保存してね,CTで不安だったことはありますか？,true,false,idea
+CONTENT-002,blog,ローゼンバーグ撮影のポイント,膝関節X線,整形撮影,膝OA評価で使う撮影です,立位荷重45度屈曲で関節裂隙を評価する,撮影前に見返せるよう保存,true,false,idea
+CONTENT-003,line_stamp,あんりぃの毎日ことば,LINEスタンプ,日常返信,毎日使えるかわいい返信,短文で何度も使えるスタンプ,false,true,idea
+CONTENT-004,reel,その湿布、写ることがあります,レントゲン検査前,驚き型+保存型,その湿布、レントゲンに写ることがあります,湿布・カイロ・金属・アクセサリーは画像に写ることがある,検査前に見返せるよう保存してね,検査前にこれ外すの？と迷ったものはありますか？,true,false,idea

@@ -1,0 +1,4 @@
+post_id,status,idea_done,script_done,image_done,voice_done,thumbnail_done,caption_done,scheduled_done,published_done,analyzed_done,next_action
+REEL-20260511-001,idea,true,false,false,false,false,false,false,false,false,台本作成
+BLOG-20260511-001,idea,true,false,false,false,false,false,false,false,false,記事構成作成
+STAMP-20260511-001,idea,true,false,false,false,false,false,false,false,false,40個文言作成

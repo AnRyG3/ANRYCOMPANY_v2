@@ -1,0 +1,38 @@
+{
+  "version": "1.0",
+  "buzz_thresholds": {
+    "buzz": 80,
+    "strong": 70,
+    "normal": 55,
+    "needs_improvement": 0
+  },
+  "weights": {
+    "views": 0.20,
+    "save_rate": 0.25,
+    "comment_rate": 0.15,
+    "follow_rate": 0.15,
+    "completion_rate": 0.25
+  },
+  "benchmarks": {
+    "views": 10000,
+    "save_rate": 5.0,
+    "comment_rate": 1.0,
+    "follow_rate": 0.5,
+    "completion_rate": 70.0
+  },
+  "winning_patterns": {
+    "hooks": ["実は", "誤解", "怖い人へ", "9割", "知らない", "検査前"],
+    "emotion_categories": ["不安→安心", "驚き→納得", "保存実用"],
+    "bgm_tempo": ["medium", "slow"],
+    "length_range": {
+      "min": 15,
+      "max": 35
+    }
+  },
+  "failure_rules": {
+    "low_save_rate": "保存率が低いです。検査前に見返す理由や3つのポイントを追加してください。",
+    "low_comment_rate": "コメント率が低いです。選択式の問いかけを入れてください。",
+    "low_completion_rate": "完視聴率が低いです。尺を短くするか中盤の説明を削ってください。",
+    "low_follow_rate": "フォロー率が低いです。放射線技師視点やシリーズ予告を入れてください。"
+  }
+}

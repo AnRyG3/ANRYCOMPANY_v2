@@ -1,0 +1,74 @@
+{
+  "version": "1.0",
+  "system_name": "instagram_reel_scoring_system",
+  "max_score": 100,
+  "criteria": {
+    "hook_power": {
+      "label": "フック力",
+      "max": 12,
+      "positive_keywords": ["誤解", "実は", "危険", "知らない", "9割", "怖い", "保存", "技師"],
+      "weak_patterns": ["今日は", "解説します", "説明します", "まず"]
+    },
+    "save_potential": {
+      "label": "保存率期待",
+      "max": 12,
+      "positive_keywords": ["保存", "見返", "検査前", "家族", "ポイント", "3つ", "チェック"],
+      "weak_patterns": ["雑談", "なんとなく"]
+    },
+    "comment_power": {
+      "label": "コメント誘導力",
+      "max": 10,
+      "positive_keywords": ["コメント", "ありますか", "どっち", "教えて", "知ってましたか", "経験"],
+      "weak_patterns": []
+    },
+    "empathy": {
+      "label": "共感性",
+      "max": 10,
+      "positive_keywords": ["不安", "怖い", "心配", "緊張", "あるある", "わかる"],
+      "weak_patterns": []
+    },
+    "surprise": {
+      "label": "意外性",
+      "max": 10,
+      "positive_keywords": ["実は", "逆", "意外", "9割", "知らない", "誤解"],
+      "weak_patterns": []
+    },
+    "expertise": {
+      "label": "専門性",
+      "max": 10,
+      "positive_keywords": ["放射線技師", "診療放射線技師", "技師", "現場", "撮影", "CT", "MRI", "レントゲン"],
+      "weak_patterns": []
+    },
+    "ctr_potential": {
+      "label": "CTR期待",
+      "max": 10,
+      "positive_keywords": ["危険？", "実は", "知らない", "違い", "理由", "ここ"],
+      "weak_patterns": ["まとめ", "解説"]
+    },
+    "first_3_sec_retention": {
+      "label": "冒頭3秒維持率",
+      "max": 10,
+      "positive_keywords": ["結論", "これだけ", "まず", "実は", "怖い人へ", "見て"],
+      "weak_patterns": ["長い前置き", "自己紹介"]
+    },
+    "title_strength": {
+      "label": "タイトル強度",
+      "max": 8,
+      "positive_keywords": ["CT", "MRI", "レントゲン", "被ばく", "危険", "違い", "誤解", "放射線技師"],
+      "weak_patterns": ["日記", "なんとなく"]
+    },
+    "telop_visibility": {
+      "label": "テロップ視認性",
+      "max": 8,
+      "positive_keywords": ["大きい", "2行", "短い", "青", "白背景", "太字"],
+      "weak_patterns": ["小さい", "長文", "読みにくい", "詰め込み"]
+    }
+  },
+  "risk_keywords": ["絶対安全", "絶対危険", "必ず治る", "診断できます", "医師より", "危険すぎる"],
+  "buzz_probability": {
+    "A": {"min_score": 90, "label": "高い"},
+    "B": {"min_score": 75, "label": "中"},
+    "C": {"min_score": 60, "label": "低め"},
+    "D": {"min_score": 0, "label": "要改善"}
+  }
+}

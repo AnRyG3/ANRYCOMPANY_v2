@@ -1,0 +1,41 @@
+{
+  "workflow_name": "SNS-OS Manual Trigger Pipeline",
+  "flow": [
+    {
+      "node": "Manual Trigger",
+      "purpose": "手動でSNS-OSパイプラインを開始する"
+    },
+    {
+      "node": "Read CSV / Google Sheets",
+      "purpose": "ネタDBまたはKPI管理表を読み込む",
+      "input_candidates": [
+        "SNS-OS/database/csv/content_db.csv",
+        "SNS-OS/automation/ai-sns-pipeline/data/ideas.csv",
+        "SNS-OS/automation/ai-sns-pipeline/data/kpi_management.csv"
+      ]
+    },
+    {
+      "node": "Run Command / Execute Command",
+      "purpose": "Pythonパイプラインを実行する",
+      "commands": [
+        "python SNS-OS/automation/ai-sns-pipeline/pipeline_manager.py",
+        "python SNS-OS/analytics/learning-loop/learning_loop.py"
+      ]
+    },
+    {
+      "node": "Write CSV / Google Sheets",
+      "purpose": "レポート、バズDB、勝ちパターンDBを書き戻す",
+      "output_candidates": [
+        "SNS-OS/automation/ai-sns-pipeline/outputs/latest_pipeline_report.md",
+        "SNS-OS/automation/ai-sns-pipeline/data/buzz_db.csv",
+        "SNS-OS/analytics/learning-loop/reports/latest_learning_report.md",
+        "SNS-OS/analytics/learning-loop/db/winning_pattern_db.csv"
+      ]
+    },
+    {
+      "node": "Notification",
+      "purpose": "完了通知を送る",
+      "message": "AI SNSパイプラインが完了しました。"
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+start,end,file,role
+00:00,00:04,01_images_telop/01_cover_telop.png,フック
+00:04,00:12,01_images_telop/02_radon_gas_telop.png,ラドン説明
+00:12,00:24,01_images_telop/03_dose_telop.png,量で考える説明
+00:24,00:35,01_images_telop/04_reassurance_telop.png,安心感の締め

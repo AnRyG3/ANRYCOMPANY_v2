@@ -1,0 +1,27 @@
+{
+  "rules": {
+    "reel": {
+      "prefix": "REEL",
+      "format": "REEL-YYYYMMDD-000",
+      "example": "REEL-20260511-001"
+    },
+    "blog": {
+      "prefix": "BLOG",
+      "format": "BLOG-YYYYMMDD-000",
+      "example": "BLOG-20260511-001"
+    },
+    "line_stamp": {
+      "prefix": "STAMP",
+      "format": "STAMP-YYYYMMDD-000",
+      "example": "STAMP-20260511-001"
+    }
+  },
+  "file_names": {
+    "script": "{post_id}_script.md",
+    "caption": "{post_id}_caption.md",
+    "thumbnail": "{post_id}_thumbnail.png",
+    "final_video": "{post_id}_final.mp4",
+    "blog_draft": "{post_id}_draft.md",
+    "stamp_prompt": "{post_id}_prompt.md"
+  }
+}

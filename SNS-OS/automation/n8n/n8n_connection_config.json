@@ -1,0 +1,34 @@
+{
+  "workflow_targets": {
+    "idea_generation": {
+      "input": "database/csv/content_db.csv",
+      "output": "database/csv/post_management.csv",
+      "ai": "ChatGPT"
+    },
+    "hashtag_suggestion": {
+      "input": "theme, platform, target_audience",
+      "output": "recommended_hashtags",
+      "ai": "ChatGPT"
+    },
+    "reel_to_blog": {
+      "input": "reel_theme, reel_script",
+      "output": "blog_draft",
+      "ai": "ChatGPT"
+    },
+    "line_stamp_promotion": {
+      "input": "stamp_theme, reel_theme",
+      "output": "promotion_caption",
+      "ai": "ChatGPT"
+    },
+    "kpi_analysis": {
+      "input": "database/csv/kpi_management.csv",
+      "output": "database/csv/buzz_analysis_db.csv",
+      "ai": "ChatGPT"
+    }
+  },
+  "error_policy": {
+    "retry_count": 2,
+    "on_failure": "write_to_error_log",
+    "duplicate_check_fields": ["post_id", "title", "scheduled_date"]
+  }
+}

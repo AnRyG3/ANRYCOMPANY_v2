@@ -1,0 +1,30 @@
+{
+  "system_name": "SNS-OS",
+  "brand": "放射線技師の安心ラボ",
+  "timezone": "Asia/Tokyo",
+  "date_format": "YYYY-MM-DD",
+  "content_types": ["reel", "blog", "line_stamp"],
+  "platforms": ["instagram", "tiktok", "youtube_shorts", "website", "line"],
+  "statuses": [
+    "idea",
+    "script",
+    "image",
+    "voice",
+    "editing",
+    "scheduled",
+    "published",
+    "analyzed",
+    "repurpose",
+    "archived"
+  ],
+  "folder_roots": {
+    "content": "SNS-OS/content",
+    "analytics": "SNS-OS/analytics",
+    "automation": "SNS-OS/automation",
+    "database": "SNS-OS/database",
+    "posting": "SNS-OS/posting",
+    "dashboard": "SNS-OS/dashboard"
+  },
+  "kpi_main": ["save_rate", "views", "follow_rate", "completion_rate"],
+  "automation_ready": true
+}

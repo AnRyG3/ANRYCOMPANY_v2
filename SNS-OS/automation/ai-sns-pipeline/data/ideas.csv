@@ -1,0 +1,4 @@
+idea_id,theme,category,target,pain_point,medical_tags,priority,status
+IDEA-001,CTって危険？,不安解消,一般人,被ばくが怖い,"CT,被ばく,放射線",A,new
+IDEA-002,レントゲンで骨が白く写る理由,医療雑学,一般人,画像の見方が分からない,"レントゲン,医療雑学",B,new
+IDEA-003,ローゼンバーグ撮影のポイント,整形撮影,若手技師,撮影条件が曖昧,"整形撮影,診療放射線技師",A,new

@@ -1,0 +1,16 @@
+{
+  "auto_folder_generation": {
+    "enabled": true,
+    "base_path": "SNS-OS/content",
+    "patterns": {
+      "reel": "content/reels/{post_id}_{theme}",
+      "blog": "content/blog/{post_id}_{theme}",
+      "line_stamp": "content/line-stamps/{post_id}_{theme}"
+    },
+    "default_files": {
+      "reel": ["script.md", "caption.md", "hashtags.md", "thumbnail.png", "final.mp4", "analysis.md"],
+      "blog": ["draft.md", "seo.md", "images.md", "internal_links.md"],
+      "line_stamp": ["phrases.csv", "prompts.md", "title_description.md", "review_checklist.md"]
+    }
+  }
+}

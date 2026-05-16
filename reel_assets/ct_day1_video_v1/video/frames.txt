@@ -1,0 +1,11 @@
+file 'X:/REEL_A~1/CT_DAY~2/frames/DAY1_C~1.PNG'
+duration 4.57
+file 'X:/REEL_A~1/CT_DAY~2/frames/DAY1_C~2.PNG'
+duration 6.00
+file 'X:/REEL_A~1/CT_DAY~2/frames/DAY1_C~3.PNG'
+duration 4.90
+file 'X:/REEL_A~1/CT_DAY~2/frames/DAY1_C~4.PNG'
+duration 5.80
+file 'X:/REEL_A~1/CT_DAY~2/frames/DA1524~1.PNG'
+duration 13.00
+file 'X:/REEL_A~1/CT_DAY~2/frames/DA1524~1.PNG'

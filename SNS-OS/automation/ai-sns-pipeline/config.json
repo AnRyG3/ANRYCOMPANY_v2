@@ -1,0 +1,36 @@
+{
+  "brand": "放射線技師の安心ラボ",
+  "version": "1.0",
+  "platforms": ["instagram_reels", "youtube_shorts", "tiktok"],
+  "default_platform": "instagram_reels",
+  "score_thresholds": {
+    "publish_ready": 90,
+    "strong": 100,
+    "buzz_candidate": 120,
+    "needs_improvement": 80
+  },
+  "score_weights": {
+    "hook_power": 15,
+    "save_potential": 15,
+    "empathy": 12,
+    "ctr_potential": 12,
+    "comment_power": 12,
+    "expertise": 14,
+    "buzz_potential": 20
+  },
+  "medical_tags": ["レントゲン", "CT", "MRI", "被ばく", "放射線", "医療雑学", "整形撮影", "診療放射線技師"],
+  "risk_keywords": ["絶対安全", "絶対危険", "必ず治る", "診断できます", "医師より正しい"],
+  "winning_conditions": {
+    "save_rate": 5.0,
+    "comment_rate": 1.0,
+    "retention_rate": 70.0,
+    "ctr": 3.0
+  },
+  "paths": {
+    "ideas": "data/ideas.csv",
+    "post_management": "data/post_management.csv",
+    "kpi_management": "data/kpi_management.csv",
+    "buzz_db": "data/buzz_db.csv",
+    "report": "outputs/latest_pipeline_report.md"
+  }
+}

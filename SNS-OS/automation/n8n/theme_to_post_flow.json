@@ -1,0 +1,61 @@
+{
+  "workflow_name": "Theme to Post Flow",
+  "description": "テーマ入力から台本、画像、動画、投稿、分析、改善までを回すSNS-OS実制作フロー",
+  "steps": [
+    {
+      "id": "theme_input",
+      "name": "テーマ入力",
+      "type": "trigger",
+      "output": ["theme", "target", "pain", "goal", "platform", "length"]
+    },
+    {
+      "id": "script_generation",
+      "name": "AIが台本作成",
+      "type": "ai",
+      "ai": "ChatGPT",
+      "input": ["theme", "target", "pain", "goal"],
+      "output": ["hook", "script", "save_cta", "comment_cta"]
+    },
+    {
+      "id": "image_generation",
+      "name": "画像生成",
+      "type": "ai_image",
+      "ai": "Gemini or ImageFX",
+      "input": ["theme", "script"],
+      "output": ["image_prompt", "thumbnail_idea", "visual_assets"]
+    },
+    {
+      "id": "video_generation",
+      "name": "動画生成",
+      "type": "video",
+      "tools": ["Vrew", "VOICEVOX", "Canva", "CapCut"],
+      "input": ["script", "visual_assets", "voice", "telop"],
+      "output": ["final_video", "caption", "hashtags"]
+    },
+    {
+      "id": "posting",
+      "name": "投稿",
+      "type": "posting",
+      "input": ["final_video", "caption", "hashtags", "platform"],
+      "output": ["post_url", "published_date"]
+    },
+    {
+      "id": "analytics",
+      "name": "分析",
+      "type": "analytics",
+      "input": ["views", "saves", "comments", "follows", "completion_rate"],
+      "output": ["save_rate", "comment_rate", "follow_rate", "buzz_score"]
+    },
+    {
+      "id": "improvement",
+      "name": "改善",
+      "type": "learning",
+      "input": ["buzz_score", "save_rate", "comment_rate", "follow_rate"],
+      "output": ["next_improvement", "winning_pattern", "next_theme"]
+    }
+  ],
+  "loop": {
+    "from": "improvement",
+    "to": "theme_input"
+  }
+}

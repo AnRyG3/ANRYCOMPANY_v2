@@ -1,0 +1,59 @@
+{
+  "workflow_name": "SNS-OS Core Workflow",
+  "brand": "放射線技師の安心ラボ",
+  "steps": [
+    {
+      "id": "idea_collection",
+      "name": "ネタ収集",
+      "input": ["comments", "trend", "competitor_posts", "manual_theme"],
+      "output": "database/csv/content_db.csv"
+    },
+    {
+      "id": "ai_analysis",
+      "name": "AI分析",
+      "input": "content_db.csv",
+      "output": ["score", "risk_points", "buzz_prediction", "series_idea"]
+    },
+    {
+      "id": "script_generation",
+      "name": "台本生成",
+      "input": ["theme", "score", "target"],
+      "output": ["hook", "script", "save_cta", "comment_cta"]
+    },
+    {
+      "id": "image_generation",
+      "name": "画像生成",
+      "input": ["theme", "script"],
+      "output": ["image_prompt", "thumbnail_idea", "visual_plan"]
+    },
+    {
+      "id": "video_creation",
+      "name": "動画化",
+      "input": ["script", "image", "voice", "telop"],
+      "output": ["final_video", "caption", "hashtags"]
+    },
+    {
+      "id": "posting",
+      "name": "投稿",
+      "input": ["final_video", "caption", "hashtags", "scheduled_date"],
+      "output": "posting/published"
+    },
+    {
+      "id": "analytics",
+      "name": "分析",
+      "input": ["views", "saves", "comments", "follows", "completion_rate"],
+      "output": "database/csv/kpi_management.csv"
+    },
+    {
+      "id": "relearning",
+      "name": "再学習",
+      "input": "kpi_management.csv",
+      "output": ["winning_patterns", "next_content_rules"]
+    }
+  ],
+  "loop": {
+    "from": "relearning",
+    "to": "idea_collection",
+    "purpose": "伸びた共通点を次回ネタへ反映する"
+  }
+}

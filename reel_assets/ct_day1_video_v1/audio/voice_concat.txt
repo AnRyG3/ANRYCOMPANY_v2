@@ -1,0 +1,5 @@
+file 'X:/REEL_A~1/CT_DAY~2/audio/voice_01.wav'
+file 'X:/REEL_A~1/CT_DAY~2/audio/voice_02.wav'
+file 'X:/REEL_A~1/CT_DAY~2/audio/voice_03.wav'
+file 'X:/REEL_A~1/CT_DAY~2/audio/voice_04.wav'
+file 'X:/REEL_A~1/CT_DAY~2/audio/voice_05.wav'

@@ -1,0 +1,11 @@
+file 'X:/REEL_A~1/CT_TRI~1/frames/02/frame_01.png'
+duration 11.59
+file 'X:/REEL_A~1/CT_TRI~1/frames/02/frame_02.png'
+duration 11.59
+file 'X:/REEL_A~1/CT_TRI~1/frames/02/frame_03.png'
+duration 11.59
+file 'X:/REEL_A~1/CT_TRI~1/frames/02/frame_04.png'
+duration 11.59
+file 'X:/REEL_A~1/CT_TRI~1/frames/02/frame_05.png'
+duration 11.59
+file 'X:/REEL_A~1/CT_TRI~1/frames/02/frame_05.png'

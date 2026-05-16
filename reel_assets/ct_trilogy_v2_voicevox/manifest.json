@@ -1,0 +1,20 @@
+﻿[
+    {
+        "id":  "01",
+        "video":  "X:\\reel_assets\\ct_trilogy_v2_voicevox\\videos\\day1_nen_no_tame_ct_voicevox.mp4",
+        "voice":  "X:\\reel_assets\\ct_trilogy_v2_voicevox\\audio\\01_voicevox.wav",
+        "caption":  "X:\\reel_assets\\ct_trilogy_v2_voicevox\\投稿文\\01_caption.txt"
+    },
+    {
+        "id":  "02",
+        "video":  "X:\\reel_assets\\ct_trilogy_v2_voicevox\\videos\\day2_kyukyu_ct_voicevox.mp4",
+        "voice":  "X:\\reel_assets\\ct_trilogy_v2_voicevox\\audio\\02_voicevox.wav",
+        "caption":  "X:\\reel_assets\\ct_trilogy_v2_voicevox\\投稿文\\02_caption.txt"
+    },
+    {
+        "id":  "03",
+        "video":  "X:\\reel_assets\\ct_trilogy_v2_voicevox\\videos\\day3_ct_mokuteki_voicevox.mp4",
+        "voice":  "X:\\reel_assets\\ct_trilogy_v2_voicevox\\audio\\03_voicevox.wav",
+        "caption":  "X:\\reel_assets\\ct_trilogy_v2_voicevox\\投稿文\\03_caption.txt"
+    }
+]
