@@ -1,7 +1,7 @@
 ﻿$ErrorActionPreference = "Stop"
 Add-Type -AssemblyName System.Drawing
 
-$Root = (Get-Location).Path
+$Root = (Resolve-Path (Join-Path $PSScriptRoot "..\..")).Path
 $AssetDir = Join-Path $Root "reel_assets\ct_day1_images_v1"
 $OutDir = Join-Path $Root "reel_assets\ct_day1_video_v1"
 $FrameDir = Join-Path $OutDir "frames"
@@ -160,6 +160,7 @@ if($LASTEXITCODE -ne 0){ throw "mux failed" }
 Set-Content -Path (Join-Path $OutDir "narration.txt") -Value (($Cuts | ForEach-Object { $_.voice }) -join "`r`n") -Encoding UTF8
 Set-Content -Path (Join-Path $OutDir "README.txt") -Value "DAY1 CT video. Minimal telops + VOICEVOX speaker 8. Final: video/day1_ct_nen_no_tame_voicevox.mp4" -Encoding UTF8
 Write-Host "Done: $OutDir"
+
 
 
 

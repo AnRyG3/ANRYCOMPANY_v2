@@ -1,7 +1,7 @@
 ﻿$ErrorActionPreference = "Stop"
 Add-Type -AssemblyName System.Drawing
 
-$Root = (Get-Location).Path
+$Root = (Resolve-Path (Join-Path $PSScriptRoot "..\..")).Path
 $OutDir = Join-Path $Root "reel_assets\ct_trilogy_v2_voicevox"
 $FrameDir = Join-Path $OutDir "frames"
 $AudioDir = Join-Path $OutDir "audio"
@@ -156,4 +156,5 @@ foreach($ep in $Episodes){
 $Manifest | ConvertTo-Json -Depth 4 | Set-Content -Path (Join-Path $OutDir "manifest.json") -Encoding UTF8
 Set-Content -Path (Join-Path $OutDir "README.txt") -Encoding UTF8 -Value "VOICEVOX v2 CT trilogy. Speaker: 春日部つむぎ style id 8. videos folder contains final MP4 files."
 Write-Host "Done: $OutDir"
+
 

@@ -1,7 +1,7 @@
 ﻿$ErrorActionPreference = "Stop"
 Add-Type -AssemblyName System.Drawing
 
-$Root = (Get-Location).Path
+$Root = (Resolve-Path (Join-Path $PSScriptRoot "..\..")).Path
 $AssetDir = Join-Path $Root "reel_assets\ct_trilogy_v2_voicevox"
 $FrameDir = Join-Path $AssetDir "frames\01"
 $VideoDir = Join-Path $AssetDir "videos"
@@ -257,3 +257,4 @@ Write-Host "Day1 visual refresh complete"
 Write-Host "Frames: $FrameDir"
 Write-Host "Video: $out"
 Write-Host "Backup: $BackupDir"
+

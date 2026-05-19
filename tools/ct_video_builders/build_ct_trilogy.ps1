@@ -2,7 +2,7 @@
 Add-Type -AssemblyName System.Drawing
 Add-Type -AssemblyName System.Speech
 
-$Root = (Get-Location).Path
+$Root = (Resolve-Path (Join-Path $PSScriptRoot "..\..")).Path
 $OutDir = Join-Path $Root "reel_assets\ct_trilogy_3part"
 $FrameDir = Join-Path $OutDir "frames"
 $AudioDir = Join-Path $OutDir "audio"
@@ -204,6 +204,7 @@ frames: 各動画の静止画素材
 "@
 
 Write-Host "Done: $OutDir"
+
 
 
 
