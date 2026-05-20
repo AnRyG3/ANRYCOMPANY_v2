@@ -1,2 +1,6 @@
 post_id,platform,published_date,views,reach,saves,save_rate,likes,comments,comment_rate,shares,follows,follow_rate,avg_watch_time,completion_rate,score,memo
-REEL-20260511-001,instagram,,,,,,,,,,,,,,,,
+REEL-20260511-001,instagram,2026-05-11,10000,8000,400,5.00,,80,1.00,,50,0.63,,72,85,learning-loopから移行
+REEL-20260512-001,instagram,2026-05-12,7000,6000,180,3.00,,120,2.00,,30,0.50,,78,82,learning-loopから移行
+IG-20260510-FLIGHT,instagram,2026-05-10,112,109,0,0.00,,0,0.00,,0,0.00,,,,実測初期値
+IG-20260510-CT,instagram,2026-05-10,106,103,0,0.00,,0,0.00,,0,0.00,,,,実測初期値
+YT-20260510-SHORT-001,youtube_shorts,2026-05-10,282,,0,0.00,,0,0.00,,0,0.00,,10,,実測初期値

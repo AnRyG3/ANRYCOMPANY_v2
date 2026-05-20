@@ -1,0 +1,5 @@
+post_id,content_id,platform,scheduled_date,title,theme,status,next_action,source_path
+REEL-20260520-CT-MRI-DIFF,REEL-20260520-CT-MRI-DIFF,instagram,2026-05-22,CTとMRIの違い,CTとMRIの違い,editing,最終動画確認後に投稿文確定,SNS-OS/content/reels/2026-05-20_ct_mri_difference.md
+REEL-20260521-MRI-METAL,REEL-20260521-MRI-METAL,instagram,2026-05-23,MRI室に金属を持ち込むと,MRI安全確認,ready,動画書き出しと投稿予約,SNS-OS/content/reels/2026-05-21_mri_metal_safety.md
+BLOG-ROSENBERG-XRAY,BLOG-ROSENBERG-XRAY,blog,2026-05-24,ローゼンバーグ撮影ガイド,膝関節X線,draft,SEO見出し確認後に公開準備,SNS-OS/content/blog/rosenberg_xray_guide.md
+STAMP-ANRII-DAILY-40-2026,STAMP-ANRII-DAILY-40-2026,line,2026-05-25,あんりぃ 日常返信40,日常返信,production,販売管理とリジェクト確認,SNS-OS/content/line-stamps/anrii_daily_40_2026.md

@@ -1,4 +1,9 @@
 post_id,status,idea_done,script_done,image_done,voice_done,thumbnail_done,caption_done,scheduled_done,published_done,analyzed_done,next_action
-REEL-20260511-001,idea,true,false,false,false,false,false,false,false,false,台本作成
+REEL-20260511-001,published,true,true,true,true,true,true,true,true,true,KPI継続入力
 BLOG-20260511-001,idea,true,false,false,false,false,false,false,false,false,記事構成作成
 STAMP-20260511-001,idea,true,false,false,false,false,false,false,false,false,40個文言作成
+REEL-20260513-001,published,true,true,true,true,true,true,true,true,false,KPI入力と分析
+REEL-20260520-CT-MRI-DIFF,editing,true,true,true,false,true,true,false,false,false,最終動画確認
+REEL-20260521-MRI-METAL,ready,true,true,true,false,true,true,false,false,false,動画書き出し
+BLOG-ROSENBERG-XRAY,draft,true,true,false,false,false,false,false,false,false,SEO見出し確認
+STAMP-ANRII-DAILY-40-2026,production,true,true,true,false,false,false,false,false,false,販売管理確認

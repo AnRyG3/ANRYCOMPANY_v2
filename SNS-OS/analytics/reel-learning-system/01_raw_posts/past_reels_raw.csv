@@ -1,2 +1,5 @@
 reel_id,published_date,url,title,theme,views,reach,saves,comments,follows,completion_rate,save_rate,comment_rate,follow_rate,notes
-REEL-001,,,,,,,,,,,,,,
+REEL-001,2026-05-11,,CTが怖い人へ,CT被ばく,10000,8000,400,80,50,72,5.00,1.00,0.63,learning-loopから移行
+REEL-002,2026-05-12,,骨が白く写る理由,レントゲン雑学,7000,6000,180,120,30,78,3.00,2.00,0.50,learning-loopから移行
+IG-20260510-FLIGHT,2026-05-10,,飛行機で海外へ行くほうが,自然放射線・飛行機被ばく,112,109,0,0,0,,0.00,0.00,0.00,実測初期値
+IG-20260510-CT,2026-05-10,,CTって,CT被ばく,106,103,0,0,0,,0.00,0.00,0.00,実測初期値

@@ -1,0 +1,6 @@
+post_id,content_id,platform,published_date,title,theme,source_path,views,reach,saves,comments,follows,completion_rate,status,notes
+REEL-001,REEL-20260511-CT-FEAR,instagram,2026-05-11,CTが怖い人へ,CT被ばく,SNS-OS/analytics/learning-loop/csv/post_results.csv,10000,8000,400,80,50,72,published,既存学習CSVから移行
+REEL-002,REEL-20260512-XRAY-WHITE,instagram,2026-05-12,骨が白く写る理由,レントゲン雑学,SNS-OS/analytics/learning-loop/csv/post_results.csv,7000,6000,180,120,30,78,published,既存学習CSVから移行
+IG-20260510-FLIGHT,IG-20260510-FLIGHT,instagram,2026-05-10,飛行機で海外へ行くほうが,自然放射線・飛行機被ばく,SNS-OS/analytics/learning-loop/csv/post_results.csv,112,109,0,0,0,,published,実測初期値
+IG-20260510-CT,IG-20260510-CT,instagram,2026-05-10,CTって,CT被ばく,SNS-OS/analytics/learning-loop/csv/post_results.csv,106,103,0,0,0,,published,実測初期値
+YT-20260510-SHORT-001,YT-20260510-SHORT-001,youtube_shorts,2026-05-10,ショート動画 2026-05-10,医療雑学,SNS-OS/analytics/learning-loop/csv/post_results.csv,282,,0,0,0,10,published,実測初期値
