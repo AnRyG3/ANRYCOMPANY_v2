@@ -1,13 +1,13 @@
-file 'C:/Users/maruk/OneDrive/デスクトップ/Anry campany/01_ショート動画_リール_YouTubeShorts/放射線技師の安心ラボ/Reels/2026-05-13_レントゲン_検査前に外すもの/_video_work/scene_01.png'
+file 'F:/ANRYCAMPANY/01_ショート動画_リール_YouTubeShorts/放射線技師の安心ラボ/Reels/2026-05-13_レントゲン_検査前に外すもの/_video_work/scene_01.png'
 duration 6.516
-file 'C:/Users/maruk/OneDrive/デスクトップ/Anry campany/01_ショート動画_リール_YouTubeShorts/放射線技師の安心ラボ/Reels/2026-05-13_レントゲン_検査前に外すもの/_video_work/scene_02.png'
+file 'F:/ANRYCAMPANY/01_ショート動画_リール_YouTubeShorts/放射線技師の安心ラボ/Reels/2026-05-13_レントゲン_検査前に外すもの/_video_work/scene_02.png'
 duration 6.345
-file 'C:/Users/maruk/OneDrive/デスクトップ/Anry campany/01_ショート動画_リール_YouTubeShorts/放射線技師の安心ラボ/Reels/2026-05-13_レントゲン_検査前に外すもの/_video_work/scene_03.png'
+file 'F:/ANRYCAMPANY/01_ショート動画_リール_YouTubeShorts/放射線技師の安心ラボ/Reels/2026-05-13_レントゲン_検査前に外すもの/_video_work/scene_03.png'
 duration 5.000
-file 'C:/Users/maruk/OneDrive/デスクトップ/Anry campany/01_ショート動画_リール_YouTubeShorts/放射線技師の安心ラボ/Reels/2026-05-13_レントゲン_検査前に外すもの/_video_work/scene_04_quiz.png'
+file 'F:/ANRYCAMPANY/01_ショート動画_リール_YouTubeShorts/放射線技師の安心ラボ/Reels/2026-05-13_レントゲン_検査前に外すもの/_video_work/scene_04_quiz.png'
 duration 8.000
-file 'C:/Users/maruk/OneDrive/デスクトップ/Anry campany/01_ショート動画_リール_YouTubeShorts/放射線技師の安心ラボ/Reels/2026-05-13_レントゲン_検査前に外すもの/_video_work/scene_05_safe.png'
+file 'F:/ANRYCAMPANY/01_ショート動画_リール_YouTubeShorts/放射線技師の安心ラボ/Reels/2026-05-13_レントゲン_検査前に外すもの/_video_work/scene_05_safe.png'
 duration 8.000
-file 'C:/Users/maruk/OneDrive/デスクトップ/Anry campany/01_ショート動画_リール_YouTubeShorts/放射線技師の安心ラボ/Reels/2026-05-13_レントゲン_検査前に外すもの/_video_work/scene_06_answer.png'
+file 'F:/ANRYCAMPANY/01_ショート動画_リール_YouTubeShorts/放射線技師の安心ラボ/Reels/2026-05-13_レントゲン_検査前に外すもの/_video_work/scene_06_answer.png'
 duration 1.200
-file 'C:/Users/maruk/OneDrive/デスクトップ/Anry campany/01_ショート動画_リール_YouTubeShorts/放射線技師の安心ラボ/Reels/2026-05-13_レントゲン_検査前に外すもの/_video_work/scene_06_answer.png'
+file 'F:/ANRYCAMPANY/01_ショート動画_リール_YouTubeShorts/放射線技師の安心ラボ/Reels/2026-05-13_レントゲン_検査前に外すもの/_video_work/scene_06_answer.png'
