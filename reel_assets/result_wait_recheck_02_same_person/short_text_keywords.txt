@@ -1,0 +1,9 @@
+01_retest_word.png: 再検査
+02_mind_blank.png: 頭が真っ白
+03_not_confirmed.png: 確定ではない
+04_maybe_stage.png: もしかしたら…
+05_contrast_detail.png: 詳しく見る
+06_yes_or_no.png: ある？ ない？
+07_next_step.png: 次のステップ
+08_not_bad_result.png: 悪い結果じゃない
+09_breathe.png: 深呼吸

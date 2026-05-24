@@ -1,14 +1,14 @@
-from pathlib import Path
+﻿from pathlib import Path
 
 from PIL import Image
 
 
 PROJECT = Path(
-    r"C:\Users\maruk\OneDrive\デスクトップ\Anry campany"
-    r"\02_LINEスタンプ\LINEスタンプ\使いやすいキャラ特集_あんりぃ40_2026"
+    r"F:\ANRYCAMPANY"
+    r"\02_LINE繧ｹ繧ｿ繝ｳ繝予LINE繧ｹ繧ｿ繝ｳ繝予菴ｿ縺・ｄ縺吶＞繧ｭ繝｣繝ｩ迚ｹ髮・縺ゅｓ繧翫＜40_2026"
 )
-SRC = PROJECT / "06_改訂版_transparent"
-OUT = PROJECT / "09_メイン_タブ画像"
+SRC = PROJECT / "06_謾ｹ險ら沿_transparent"
+OUT = PROJECT / "09_繝｡繧､繝ｳ_繧ｿ繝也判蜒・
 
 
 def fit_alpha_image(src_path: Path, size: tuple[int, int], padding: int) -> Image.Image:
@@ -45,3 +45,5 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
+
+

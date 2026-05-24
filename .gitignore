@@ -1,3 +1,36 @@
 __pycache__/
 .vscode/
 node_modules/
+.env.local
+*.env.local
+
+# Local environment
+.env
+*.env
+
+# Editor / OS cache
+*.pyc
+.DS_Store
+Thumbs.db
+
+# Dependency / runtime
+tools/runtime/
+tools/ffmpeg/
+tools/**/node_modules/
+
+# Generated image archives
+codex_generated_images/
+reel_assets/_generated_archive/
+
+# Video outputs / heavy exports
+*.mp4
+*.mov
+*.m4v
+*.avi
+*.mkv
+
+# CapCut exports
+reel_assets/capcut_exports/
+
+# Local archives
+reel_assets/_archive_*/

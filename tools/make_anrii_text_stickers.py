@@ -1,39 +1,39 @@
-from pathlib import Path
+﻿from pathlib import Path
 
 from PIL import Image, ImageDraw, ImageFont
 
 
 ROOT = Path(
-    r"C:\Users\maruk\OneDrive\デスクトップ\Anry campany\02_LINEスタンプ\LINEスタンプ\使いやすいキャラ特集_あんりぃ40_2026"
+    r"F:\ANRYCAMPANY\02_LINE繧ｹ繧ｿ繝ｳ繝予LINE繧ｹ繧ｿ繝ｳ繝予菴ｿ縺・ｄ縺吶＞繧ｭ繝｣繝ｩ迚ｹ髮・縺ゅｓ繧翫＜40_2026"
 )
-SRC_DIR = ROOT / "01_キャラ絵_chroma"
-TRANSPARENT_DIR = ROOT / "02_キャラ絵_transparent"
-TEXT_DIR = ROOT / "03_文字入り_原寸"
-LINE_DIR = ROOT / "04_LINE提出サイズ_370x320"
+SRC_DIR = ROOT / "01_繧ｭ繝｣繝ｩ邨ｵ_chroma"
+TRANSPARENT_DIR = ROOT / "02_繧ｭ繝｣繝ｩ邨ｵ_transparent"
+TEXT_DIR = ROOT / "03_譁・ｭ怜・繧垣蜴溷ｯｸ"
+LINE_DIR = ROOT / "04_LINE謠仙・繧ｵ繧､繧ｺ_370x320"
 PREVIEW_PATH = ROOT / "preview_first4_text.jpg"
 
 FONT_PATH = Path(r"C:\Windows\Fonts\BIZ-UDGothicB.ttc")
 ITEMS = [
-    ("01_ohayou_chroma.png", "01_ohayou_text.png", "おはよう"),
-    ("02_otsukaresama_chroma.png", "02_otsukaresama_text.png", "おつかれさま"),
-    ("03_arigatou_chroma.png", "03_arigatou_text.png", "ありがとう"),
-    ("04_ryoukai_chroma.png", "04_ryoukai_text.png", "了解です"),
-    ("05_yoroshiku_chroma.png", "05_yoroshiku_text.png", "よろしく"),
-    ("06_oyasumi_chroma.png", "06_oyasumi_text.png", "おやすみ"),
-    ("07_gomenne_chroma.png", "07_gomenne_text.png", "ごめんね"),
-    ("08_haai_chroma.png", "08_haai_text.png", "はーい"),
+    ("01_ohayou_chroma.png", "01_ohayou_text.png", "縺翫・繧医≧"),
+    ("02_otsukaresama_chroma.png", "02_otsukaresama_text.png", "縺翫▽縺九ｌ縺輔∪"),
+    ("03_arigatou_chroma.png", "03_arigatou_text.png", "縺ゅｊ縺後→縺・),
+    ("04_ryoukai_chroma.png", "04_ryoukai_text.png", "莠・ｧ｣縺ｧ縺・),
+    ("05_yoroshiku_chroma.png", "05_yoroshiku_text.png", "繧医ｍ縺励￥"),
+    ("06_oyasumi_chroma.png", "06_oyasumi_text.png", "縺翫ｄ縺吶∩"),
+    ("07_gomenne_chroma.png", "07_gomenne_text.png", "縺斐ａ繧薙・"),
+    ("08_haai_chroma.png", "08_haai_text.png", "縺ｯ繝ｼ縺・),
     ("09_ok_chroma.png", "09_ok_text.png", "OK"),
-    ("10_unun_chroma.png", "10_unun_text.png", "うんうん"),
-    ("11_sorena_chroma.png", "11_sorena_text.png", "それな"),
-    ("12_wakaru_chroma.png", "12_wakaru_text.png", "わかる"),
-    ("13_tashikani_chroma.png", "13_tashikani_text.png", "たしかに"),
-    ("14_iine_chroma.png", "14_iine_text.png", "いいね"),
-    ("15_sugoi_chroma.png", "15_sugoi_text.png", "すごい"),
-    ("16_kawaii_chroma.png", "16_kawaii_text.png", "かわいい"),
-    ("17_tasukaru_chroma.png", "17_tasukaru_text.png", "助かる"),
-    ("18_arigatoo_chroma.png", "18_arigatoo_text.png", "ありがとー"),
-    ("19_itsumo_arigatou_chroma.png", "19_itsumo_arigatou_text.png", "いつもありがとう"),
-    ("20_murishinaidene_chroma.png", "20_murishinaidene_text.png", "無理しないでね"),
+    ("10_unun_chroma.png", "10_unun_text.png", "縺・ｓ縺・ｓ"),
+    ("11_sorena_chroma.png", "11_sorena_text.png", "縺昴ｌ縺ｪ"),
+    ("12_wakaru_chroma.png", "12_wakaru_text.png", "繧上°繧・),
+    ("13_tashikani_chroma.png", "13_tashikani_text.png", "縺溘＠縺九↓"),
+    ("14_iine_chroma.png", "14_iine_text.png", "縺・＞縺ｭ"),
+    ("15_sugoi_chroma.png", "15_sugoi_text.png", "縺吶＃縺・),
+    ("16_kawaii_chroma.png", "16_kawaii_text.png", "縺九ｏ縺・＞"),
+    ("17_tasukaru_chroma.png", "17_tasukaru_text.png", "蜉ｩ縺九ｋ"),
+    ("18_arigatoo_chroma.png", "18_arigatoo_text.png", "縺ゅｊ縺後→繝ｼ"),
+    ("19_itsumo_arigatou_chroma.png", "19_itsumo_arigatou_text.png", "縺・▽繧ゅ≠繧翫′縺ｨ縺・),
+    ("20_murishinaidene_chroma.png", "20_murishinaidene_text.png", "辟｡逅・＠縺ｪ縺・〒縺ｭ"),
 ]
 
 
@@ -141,3 +141,5 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
+
+

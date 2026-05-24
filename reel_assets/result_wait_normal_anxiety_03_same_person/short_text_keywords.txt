@@ -1,0 +1,10 @@
+01_still_anxious.png: まだ不安
+02_should_feel_safe.png: 安心できるはず
+03_cant_catch_up.png: 追いつかない
+04_symptom_memory.png: 症状の記憶
+05_searched_words.png: 検索した言葉
+06_burned_into_mind.png: 頭に焼きつく
+07_not_strange.png: おかしくない
+08_receiving_result.png: 受け取るにも
+09_takes_time.png: 時間がかかる
+10_next_questions_cta.png: 質問は / 次の動画で

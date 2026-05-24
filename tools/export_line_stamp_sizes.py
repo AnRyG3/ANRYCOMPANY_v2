@@ -1,10 +1,10 @@
-from pathlib import Path
+﻿from pathlib import Path
 
 from PIL import Image
 
 
 SRC = Path(
-    r"C:\Users\maruk\OneDrive\デスクトップ\Anry campany\02_LINEスタンプ\LINEスタンプ\Codex_image2_試作_20260516\01_otsukaresama_transparent.png"
+    r"F:\ANRYCAMPANY\02_LINE繧ｹ繧ｿ繝ｳ繝予LINE繧ｹ繧ｿ繝ｳ繝予Codex_image2_隧ｦ菴彑20260516\01_otsukaresama_transparent.png"
 )
 
 
@@ -39,3 +39,5 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
+
+

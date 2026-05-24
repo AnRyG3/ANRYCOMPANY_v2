@@ -1,0 +1,11 @@
+cut_01_hook.png
+cut_02_strong_magnet.png
+cut_03_metal_check.png
+cut_04_examples.png
+cut_05_not_all_ng.png
+cut_06_material_part.png
+cut_07_no_self_judge.png
+cut_08_tell_staff.png
+cut_09_staff_confirm.png
+cut_10_fixed_ending_edited.png
+cut_11_common_share_cta.png

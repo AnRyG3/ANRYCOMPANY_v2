@@ -1,4 +1,4 @@
-# -*- coding: utf-8 -*-
+﻿# -*- coding: utf-8 -*-
 from __future__ import annotations
 
 import json
@@ -13,8 +13,8 @@ from pathlib import Path
 from PIL import Image, ImageDraw, ImageFilter, ImageFont
 
 
-BASE = Path(r"C:\Users\maruk\OneDrive\デスクトップ\Anry campany\01_ショート動画_リール_YouTubeShorts\放射線技師の安心ラボ\Reels\2026-05-13_レントゲン_検査前に外すもの")
-FFMPEG = Path(r"C:\Users\maruk\OneDrive\デスクトップ\Anry campany\tools\ffmpeg\bin\ffmpeg.exe")
+BASE = Path(r"F:\ANRYCAMPANY\01_繧ｷ繝ｧ繝ｼ繝亥虚逕ｻ_繝ｪ繝ｼ繝ｫ_YouTubeShorts\謾ｾ蟆・ｷ壽橿蟶ｫ縺ｮ螳牙ｿ・Λ繝彌Reels\2026-05-13_繝ｬ繝ｳ繝医ご繝ｳ_讀懈渊蜑阪↓螟悶☆繧ゅ・")
+FFMPEG = Path(r"F:\ANRYCAMPANY\tools\ffmpeg\bin\ffmpeg.exe")
 FONT_BOLD = r"C:\Windows\Fonts\BIZ-UDGothicB.ttc"
 FONT_REG = r"C:\Windows\Fonts\BIZ-UDGothicR.ttc"
 VOICEVOX = "http://127.0.0.1:50021"
@@ -100,18 +100,18 @@ def xray_portrait() -> Image.Image:
 def make_scene_01(out: Path):
     img = shade_bottom(base_from_image(BASE / "scene_01_hook_shippu.png", focus_y=0.45), 500)
     d = ImageDraw.Draw(img)
-    draw_centered(d, "その湿布、", 102, font(82), fill=WHITE, stroke=5)
-    draw_pill(d, "写ることがあります", 214, font(68))
-    draw_centered(d, "え、湿布って写るの？", 1600, font(58), fill=WHITE, stroke=5)
+    draw_centered(d, "縺昴・貉ｿ蟶・・, 102, font(82), fill=WHITE, stroke=5)
+    draw_pill(d, "蜀吶ｋ縺薙→縺後≠繧翫∪縺・, 214, font(68))
+    draw_centered(d, "縺医∵ｹｿ蟶・▲縺ｦ蜀吶ｋ縺ｮ・・, 1600, font(58), fill=WHITE, stroke=5)
     img.convert("RGB").save(out, quality=95)
 
 
 def make_scene_02(out: Path):
     img = shade_bottom(base_from_image(BASE / "scene_02_checklist.png", focus_y=0.48), 500)
     d = ImageDraw.Draw(img)
-    draw_centered(d, "撮影部位によっては", 82, font(62), fill=WHITE, stroke=5)
-    draw_pill(d, "外すことがあります", 170, font(72))
-    draw_centered(d, "湿布 / カイロ / 金属 / アクセ", 1600, font(48), fill=WHITE, stroke=5)
+    draw_centered(d, "謦ｮ蠖ｱ驛ｨ菴阪↓繧医▲縺ｦ縺ｯ", 82, font(62), fill=WHITE, stroke=5)
+    draw_pill(d, "螟悶☆縺薙→縺後≠繧翫∪縺・, 170, font(72))
+    draw_centered(d, "貉ｿ蟶・/ 繧ｫ繧､繝ｭ / 驥大ｱ・/ 繧｢繧ｯ繧ｻ", 1600, font(48), fill=WHITE, stroke=5)
     img.convert("RGB").save(out, quality=95)
 
 
@@ -123,19 +123,19 @@ def make_scene_03(out: Path):
 def make_scene_04_quiz(out: Path):
     img = xray_portrait()
     d = ImageDraw.Draw(img)
-    draw_centered(d, "懐炉はどこに", 78, font(68), fill=WHITE, stroke=5)
-    draw_pill(d, "写ってる？", 172, font(84))
+    draw_centered(d, "諛千ｉ縺ｯ縺ｩ縺薙↓", 78, font(68), fill=WHITE, stroke=5)
+    draw_pill(d, "蜀吶▲縺ｦ繧具ｼ・, 172, font(84))
     d.rounded_rectangle((112, 1660, W - 112, 1805), radius=26, fill=(255, 255, 255, 238))
-    draw_centered(d, "答えは最後で...", 1695, font(60), fill=NAVY, stroke=0)
+    draw_centered(d, "遲斐∴縺ｯ譛蠕後〒...", 1695, font(60), fill=NAVY, stroke=0)
     img.convert("RGB").save(out, quality=95)
 
 
 def make_scene_05_safe(out: Path):
     img = shade_bottom(base_from_image(BASE / "scene_03_explanation.png", focus_y=0.48), 560)
     d = ImageDraw.Draw(img)
-    draw_centered(d, "見たい患部に重なると", 88, font(60), fill=WHITE, stroke=5)
-    draw_pill(d, "分かりにくくなることも", 178, font(62))
-    draw_centered(d, "迷ったらスタッフへ聞いてOK", 1610, font(54), fill=WHITE, stroke=5)
+    draw_centered(d, "隕九◆縺・ぅ驛ｨ縺ｫ驥阪↑繧九→", 88, font(60), fill=WHITE, stroke=5)
+    draw_pill(d, "蛻・°繧翫↓縺上￥縺ｪ繧九％縺ｨ繧・, 178, font(62))
+    draw_centered(d, "霑ｷ縺｣縺溘ｉ繧ｹ繧ｿ繝・ヵ縺ｸ閨槭＞縺ｦOK", 1610, font(54), fill=WHITE, stroke=5)
     img.convert("RGB").save(out, quality=95)
 
 
@@ -148,7 +148,7 @@ def make_scene_06_answer(out: Path):
         d.ellipse((cx - r, cy - r, cx + r, cy + r), outline=YELLOW[:3] + (alpha,), width=width)
     d.line((cx - 260, cy - 260, cx - 90, cy - 95), fill=YELLOW, width=18)
     d.polygon([(cx - 100, cy - 100), (cx - 145, cy - 112), (cx - 112, cy - 145)], fill=YELLOW)
-    draw_pill(d, "ここです", 126, font(92))
+    draw_pill(d, "縺薙％縺ｧ縺・, 126, font(92))
     img.convert("RGB").save(out, quality=95)
 
 
@@ -238,12 +238,12 @@ def main():
     work = BASE / "_video_work"
     work.mkdir(exist_ok=True)
     scenes = [
-        ("scene_01.png", make_scene_01, "その湿布、レントゲンに写ることがあります。え、湿布って写るの？と思った人へ。", 5.0),
-        ("scene_02.png", make_scene_02, "湿布、カイロ、金属、アクセサリーは、撮影部位によっては外すことがあります。", 4.0),
-        ("scene_03.png", make_scene_03, "実際のレントゲンでは、ネックレスやジッパーもこんなに写ります。", 5.0),
-        ("scene_04_quiz.png", make_scene_04_quiz, "では問題です。この画像の懐炉、どこに写っているでしょう？答えは最後に出します。先に大事なことだけ。", 8.0),
-        ("scene_05_safe.png", make_scene_05_safe, "見たい患部に重なると、画像が分かりにくくなることがあります。迷ったときは、外す前にスタッフへ聞いてOKです。", 8.0),
-        ("scene_06_answer.png", make_scene_06_answer, "ここです。", 1.2),
+        ("scene_01.png", make_scene_01, "縺昴・貉ｿ蟶・√Ξ繝ｳ繝医ご繝ｳ縺ｫ蜀吶ｋ縺薙→縺後≠繧翫∪縺吶ゅ∴縲∵ｹｿ蟶・▲縺ｦ蜀吶ｋ縺ｮ・溘→諤昴▲縺滉ｺｺ縺ｸ縲・, 5.0),
+        ("scene_02.png", make_scene_02, "貉ｿ蟶・√き繧､繝ｭ縲・≡螻槭√い繧ｯ繧ｻ繧ｵ繝ｪ繝ｼ縺ｯ縲∵聴蠖ｱ驛ｨ菴阪↓繧医▲縺ｦ縺ｯ螟悶☆縺薙→縺後≠繧翫∪縺吶・, 4.0),
+        ("scene_03.png", make_scene_03, "螳滄圀縺ｮ繝ｬ繝ｳ繝医ご繝ｳ縺ｧ縺ｯ縲√ロ繝・け繝ｬ繧ｹ繧・ず繝・ヱ繝ｼ繧ゅ％繧薙↑縺ｫ蜀吶ｊ縺ｾ縺吶・, 5.0),
+        ("scene_04_quiz.png", make_scene_04_quiz, "縺ｧ縺ｯ蝠城｡後〒縺吶ゅ％縺ｮ逕ｻ蜒上・諛千ｉ縲√←縺薙↓蜀吶▲縺ｦ縺・ｋ縺ｧ縺励ｇ縺・ｼ溽ｭ斐∴縺ｯ譛蠕後↓蜃ｺ縺励∪縺吶ょ・縺ｫ螟ｧ莠九↑縺薙→縺縺代・, 8.0),
+        ("scene_05_safe.png", make_scene_05_safe, "隕九◆縺・ぅ驛ｨ縺ｫ驥阪↑繧九→縲∫判蜒上′蛻・°繧翫↓縺上￥縺ｪ繧九％縺ｨ縺後≠繧翫∪縺吶りｿｷ縺｣縺溘→縺阪・縲∝､悶☆蜑阪↓繧ｹ繧ｿ繝・ヵ縺ｸ閨槭＞縺ｦOK縺ｧ縺吶・, 8.0),
+        ("scene_06_answer.png", make_scene_06_answer, "縺薙％縺ｧ縺吶・, 1.2),
     ]
 
     image_paths = []
@@ -317,3 +317,5 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+

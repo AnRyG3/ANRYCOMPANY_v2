@@ -1,15 +1,15 @@
-from pathlib import Path
+﻿from pathlib import Path
 from PIL import Image, ImageDraw, ImageFont, ImageFilter
 
 
-ROOT = Path(r"C:\Users\maruk\OneDrive\デスクトップ\Anry campany")
+ROOT = Path(r"F:\ANRYCAMPANY")
 BG = ROOT / "reel_assets" / "ct_contrast_v1" / "generated_backgrounds"
 OUT = ROOT / "reel_assets" / "ct_contrast_v1" / "frames_05_short_120ten"
 
 W, H = 1080, 1920
 NAVY = (5, 28, 76, 245)
 WHITE = (255, 255, 255, 255)
-DISCLAIMER = "※個別の判断は医療機関でご相談ください"
+DISCLAIMER = "窶ｻ蛟句挨縺ｮ蛻､譁ｭ縺ｯ蛹ｻ逋よｩ滄未縺ｧ縺皮嶌隲・￥縺縺輔＞"
 SAFE_TOP_SHIFT = 80
 DISCLAIMER_Y = H - 205
 
@@ -84,17 +84,17 @@ def subtle_vignette(base: Image.Image):
 
 
 frames = [
-    ("bg_01_waiting_family.png", ["家族が造影CTを受ける前に", "これだけ確認"], 145 + SAFE_TOP_SHIFT),
-    ("bg_05_reception_family.png", ["先に伝えるだけで", "注意しやすくなる"], 130 + SAFE_TOP_SHIFT),
-    ("bg_06_contrast_syringe.png", ["造影剤は", "見えやすくする薬"], 145 + SAFE_TOP_SHIFT),
-    ("bg_03_scan_review.png", ["必要な場面では", "診断の助けに"], 135 + SAFE_TOP_SHIFT),
-    ("bg_04_questionnaire.png", ["検査前に伝えること", "3つ"], 145 + SAFE_TOP_SHIFT),
-    ("bg_04_questionnaire.png", ["1. 造影剤で", "気分が悪くなった"], 140 + SAFE_TOP_SHIFT),
-    ("bg_04_questionnaire.png", ["2. ぜんそく", "強いアレルギー"], 140 + SAFE_TOP_SHIFT),
-    ("bg_04_questionnaire.png", ["3. 腎機能を", "指摘された"], 140 + SAFE_TOP_SHIFT),
-    ("bg_05_reception_family.png", ["本人が忘れていたら", "家族から伝えてOK"], 135 + SAFE_TOP_SHIFT),
-    ("bg_01_waiting_family.png", ["不安は", "我慢しなくて大丈夫"], 145 + SAFE_TOP_SHIFT),
-    ("bg_05_reception_family.png", ["この3つだけ", "先に伝えて"], 145 + SAFE_TOP_SHIFT),
+    ("bg_01_waiting_family.png", ["螳ｶ譌上′騾蠖ｱCT繧貞女縺代ｋ蜑阪↓", "縺薙ｌ縺縺醍｢ｺ隱・], 145 + SAFE_TOP_SHIFT),
+    ("bg_05_reception_family.png", ["蜈医↓莨昴∴繧九□縺代〒", "豕ｨ諢上＠繧・☆縺上↑繧・], 130 + SAFE_TOP_SHIFT),
+    ("bg_06_contrast_syringe.png", ["騾蠖ｱ蜑､縺ｯ", "隕九∴繧・☆縺上☆繧玖脈"], 145 + SAFE_TOP_SHIFT),
+    ("bg_03_scan_review.png", ["蠢・ｦ√↑蝣ｴ髱｢縺ｧ縺ｯ", "險ｺ譁ｭ縺ｮ蜉ｩ縺代↓"], 135 + SAFE_TOP_SHIFT),
+    ("bg_04_questionnaire.png", ["讀懈渊蜑阪↓莨昴∴繧九％縺ｨ", "3縺､"], 145 + SAFE_TOP_SHIFT),
+    ("bg_04_questionnaire.png", ["1. 騾蠖ｱ蜑､縺ｧ", "豌怜・縺梧が縺上↑縺｣縺・], 140 + SAFE_TOP_SHIFT),
+    ("bg_04_questionnaire.png", ["2. 縺懊ｓ縺昴￥", "蠑ｷ縺・い繝ｬ繝ｫ繧ｮ繝ｼ"], 140 + SAFE_TOP_SHIFT),
+    ("bg_04_questionnaire.png", ["3. 閻取ｩ溯・繧・, "謖・遭縺輔ｌ縺・], 140 + SAFE_TOP_SHIFT),
+    ("bg_05_reception_family.png", ["譛ｬ莠ｺ縺悟ｿ倥ｌ縺ｦ縺・◆繧・, "螳ｶ譌上°繧我ｼ昴∴縺ｦOK"], 135 + SAFE_TOP_SHIFT),
+    ("bg_01_waiting_family.png", ["荳榊ｮ峨・", "謌第・縺励↑縺上※螟ｧ荳亥､ｫ"], 145 + SAFE_TOP_SHIFT),
+    ("bg_05_reception_family.png", ["縺薙・3縺､縺縺・, "蜈医↓莨昴∴縺ｦ"], 145 + SAFE_TOP_SHIFT),
 ]
 
 
@@ -110,3 +110,5 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+

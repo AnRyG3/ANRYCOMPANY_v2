@@ -1,10 +1,10 @@
-from pathlib import Path
+﻿from pathlib import Path
 import shutil
 
 from PIL import Image, ImageDraw, ImageFilter, ImageFont
 
 
-ROOT = Path(r"C:\Users\maruk\OneDrive\デスクトップ\Anry campany")
+ROOT = Path(r"F:\ANRYCAMPANY")
 BG = ROOT / "reel_assets" / "mri_noise_reason_v1" / "generated_backgrounds"
 OUT = ROOT / "reel_assets" / "mri_noise_reason_v1" / "telop_frames"
 COMMON_CTA = ROOT / "reel_assets" / "common" / "reel_end_card_share.png"
@@ -16,7 +16,7 @@ RED = (204, 42, 58, 246)
 WHITE = (255, 255, 255, 255)
 YELLOW = (255, 220, 82, 255)
 CYAN = (119, 230, 255, 255)
-DISCLAIMER = "※個別の判断は医療機関でご相談ください"
+DISCLAIMER = "窶ｻ蛟句挨縺ｮ蛻､譁ｭ縺ｯ蛹ｻ逋よｩ滄未縺ｧ縺皮嶌隲・￥縺縺輔＞"
 
 FONT_BOLD = r"C:\Windows\Fonts\YuGothB.ttc"
 FONT_REG = r"C:\Windows\Fonts\YuGothM.ttc"
@@ -130,15 +130,15 @@ def end_card_overlay(base: Image.Image):
     base.alpha_composite(overlay)
 
     draw = ImageDraw.Draw(base)
-    lead = "MRIの音は\n怖い音じゃない"
+    lead = "MRI縺ｮ髻ｳ縺ｯ\n諤悶＞髻ｳ縺倥ｃ縺ｪ縺・
     fnt_lead = font(58, True)
     draw.multiline_text((W // 2, 385), lead, font=fnt_lead, fill=(5, 28, 76), anchor="ma", align="center", spacing=12)
 
-    title = "検査前の不安が減る情報を\n発信しています。"
+    title = "讀懈渊蜑阪・荳榊ｮ峨′貂帙ｋ諠・ｱ繧箪n逋ｺ菫｡縺励※縺・∪縺吶・
     fnt_title = font(42, True)
     draw.multiline_text((W // 2, 560), title, font=fnt_title, fill=(4, 72, 92), anchor="ma", align="center", spacing=10)
 
-    body = "チャンネル登録しておくと、\n次の検査のときに役立ちます。"
+    body = "繝√Ε繝ｳ繝阪Ν逋ｻ骭ｲ縺励※縺翫￥縺ｨ縲―n谺｡縺ｮ讀懈渊縺ｮ縺ｨ縺阪↓蠖ｹ遶九■縺ｾ縺吶・
     fnt_body = font(38, True)
     draw.multiline_text((W // 2, 675), body, font=fnt_body, fill=(4, 72, 92), anchor="ma", align="center", spacing=10)
 
@@ -147,8 +147,8 @@ frames = [
     {
         "src": "bg_01_hook_patient_worried.png",
         "out": "cut_01_hook.png",
-        "badge": "MRI中に一番多い勘違い",
-        "lines": ["あの大きな音", "壊れてる？"],
+        "badge": "MRI荳ｭ縺ｫ荳逡ｪ螟壹＞蜍倬＆縺・,
+        "lines": ["縺ゅ・螟ｧ縺阪↑髻ｳ", "螢翫ｌ縺ｦ繧具ｼ・],
         "y": 360,
         "fill": RED,
         "start": 76,
@@ -156,7 +156,7 @@ frames = [
     {
         "src": "bg_02_loud_sound_scan.png",
         "out": "cut_02_sound_is_progress.png",
-        "lines": ["いいえ。", "検査が進んでいる音です"],
+        "lines": ["縺・＞縺医・, "讀懈渊縺碁ｲ繧薙〒縺・ｋ髻ｳ縺ｧ縺・],
         "y": 305,
         "fill": NAVY,
         "start": 66,
@@ -165,7 +165,7 @@ frames = [
     {
         "src": "bg_03_magnet_radio_waves.png",
         "out": "cut_03_magnet_radio.png",
-        "lines": ["MRIは", "磁石と電波で", "体の中を見ています"],
+        "lines": ["MRI縺ｯ", "逎∫浹縺ｨ髮ｻ豕｢縺ｧ", "菴薙・荳ｭ繧定ｦ九※縺・∪縺・],
         "y": 270,
         "fill": DEEP_TEAL,
         "start": 64,
@@ -173,7 +173,7 @@ frames = [
     {
         "src": "bg_04_internal_vibration.png",
         "out": "cut_04_vibration.png",
-        "lines": ["磁石が切り替わるたびに", "装置が振動して", "あの音が出ます"],
+        "lines": ["逎∫浹縺悟・繧頑崛繧上ｋ縺溘・縺ｫ", "陬・ｽｮ縺梧険蜍輔＠縺ｦ", "縺ゅ・髻ｳ縺悟・縺ｾ縺・],
         "y": 255,
         "fill": NAVY,
         "start": 58,
@@ -181,7 +181,7 @@ frames = [
     {
         "src": "bg_05_scan_progress_control_room.png",
         "out": "cut_05_sign_of_scan.png",
-        "lines": ["音がしている間は", "ちゃんと撮影しているサイン"],
+        "lines": ["髻ｳ縺後＠縺ｦ縺・ｋ髢薙・", "縺｡繧・ｓ縺ｨ謦ｮ蠖ｱ縺励※縺・ｋ繧ｵ繧､繝ｳ"],
         "y": 285,
         "fill": NAVY,
         "start": 62,
@@ -220,3 +220,5 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+

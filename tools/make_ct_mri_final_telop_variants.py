@@ -1,15 +1,15 @@
-from pathlib import Path
+﻿from pathlib import Path
 from PIL import Image, ImageDraw, ImageFont, ImageFilter
 
 
-ROOT = Path(r"C:\Users\maruk\OneDrive\デスクトップ\Anry campany")
+ROOT = Path(r"F:\ANRYCAMPANY")
 BG = ROOT / "reel_assets" / "ct_mri_difference_v1" / "generated_backgrounds"
 OUT = ROOT / "reel_assets" / "ct_mri_difference_v1" / "final_telop_variants"
 
 W, H = 1080, 1920
 NAVY = (5, 28, 76, 245)
 WHITE = (255, 255, 255, 255)
-DISCLAIMER = "※個別の判断は医療機関でご相談ください"
+DISCLAIMER = "窶ｻ蛟句挨縺ｮ蛻､譁ｭ縺ｯ蛹ｻ逋よｩ滄未縺ｧ縺皮嶌隲・￥縺縺輔＞"
 DISCLAIMER_Y = H - 205
 
 FONT_BOLD = r"C:\Windows\Fonts\YuGothB.ttc"
@@ -85,9 +85,9 @@ def subtle_vignette(base: Image.Image):
 
 
 variants = [
-    ("final_a_save.png", ["不安な人は", "保存して"]),
-    ("final_b_comment.png", ["CTとMRI", "どっちが不安？"]),
-    ("final_c_check.png", ["検査前に", "見返して"]),
+    ("final_a_save.png", ["荳榊ｮ峨↑莠ｺ縺ｯ", "菫晏ｭ倥＠縺ｦ"]),
+    ("final_b_comment.png", ["CT縺ｨMRI", "縺ｩ縺｣縺｡縺御ｸ榊ｮ会ｼ・]),
+    ("final_c_check.png", ["讀懈渊蜑阪↓", "隕玖ｿ斐＠縺ｦ"]),
 ]
 
 
@@ -103,3 +103,5 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+

@@ -1,15 +1,15 @@
-from pathlib import Path
+﻿from pathlib import Path
 from PIL import Image, ImageDraw, ImageFont, ImageFilter
 
 
-ROOT = Path(r"C:\Users\maruk\OneDrive\デスクトップ\Anry campany")
+ROOT = Path(r"F:\ANRYCAMPANY")
 BG = ROOT / "reel_assets" / "ct_mri_difference_v1" / "generated_backgrounds"
 OUT = ROOT / "reel_assets" / "ct_mri_difference_v1" / "telop_frames"
 
 W, H = 1080, 1920
 NAVY = (5, 28, 76, 245)
 WHITE = (255, 255, 255, 255)
-DISCLAIMER = "※個別の判断は医療機関でご相談ください"
+DISCLAIMER = "窶ｻ蛟句挨縺ｮ蛻､譁ｭ縺ｯ蛹ｻ逋よｩ滄未縺ｧ縺皮嶌隲・￥縺縺輔＞"
 DISCLAIMER_Y = H - 205
 
 FONT_BOLD = r"C:\Windows\Fonts\YuGothB.ttc"
@@ -85,12 +85,12 @@ def subtle_vignette(base: Image.Image):
 
 
 frames = [
-    ("bg_01_ct_mri_intro.png", ["CTとMRI", "同じじゃない"], 225),
-    ("bg_02_ct_room.png", ["CTは", "エックス線"], 225),
-    ("bg_03_mri_room.png", ["MRIは", "磁石と電波"], 225),
-    ("bg_04_explanation_tablet.png", ["どっちが上？", "ではない"], 225),
-    ("bg_05_mri_metal_check.png", ["MRI前は", "金属チェック"], 225),
-    ("bg_06_save_cta.png", ["不安な人は", "保存して"], 225),
+    ("bg_01_ct_mri_intro.png", ["CT縺ｨMRI", "蜷後§縺倥ｃ縺ｪ縺・], 225),
+    ("bg_02_ct_room.png", ["CT縺ｯ", "繧ｨ繝・け繧ｹ邱・], 225),
+    ("bg_03_mri_room.png", ["MRI縺ｯ", "逎∫浹縺ｨ髮ｻ豕｢"], 225),
+    ("bg_04_explanation_tablet.png", ["縺ｩ縺｣縺｡縺御ｸ奇ｼ・, "縺ｧ縺ｯ縺ｪ縺・], 225),
+    ("bg_05_mri_metal_check.png", ["MRI蜑阪・", "驥大ｱ槭メ繧ｧ繝・け"], 225),
+    ("bg_06_save_cta.png", ["荳榊ｮ峨↑莠ｺ縺ｯ", "菫晏ｭ倥＠縺ｦ"], 225),
 ]
 
 
@@ -106,3 +106,5 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+

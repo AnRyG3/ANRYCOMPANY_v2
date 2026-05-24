@@ -1,8 +1,8 @@
-from pathlib import Path
+﻿from pathlib import Path
 from PIL import Image, ImageDraw, ImageFont, ImageFilter
 
 
-ROOT = Path(r"C:\Users\maruk\OneDrive\デスクトップ\Anry campany")
+ROOT = Path(r"F:\ANRYCAMPANY")
 BG = ROOT / "reel_assets" / "mri_metal_projectile_v1" / "generated_backgrounds"
 OUT = ROOT / "reel_assets" / "mri_metal_projectile_v1" / "telop_frames"
 
@@ -11,7 +11,7 @@ NAVY = (5, 28, 76, 246)
 RED = (210, 34, 50, 246)
 WHITE = (255, 255, 255, 255)
 YELLOW = (255, 218, 80, 255)
-DISCLAIMER = "※個別の判断は医療機関でご相談ください"
+DISCLAIMER = "窶ｻ蛟句挨縺ｮ蛻､譁ｭ縺ｯ蛹ｻ逋よｩ滄未縺ｧ縺皮嶌隲・￥縺縺輔＞"
 DISCLAIMER_Y = H - 430
 
 FONT_BOLD = r"C:\Windows\Fonts\YuGothB.ttc"
@@ -124,29 +124,29 @@ frames = [
     {
         "src": "bg_01_mri_room_warning_entrance.png",
         "out": "cut_01_warning_entrance.png",
-        "badge": "MRI安全確認",
-        "lines": ["MRI室に車椅子", "持ち込むと？"],
+        "badge": "MRI螳牙・遒ｺ隱・,
+        "lines": ["MRI螳､縺ｫ霆頑､・ｭ・, "謖√■霎ｼ繧縺ｨ・・],
         "y": 420,
         "fill": RED,
     },
     {
         "src": "bg_02_iv_pole_pulled_to_mri.png",
         "out": "cut_02_iv_pole_pulled.png",
-        "lines": ["持ち込むと", "事故になります"],
+        "lines": ["謖√■霎ｼ繧縺ｨ", "莠区腐縺ｫ縺ｪ繧翫∪縺・],
         "y": 340,
         "fill": NAVY,
     },
     {
         "src": "bg_03_wheelchair_safety_check.png",
         "out": "cut_03_wheelchair_check.png",
-        "lines": ["車椅子・点滴台", "酸素ボンベ"],
+        "lines": ["霆頑､・ｭ舌・轤ｹ貊ｴ蜿ｰ", "驟ｸ邏繝懊Φ繝・],
         "y": 340,
         "fill": NAVY,
     },
     {
         "src": "bg_04_always_on_magnetic_field.png",
         "out": "cut_04_always_magnetic.png",
-        "lines": ["意外と知らない", "MRIの事実"],
+        "lines": ["諢丞､悶→遏･繧峨↑縺・, "MRI縺ｮ莠句ｮ・],
         "y": 340,
         "fill": NAVY,
         "accent": 1,
@@ -154,30 +154,30 @@ frames = [
     {
         "src": "bg_04_always_on_magnetic_field.png",
         "out": "cut_05_checklist_items.png",
-        "lines": ["撮影していない時も", "磁場はあります"],
+        "lines": ["謦ｮ蠖ｱ縺励※縺・↑縺・凾繧・, "逎∝ｴ縺ｯ縺ゅｊ縺ｾ縺・],
         "y": 340,
         "fill": NAVY,
     },
     {
         "src": "bg_06_consult_staff_before_mri.png",
         "out": "cut_06_tell_staff_ok.png",
-        "lines": ["聞かれたことは", "正直に伝えてください"],
+        "lines": ["閨槭°繧後◆縺薙→縺ｯ", "豁｣逶ｴ縺ｫ莨昴∴縺ｦ縺上□縺輔＞"],
         "y": 340,
         "fill": NAVY,
     },
     {
         "src": "bg_07_save_end_card_background.png",
         "out": "cut_07_save_end_card.png",
-        "badge": "MRI前に知っておきたい",
-        "lines": ["事故を防ぐ", "大切な安全確認"],
+        "badge": "MRI蜑阪↓遏･縺｣縺ｦ縺翫″縺溘＞",
+        "lines": ["莠区腐繧帝亟縺・, "螟ｧ蛻・↑螳牙・遒ｺ隱・],
         "y": 430,
         "fill": NAVY,
     },
     {
         "src": "bg_07_save_end_card_background.png",
         "out": "cut_08_save_share_cta.png",
-        "badge": "大切な人がMRIを受ける前に",
-        "lines": ["この動画を", "見せてあげてください"],
+        "badge": "螟ｧ蛻・↑莠ｺ縺勲RI繧貞女縺代ｋ蜑阪↓",
+        "lines": ["縺薙・蜍慕判繧・, "隕九○縺ｦ縺ゅ￡縺ｦ縺上□縺輔＞"],
         "y": 430,
         "fill": NAVY,
     },
@@ -204,3 +204,5 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+

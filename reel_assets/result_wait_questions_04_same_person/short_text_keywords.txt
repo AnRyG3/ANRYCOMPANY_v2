@@ -1,0 +1,11 @@
+﻿01_forget_questions.png: 質問が飛ぶ
+02_nervous_is_natural.png: あたりまえ
+03_write_questions.png: メモしておく
+04_abnormality.png: 異常の有無
+05_future_course.png: 経過の見通し
+06_revisit_timing.png: 再診の目安
+07_daily_life.png: 生活の注意
+08_four_questions.png: 4つを持つ
+09_one_memo.png: メモ1枚で
+10_series_closing.png: 安心して帰れる
+11_follow_cta.png: 次の検査にも
