@@ -20,13 +20,17 @@ ANRYCAMPANYの制作データ本体です。作業場所は `F:\ANRYCAMPANY` で
 
 ## 制作素材を探すとき
 
-- CTリール素材: `reel_assets\ct_*`
+- 検査後シリーズ素材: `reel_assets\result_wait_series`
+- MRIリール素材: `reel_assets\mri_series`
+- CTリール素材: `reel_assets\ct_series`
 - 共通エンドカード: `reel_assets\common`
+- 過去素材アーカイブ: `reel_assets\_archive_YYYYMMDD`
 - 使わない素材: `reel_assets\_不採用_今後使わない`
 
 ## 生成スクリプト
 
 CT動画などの生成スクリプトは `tools\ct_video_builders` にまとめました。
+検査後シリーズの生成スクリプトは `tools\result_wait_series` にまとめました。
 ルート直下には制作物の入口だけを残す方針です。
 
 ## バックアップ

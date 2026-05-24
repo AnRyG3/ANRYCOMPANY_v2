@@ -20,7 +20,7 @@
 ## 菫晏ｭ伜・
 
 ```text
-F:\ANRYCAMPANY\reel_assets\ct_mri_difference_v1\generated_backgrounds
+F:\ANRYCAMPANY\reel_assets\ct_series\ct_mri_difference_v1\generated_backgrounds
 ```
 
 ## 蛻ｶ菴懊Γ繝｢

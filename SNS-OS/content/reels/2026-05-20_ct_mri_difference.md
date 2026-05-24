@@ -13,7 +13,7 @@
 
 - 台本: `01_ショート動画_リール_YouTubeShorts/放射線技師の安心ラボ_制作工場/02_台本/2026-05-19_CTとMRIの違い_100点台本.md`
 - 書き出し候補: `reel_assets/capcut_exports/CTとMRI.mp4`
-- 画像素材: `reel_assets/ct_mri_difference_v1/`
+- 画像素材: `reel_assets/ct_series/ct_mri_difference_v1/`
 - 制作用スクリプト: `tools/make_ct_mri_difference_telop_frames.py`
 
 ## 投稿メモ

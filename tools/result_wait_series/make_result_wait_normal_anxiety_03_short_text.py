@@ -4,7 +4,7 @@ from PIL import Image, ImageDraw, ImageFont
 
 
 ROOT = Path(r"F:\ANRYCAMPANY")
-BASE = ROOT / "reel_assets" / "result_wait_normal_anxiety_03_same_person"
+BASE = ROOT / "reel_assets" / "result_wait_series" / "03_normal_anxiety"
 SRC = BASE / "01_no_text"
 OUT = BASE / "03_short_text"
 STORYBOARD = BASE / "storyboard_short_text.png"

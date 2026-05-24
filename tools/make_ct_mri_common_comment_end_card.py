@@ -4,8 +4,8 @@ from PIL import Image, ImageDraw, ImageFont
 
 ROOT = Path(r"F:\ANRYCAMPANY")
 COMMON = ROOT / "reel_assets" / "common"
-OUT_VARIANTS = ROOT / "reel_assets" / "ct_mri_difference_v1" / "final_telop_variants"
-OUT_FRAMES = ROOT / "reel_assets" / "ct_mri_difference_v1" / "telop_frames"
+OUT_VARIANTS = ROOT / "reel_assets" / "ct_series" / "ct_mri_difference_v1" / "final_telop_variants"
+OUT_FRAMES = ROOT / "reel_assets" / "ct_series" / "ct_mri_difference_v1" / "telop_frames"
 
 W, H = 1080, 1920
 FONT_BOLD = r"C:\Windows\Fonts\YuGothB.ttc"

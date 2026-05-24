@@ -2,11 +2,11 @@
 
 ## 保存場所
 
-`reel_assets/mri_metal_projectile_v1/generated_backgrounds`
+`reel_assets/mri_series/mri_metal_projectile_v1/generated_backgrounds`
 
 テロップ入り完成フレーム:
 
-`reel_assets/mri_metal_projectile_v1/telop_frames`
+`reel_assets/mri_series/mri_metal_projectile_v1/telop_frames`
 
 ## 画像一覧
 

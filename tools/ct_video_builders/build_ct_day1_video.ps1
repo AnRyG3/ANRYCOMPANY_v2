@@ -2,8 +2,8 @@
 Add-Type -AssemblyName System.Drawing
 
 $Root = (Resolve-Path (Join-Path $PSScriptRoot "..\..")).Path
-$AssetDir = Join-Path $Root "reel_assets\ct_day1_images_v1"
-$OutDir = Join-Path $Root "reel_assets\ct_day1_video_v1"
+$AssetDir = Join-Path $Root "reel_assets\ct_series\ct_day1_images_v1"
+$OutDir = Join-Path $Root "reel_assets\ct_series\ct_day1_video_v1"
 $FrameDir = Join-Path $OutDir "frames"
 $AudioDir = Join-Path $OutDir "audio"
 $VideoDir = Join-Path $OutDir "video"

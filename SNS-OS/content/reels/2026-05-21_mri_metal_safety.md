@@ -12,8 +12,8 @@
 ## 実ファイル
 
 - 確定台本: `01_ショート動画_リール_YouTubeShorts/放射線技師の安心ラボ_制作工場/02_台本/2026-05-21_MRI室に金属を持ち込むと_確定台本.md`
-- 画像素材: `reel_assets/mri_metal_projectile_v1/telop_frames/`
-- 背景素材: `reel_assets/mri_metal_projectile_v1/generated_backgrounds/`
+- 画像素材: `reel_assets/mri_series/mri_metal_projectile_v1/telop_frames/`
+- 背景素材: `reel_assets/mri_series/mri_metal_projectile_v1/generated_backgrounds/`
 - 制作用スクリプト: `tools/make_mri_metal_projectile_telop_frames.py`
 
 ## 投稿メモ

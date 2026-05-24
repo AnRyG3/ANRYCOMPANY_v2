@@ -3,7 +3,7 @@ Add-Type -AssemblyName System.Drawing
 Add-Type -AssemblyName System.Speech
 
 $Root = (Resolve-Path (Join-Path $PSScriptRoot "..\..")).Path
-$OutDir = Join-Path $Root "reel_assets\ct_trilogy_3part"
+$OutDir = Join-Path $Root "reel_assets\ct_series\ct_trilogy_3part"
 $FrameDir = Join-Path $OutDir "frames"
 $AudioDir = Join-Path $OutDir "audio"
 $VideoDir = Join-Path $OutDir "videos"

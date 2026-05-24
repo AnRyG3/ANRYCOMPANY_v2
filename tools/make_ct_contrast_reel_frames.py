@@ -3,8 +3,8 @@ from PIL import Image, ImageDraw, ImageFont, ImageFilter
 
 
 ROOT = Path(r"F:\ANRYCAMPANY")
-BG = ROOT / "reel_assets" / "ct_contrast_v1" / "generated_backgrounds"
-OUT = ROOT / "reel_assets" / "ct_contrast_v1" / "frames_05_short_120ten"
+BG = ROOT / "reel_assets" / "ct_series" / "ct_contrast_v1" / "generated_backgrounds"
+OUT = ROOT / "reel_assets" / "ct_series" / "ct_contrast_v1" / "frames_05_short_120ten"
 
 W, H = 1080, 1920
 NAVY = (5, 28, 76, 245)

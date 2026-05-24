@@ -11,7 +11,7 @@ STORYBOARD = OUT / "storyboard_photo_sources.png"
 W, H = 1080, 1920
 
 CONSULT = ROOT / "codex_generated_images" / "019e5088-44b1-7801-a0b7-7413bae5eaf7" / "ig_0cf8f13b3253eea2016a108a6c01708191be5b139936913990.png"
-WAIT_ROOT = ROOT / "reel_assets" / "result_wait_mri_ct_01_sources"
+WAIT_ROOT = ROOT / "reel_assets" / "result_wait_series" / "01_result_wait_mri_ct" / "sources"
 
 
 def cover(img: Image.Image, zoom: float = 1.0, x_bias: float = 0.5, y_bias: float = 0.5) -> Image.Image:

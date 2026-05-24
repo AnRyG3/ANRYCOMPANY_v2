@@ -5,8 +5,8 @@ from PIL import Image, ImageDraw, ImageFilter, ImageFont
 
 
 ROOT = Path(r"F:\ANRYCAMPANY")
-BG = ROOT / "reel_assets" / "mri_noise_reason_v1" / "generated_backgrounds"
-OUT = ROOT / "reel_assets" / "mri_noise_reason_v1" / "telop_frames"
+BG = ROOT / "reel_assets" / "mri_series" / "mri_noise_reason_v1" / "generated_backgrounds"
+OUT = ROOT / "reel_assets" / "mri_series" / "mri_noise_reason_v1" / "telop_frames"
 COMMON_CTA = ROOT / "reel_assets" / "common" / "reel_end_card_share.png"
 
 W, H = 1080, 1920
