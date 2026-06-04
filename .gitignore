@@ -17,6 +17,7 @@ Thumbs.db
 tools/runtime/
 tools/ffmpeg/
 tools/n8n-local/
+tools/spreadsheet_work/
 tools/**/node_modules/
 
 # Generated image archives
