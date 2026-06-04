@@ -34,3 +34,37 @@ reel_assets/capcut_exports/
 
 # Local archives
 reel_assets/_archive_*/
+
+# Local app / vault metadata
+ANRYCAMPANY/.obsidian/
+ANRYCAMPANY/.claudian/
+.obsidian/
+.claudian/
+
+# Generated LINE stamp working assets
+**/生成素材/
+**/LINE提出用/
+**/再設計*/
+**/preview_*.png
+
+# Generated media / intermediate assets
+**/frames/
+**/tmp/
+**/temp/
+**/outputs/
+**/*_chroma.png
+**/*_transparent.png
+**/*_LINE_370x320.png
+
+# Additional local work outputs
+**/main_240x240.png
+**/tab_96x74.png
+**/240x240.png
+**/96x74.png
+SNS-OS/analytics/raw-exports/
+SNS-OS/analytics/reports/
+SNS-OS/analytics/public-research/
+**/Instagram_*/
+**/YouTube_*/
+**/BGM*/
+**/images/

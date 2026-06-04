@@ -1,0 +1,128 @@
+[
+  {
+    "index": 1,
+    "file": "01_opening.png",
+    "background": "01_morning_bag_check.png",
+    "main": [
+      "検査当日の朝って",
+      "バタバタしますよね"
+    ],
+    "items": null
+  },
+  {
+    "index": 2,
+    "file": "02_are_motta.png",
+    "background": "01_morning_bag_check.png",
+    "main": [
+      "「あれ、持ったっけ？」",
+      "ってなりがちです"
+    ],
+    "items": null
+  },
+  {
+    "index": 3,
+    "file": "03_check_before_go.png",
+    "background": "02_basic_items_into_bag.png",
+    "main": [
+      "出発前に",
+      "これだけ確認"
+    ],
+    "items": null
+  },
+  {
+    "index": 4,
+    "file": "04_basic_items.png",
+    "background": "02_basic_items_into_bag.png",
+    "main": [
+      "基本の持ち物"
+    ],
+    "items": [
+      "診察券",
+      "予約票",
+      "保険証・マイナカード"
+    ]
+  },
+  {
+    "index": 5,
+    "file": "05_referral.png",
+    "background": "02_basic_items_into_bag.png",
+    "main": [
+      "紹介状がある方は",
+      "一緒に持参"
+    ],
+    "items": null
+  },
+  {
+    "index": 6,
+    "file": "06_medicine_notebook.png",
+    "background": "03_medicine_notebook.png",
+    "main": [
+      "お薬手帳も",
+      "あると安心"
+    ],
+    "items": null
+  },
+  {
+    "index": 7,
+    "file": "07_metal_patch_warmer.png",
+    "background": "04_metal_patch_warmer_check.png",
+    "main": [
+      "検査によって確認"
+    ],
+    "items": [
+      "金属類",
+      "湿布",
+      "カイロ"
+    ]
+  },
+  {
+    "index": 8,
+    "file": "08_mri_metal.png",
+    "background": "05_reception_metal_check.png",
+    "main": [
+      "MRI検査の方は",
+      "金属類を確認"
+    ],
+    "items": null
+  },
+  {
+    "index": 9,
+    "file": "09_ask_staff.png",
+    "background": "06_ask_staff.png",
+    "main": [
+      "迷ったら",
+      "遠慮なく聞いて大丈夫"
+    ],
+    "items": null
+  },
+  {
+    "index": 10,
+    "file": "10_staff_confirm.png",
+    "background": "06_ask_staff.png",
+    "main": [
+      "安心して受けられるよう",
+      "一緒に確認します"
+    ],
+    "items": null
+  },
+  {
+    "index": 11,
+    "file": "11_save_cta.png",
+    "background": "07_ready_to_leave.png",
+    "main": [
+      "あとで見返せるように",
+      "保存しておいてください"
+    ],
+    "items": null
+  },
+  {
+    "index": 12,
+    "file": "12_next_episode.png",
+    "background": "07_ready_to_leave.png",
+    "main": [
+      "次回",
+      "検査着に着替える理由"
+    ],
+    "items": null
+  }
+]
