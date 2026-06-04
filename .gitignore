@@ -16,6 +16,7 @@ Thumbs.db
 # Dependency / runtime
 tools/runtime/
 tools/ffmpeg/
+tools/n8n-local/
 tools/**/node_modules/
 
 # Generated image archives
@@ -31,6 +32,11 @@ reel_assets/_generated_archive/
 
 # CapCut exports
 reel_assets/capcut_exports/
+reel_assets/echo_series/
+reel_assets/mammography_series/
+reel_assets/pre_exam_series/
+reel_assets/result_wait_series/
+reel_assets/hatch_pet_anry_chihuahua/
 
 # Local archives
 reel_assets/_archive_*/
@@ -68,3 +74,8 @@ SNS-OS/analytics/public-research/
 **/YouTube_*/
 **/BGM*/
 **/images/
+
+# Local completed archives / visual QA copies
+**/*contact_sheet*.png
+02_LINEスタンプ/LINEスタンプ完成形/
+02_LINEスタンプ/あんりぃ_LINEスタンプ制作工場/04_完成画像/夏を感じるスタンプ_あんりぃ40/

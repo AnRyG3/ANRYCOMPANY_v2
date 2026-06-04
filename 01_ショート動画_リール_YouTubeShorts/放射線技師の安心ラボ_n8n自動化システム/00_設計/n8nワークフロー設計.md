@@ -126,6 +126,12 @@ Instagram、TikTok、YouTubeの分析値取得は、公式APIや連携サービ�
 
 最初は手入力でもよい。n8nは手入力された数値をもとに成功分析を自動化する。
 
+### Metricool MCP
+
+InstagramとYouTubeはMetricoolへ接続済み。分析班はMetricool MCPをn8nへ接続し、週次指標の取得元として使用する。
+
+設定手順: `09_分析/Metricool_MCP_n8n接続手順.md`
+
 ## 6. 成功分析システム
 
 ### 抽出条件
@@ -144,4 +150,3 @@ flowchart TD
     C --> E["Notion: バズ構成保存"]
     C --> F["次回ネタ候補を生成"]
 ```
-

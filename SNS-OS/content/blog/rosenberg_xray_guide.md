@@ -3,10 +3,11 @@
 ## 管理情報
 
 - content_id: BLOG-ROSENBERG-XRAY
-- status: draft
+- status: published
 - platform: blog
 - theme: 膝関節X線
 - target: 診療放射線技師 / 整形撮影を学ぶ人
+- published_url: https://xray-positioning-note.hatenablog.com/entry/2026/06/03/205747
 
 ## 実ファイル
 
@@ -16,5 +17,6 @@
 
 ## 展開メモ
 
-ブログ公開後、15秒リール台本部分をショート動画へ横展開する。
+ブログ公開済み: https://xray-positioning-note.hatenablog.com/entry/2026/06/03/205747
+15秒リール台本部分をショート動画へ横展開する。
 検索タイトル候補は本文内の「Google検索を意識したタイトル案」を使用する。
