@@ -1,4 +1,4 @@
-from pathlib import Path
+﻿from pathlib import Path
 
 from PIL import Image, ImageDraw, ImageFont
 
@@ -58,7 +58,7 @@ def make_guide(img: Image.Image, text: str) -> Image.Image:
     overlay = Image.new("RGBA", (W, H), (0, 0, 0, 0))
     draw = ImageDraw.Draw(overlay)
 
-    # Instagram UI and CapCut subtitle safe zone: avoid the extreme top/bottom/right.
+    # Instagram UI and subtitle safe zone: avoid the extreme top/bottom/right.
     x1, y1, x2, y2 = 115, 1040, 965, 1510
     draw.rounded_rectangle((x1, y1, x2, y2), radius=34, fill=(8, 28, 44, 164), outline=(255, 255, 255, 210), width=4)
     draw.text((W // 2, y1 + 42), "テロップ安全域", font=font(34), fill=(255, 255, 255, 238), anchor="mm")
@@ -107,3 +107,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+

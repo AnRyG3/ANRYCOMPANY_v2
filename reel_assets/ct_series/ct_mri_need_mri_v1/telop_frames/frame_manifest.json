@@ -1,0 +1,23 @@
+{
+  "title": "CTを撮ったのに、なぜMRIも必要なの？",
+  "asset_dir": "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_mri_need_mri_v1",
+  "telop_frames": [
+    "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_mri_need_mri_v1\\telop_frames\\01_ct_mri_intro_telop.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_mri_need_mri_v1\\telop_frames\\02_question_corridor_patient_telop.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_mri_need_mri_v1\\telop_frames\\03_ct_mri_difference_telop.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_mri_need_mri_v1\\telop_frames\\04_ct_room_telop.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_mri_need_mri_v1\\telop_frames\\05_contrast_ct_telop.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_mri_need_mri_v1\\telop_frames\\06_mri_room_telop.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_mri_need_mri_v1\\telop_frames\\07_ct_overview_telop.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_mri_need_mri_v1\\telop_frames\\08_mri_detail_telop.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_mri_need_mri_v1\\telop_frames\\09_waiting_anxiety_patient_telop.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_mri_need_mri_v1\\telop_frames\\10_consultation_patient_rttech_telop.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_mri_need_mri_v1\\telop_frames\\11_fixed_message_telop.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_mri_need_mri_v1\\telop_frames\\12_save_cta.png"
+  ],
+  "contact_sheet": "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_mri_need_mri_v1\\_contact_sheet_telop_frames.png",
+  "size": {
+    "width": 1080,
+    "height": 1920
+  }
+}

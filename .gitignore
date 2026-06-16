@@ -69,6 +69,7 @@ ANRYCAMPANY/.claudian/
 **/240x240.png
 **/96x74.png
 SNS-OS/analytics/raw-exports/
+SNS-OS/analytics/raw/
 SNS-OS/analytics/reports/
 SNS-OS/analytics/public-research/
 **/Instagram_*/
@@ -78,5 +79,17 @@ SNS-OS/analytics/public-research/
 
 # Local completed archives / visual QA copies
 **/*contact_sheet*.png
+
+# Generated reel working assets
+reel_assets/bone_density_series/
+**/_video_work/
+**/_video_work_*/
+**/audio/
+**/audio_*/
+**/background_frames/
+**/final_text_frames/
+**/final_text_frames_*/
+**/generated_backgrounds/
+**/sample_review_frames/
 02_LINEスタンプ/LINEスタンプ完成形/
 02_LINEスタンプ/あんりぃ_LINEスタンプ制作工場/04_完成画像/夏を感じるスタンプ_あんりぃ40/

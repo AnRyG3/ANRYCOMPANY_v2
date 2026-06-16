@@ -1,4 +1,4 @@
-import csv
+﻿import csv
 import json
 from pathlib import Path
 
@@ -52,7 +52,7 @@ def build_pipeline_report(config, ideas, ranked_posts):
         lines.append(f"- コメント誘導: {script['comment_cta']}")
         lines.append(f"- Geminiプロンプト: {image['gemini_prompt']}")
         lines.append(f"- サムネ案: {image['thumbnail']}")
-        lines.append(f"- CapCut方針: {', '.join(video['capcut_flow'])}")
+        lines.append(f"- 動画生成方針: {', '.join(video['video_generation_flow'])}")
         lines.append("")
 
     lines.append("## 投稿管理 → 数値回収 → 学習 → 改善提案\n")
@@ -113,3 +113,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+

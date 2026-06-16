@@ -170,7 +170,7 @@ def post_json(path, params=None, payload=None):
 
 def synthesize_voice(text, out):
     query = json.loads(post_json("/audio_query", {"text": text, "speaker": SPEAKER}))
-    query["speedScale"] = 1.10
+    query["speedScale"] = 1.20
     query["pitchScale"] = 0.0
     query["intonationScale"] = 1.0
     query["volumeScale"] = 1.0

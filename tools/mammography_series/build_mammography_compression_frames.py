@@ -17,13 +17,13 @@ TEXTS = [
     ["マンモで", "どうして圧迫するの？"],
     ["痛そうで", "不安になりますよね"],
     ["圧迫には", "大切な理由があります"],
-    ["乳房を薄く広げると"],
+    ["技師が手で", "乳腺の重なりを広げます"],
+    ["平らに整えてから", "圧迫します"],
     ["乳腺の重なりが", "少なくなります"],
-    ["小さな変化を", "見つけやすくするためです"],
+    ["乳房の中の変化を", "見つけやすくするためです"],
     ["動きを抑えて", "画像のぶれも減らします"],
     ["被ばくを減らすことにも", "つながります"],
     ["つらいときは", "我慢せず伝えてください"],
-    ["理由を知ると", "少し安心につながります"],
     ["検査前の不安を", "安心に変える情報を発信中"],
 ]
 
@@ -31,7 +31,8 @@ BG_FILES = [
     BG_DIR / "01_exam_room.png",
     BG_DIR / "02_explanation_v2.png",
     BG_DIR / "01_exam_room.png",
-    BG_DIR / "03_less_overlap.png",
+    BG_DIR / "02_explanation_v2.png",
+    BG_DIR / "01_exam_room.png",
     BG_DIR / "03_less_overlap.png",
     BG_DIR / "04_less_blur.png",
     BG_DIR / "04_less_blur.png",
@@ -121,6 +122,28 @@ def draw_center_text(im, lines, index):
             stroke_fill=(255, 255, 255, 255),
         )
         yy += height + line_gap
+
+    badge_text = "マンモ認定技師監修"
+    badge_font = choose_font(38)
+    badge_bbox = draw.textbbox((0, 0), badge_text, font=badge_font, stroke_width=1)
+    badge_w = badge_bbox[2] - badge_bbox[0]
+    badge_h = badge_bbox[3] - badge_bbox[1]
+    badge_pad_x, badge_pad_y = 28, 16
+    badge_box = (
+        SIZE[0] - badge_w - badge_pad_x * 2 - 48,
+        116,
+        SIZE[0] - 48,
+        116 + badge_h + badge_pad_y * 2,
+    )
+    draw.rounded_rectangle(badge_box, radius=24, fill=(255, 255, 255, 220))
+    draw.text(
+        (badge_box[0] + badge_pad_x, badge_box[1] + badge_pad_y),
+        badge_text,
+        font=badge_font,
+        fill=(18, 58, 88, 255),
+        stroke_width=1,
+        stroke_fill=(255, 255, 255, 255),
+    )
     return im
 
 

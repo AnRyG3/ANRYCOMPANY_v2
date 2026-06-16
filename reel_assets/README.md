@@ -1,4 +1,4 @@
-# reel_assets 案内
+﻿# reel_assets 案内
 
 動画制作に使う画像、音声、確認用出力をシリーズ別に保管する。
 
@@ -18,7 +18,6 @@
 | フォルダ | 内容 |
 |---|---|
 | `common` | 固定エンドカードなどの共通素材 |
-| `capcut_exports` | CapCut書き出し |
 | `hatch_pet_anry_chihuahua` | キャラクター素材 |
 
 ## 過去素材

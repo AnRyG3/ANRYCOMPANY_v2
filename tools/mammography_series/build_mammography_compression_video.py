@@ -23,13 +23,13 @@ NARRATION = [
     "マンモで、どうして圧迫するの。",
     "痛そうで、不安になりますよね。",
     "圧迫には、大切な理由があります。",
-    "乳房を、薄く広げると。",
-    "乳腺の、かさなりが、少なくなります。",
-    "小さな変化を、見つけやすくするためです。",
+    "技師が手で、乳腺のかさなりを広げます。",
+    "にゅうぼうを平らに整えてから、圧迫します。",
+    "これにより、乳腺の、かさなりが減ります。",
+    "にゅうぼうの中の変化を、見つけやすくするためです。",
     "動きを抑えて、画像のぶれも減らします。",
     "被ばくを減らすことにも、つながります。",
     "つらいときは、我慢せず伝えてください。",
-    "理由を知ると、少し安心につながります。",
     "検査前の不安を、安心に変える情報を、発信中。",
     "マンモ検査の前に、見返せるように、保存してください。",
 ]
@@ -67,7 +67,7 @@ def soften_question_ending(query):
 
 def synthesize_voice(text, out, soften_question=False):
     query = json.loads(post_json("/audio_query", {"text": text, "speaker": SPEAKER}))
-    query["speedScale"] = 1.10
+    query["speedScale"] = 1.20
     query["pitchScale"] = 0.0
     query["intonationScale"] = 1.0
     query["volumeScale"] = 1.0

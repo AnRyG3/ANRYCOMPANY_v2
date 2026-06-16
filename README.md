@@ -9,7 +9,7 @@ ANRYCAMPANYの制作データ本体です。作業場所は `F:\ANRYCAMPANY` で
 - `01_ショート動画_リール_YouTubeShorts` : 投稿企画、完成形、リール制作単位の資料
 - `02_LINEスタンプ` : LINEスタンプ制作データ、提出用素材
 - `03_ブログ` : ブログ用の原稿や素材
-- `reel_assets` : 動画生成用の画像、音声、CapCut出力、共通素材。詳しくは `reel_assets\README.md`
+- `reel_assets` : 動画生成用の画像、音声、共通素材。詳しくは `reel_assets\README.md`
 - `SNS-OS` : SNS運用、分析、投稿管理の仕組み
 - `tools` : 生成・変換・整理に使うスクリプトや外部ツール。詳しくは `tools\README.md`
 - `codex_generated_images` : 生成画像の一時保管。通常は直接編集しない
@@ -17,7 +17,6 @@ ANRYCAMPANYの制作データ本体です。作業場所は `F:\ANRYCAMPANY` で
 ## 完成品を探すとき
 
 - InstagramやYouTube Shorts用の完成動画: `01_ショート動画_リール_YouTubeShorts\インスタ完成形`
-- CapCutから書き出した動画: `reel_assets\capcut_exports`
 - LINEスタンプ提出用: `02_LINEスタンプ\LINEスタンプ完成形`
 
 ## 制作素材を探すとき

@@ -1,4 +1,4 @@
-# 放射線技師の安心ラボ n8nコンテンツ制作自動化システム
+﻿# 放射線技師の安心ラボ n8nコンテンツ制作自動化システム
 
 ## 目的
 
@@ -51,8 +51,6 @@ flowchart TD
     F --> J["Google Docs: ブログ下書き"]
     G --> K["画像プロンプト保存"]
     H --> L["画像フォルダ保存"]
-    I --> M["Vrew / VOICEVOX: 音声・字幕"]
-    M --> N["CapCut: 動画編集"]
     N --> O["投稿予約管理"]
     O --> P["Instagram / TikTok / YouTube Shorts"]
     P --> Q["投稿分析"]

@@ -1,0 +1,90 @@
+filters:
+  and:
+    - file.inFolder("06_アイデア")
+    - file.ext == "md"
+    - type == "idea"
+    - status != "投稿済み"
+    - status != "予約済み"
+    - status != "完成済み"
+formulas:
+  days_since_updated: (now() - file.mtime).days.round(0)
+properties:
+  medium:
+    displayName: 媒体
+  category:
+    displayName: 分類
+  series:
+    displayName: シリーズ
+  priority:
+    displayName: 優先度
+  status:
+    displayName: 状態
+  next_action:
+    displayName: 次の行動
+  formula.days_since_updated:
+    displayName: 更新からの日数
+  file.mtime:
+    displayName: 更新日
+views:
+  - type: table
+    name: 未制作アイデア
+    groupBy:
+      property: category
+      direction: ASC
+    order:
+      - file.name
+      - medium
+      - series
+      - priority
+      - status
+      - next_action
+      - file.mtime
+  - type: table
+    name: ショート・長尺動画
+    filters:
+      or:
+        - medium == "ショート動画"
+        - medium == "長尺動画"
+    groupBy:
+      property: series
+      direction: ASC
+    order:
+      - file.name
+      - priority
+      - status
+      - next_action
+      - formula.days_since_updated
+  - type: table
+    name: LINEスタンプ
+    filters:
+      or:
+        - medium == "LINEスタンプ"
+        - category == "LINEスタンプ"
+    order:
+      - file.name
+      - series
+      - priority
+      - status
+      - next_action
+  - type: table
+    name: ブログ
+    filters:
+      and:
+        - medium == "ブログ"
+    groupBy:
+      property: priority
+      direction: ASC
+    order:
+      - file.name
+      - series
+      - priority
+      - status
+      - next_action
+  - type: cards
+    name: カード
+    order:
+      - file.name
+      - medium
+      - series
+      - priority
+      - next_action

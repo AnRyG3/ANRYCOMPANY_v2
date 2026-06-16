@@ -1,4 +1,4 @@
-# テーマ起点コンテンツ生成フロー
+﻿# テーマ起点コンテンツ生成フロー
 
 ## 全体フロー
 
@@ -37,8 +37,6 @@ flowchart TD
     A["Webhook / Manual Trigger: テーマ入力"] --> B["ChatGPT: 台本作成"]
     B --> C["Gemini / ImageFX: 画像生成プロンプト"]
     C --> D["画像生成AI: 素材作成"]
-    D --> E["Vrew / VOICEVOX: 音声・字幕"]
-    E --> F["CapCut: 動画生成"]
     F --> G["投稿予約"]
     G --> H["KPI入力 / API取得"]
     H --> I["learning_loop.py: 分析"]
