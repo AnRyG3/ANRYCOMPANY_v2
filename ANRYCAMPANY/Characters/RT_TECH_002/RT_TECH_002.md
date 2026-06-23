@@ -61,3 +61,36 @@
 ## 生成用プロンプト要約
 
 Japanese female diagnostic radiologic technologist, age 31, photorealistic medical advertising photography, natural beauty, soft facial features, warm smile, large kind eyes, approachable and reassuring presence, dark brown hair tied back in a low ponytail, navy blue medical scrubs, hospital ID badge without readable text, clean hospital environment, patient-friendly, trustworthy, comforting, character consistency critical, fictional person, not based on any real person or celebrity.
+
+## Readable Canonical Spec
+
+This English section is canonical for Codex and image generation. Use it when older Japanese text or terminal output appears garbled.
+
+| Field | Canonical value |
+| --- | --- |
+| Character ID | RT_TECH_002 |
+| Role | Diagnostic radiologic technologist |
+| Japanese role name for new text | 診療放射線技師 |
+| Age | 31 |
+| Gender | Female |
+| Hair | Dark brown hair tied back in a low ponytail |
+| Face | Warm Japanese female face, soft features, large kind eyes, reassuring smile |
+| Clothing | Navy blue medical scrubs, white shoes, hospital ID badge without readable text |
+| Role in scenes | Secondary/support diagnostic radiologic technologist character for X-ray, CT, MRI, and patient reassurance scenes |
+| Typical locations | Radiology rooms, control rooms, examination rooms, hospital corridors |
+
+### Keep
+
+- Keep the same face identity, low ponytail, navy scrubs, white shoes, and calm professional mood.
+- Keep the character approachable, trustworthy, and comforting.
+- Use realistic radiology rooms, control rooms, examination rooms, or hospital corridors.
+
+### Avoid
+
+- Do not write the shortened 5-kanji job title in new Japanese text; use `診療放射線技師`.
+- Do not use heavy makeup, gold hair, anime style, model-like styling, fear-heavy expressions, readable names, logos, or ID badge text.
+- Do not turn this character into a nurse, doctor, or patient.
+
+### Generation Prompt Summary
+
+Japanese female diagnostic radiologic technologist, age 31, photorealistic clinical photography, warm reassuring Japanese face, soft features, large kind eyes, gentle smile, dark brown low ponytail, navy blue medical scrubs, white shoes, hospital ID badge without readable text, realistic radiology room, trustworthy and patient-friendly, fictional person, not based on any real person or celebrity, character consistency critical.

@@ -77,6 +77,7 @@ User-facing Obsidian notes, scripts, captions, and deliverables should stay in J
 - Keep updates concise and non-technical unless technical detail is needed.
 - Report what changed, where it changed, and any checks that were run.
 - If something cannot be verified, say that directly.
+- In future hashtag suggestions and posting metadata, do not include #ANRYCAMPANY.
 
 ## Stable Memory
 

@@ -68,3 +68,35 @@
 ## 生成用プロンプト要約
 
 Japanese male physician, age 40-45, photorealistic medical advertising photography, intelligent appearance, warm and trustworthy smile, professional and confident, healthy appearance, short black hair, neat and professional, average build, white coat, light blue dress shirt, dark trousers, hospital ID badge without readable text, calm, knowledgeable, kind, reassuring, explains diagnosis and recommends examinations, works together with RT_TECH_001, looks like a real hospital physician, fictional person, not based on any real person or celebrity.
+
+## Readable Canonical Spec
+
+This English section is canonical for Codex and image generation. Use it when older Japanese text or terminal output appears garbled.
+
+| Field | Canonical value |
+| --- | --- |
+| Character ID | DOCTOR_001 |
+| Role | Physician |
+| Age range | 40-45 |
+| Gender | Male |
+| Body type | Average build |
+| Hair | Short black hair, neat and professional |
+| Face | Japanese male physician, intelligent, warm, trustworthy, calm |
+| Clothing | White coat, light blue dress shirt, dark trousers, hospital ID badge without readable text |
+| Role in scenes | Explains diagnosis, answers patient questions, recommends or explains examinations, supports decision-making |
+| Works with | RT_TECH_001, RT_TECH_002, NURSE_001 |
+
+### Keep
+
+- Keep the same face identity, age range, short black hair, white coat, light blue shirt, and calm professional mood.
+- Keep explanations kind, concise, and reassuring.
+- Use realistic hospital consultation rooms, corridors, or explanation scenes.
+
+### Avoid
+
+- Do not use flashy hair, heavy cosmetic retouching, anime style, fear-heavy expressions, readable names, logos, or ID badge text.
+- Do not turn this character into a nurse, patient, or diagnostic radiologic technologist.
+
+### Generation Prompt Summary
+
+Japanese male physician, age 40-45, photorealistic hospital photography, intelligent warm trustworthy face, calm expression, short neat black hair, average build, white coat, light blue dress shirt, dark trousers, hospital ID badge without readable text, realistic consultation room or hospital corridor, fictional person, not based on any real person or celebrity, character consistency critical.

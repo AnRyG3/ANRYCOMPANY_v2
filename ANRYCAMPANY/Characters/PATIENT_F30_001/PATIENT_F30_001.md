@@ -77,3 +77,40 @@
 ## 生成用プロンプト要約
 
 Japanese female general patient, age 32-38, photorealistic natural lighting, natural Japanese beauty, mature and approachable, elegant but relatable, looks like a working professional or mother, balanced facial proportions, slightly oval face, warm expressive eyes, natural smile, soft feminine facial features, friendly intelligent appearance, light brown long natural hair, healthy average build with good style, casual modern clothing in soft neutral colors, white blouse, beige pants, pure white background, full-body character consistency, fictional person, not based on any real person or celebrity.
+
+## Readable Canonical Spec
+
+This English section is canonical for Codex and image generation. Use it when older Japanese text or terminal output appears garbled.
+
+| Field | Canonical value |
+| --- | --- |
+| Character ID | PATIENT_F30_001 |
+| Role | General patient |
+| Age range | 32-38 |
+| Gender | Female |
+| Body type | Healthy average build with good style; not an exaggerated model body |
+| Hair | Light brown long natural hair |
+| Face | Mature approachable Japanese woman, balanced facial proportions, slightly oval face, warm expressive eyes, natural smile, soft feminine features |
+| Personality | Warm, realistic, confident, relatable, easy to empathize with |
+| Default clothing | Soft neutral modern casual clothing; white blouse, beige pants, natural-color shoes; not medical staff clothing |
+| Approved corridor clothing variant for breath-hold X-ray video | White draped sleeveless/off-shoulder style top and black pants |
+| Exam-room clothing variant | Simple pale medical examination gown only when explicitly in an exam-room scene |
+| Typical scenes | CT, MRI, X-ray, and health screening explanation scenes |
+
+### Keep
+
+- Keep the same face identity, age range, light brown long hair, healthy average build, and approachable patient feeling.
+- Keep the patient as an ordinary person, not a healthcare worker.
+- Use examination gown only in exam-room scenes when explicitly needed.
+- Use the approved white draped top and black pants for the breath-hold X-ray corridor scenes.
+- Keep anxiety mild and realistic, not exaggerated.
+
+### Avoid
+
+- Do not put this character in scrubs, white coat, nurse uniform, ID badge, or medical staff clothing.
+- Do not use heavy makeup, gold hair, anime style, model-like glamour, beauty-ad styling, readable names, logos, or patient identifiers.
+- Do not change face, age, hairstyle, body type, or clothing rules without explicit approval.
+
+### Generation Prompt Summary
+
+Japanese female general patient, age 32-38, photorealistic natural lighting, natural Japanese beauty, mature and approachable, elegant but relatable, working professional or mother-like atmosphere, balanced facial proportions, slightly oval face, warm expressive eyes, natural smile, soft feminine features, friendly intelligent appearance, light brown long natural hair, healthy average build with good style, casual modern clothing in soft neutral colors, fictional person, not based on any real person or celebrity, character consistency critical.

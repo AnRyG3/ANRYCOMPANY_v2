@@ -72,3 +72,36 @@
 ## 生成用プロンプト要約
 
 Japanese female registered nurse, age 28-34, photorealistic medical advertising photography, warm approachable smile, beautiful but realistic, natural beauty, soft rounded facial features, gentle jawline, friendly eyes, kind expression, dark brown hair neatly tied in a professional low bun, healthy average build, modern pastel blue nurse scrubs, hospital ID badge without readable text, patient support, examination preparation guidance, patient reassurance, works alongside RT_TECH_001 and DOCTOR_001, pure white background, full-body character consistency, fictional person, not based on any real person or celebrity.
+
+## Readable Canonical Spec
+
+This English section is canonical for Codex and image generation. Use it when older Japanese text or terminal output appears garbled.
+
+| Field | Canonical value |
+| --- | --- |
+| Character ID | NURSE_001 |
+| Role | Nurse |
+| Age range | 28-34 |
+| Gender | Female |
+| Body type | Healthy average build |
+| Hair | Dark brown hair, neatly tied in a professional low bun |
+| Face | Warm Japanese female face, soft rounded features, gentle jawline, friendly eyes |
+| Clothing | Modern pastel blue nurse scrubs, white medical shoes, hospital ID badge without readable text |
+| Role in scenes | Patient support, examination preparation guidance, reassurance, calm explanations |
+| Works with | RT_TECH_001, RT_TECH_002, DOCTOR_001 |
+
+### Keep
+
+- Keep the same face identity, low bun hairstyle, pastel blue scrubs, white shoes, and warm expression.
+- Keep the mood reassuring, practical, and professional.
+- Use photorealistic medical photography.
+
+### Avoid
+
+- Do not use heavy makeup, gold hair, model-like styling, anime style, fear-heavy expressions, or dramatic poses.
+- Do not show readable names, logos, license numbers, or ID badge text.
+- Do not change this character into a doctor, patient, or diagnostic radiologic technologist.
+
+### Generation Prompt Summary
+
+Japanese female nurse, age 28-34, photorealistic medical photography, warm friendly Japanese face, soft rounded features, gentle jawline, friendly eyes, dark brown hair in a professional low bun, modern pastel blue nurse scrubs, white medical shoes, hospital ID badge without readable text, calm patient support scene, fictional person, not based on any real person or celebrity, character consistency critical.

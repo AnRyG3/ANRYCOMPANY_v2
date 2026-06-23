@@ -62,3 +62,37 @@
 ## 生成用プロンプト要約
 
 Japanese female diagnostic radiologic technologist, age 30, photorealistic medical advertising photography, natural beauty, gentle oval face, soft facial features, warm smile, large kind eyes, calm and reassuring presence, dark brown hair tied back in a low ponytail, navy blue medical scrubs, hospital ID badge without readable text, clean hospital environment, patient-friendly, trustworthy, comforting, character consistency critical, fictional person, not based on any real person or celebrity.
+
+## Readable Canonical Spec
+
+This English section is canonical for Codex and image generation. Use it when older Japanese text or terminal output appears garbled.
+
+| Field | Canonical value |
+| --- | --- |
+| Character ID | RT_TECH_001 |
+| Role | Diagnostic radiologic technologist |
+| Japanese role name for new text | 診療放射線技師 |
+| Age | 30 |
+| Gender | Female |
+| Hair | Dark brown hair tied back in a low ponytail |
+| Face | Japanese female, gentle oval face, soft facial features, large kind eyes, warm smile, natural beauty |
+| Clothing | Navy blue medical scrubs, white medical shoes, hospital ID badge without readable text |
+| Role in scenes | Main reassuring diagnostic radiologic technologist character for patient-friendly radiology explanations |
+| Typical locations | Radiography room, CT room, MRI room, hospital corridor, control room, consultation support scenes |
+
+### Keep
+
+- Keep the same face identity, age range, low ponytail, navy scrubs, white shoes, and calm professional mood.
+- Keep the character approachable, trustworthy, patient-friendly, and comforting.
+- Use photorealistic medical advertising photography and realistic clinical rooms.
+
+### Avoid
+
+- Do not write the shortened 5-kanji job title in new Japanese text; use `診療放射線技師`.
+- Do not use heavy makeup, gold hair, anime style, model-like styling, beauty-ad retouching, fear-heavy expressions, or intimidating poses.
+- Do not show readable hospital names, patient names, logos, qualification numbers, license numbers, or ID badge text.
+- Do not turn this character into a nurse, doctor, or patient.
+
+### Generation Prompt Summary
+
+Japanese female diagnostic radiologic technologist, age 30, photorealistic medical advertising photography, natural beauty, gentle oval face, soft facial features, warm smile, large kind eyes, calm and reassuring presence, dark brown hair tied back in a low ponytail, navy blue medical scrubs, white medical shoes, hospital ID badge without readable text, clean hospital environment, patient-friendly, trustworthy, comforting, fictional person, not based on any real person or celebrity, character consistency critical.

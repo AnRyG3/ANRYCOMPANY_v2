@@ -1,0 +1,39 @@
+{
+  "voice_engine": "VOICEVOX",
+  "speaker": 20,
+  "speed": 1.2,
+  "bgm": "F:\\ANRYCAMPANY\\01_ショート動画_リール_YouTubeShorts\\インスタリール用\\BGM フリー素材\\healing_wind.mp3",
+  "duration_sec": 58.605,
+  "frames": "F:\\ANRYCAMPANY\\reel_assets\\xray_ct_difference_series\\text_frames_v1",
+  "audio_mix": "F:\\ANRYCAMPANY\\reel_assets\\xray_ct_difference_series\\audio_v1\\voice_bgm_mix.wav",
+  "video": "F:\\ANRYCAMPANY\\reel_assets\\xray_ct_difference_series\\video_v1\\xray_ct_difference_20260621_v1.mp4",
+  "final_copy": "F:\\ANRYCAMPANY\\01_ショート動画_リール_YouTubeShorts\\インスタ完成形\\レントゲンとCTって何が違うの.mp4",
+  "narration": [
+    "レントゲンで異常なしなのに、なんでCTも撮るの。そう思ったことはありませんか。",
+    "同じ撮影なのに、何が違うのかわかりにくいですよね。",
+    "実は、レントゲンとCTは役割が違います。どちらが優れている、という話ではありません。",
+    "レントゲンは、撮影した範囲を平面的に見渡す検査です。",
+    "診療放射線技師や医師は、その一枚から多くの情報を確認します。",
+    "ただ、骨が重なって写る部分や、小さな変化は、見えにくいこともあります。",
+    "そんなときにCTを使います。体を輪切りにして、隠れた部分まで詳しく確認できます。",
+    "つまり、レントゲンは広く見る、CTは深く見る検査です。",
+    "必要に応じて段階を踏んでいるとわかると、少し安心できますよね。",
+    "レントゲンで異常なしと言われたときも、その一枚にはたくさんの情報があります。",
+    "検査前の不安を、安心に変える情報を発信中です。",
+    "保存して、あとで見返してください。"
+  ],
+  "frame_durations_sec": [
+    5.353,
+    3.806,
+    6.953,
+    4.062,
+    4.83,
+    5.513,
+    6.494,
+    4.574,
+    4.702,
+    5.022,
+    4.337,
+    2.961
+  ]
+}

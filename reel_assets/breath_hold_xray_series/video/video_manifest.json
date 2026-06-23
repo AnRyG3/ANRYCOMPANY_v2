@@ -1,0 +1,39 @@
+{
+  "voice_engine": "VOICEVOX",
+  "speaker": 20,
+  "speed": 1.2,
+  "bgm": "F:\\ANRYCAMPANY\\01_ショート動画_リール_YouTubeShorts\\インスタリール用\\BGM フリー素材\\healing_wind.mp3",
+  "duration_sec": 60.099,
+  "frames": "F:\\ANRYCAMPANY\\reel_assets\\breath_hold_xray_series\\text_frames",
+  "audio_mix": "F:\\ANRYCAMPANY\\reel_assets\\breath_hold_xray_series\\audio\\voice_bgm_mix.wav",
+  "video": "F:\\ANRYCAMPANY\\reel_assets\\breath_hold_xray_series\\video\\naze_iki_wo_sutte_tomeru_no_20260620.mp4",
+  "final_copy": "F:\\ANRYCAMPANY\\01_ショート動画_リール_YouTubeShorts\\インスタ完成形\\なぜ息を吸って止めるの.mp4",
+  "narration": [
+    "レントゲンの後、ちゃんと息を止められていたかな、と不安になったことはありませんか。",
+    "大丈夫です。息を止めるタイミングに不安を感じるかたは、とても多いです。",
+    "診療放射線技師は、画像がブレにくいタイミングを見ながら撮影しています。",
+    "吸って、と声をかけるのは、肺を大きく広げて、奥まで見えやすくするためです。",
+    "実は、患者さんの呼吸の動きも、ちゃんと見ています。",
+    "止めにくそうな時は、声をかける長さやタイミングを調整することもあります。",
+    "少しズレても、画像が大きくブレていなければ、問題ないことが多いです。",
+    "うまく止めようと力むより、リラックスして合図に合わせるほうが、きれいに撮れます。",
+    "ちゃんと見て撮ってくれている、とわかると、少し安心できますよね。",
+    "次に検査を受ける時は、止めなきゃではなく、吸って合図に合わせるだけで大丈夫、と思ってみてください。",
+    "検査前の不安を、安心に変える情報を発信中です。",
+    "保存して、検査前に見返してください。"
+  ],
+  "frame_durations_sec": [
+    5.417,
+    5.182,
+    4.99,
+    5.566,
+    4.03,
+    4.926,
+    5.043,
+    5.363,
+    4.926,
+    7.102,
+    4.337,
+    3.217
+  ]
+}

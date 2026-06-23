@@ -84,3 +84,37 @@
 ## 生成用プロンプト要約
 
 Japanese female general patient, age 52-58, photorealistic natural lighting, elegant sophisticated Japanese woman, healthy attractive appearance, confident and graceful, health-conscious professional or active adult, natural mature beauty, slightly longer oval face, well-defined facial structure, intelligent expressive eyes, natural smile, refined facial features, healthy natural aging, subtle smile lines, dark brown short bob, chin-length to jaw-length hair, healthy average build, modern neutral casual clothing, cardigan, white inner top, light gray pants, pure white background, represents women undergoing mammography, CT, MRI, bone density examinations, health screenings, and preventive healthcare, full-body character consistency, fictional person, not based on any real person or celebrity.
+
+## Readable Canonical Spec
+
+This English section is canonical for Codex and image generation. Use it when older Japanese text or terminal output appears garbled.
+
+| Field | Canonical value |
+| --- | --- |
+| Character ID | PATIENT_F50_001 |
+| Role | General patient |
+| Age range | 52-58 |
+| Gender | Female |
+| Body type | Healthy average build, active adult impression |
+| Hair | Dark brown short bob, chin-length to jaw-length, practical modern hairstyle |
+| Face | Elegant sophisticated Japanese woman, healthy natural aging, slightly longer oval face, defined facial structure, intelligent expressive eyes, natural smile, subtle smile lines |
+| Personality | Calm, confident, realistic, intelligent, approachable, health-conscious |
+| Default clothing | Modern neutral casual clothing; pale neutral cardigan, white inner top, light gray pants, comfortable shoes; not medical staff clothing |
+| Typical scenes | Mammography, CT, MRI, bone density examinations, health screening, and preventive healthcare scenes |
+
+### Keep
+
+- Keep the same face identity, age range, short bob, healthy average build, and mature approachable patient feeling.
+- Keep this character clearly in her 50s; not too young and not celebrity-like.
+- Keep the patient as an ordinary person, not a healthcare worker.
+- Keep anxiety mild and realistic, not exaggerated.
+
+### Avoid
+
+- Do not put this character in scrubs, white coat, nurse uniform, ID badge, or medical staff clothing.
+- Do not use heavy makeup, gold hair, anime style, model-like glamour, beauty-ad styling, readable names, logos, or patient identifiers.
+- Do not change face, age, hairstyle, body type, or clothing rules without explicit approval.
+
+### Generation Prompt Summary
+
+Japanese female general patient, age 52-58, photorealistic natural lighting, elegant sophisticated Japanese woman, healthy attractive appearance, confident and graceful, health-conscious professional or active adult, natural mature beauty, slightly longer oval face, well-defined facial structure, intelligent expressive eyes, natural smile, refined facial features, healthy natural aging, subtle smile lines, dark brown short bob, chin-length to jaw-length hair, healthy average build, modern neutral casual clothing, cardigan, white inner top, light gray pants, fictional person, not based on any real person or celebrity, character consistency critical.

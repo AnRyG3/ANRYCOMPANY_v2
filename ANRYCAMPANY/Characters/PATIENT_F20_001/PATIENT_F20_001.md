@@ -76,3 +76,38 @@
 ## 生成用プロンプト要約
 
 Japanese female general patient, age 22-28, photorealistic natural lifestyle photography, ordinary young adult, natural Japanese beauty, slightly oval small face, clear healthy skin, refined facial features, large natural eyes, straight delicate nose, gentle jawline, soft intelligent expression, dark brown medium-length natural hair, healthy average build, casual everyday clothing, simple white blouse, neutral beige pants, no uniform, slightly nervous but friendly and relatable, represents patients undergoing CT, MRI, X-ray, and health screening examinations, pure white background, full-body character consistency, fictional person, not based on any real person or celebrity.
+
+## Readable Canonical Spec
+
+This English section is canonical for Codex and image generation. Use it when older Japanese text or terminal output appears garbled.
+
+| Field | Canonical value |
+| --- | --- |
+| Character ID | PATIENT_F20_001 |
+| Role | General patient |
+| Age range | 22-28 |
+| Gender | Female |
+| Body type | Healthy average build |
+| Hair | Dark brown, medium-length, natural shoulder-length look with bangs |
+| Face | Natural Japanese young adult, slightly oval small face, clear healthy skin, refined features, large natural eyes, gentle jawline |
+| Personality | Friendly, relatable, slightly nervous about examinations, easy for patients to empathize with |
+| Default clothing | Casual everyday clothing, not medical clothing |
+| Approved clothing variant for chest X-ray abdominal pain video | Loose oversized white summer shirt, bright light blue wide-leg denim pants, simple casual sandals |
+| Typical scenes | CT, MRI, X-ray, and health screening explanation scenes |
+
+### Keep
+
+- Keep the same face identity, age range, hairstyle, body type, and approachable patient feeling.
+- Keep the patient as an ordinary person, not a healthcare worker.
+- Keep expressions mild and realistic; anxiety should be understandable but not excessive.
+- Use photorealistic natural lifestyle or clinical photography.
+
+### Avoid
+
+- Do not put this character in scrubs, white coat, nurse uniform, hospital gown, ID badge, or other medical staff clothing unless explicitly approved.
+- Do not make the face look like a fashion model, celebrity, anime character, or unrelated person.
+- Do not use heavy makeup, gold hair, dramatic fear, readable names, logos, or patient identifiers.
+
+### Generation Prompt Summary
+
+Japanese female general patient, age 22-28, photorealistic natural lighting, natural Japanese young adult, slightly oval small face, clear healthy skin, refined features, large natural eyes, gentle jawline, dark brown medium-length shoulder-length hair with bangs, healthy average build, casual everyday clothing, friendly relatable patient, fictional person, not based on any real person or celebrity, character consistency critical.
