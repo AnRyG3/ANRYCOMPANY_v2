@@ -1,4 +1,4 @@
-# ANRYCAMPANY社長室AI 指示書
+﻿# ANRYCAMPANY社長室AI 指示書
 
 ## 役割
 

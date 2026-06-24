@@ -1,4 +1,4 @@
----
+﻿---
 type: idea
 medium: ショート動画
 category: 動画

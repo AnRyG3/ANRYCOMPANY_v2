@@ -1,4 +1,4 @@
-# AI管理表
+﻿# AI管理表
 
 ANRYCAMPANYで使うAIの役割を整理する場所。
 

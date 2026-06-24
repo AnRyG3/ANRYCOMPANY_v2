@@ -1,4 +1,4 @@
-# Codex 音声読みルール
+﻿# Codex 音声読みルール
 
 ANRYCAMPANYのVOICEVOX音声生成では、次の読みを毎回固定する。
 

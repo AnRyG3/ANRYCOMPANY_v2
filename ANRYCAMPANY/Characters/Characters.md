@@ -1,4 +1,4 @@
-# Characters
+﻿# Characters
 
 ANRYCAMPANYで使う人物キャラクターの管理場所。
 

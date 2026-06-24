@@ -1,4 +1,4 @@
----
+﻿---
 type: idea
 medium: リサーチ
 category: LINEスタンプ

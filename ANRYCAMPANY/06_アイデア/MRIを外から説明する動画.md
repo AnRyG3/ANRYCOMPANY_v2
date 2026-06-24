@@ -1,4 +1,4 @@
----
+﻿---
 type: idea
 medium: 長尺動画
 category: 動画
