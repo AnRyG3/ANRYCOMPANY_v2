@@ -1,0 +1,53 @@
+﻿{
+  "title": "造影剤の副作用やアレルギーが怖い方へ",
+  "speaker": "VOICEVOX speaker id 20",
+  "voice_speed": 1.2,
+  "bgm": "F:\\ANRYCAMPANY\\01_ショート動画_リール_YouTubeShorts\\インスタリール用\\BGM フリー素材\\Kind_Heart.mp3",
+  "bgm_volume": "-23dB",
+  "frames": [
+    "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_contrast_side_effects_v1\\telop_frames\\s01_home_anxiety_telop.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_contrast_side_effects_v1\\telop_frames\\s02_reassurance_home_telop.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_contrast_side_effects_v1\\telop_frames\\s03_ct_room_overview_telop.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_contrast_side_effects_v1\\telop_frames\\s04_iv_preparation_telop.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_contrast_side_effects_v1\\telop_frames\\s05_staff_monitoring_patient_telop.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_contrast_side_effects_v1\\telop_frames\\s06_control_room_monitoring_telop.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_contrast_side_effects_v1\\telop_frames\\s07_pre_exam_interview_telop.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_contrast_side_effects_v1\\telop_frames\\s08_questionnaire_closeup_telop.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_contrast_side_effects_v1\\telop_frames\\s09_after_exam_phone_call_telop.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_contrast_side_effects_v1\\telop_frames\\s10_calm_after_understanding_telop.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_contrast_side_effects_v1\\telop_frames\\s11_pre_exam_staff_reassurance_telop.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_contrast_side_effects_v1\\telop_frames\\s12_cta_smartphone_telop.png"
+  ],
+  "narration": [
+    "造影剤の副作用やアレルギーが怖くて、検査が不安なかたへ。",
+    "怖いと感じるのは、おかしくありません。体に注射するものですから、不安になって当然です。",
+    "造影剤の副作用には、軽いものと、重いものがあります。",
+    "軽い副作用は、吐き気、かゆみ、ほっしんなどです。目安として、約百人に二人の割合で起こることがあります。",
+    "重い副作用は、呼吸困難、血圧低下などです。目安として、およそ二千五百人に一人の割合とされています。",
+    "可能性はゼロではありません。ただし、万が一に備えて、医療スタッフが検査中も検査後も対応できる体制を整えています。",
+    "以前に造影剤で気分が悪くなったことがあるかた、アレルギーやぜんそくがあるかたは、必ず事前にスタッフへ伝えてください。",
+    "検査前の問診票にある質問は、あなたのリスクを確認するためのものです。正確に答えることが安全につながります。",
+    "副作用は検査後、数時間から数日後に出ることもあります。気になる症状が出たら、検査を受けた医療機関へ連絡してください。",
+    "リスクを知った上で検査に臨むことが、一番安心につながります。",
+    "あなたの安全のために、医療スタッフは準備しています。",
+    "検査や健診の不安を減らす解説を続けています。保存とフォローで、次の投稿もお届けできます。"
+  ],
+  "durations_seconds": [
+    4.409,
+    6.511,
+    4.473,
+    8.036,
+    8.271,
+    8.516,
+    7.567,
+    7.855,
+    8.665,
+    4.527,
+    4.0,
+    6.66
+  ],
+  "total_seconds": 79.489,
+  "voice_audio": "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_contrast_side_effects_v1\\audio\\voice.wav",
+  "asset_video": "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_contrast_side_effects_v1\\造影剤の副作用やアレルギーが怖い方へ.mp4",
+  "final_video": "F:\\ANRYCAMPANY\\01_ショート動画_リール_YouTubeShorts\\インスタ完成形\\造影剤の副作用やアレルギーが怖い方へ.mp4"
+}

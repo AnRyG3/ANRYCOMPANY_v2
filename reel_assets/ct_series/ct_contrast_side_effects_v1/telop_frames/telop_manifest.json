@@ -1,0 +1,109 @@
+﻿{
+  "title": "造影剤の副作用やアレルギーが怖いのですが大丈夫？",
+  "size": {
+    "width": 1080,
+    "height": 1920
+  },
+  "style": "white rounded frame, navy bold key text",
+  "asset_dir": "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_contrast_side_effects_v1",
+  "output_dir": "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_contrast_side_effects_v1\\telop_frames",
+  "contact_sheet": "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_contrast_side_effects_v1\\contact_sheet_telop_frames.png",
+  "frames": [
+    {
+      "source": "sample_s01_home_anxiety.png",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_contrast_side_effects_v1\\telop_frames\\s01_home_anxiety_telop.png",
+      "telop": [
+        "造影剤が",
+        "怖い方へ"
+      ]
+    },
+    {
+      "source": "s02_reassurance_home.png",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_contrast_side_effects_v1\\telop_frames\\s02_reassurance_home_telop.png",
+      "telop": [
+        "不安になるのは",
+        "自然です"
+      ]
+    },
+    {
+      "source": "s03_ct_room_overview.png",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_contrast_side_effects_v1\\telop_frames\\s03_ct_room_overview_telop.png",
+      "telop": [
+        "副作用には",
+        "軽いものと重いもの"
+      ]
+    },
+    {
+      "source": "s04_iv_preparation.png",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_contrast_side_effects_v1\\telop_frames\\s04_iv_preparation_telop.png",
+      "telop": [
+        "軽い副作用",
+        "吐き気・かゆみ・発疹"
+      ]
+    },
+    {
+      "source": "s05_staff_monitoring_patient.png",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_contrast_side_effects_v1\\telop_frames\\s05_staff_monitoring_patient_telop.png",
+      "telop": [
+        "重い副作用",
+        "呼吸困難・血圧低下など"
+      ]
+    },
+    {
+      "source": "s06_control_room_monitoring.png",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_contrast_side_effects_v1\\telop_frames\\s06_control_room_monitoring_telop.png",
+      "telop": [
+        "万が一に備えて",
+        "確認しています"
+      ]
+    },
+    {
+      "source": "sample_s07_pre_exam_interview.png",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_contrast_side_effects_v1\\telop_frames\\s07_pre_exam_interview_telop.png",
+      "telop": [
+        "アレルギーやぜんそくは",
+        "事前に相談"
+      ]
+    },
+    {
+      "source": "s08_questionnaire_closeup.png",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_contrast_side_effects_v1\\telop_frames\\s08_questionnaire_closeup_telop.png",
+      "telop": [
+        "問診票は",
+        "安全確認のため"
+      ]
+    },
+    {
+      "source": "s09_after_exam_phone_call.png",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_contrast_side_effects_v1\\telop_frames\\s09_after_exam_phone_call_telop.png",
+      "telop": [
+        "検査後の症状は",
+        "医療機関へ連絡"
+      ]
+    },
+    {
+      "source": "s10_calm_after_understanding.png",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_contrast_side_effects_v1\\telop_frames\\s10_calm_after_understanding_telop.png",
+      "telop": [
+        "知ることが",
+        "安心につながる"
+      ]
+    },
+    {
+      "source": "s11_pre_exam_staff_reassurance.png",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_contrast_side_effects_v1\\telop_frames\\s11_pre_exam_staff_reassurance_telop.png",
+      "telop": [
+        "あなたの安全のために",
+        "準備しています"
+      ]
+    },
+    {
+      "source": "s12_cta_smartphone.png",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_contrast_side_effects_v1\\telop_frames\\s12_cta_smartphone_telop.png",
+      "telop": [
+        "保存・フォローで",
+        "次の解説へ"
+      ]
+    }
+  ]
+}

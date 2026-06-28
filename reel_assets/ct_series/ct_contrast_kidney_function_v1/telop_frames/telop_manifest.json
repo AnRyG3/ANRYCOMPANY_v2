@@ -1,0 +1,109 @@
+﻿{
+  "title": "腎機能が低下していると、造影剤は使えないの？",
+  "size": {
+    "width": 1080,
+    "height": 1920
+  },
+  "style": "white rounded frame, navy bold key text",
+  "asset_dir": "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_contrast_kidney_function_v1",
+  "output_dir": "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_contrast_kidney_function_v1\\telop_frames",
+  "contact_sheet": "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_contrast_kidney_function_v1\\contact_sheet_telop_frames.png",
+  "frames": [
+    {
+      "source": "s01_waiting_room_anxiety.png",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_contrast_kidney_function_v1\\telop_frames\\s01_waiting_room_anxiety_telop.png",
+      "telop": [
+        "腎臓が悪いと",
+        "造影剤は使えない？"
+      ]
+    },
+    {
+      "source": "s02_concerned_closeup.png",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_contrast_kidney_function_v1\\telop_frames\\s02_concerned_closeup_telop.png",
+      "telop": [
+        "検査できないの？",
+        "と不安な方へ"
+      ]
+    },
+    {
+      "source": "s03_rt_tech_ct_room.png",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_contrast_kidney_function_v1\\telop_frames\\s03_rt_tech_ct_room_telop.png",
+      "telop": [
+        "腎機能が低下しても",
+        "使える場合があります"
+      ]
+    },
+    {
+      "source": "s04_water_kidney_model.png",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_contrast_kidney_function_v1\\telop_frames\\s04_water_kidney_model_telop.png",
+      "telop": [
+        "造影剤は腎臓から",
+        "尿へ排泄されます"
+      ]
+    },
+    {
+      "source": "s05_doctor_lab_result_explanation.png",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_contrast_kidney_function_v1\\telop_frames\\s05_doctor_lab_result_explanation_telop.png",
+      "telop": [
+        "血液検査で",
+        "腎機能を確認します"
+      ]
+    },
+    {
+      "source": "s06_iv_hydration_support.png",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_contrast_kidney_function_v1\\telop_frames\\s06_iv_hydration_support_telop.png",
+      "telop": [
+        "状態に応じて",
+        "対策をとります"
+      ]
+    },
+    {
+      "source": "s07_modern_ct_scanner.png",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_contrast_kidney_function_v1\\telop_frames\\s07_modern_ct_scanner_telop.png",
+      "telop": [
+        "必要最小限の量を",
+        "検討しやすく"
+      ]
+    },
+    {
+      "source": "s08_doctor_reviewing_chart.png",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_contrast_kidney_function_v1\\telop_frames\\s08_doctor_reviewing_chart_telop.png",
+      "telop": [
+        "難しい場合も",
+        "別の検査方法を検討"
+      ]
+    },
+    {
+      "source": "s09_dialysis_patient.png",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_contrast_kidney_function_v1\\telop_frames\\s09_dialysis_patient_telop.png",
+      "telop": [
+        "透析中も",
+        "状態に合わせて判断"
+      ]
+    },
+    {
+      "source": "s10_team_support_corridor.png",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_contrast_kidney_function_v1\\telop_frames\\s10_team_support_corridor_telop.png",
+      "telop": [
+        "何もできない、ではなく",
+        "チームで考えます"
+      ]
+    },
+    {
+      "source": "s11_cta_save_smartphone.png",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_contrast_kidney_function_v1\\telop_frames\\s11_cta_save_smartphone_telop.png",
+      "telop": [
+        "保存して",
+        "後で見返せます"
+      ]
+    },
+    {
+      "source": "s12_cta_follow_home_phone.png",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_contrast_kidney_function_v1\\telop_frames\\s12_cta_follow_home_phone_telop.png",
+      "telop": [
+        "フォローして",
+        "次の投稿も受け取る"
+      ]
+    }
+  ]
+}

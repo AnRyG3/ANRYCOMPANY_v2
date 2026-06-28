@@ -1,0 +1,110 @@
+﻿{
+  "title": "CTって何分くらいかかるの？",
+  "size": {
+    "width": 1080,
+    "height": 1920
+  },
+  "style": "white rounded telop box with navy bold Japanese text",
+  "asset_dir": "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_duration_v1",
+  "background_dir": "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_duration_v1\\backgrounds",
+  "output_dir": "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_duration_v1\\telop_frames",
+  "contact_sheet": "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_duration_v1\\contact_sheet_telop_frames.png",
+  "frames": [
+    {
+      "source": "slide01_bg.png",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_duration_v1\\telop_frames\\slide01_telop.png",
+      "telop": [
+        "CTって",
+        "何分くらい？"
+      ]
+    },
+    {
+      "source": "slide02_bg.png",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_duration_v1\\telop_frames\\slide02_telop.png",
+      "telop": [
+        "時間がわからないと",
+        "予定も不安に"
+      ]
+    },
+    {
+      "source": "slide03_bg.png",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_duration_v1\\telop_frames\\slide03_telop.png",
+      "telop": [
+        "撮影自体は",
+        "数秒〜1分程度が多い"
+      ]
+    },
+    {
+      "source": "slide04_bg.png",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_duration_v1\\telop_frames\\slide04_telop.png",
+      "telop": [
+        "単純CTは",
+        "5〜10分程度が目安"
+      ]
+    },
+    {
+      "source": "slide05_bg.png",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_duration_v1\\telop_frames\\slide05_telop.png",
+      "telop": [
+        "造影CTは",
+        "準備に時間がかかります"
+      ]
+    },
+    {
+      "source": "slide06_bg.png",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_duration_v1\\telop_frames\\slide06_telop.png",
+      "telop": [
+        "造影CTは",
+        "30分前後が目安"
+      ]
+    },
+    {
+      "source": "slide07_bg.png",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_duration_v1\\telop_frames\\slide07_telop.png",
+      "telop": [
+        "追加撮影があると",
+        "待ち時間が長めに"
+      ]
+    },
+    {
+      "source": "slide08_bg.png",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_duration_v1\\telop_frames\\slide08_telop.png",
+      "telop": [
+        "血液検査の結果待ちが",
+        "加わることも"
+      ]
+    },
+    {
+      "source": "slide09_bg.png",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_duration_v1\\telop_frames\\slide09_telop.png",
+      "telop": [
+        "検査時間と待ち時間は",
+        "別で考えると安心"
+      ]
+    },
+    {
+      "source": "slide10_bg.png",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_duration_v1\\telop_frames\\slide10_telop.png",
+      "telop": [
+        "気になる時は",
+        "事前に聞いてOK"
+      ]
+    },
+    {
+      "source": "slide11_bg.png",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_duration_v1\\telop_frames\\slide11_telop.png",
+      "telop": [
+        "だいたいの時間を知ると",
+        "当日が少し楽に"
+      ]
+    },
+    {
+      "source": "slide12_bg.png",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_duration_v1\\telop_frames\\slide12_telop.png",
+      "telop": [
+        "参考になったら保存",
+        "次の投稿もフォローで"
+      ]
+    }
+  ]
+}

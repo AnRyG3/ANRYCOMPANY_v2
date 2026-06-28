@@ -1,0 +1,53 @@
+﻿{
+  "title": "CTって何分くらいかかるの？",
+  "speaker": "VOICEVOX speaker id 20",
+  "voice_speed": 1.2,
+  "bgm": "F:\\ANRYCAMPANY\\01_ショート動画_リール_YouTubeShorts\\インスタリール用\\BGM フリー素材\\Kind_Heart.mp3",
+  "bgm_volume": "-25dB",
+  "frames": [
+    "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_duration_v1\\telop_frames\\slide01_telop.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_duration_v1\\telop_frames\\slide02_telop.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_duration_v1\\telop_frames\\slide03_telop.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_duration_v1\\telop_frames\\slide04_telop.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_duration_v1\\telop_frames\\slide05_telop.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_duration_v1\\telop_frames\\slide06_telop.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_duration_v1\\telop_frames\\slide07_telop.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_duration_v1\\telop_frames\\slide08_telop.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_duration_v1\\telop_frames\\slide09_telop.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_duration_v1\\telop_frames\\slide10_telop.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_duration_v1\\telop_frames\\slide11_telop.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_duration_v1\\telop_frames\\slide12_telop.png"
+  ],
+  "narration": [
+    "CTって、どのくらい時間がかかるんだろう。予定が気になって、不安になっていませんか。",
+    "検査時間がわからないと、仕事や家族のことが頭をよぎりますよね。事前に知っておくだけで、気持ちがずいぶん楽になります。",
+    "CTの撮影自体は、一回あたり数秒から一分程度で終わることが多いです。ただし、準備や着替えを含めると、もう少し時間がかかります。",
+    "造影剤を使わない単純CTは、検査室に入ってから終了まで、おおよそ五から十分程度が目安です。撮影そのものは、あっという間に終わります。",
+    "造影剤を使うCTは、単純CTより時間がかかります。点滴の準備や、注射後に撮影タイミングを合わせる待機があるためです。",
+    "造影CTは、検査室での準備から終了まで、三十分前後が目安です。ただし、検査の目的や施設の流れによって、さらに時間がかかることがあります。",
+    "腎臓や尿管を詳しく見る検査では、造影剤を注射したあと、しばらく時間をおいてから追加の撮影を行うことがあります。そのため、他のCTよりも待ち時間が長くなることがあります。",
+    "造影CTでは、事前に血液検査が必要な場合があります。検査結果が出てから撮影を行うため、その待ち時間が加わることもあります。",
+    "受付から会計までの時間は、病院の混み具合によっても変わります。検査そのものの時間と、待ち時間は別物と考えておくと安心です。",
+    "検査にかかる時間が気になる場合は、受付や担当スタッフに事前に聞いてみてください。教えてもらえますよ。",
+    "検査時間を知っておくだけで、当日の安心感がぐっと変わります。だいたいこのくらい、と頭に入れて、落ち着いて検査に臨んでください。",
+    "この投稿が参考になったら保存を。ほかにも検査の不安を解消する投稿をしています。フォローして、次の投稿も受け取ってください。"
+  ],
+  "durations_seconds": [
+    6.167,
+    8.173,
+    9.869,
+    10.359,
+    9.09,
+    11.234,
+    12.269,
+    9.517,
+    9.57,
+    7.159,
+    9.293,
+    8.898
+  ],
+  "total_seconds": 111.597,
+  "voice_audio": "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_duration_v1\\audio\\voice.wav",
+  "asset_video": "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_duration_v1\\CTって何分くらいかかるの.mp4",
+  "final_video": "F:\\ANRYCAMPANY\\01_ショート動画_リール_YouTubeShorts\\インスタ完成形\\CTって何分くらいかかるの.mp4"
+}

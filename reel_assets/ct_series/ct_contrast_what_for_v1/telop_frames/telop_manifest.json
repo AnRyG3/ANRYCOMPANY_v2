@@ -1,0 +1,108 @@
+﻿{
+  "title": "造影剤って何のために使うの？",
+  "size": {
+    "width": 1080,
+    "height": 1920
+  },
+  "source_dir": "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_contrast_what_for_v1\\frames",
+  "output_dir": "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_contrast_what_for_v1\\telop_frames",
+  "contact_sheet": "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_contrast_what_for_v1\\contact_sheet_telop_frames.png",
+  "frames": [
+    {
+      "source": "S01_home_appointment.png",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_contrast_what_for_v1\\telop_frames\\S01_home_appointment_telop.png",
+      "telop": [
+        "造影剤を使うと言われて",
+        "不安になっていませんか？"
+      ]
+    },
+    {
+      "source": "S02_reassured_patient.png",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_contrast_what_for_v1\\telop_frames\\S02_reassured_patient_telop.png",
+      "telop": [
+        "造影剤は",
+        "CTをより正確にする薬"
+      ]
+    },
+    {
+      "source": "S03_ct_room_wide.png",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_contrast_what_for_v1\\telop_frames\\S03_ct_room_wide_telop.png",
+      "telop": [
+        "血管や組織の見え方が",
+        "より鮮明に"
+      ]
+    },
+    {
+      "source": "S04_ct_monitor.png",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_contrast_what_for_v1\\telop_frames\\S04_ct_monitor_telop.png",
+      "telop": [
+        "判断しにくい部分を",
+        "はっきり確認するため"
+      ]
+    },
+    {
+      "source": "S05_iv_line.png",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_contrast_what_for_v1\\telop_frames\\S05_iv_line_telop.png",
+      "telop": [
+        "腕の静脈から注射",
+        "点滴と同じイメージ"
+      ]
+    },
+    {
+      "source": "S06_on_ct_table.png",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_contrast_what_for_v1\\telop_frames\\S06_on_ct_table_telop.png",
+      "telop": [
+        "体が温かくなることも",
+        "異常ではありません"
+      ]
+    },
+    {
+      "source": "S07_control_room.png",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_contrast_what_for_v1\\telop_frames\\S07_control_room_telop.png",
+      "telop": [
+        "医師や診療放射線技師が",
+        "状態を確認しています"
+      ]
+    },
+    {
+      "source": "S08_doctor_explanation.png",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_contrast_what_for_v1\\telop_frames\\S08_doctor_explanation_telop.png",
+      "telop": [
+        "造影が必要＝",
+        "より正確に確認したい判断"
+      ]
+    },
+    {
+      "source": "S09_empty_corridor.png",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_contrast_what_for_v1\\telop_frames\\S09_empty_corridor_telop.png",
+      "telop": [
+        "毎日多くの方が受ける",
+        "よくある検査です"
+      ]
+    },
+    {
+      "source": "S10_window_reassured.png",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_contrast_what_for_v1\\telop_frames\\S10_window_reassured_telop.png",
+      "telop": [
+        "不安に感じるのは",
+        "おかしくありません"
+      ]
+    },
+    {
+      "source": "S11_next_preview_phone.png",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_contrast_what_for_v1\\telop_frames\\S11_next_preview_phone_telop.png",
+      "telop": [
+        "次回",
+        "絶食や水分制限はなぜ？"
+      ]
+    },
+    {
+      "source": "S12_cta_phone_hands.png",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_contrast_what_for_v1\\telop_frames\\S12_cta_phone_hands_telop.png",
+      "telop": [
+        "保存とフォローで",
+        "次の投稿も見られます"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+﻿{
+  "title": "腎機能が低下していると、造影剤は使えないの？",
+  "speaker": "VOICEVOX speaker id 20",
+  "voice_speed": 1.2,
+  "bgm": "F:\\ANRYCAMPANY\\01_ショート動画_リール_YouTubeShorts\\インスタリール用\\BGM フリー素材\\Kind_Heart.mp3",
+  "bgm_volume": "-24dB",
+  "frames": [
+    "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_contrast_kidney_function_v1\\telop_frames\\s01_waiting_room_anxiety_telop.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_contrast_kidney_function_v1\\telop_frames\\s02_concerned_closeup_telop.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_contrast_kidney_function_v1\\telop_frames\\s03_rt_tech_ct_room_telop.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_contrast_kidney_function_v1\\telop_frames\\s04_water_kidney_model_telop.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_contrast_kidney_function_v1\\telop_frames\\s05_doctor_lab_result_explanation_telop.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_contrast_kidney_function_v1\\telop_frames\\s06_iv_hydration_support_telop.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_contrast_kidney_function_v1\\telop_frames\\s07_modern_ct_scanner_telop.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_contrast_kidney_function_v1\\telop_frames\\s08_doctor_reviewing_chart_telop.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_contrast_kidney_function_v1\\telop_frames\\s09_dialysis_patient_telop.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_contrast_kidney_function_v1\\telop_frames\\s10_team_support_corridor_telop.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_contrast_kidney_function_v1\\telop_frames\\s11_cta_save_smartphone_telop.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_contrast_kidney_function_v1\\telop_frames\\s12_cta_follow_home_phone_telop.png"
+  ],
+  "narration": [
+    "腎臓が悪いから、造影剤は使えないかもしれない。そう言われて、不安になっていませんか。",
+    "検査ができないのか、自分の体はそんなに悪いのか。心配になるのは、おかしくありません。",
+    "実は、腎機能が低下していても、造影剤を使える場合があります。使う前に、腎機能をきちんと確認しているからです。",
+    "造影剤は、使用後に腎臓でこし取られ、尿として体の外に出ていきます。腎機能が低下していると、この排泄に時間がかかることがあります。",
+    "そのため、検査の前に血液検査で腎機能を確認します。このすうちをもとに、医師が、使えるかどうか、どのくらいの量にするかを判断します。",
+    "腎機能が低下しているかたには、必要に応じて、造影剤の量を調整したり、水分補給などの対策をとることがあります。",
+    "近年は、CT装置や画像処理の進歩により、必要最小限の造影剤量を検討しやすくなっています。",
+    "腎機能が著しく低下している場合は、造影剤の使用が難しいと判断されることがあります。その場合も、別の検査方法を検討することができます。",
+    "透析を受けているかたは、腎臓から造影剤が排泄されにくい状態ですが、造影CTを受けられているケースもあります。その後の対応は、担当の医師が状態に合わせて判断します。",
+    "腎機能が低下しているから、何もできない、ではなく、あなたの状態に合った方法を、チームで考えている、ということです。不安なことは、遠慮なく担当のスタッフに聞いてみてください。",
+    "この投稿が参考になったら、保存しておくと後で見返せます。",
+    "ほかにも検査の不安を解消する投稿をしています。フォローして、次の投稿も受け取ってください。"
+  ],
+  "durations_seconds": [
+    6.53,
+    6.327,
+    8.749,
+    9.719,
+    10.103,
+    8.365,
+    7.309,
+    10.125,
+    12.205,
+    12.759,
+    4.311,
+    6.53
+  ],
+  "total_seconds": 103.032,
+  "voice_audio": "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_contrast_kidney_function_v1\\audio\\voice.wav",
+  "asset_video": "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_contrast_kidney_function_v1\\腎機能が低下していると造影剤は使えないの.mp4",
+  "final_video": "F:\\ANRYCAMPANY\\01_ショート動画_リール_YouTubeShorts\\インスタ完成形\\腎機能が低下していると造影剤は使えないの.mp4"
+}

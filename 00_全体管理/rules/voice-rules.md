@@ -16,6 +16,8 @@ Use these substitutions in voice-only narration text. Image text may keep normal
 - DXA: できさ
 - 乳房: にゅうぼう
 - 値: あたい
+- 方: かた
+- 他にも: ほかにも
 
 For ambiguous words, prefer kana in the actual text passed to the voice engine.
 
