@@ -37,6 +37,11 @@ $anry-video-from-user-plan で確認してください。
 キャラ案:
 ここにCharacter IDを書く
 
+人物が出る場合:
+character-rules.md と _character_quickref.md を先に確認。
+患者服装は _patient_clothing_index.md を優先。
+Character IDノート全文は画像生成直前か不明点がある時だけ確認。
+
 必要な修正だけ提案してください。
 まだ画像・音声・動画は作らないでください。
 ```
@@ -81,3 +86,4 @@ URL: ここに貼る
 - テーマ、対象ノート、素材フォルダ、今進めたい工程だけを書く。
 - 台本全文を毎回貼り直さず、承認済みノートや素材フォルダを指定する。
 - 画像、音声、動画へ進む時は「何がOK済みか」を短く書く。
+- 人物が出る時は、Character全文ではなく `_character_quickref.md` と `_patient_clothing_index.md` を優先する。

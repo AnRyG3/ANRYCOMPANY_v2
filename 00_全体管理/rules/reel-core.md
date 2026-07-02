@@ -26,12 +26,13 @@ Do not create images, frames, audio, video, or generation scripts before the mat
 - Main visuals should be realistic clinical scenes, realistic equipment, realistic people, or realistic inspection rooms.
 - Do not use diagram-only visuals made from circles, lines, squares, triangles, arrows, icons, or abstract cards as the main style.
 - Use diagrams only when the user asks for them or when a small overlay is necessary.
-- Keep major telops away from areas hidden by platform UI, especially top, bottom, and right edge.
+- Read `00_全体管理/rules/telop-style-rules.md` before final text insertion or text-frame generation.
 
 ## Characters
 
 - If a person appears, use only registered characters under `ANRYCAMPANY/Characters/`.
 - Read `00_全体管理/rules/character-rules.md` before proposing or generating person images.
+- For planning, use `ANRYCAMPANY/Characters/_character_quickref.md` and `_patient_clothing_index.md` before opening full Character ID notes.
 
 ## Audio
 

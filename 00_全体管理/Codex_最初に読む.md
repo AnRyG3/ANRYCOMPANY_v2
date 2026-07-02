@@ -33,7 +33,8 @@ ANRYCAMPANYの作業では、一般論から始めない。
 次の段階別ルールを必要な時だけ読む。
 
 - 開始、台本、画像構成: `00_全体管理\rules\reel-core.md`
-- 人物画像: `00_全体管理\rules\character-rules.md` と該当Character IDノート
+- 文字入れ、テロップ、最終テキスト画像: `00_全体管理\rules\telop-style-rules.md`
+- 人物画像: `00_全体管理\rules\character-rules.md`、`ANRYCAMPANY\Characters\_character_quickref.md`、必要時のみ該当Character IDノート
 - 音声、ナレーション読み: `00_全体管理\rules\voice-rules.md`
 - 投稿情報: `00_全体管理\rules\posting-info-rules.md`
 - 完成報告: `00_全体管理\rules\final-checklist.md`
@@ -61,10 +62,5 @@ ANRYCAMPANYを会社として回す相談では、制作物だけで判断しな
 
 ## 完成動画OK後
 
-ユーザーから完成動画に対して「動画OKです」「動画OK」「これでOK」「採用」などの承認表現があったら、追加依頼を待たずに次の3点をチャットへ提示する。
-
-1. 投稿タイトル
-2. 説明文
-3. ハッシュタグ
-
+完成動画の承認後は `00_全体管理\rules\posting-info-rules.md` を読む。
 比較用動画への感想か正式採用か不明な場合は、正式ファイルへの上書きや公開予約を行わない。

@@ -12,7 +12,7 @@
 | 性別 | 女性 |
 | 体型 | 健康的な平均体型 |
 | 髪型 | 暗めのブラウン。低めのお団子で清潔感のある病院向けヘアスタイル。 |
-| 服装 | パステルブルーの現代的な看護師スクラブ、白い医療用シューズ、読めないIDバッジ |
+| 服装 | 紺色の看護師スクラブ、襟元にピンクの差し色、白い医療用シューズ、読めないIDバッジ |
 | 役割 | 患者さんサポート、検査前の準備説明、不安をやわらげる声かけ。RT_TECH_001、DOCTOR_001と連携して働く。 |
 
 ## 外見
@@ -38,7 +38,7 @@
 ## 画像生成で守ること
 
 - 実写に近い医療広告写真の質感にする。
-- パステルブルーのスクラブを維持する。
+- 紺色スクラブと襟元のピンク差し色を維持する。
 - 低めのお団子ヘアを維持する。
 - IDバッジには読める文字を入れない。
 - 顔、年齢感、体型、髪型、服装を大きく変えない。
@@ -68,10 +68,11 @@
 | `side.png` | 既存運用向けの横向き代表カット。 |
 | `back.png` | 背面用。 |
 | `expressions/` | 表情差分用フォルダ。 |
+| `../_clothing_variants_20260630/NURSE_001_navy_scrubs_pink_collar.png` | Approved navy scrub variant with pink neckline/collar trim. |
 
 ## 生成用プロンプト要約
 
-Japanese female registered nurse, age 28-34, photorealistic medical advertising photography, warm approachable smile, beautiful but realistic, natural beauty, soft rounded facial features, gentle jawline, friendly eyes, kind expression, dark brown hair neatly tied in a professional low bun, healthy average build, modern pastel blue nurse scrubs, hospital ID badge without readable text, patient support, examination preparation guidance, patient reassurance, works alongside RT_TECH_001 and DOCTOR_001, pure white background, full-body character consistency, fictional person, not based on any real person or celebrity.
+Japanese female registered nurse, age 28-34, photorealistic medical advertising photography, warm approachable smile, beautiful but realistic, natural beauty, soft rounded facial features, gentle jawline, friendly eyes, kind expression, dark brown hair neatly tied in a professional low bun, healthy average build, deep navy blue nurse scrubs with a clearly visible soft pink neckline/collar trim, white medical shoes, hospital ID badge without readable text, patient support, examination preparation guidance, patient reassurance, works alongside RT_TECH_001 and DOCTOR_001, pure white background, full-body character consistency, fictional person, not based on any real person or celebrity.
 
 ## Readable Canonical Spec
 
@@ -86,13 +87,15 @@ This English section is canonical for Codex and image generation. Use it when ol
 | Body type | Healthy average build |
 | Hair | Dark brown hair, neatly tied in a professional low bun |
 | Face | Warm Japanese female face, soft rounded features, gentle jawline, friendly eyes |
-| Clothing | Modern pastel blue nurse scrubs, white medical shoes, hospital ID badge without readable text |
+| Clothing | Deep navy blue nurse scrubs with a clearly visible soft pink neckline/collar trim, white medical shoes, hospital ID badge without readable text |
+| Approved navy scrub variant | Deep navy blue scrub top and pants with a clearly visible soft pink neckline/collar trim, white medical shoes, hospital ID badge without readable text. Saved as `../_clothing_variants_20260630/NURSE_001_navy_scrubs_pink_collar.png`. |
 | Role in scenes | Patient support, examination preparation guidance, reassurance, calm explanations |
 | Works with | RT_TECH_001, RT_TECH_002, DOCTOR_001 |
 
 ### Keep
 
-- Keep the same face identity, low bun hairstyle, pastel blue scrubs, white shoes, and warm expression.
+- Keep the same face identity, low bun hairstyle, white shoes, and warm expression.
+- Use the deep navy blue scrubs with soft pink neckline/collar trim as the default clothing.
 - Keep the mood reassuring, practical, and professional.
 - Use photorealistic medical photography.
 
@@ -104,4 +107,4 @@ This English section is canonical for Codex and image generation. Use it when ol
 
 ### Generation Prompt Summary
 
-Japanese female nurse, age 28-34, photorealistic medical photography, warm friendly Japanese face, soft rounded features, gentle jawline, friendly eyes, dark brown hair in a professional low bun, modern pastel blue nurse scrubs, white medical shoes, hospital ID badge without readable text, calm patient support scene, fictional person, not based on any real person or celebrity, character consistency critical.
+Japanese female nurse, age 28-34, photorealistic medical photography, warm friendly Japanese face, soft rounded features, gentle jawline, friendly eyes, dark brown hair in a professional low bun, deep navy blue nurse scrubs with a clearly visible soft pink neckline/collar trim, white medical shoes, hospital ID badge without readable text, calm patient support scene, fictional person, not based on any real person or celebrity, character consistency critical.
