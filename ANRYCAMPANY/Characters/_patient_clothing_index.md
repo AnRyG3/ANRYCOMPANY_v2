@@ -40,6 +40,12 @@
 | 冬の私服 | `F:\ANRYCAMPANY\reel_assets\character_references\patients\PATIENT_F40_001\PATIENT_F40_001_winter_ref.png` |
 | 検査着 | `F:\ANRYCAMPANY\ANRYCAMPANY\Characters\_clothing_variants_20260630\PATIENT_F40_001_exam_gown.png` |
 
+## PATIENT_M02_001
+
+| 用途 | 参照画像 |
+| --- | --- |
+| 基準服 | `F:\ANRYCAMPANY\ANRYCAMPANY\Characters\PATIENT_M02_001\reference_sheet.png` |
+
 ## Other Clothing Variants
 
 | Character ID | 参照画像 | 用途 |

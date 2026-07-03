@@ -14,6 +14,7 @@ ANRYCAMPANYで使う人物キャラクターの管理場所。
 | PATIENT_F30_001 | 一般患者 | CT、MRI、レントゲン、健診を受ける30代女性患者キャラクター | [[PATIENT_F30_001/PATIENT_F30_001]] |
 | PATIENT_F40_001 | 一般患者 | マンモグラフィ、CT、MRI、健診、予防検査を受ける40代女性患者キャラクター | [[PATIENT_F40_001/PATIENT_F40_001]] |
 | PATIENT_F50_001 | 一般患者 | マンモグラフィ、CT、MRI、骨密度検査、健診、予防医療を受ける50代女性患者キャラクター | [[PATIENT_F50_001/PATIENT_F50_001]] |
+| PATIENT_M02_001 | 一般患者 | 小児のレントゲン、CT、MRI、検査説明を受ける2才男児患者キャラクター | [[PATIENT_M02_001/PATIENT_M02_001]] |
 
 ## 運用ルール
 
@@ -37,6 +38,7 @@ This English section is the canonical reference for Codex and image generation. 
 | PATIENT_F30_001 | General patient, female, 30s | Patient for CT, MRI, X-ray, and health screening scenes | [[PATIENT_F30_001/PATIENT_F30_001]] |
 | PATIENT_F40_001 | General patient, female, 40s | Patient for mammography, CT, MRI, screening, and preventive care scenes | [[PATIENT_F40_001/PATIENT_F40_001]] |
 | PATIENT_F50_001 | General patient, female, 50s | Patient for mammography, CT, MRI, bone density, screening, and preventive care scenes | [[PATIENT_F50_001/PATIENT_F50_001]] |
+| PATIENT_M02_001 | General pediatric patient, male, 2 years old | Pediatric patient for X-ray, CT, MRI, and examination explanation scenes | [[PATIENT_M02_001/PATIENT_M02_001]] |
 
 ## Readable Production Rules
 
