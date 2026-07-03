@@ -7,6 +7,7 @@ Use this file when creating or updating posting notes.
 - Keep descriptions calm and practical.
 - End with a save/check CTA when suitable.
 - Do not include `#ANRYCAMPANY` in hashtags.
+- When a final video is approved with phrases such as "動画OK", "これでOK", or "採用", present posting title, description, and hashtags in chat unless it is unclear whether the approval is for the official final file.
 
 ## Required Fields
 

@@ -1,0 +1,121 @@
+﻿{
+  "title": "レントゲンで服のしわやボタンは写るの？",
+  "size": {
+    "width": 1080,
+    "height": 1920
+  },
+  "style": "white rounded rectangle backing, dark navy text, Instagram Reels safe area",
+  "asset_dir": "F:\\ANRYCAMPANY\\reel_assets\\xray_clothing_wrinkles_buttons_v1",
+  "output_dir": "F:\\ANRYCAMPANY\\reel_assets\\xray_clothing_wrinkles_buttons_v1\\telop_frames",
+  "contact_sheet": "F:\\ANRYCAMPANY\\reel_assets\\xray_clothing_wrinkles_buttons_v1\\contact_sheet_telop_frames_01_12.jpg",
+  "frames": [
+    {
+      "source": "F:\\ANRYCAMPANY\\reel_assets\\xray_clothing_wrinkles_buttons_v1\\frame_01_patient_worried_gown.png",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\xray_clothing_wrinkles_buttons_v1\\telop_frames\\frame_01_patient_worried_gown_telop.png",
+      "telop": [
+        "服のしわ",
+        "写るの？"
+      ],
+      "font_kind": "rounded"
+    },
+    {
+      "source": "F:\\ANRYCAMPANY\\reel_assets\\xray_clothing_wrinkles_buttons_v1\\frame_02_rt_reassures_patient.png",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\xray_clothing_wrinkles_buttons_v1\\telop_frames\\frame_02_rt_reassures_patient_telop.png",
+      "telop": [
+        "心配しすぎなくて",
+        "大丈夫です"
+      ],
+      "font_kind": "rounded"
+    },
+    {
+      "source": "F:\\ANRYCAMPANY\\reel_assets\\xray_clothing_wrinkles_buttons_v1\\frame_03_gown_handoff.png",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\xray_clothing_wrinkles_buttons_v1\\telop_frames\\frame_03_gown_handoff_telop.png",
+      "telop": [
+        "検査着や体勢は",
+        "こちらでご案内"
+      ],
+      "font_kind": "standard"
+    },
+    {
+      "source": "F:\\ANRYCAMPANY\\reel_assets\\xray_clothing_wrinkles_buttons_v1\\frame_04_pre_shoot_check.png",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\xray_clothing_wrinkles_buttons_v1\\telop_frames\\frame_04_pre_shoot_check_telop.png",
+      "telop": [
+        "撮影前に",
+        "しわを確認"
+      ],
+      "font_kind": "standard"
+    },
+    {
+      "source": "F:\\ANRYCAMPANY\\reel_assets\\xray_clothing_wrinkles_buttons_v1\\frame_05_rt_monitor_prep.png",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\xray_clothing_wrinkles_buttons_v1\\telop_frames\\frame_05_rt_monitor_prep_telop.png",
+      "telop": [
+        "確認してから",
+        "撮影します"
+      ],
+      "font_kind": "rounded"
+    },
+    {
+      "source": "F:\\ANRYCAMPANY\\reel_assets\\xray_clothing_wrinkles_buttons_v1\\frame_06_patient_relaxed_xray_position.png",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\xray_clothing_wrinkles_buttons_v1\\telop_frames\\frame_06_patient_relaxed_xray_position_telop.png",
+      "telop": [
+        "現場で",
+        "確認しています"
+      ],
+      "font_kind": "rounded"
+    },
+    {
+      "source": "F:\\ANRYCAMPANY\\reel_assets\\xray_clothing_wrinkles_buttons_v1\\frame_07_metal_buttons_clothing.png",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\xray_clothing_wrinkles_buttons_v1\\telop_frames\\frame_07_metal_buttons_clothing_telop.png",
+      "telop": [
+        "ボタンは",
+        "写ることも"
+      ],
+      "font_kind": "standard"
+    },
+    {
+      "source": "F:\\ANRYCAMPANY\\reel_assets\\xray_clothing_wrinkles_buttons_v1\\frame_08_button_shadow_monitor.png",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\xray_clothing_wrinkles_buttons_v1\\telop_frames\\frame_08_button_shadow_monitor_telop.png",
+      "telop": [
+        "金属ボタンは",
+        "影響することも"
+      ],
+      "font_kind": "standard"
+    },
+    {
+      "source": "F:\\ANRYCAMPANY\\reel_assets\\xray_clothing_wrinkles_buttons_v1\\frame_09_change_guidance.png",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\xray_clothing_wrinkles_buttons_v1\\telop_frames\\frame_09_change_guidance_telop.png",
+      "telop": [
+        "着替えを",
+        "お願いすることも"
+      ],
+      "font_kind": "standard"
+    },
+    {
+      "source": "F:\\ANRYCAMPANY\\reel_assets\\xray_clothing_wrinkles_buttons_v1\\frame_10_smooth_exam_exchange.png",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\xray_clothing_wrinkles_buttons_v1\\telop_frames\\frame_10_smooth_exam_exchange_telop.png",
+      "telop": [
+        "スムーズに進める",
+        "工夫です"
+      ],
+      "font_kind": "rounded"
+    },
+    {
+      "source": "F:\\ANRYCAMPANY\\reel_assets\\xray_clothing_wrinkles_buttons_v1\\frame_11_save_cta_background.png",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\xray_clothing_wrinkles_buttons_v1\\telop_frames\\frame_11_save_cta_background_telop.png",
+      "telop": [
+        "知らなかった方は",
+        "保存してね"
+      ],
+      "font_kind": "rounded"
+    },
+    {
+      "source": "F:\\ANRYCAMPANY\\reel_assets\\xray_clothing_wrinkles_buttons_v1\\frame_12_follow_cta_background.png",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\xray_clothing_wrinkles_buttons_v1\\telop_frames\\frame_12_follow_cta_background_telop.png",
+      "telop": [
+        "検査の疑問を",
+        "フォローで解消"
+      ],
+      "font_kind": "rounded"
+    }
+  ]
+}

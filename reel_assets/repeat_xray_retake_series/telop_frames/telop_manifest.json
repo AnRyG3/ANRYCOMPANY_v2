@@ -1,0 +1,117 @@
+﻿{
+  "title": "レントゲンで再撮影になるのは失敗ですか？",
+  "size": {
+    "width": 1080,
+    "height": 1920
+  },
+  "style": "white rounded rectangle backing, dark navy text, Instagram Reels safe area",
+  "asset_dir": "F:\\ANRYCAMPANY\\reel_assets\\repeat_xray_retake_series",
+  "output_dir": "F:\\ANRYCAMPANY\\reel_assets\\repeat_xray_retake_series\\telop_frames",
+  "contact_sheet": "F:\\ANRYCAMPANY\\reel_assets\\repeat_xray_retake_series\\contact_sheet_telop_frames.png",
+  "frames": [
+    {
+      "source": "F:\\ANRYCAMPANY\\reel_assets\\repeat_xray_retake_series\\background_frames_no_text\\01_patient_question.png",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\repeat_xray_retake_series\\telop_frames\\01_patient_question_telop.png",
+      "telop": [
+        "もう一度撮ってって",
+        "言われた…",
+        "私が動いちゃったから？"
+      ],
+      "font_kind": "rounded"
+    },
+    {
+      "source": "F:\\ANRYCAMPANY\\reel_assets\\repeat_xray_retake_series\\background_frames_no_text\\02_empathy_corridor_bench.png",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\repeat_xray_retake_series\\telop_frames\\02_empathy_corridor_bench_telop.png",
+      "telop": [
+        "呼び戻されて",
+        "不安になる気持ち",
+        "おかしくありません"
+      ],
+      "font_kind": "rounded"
+    },
+    {
+      "source": "F:\\ANRYCAMPANY\\reel_assets\\repeat_xray_retake_series\\background_frames_no_text\\03_doctor_instruction.png",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\repeat_xray_retake_series\\telop_frames\\03_doctor_instruction_telop.png",
+      "telop": [
+        "診断に必要な情報を",
+        "もう少しそろえるために"
+      ],
+      "font_kind": "standard"
+    },
+    {
+      "source": "F:\\ANRYCAMPANY\\reel_assets\\repeat_xray_retake_series\\background_frames_no_text\\04_not_patient_fault.png",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\repeat_xray_retake_series\\telop_frames\\04_not_patient_fault_telop.png",
+      "telop": [
+        "角度・位置・見たい範囲など",
+        "理由はいくつかあります"
+      ],
+      "font_kind": "standard"
+    },
+    {
+      "source": "F:\\ANRYCAMPANY\\reel_assets\\repeat_xray_retake_series\\background_frames_no_text\\05_not_blaming_voice.png",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\repeat_xray_retake_series\\telop_frames\\05_not_blaming_voice_telop.png",
+      "telop": [
+        "「もう一度お願いします」は",
+        "責めている言葉ではありません"
+      ],
+      "font_kind": "rounded"
+    },
+    {
+      "source": "F:\\ANRYCAMPANY\\reel_assets\\repeat_xray_retake_series\\background_frames_no_text\\06_called_back_anxiety.png",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\repeat_xray_retake_series\\telop_frames\\06_called_back_anxiety_telop.png",
+      "telop": [
+        "急に呼び戻されると",
+        "不安になりますよね"
+      ],
+      "font_kind": "rounded"
+    },
+    {
+      "source": "F:\\ANRYCAMPANY\\reel_assets\\repeat_xray_retake_series\\background_frames_no_text\\07_positioning_v2.png",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\repeat_xray_retake_series\\telop_frames\\07_positioning_v2_telop.png",
+      "telop": [
+        "診療放射線技師は",
+        "医師の意図に応えて",
+        "撮影します"
+      ],
+      "font_kind": "standard"
+    },
+    {
+      "source": "F:\\ANRYCAMPANY\\reel_assets\\repeat_xray_retake_series\\background_frames_no_text\\08_no_fault_reassurance.png",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\repeat_xray_retake_series\\telop_frames\\08_no_fault_reassurance_telop.png",
+      "telop": [
+        "患者さんに",
+        "落ち度はありません"
+      ],
+      "font_kind": "rounded"
+    },
+    {
+      "source": "F:\\ANRYCAMPANY\\reel_assets\\repeat_xray_retake_series\\background_frames_no_text\\09_relief_after_exam.png",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\repeat_xray_retake_series\\telop_frames\\09_relief_after_exam_telop.png",
+      "telop": [
+        "再撮影でも",
+        "責められているわけでは",
+        "ありません"
+      ],
+      "font_kind": "rounded"
+    },
+    {
+      "source": "F:\\ANRYCAMPANY\\reel_assets\\repeat_xray_retake_series\\background_frames_no_text\\10_cta_save_background.png",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\repeat_xray_retake_series\\telop_frames\\10_cta_save_telop.png",
+      "telop": [
+        "あとで見返せるように",
+        "保存しておくと便利です"
+      ],
+      "font_kind": "rounded"
+    },
+    {
+      "source": "F:\\ANRYCAMPANY\\reel_assets\\repeat_xray_retake_series\\background_frames_no_text\\11_cta_follow_background.png",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\repeat_xray_retake_series\\telop_frames\\11_cta_follow_telop.png",
+      "telop": [
+        "検査の疑問に",
+        "診療放射線技師が答えます",
+        "フォローしてお待ちください"
+      ],
+      "font_kind": "rounded"
+    }
+  ]
+}

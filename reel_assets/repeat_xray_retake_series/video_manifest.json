@@ -1,0 +1,63 @@
+﻿{
+  "title": "レントゲンで再撮影になるのは失敗ですか？",
+  "speaker": "VOICEVOX speaker id 20",
+  "voice_speed": 1.2,
+  "bgm": "F:\\ANRYCAMPANY\\01_ショート動画_リール_YouTubeShorts\\インスタリール用\\BGM フリー素材\\Kind_Heart.mp3",
+  "bgm_volume": "-25dB",
+  "frames": [
+    "F:\\ANRYCAMPANY\\reel_assets\\repeat_xray_retake_series\\telop_frames\\01_patient_question_telop.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\repeat_xray_retake_series\\telop_frames\\02_empathy_corridor_bench_telop.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\repeat_xray_retake_series\\telop_frames\\03_doctor_instruction_telop.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\repeat_xray_retake_series\\telop_frames\\04_not_patient_fault_telop.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\repeat_xray_retake_series\\telop_frames\\05_not_blaming_voice_telop.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\repeat_xray_retake_series\\telop_frames\\06_called_back_anxiety_telop.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\repeat_xray_retake_series\\telop_frames\\07_positioning_v2_telop.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\repeat_xray_retake_series\\telop_frames\\08_no_fault_reassurance_telop.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\repeat_xray_retake_series\\telop_frames\\09_relief_after_exam_telop.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\repeat_xray_retake_series\\telop_frames\\10_cta_save_telop.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\repeat_xray_retake_series\\telop_frames\\11_cta_follow_telop.png"
+  ],
+  "display_narration": [
+    "もう一度撮ってって言われた。私が動いちゃったから？と思うこと、ありますよね。",
+    "呼び戻されて、不安になる気持ち、おかしくありません。",
+    "画像を確認して、診断に必要な情報をもう少しそろえたいときに、再撮影をお願いすることがあります。",
+    "再撮影には、角度、位置、見たい範囲など、いくつかの理由があります。患者さんが何かしてしまったから、とは限りません。",
+    "もう一度だけお願いします、という言葉は、あなたを責めているのではありません。",
+    "診察室から突然呼び戻されて、何かまずかったのかな、と感じた方もいると思います。その不安、よくわかります。",
+    "診療放射線技師は、医師の、ここをもっと見たい、という意図に応えて、もう一度撮影します。",
+    "患者さんには、何も落ち度はありません。安心してください。",
+    "再撮影になっても、責められているわけではありません。そのまま、検査を任せていただければ大丈夫です。",
+    "この投稿、あとで見返せるように保存しておくと便利です。",
+    "診療放射線技師が答える検査の疑問、フォローしてお待ちください。"
+  ],
+  "voicevox_text": [
+    "もう一度撮ってって言われた。私が動いちゃったから？と思うこと、ありますよね。",
+    "呼び戻されて、不安になる気持ち、おかしくありません。",
+    "画像を確認して、診断に必要な情報をもう少しそろえたいときに、再撮影をお願いすることがあります。",
+    "再撮影には、角度、位置、見たい範囲など、いくつかの理由があります。患者さんが何かしてしまったから、とは限りません。",
+    "もう一度だけお願いします、という言葉は、あなたを責めているのではありません。",
+    "診察室から突然呼び戻されて、何かまずかったのかな、と感じたかたもいると思います。その不安、よくわかります。",
+    "診療放射線技師は、医師の、ここをもっと見たい、という意図に応えて、もう一度撮影します。",
+    "患者さんには、何も落ち度はありません。安心してください。",
+    "再撮影になっても、責められているわけではありません。そのまま、検査を任せていただければ大丈夫です。",
+    "この投稿、あとで見返せるように保存しておくと便利です。",
+    "診療放射線技師が答える検査の疑問、フォローしてお待ちください。"
+  ],
+  "durations_seconds": [
+    5.68,
+    3.867,
+    6.992,
+    9.477,
+    5.413,
+    8.389,
+    6.981,
+    4.368,
+    7.056,
+    4.165,
+    4.709
+  ],
+  "total_seconds": 67.099,
+  "voice_audio": "F:\\ANRYCAMPANY\\reel_assets\\repeat_xray_retake_series\\audio\\voice.wav",
+  "asset_video": "F:\\ANRYCAMPANY\\reel_assets\\repeat_xray_retake_series\\レントゲンで再撮影になるのは失敗ですか.mp4",
+  "final_video": "F:\\ANRYCAMPANY\\01_ショート動画_リール_YouTubeShorts\\インスタ完成形\\レントゲンで再撮影になるのは失敗ですか.mp4"
+}

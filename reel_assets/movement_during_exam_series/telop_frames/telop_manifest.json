@@ -1,0 +1,107 @@
+﻿{
+  "title": "検査中に動いてしまったとき",
+  "size": {
+    "width": 1080,
+    "height": 1920
+  },
+  "font": "F:\\ANRYCAMPANY\\reel_assets\\fonts\\M_PLUS_Rounded_1c\\MPLUSRounded1c-Bold.ttf",
+  "style": "white rounded rectangle backing, dark navy M PLUS Rounded 1c Bold text",
+  "frames": [
+    {
+      "source": "F:\\ANRYCAMPANY\\reel_assets\\movement_during_exam_series\\background_frames_no_text\\01_patient_apologetic_no_text.png",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\movement_during_exam_series\\telop_frames\\01_patient_apologetic_telop.png",
+      "telop": [
+        "動いてしまって",
+        "思わず「すみません」"
+      ]
+    },
+    {
+      "source": "F:\\ANRYCAMPANY\\reel_assets\\movement_during_exam_series\\background_frames_no_text\\02_rt_nods_to_patient_no_text.png",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\movement_during_exam_series\\telop_frames\\02_moving_is_common_telop.png",
+      "telop": [
+        "動くこと",
+        "意外とよくあります"
+      ]
+    },
+    {
+      "source": "F:\\ANRYCAMPANY\\reel_assets\\movement_during_exam_series\\background_frames_no_text\\03_rt_reassuring_smile_no_text.png",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\movement_during_exam_series\\telop_frames\\03_no_need_to_apologize_telop.png",
+      "telop": [
+        "謝らなくて",
+        "大丈夫です"
+      ]
+    },
+    {
+      "source": "F:\\ANRYCAMPANY\\reel_assets\\movement_during_exam_series\\background_frames_no_text\\04_rt_control_monitor_no_text.png",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\movement_during_exam_series\\telop_frames\\04_staff_handles_it_telop.png",
+      "telop": [
+        "動いても",
+        "その場で対応しています"
+      ]
+    },
+    {
+      "source": "F:\\ANRYCAMPANY\\reel_assets\\movement_during_exam_series\\background_frames_no_text\\05_rt_checks_xray_monitor_no_text.png",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\movement_during_exam_series\\telop_frames\\05_not_always_big_problem_telop.png",
+      "telop": [
+        "大きな問題とは",
+        "限りません"
+      ]
+    },
+    {
+      "source": "F:\\ANRYCAMPANY\\reel_assets\\movement_during_exam_series\\background_frames_no_text\\06_patient_relaxed_on_table_no_text.png",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\movement_during_exam_series\\telop_frames\\06_body_natural_telop.png",
+      "telop": [
+        "じっとするのは",
+        "難しいものです"
+      ]
+    },
+    {
+      "source": "F:\\ANRYCAMPANY\\reel_assets\\movement_during_exam_series\\background_frames_no_text\\07_support_cushion_xray_room_no_text.png",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\movement_during_exam_series\\telop_frames\\07_positioning_support_telop.png",
+      "telop": [
+        "動きにくいよう",
+        "支える工夫もあります"
+      ]
+    },
+    {
+      "source": "F:\\ANRYCAMPANY\\reel_assets\\movement_during_exam_series\\background_frames_no_text\\08_pre_exam_conversation_no_text.png",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\movement_during_exam_series\\telop_frames\\08_tell_us_telop.png",
+      "telop": [
+        "気になることは",
+        "遠慮なく伝えてください"
+      ]
+    },
+    {
+      "source": "F:\\ANRYCAMPANY\\reel_assets\\movement_during_exam_series\\background_frames_no_text\\09_patient_leaves_relieved_no_text.png",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\movement_during_exam_series\\telop_frames\\09_dont_worry_too_much_telop.png",
+      "telop": [
+        "動いたかも、と思っても",
+        "心配しすぎなくて大丈夫"
+      ]
+    },
+    {
+      "source": "F:\\ANRYCAMPANY\\reel_assets\\movement_during_exam_series\\background_frames_no_text\\10_rt_walks_corridor_no_text.png",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\movement_during_exam_series\\telop_frames\\10_next_topic_telop.png",
+      "telop": [
+        "レントゲンやCTの",
+        "気になるを次回も"
+      ]
+    },
+    {
+      "source": "F:\\ANRYCAMPANY\\reel_assets\\movement_during_exam_series\\background_frames_no_text\\11_smartphone_save_closeup_no_text.png",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\movement_during_exam_series\\telop_frames\\11_save_cta_telop.png",
+      "telop": [
+        "役に立ったら",
+        "保存してください"
+      ]
+    },
+    {
+      "source": "F:\\ANRYCAMPANY\\reel_assets\\movement_during_exam_series\\background_frames_no_text\\12_rt_bow_follow_no_text.png",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\movement_during_exam_series\\telop_frames\\12_follow_cta_telop.png",
+      "telop": [
+        "診療放射線技師の発信",
+        "フォローで応援お願いします"
+      ]
+    }
+  ]
+}
