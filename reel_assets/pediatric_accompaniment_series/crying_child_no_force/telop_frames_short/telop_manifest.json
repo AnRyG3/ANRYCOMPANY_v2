@@ -1,0 +1,110 @@
+[
+  {
+    "source": "frame_01_parent_child_corridor.png",
+    "output": "01_parent_child_corridor_telop.png",
+    "text": "このまま撮るんですか…？",
+    "size": [
+      941,
+      1672
+    ]
+  },
+  {
+    "source": "frame_02_rt_explains.png",
+    "output": "02_rt_explains_telop.png",
+    "text": "無理やり撮りません",
+    "size": [
+      941,
+      1672
+    ]
+  },
+  {
+    "source": "frame_03_child_nervous.png",
+    "output": "03_child_nervous_telop.png",
+    "text": "泣くのには理由があります",
+    "size": [
+      941,
+      1672
+    ]
+  },
+  {
+    "source": "frame_04_child_pov_xray_room.png",
+    "output": "04_child_pov_xray_room_telop.png",
+    "text": "知らない場所は\n怖くて当然",
+    "size": [
+      941,
+      1672
+    ]
+  },
+  {
+    "source": "frame_05_rt_gentle_voice.png",
+    "output": "05_rt_gentle_voice_telop.png",
+    "text": "待つ・声かけを変える",
+    "size": [
+      941,
+      1672
+    ]
+  },
+  {
+    "source": "frame_06_child_calming.png",
+    "output": "06_child_calming_telop.png",
+    "text": "短い撮影なら\nできることも",
+    "size": [
+      941,
+      1672
+    ]
+  },
+  {
+    "source": "frame_07_consult_options.png",
+    "output": "07_consult_options_telop.png",
+    "text": "難しい時は\n別の進め方も",
+    "size": [
+      941,
+      1672
+    ]
+  },
+  {
+    "source": "frame_08_parent_relieved.png",
+    "output": "08_parent_relieved_telop.png",
+    "text": "謝らなくて大丈夫",
+    "size": [
+      941,
+      1672
+    ]
+  },
+  {
+    "source": "frame_09_parent_child_close.png",
+    "output": "09_parent_child_close_telop.png",
+    "text": "不安を伝えるサインです",
+    "size": [
+      941,
+      1672
+    ]
+  },
+  {
+    "source": "frame_10_rt_reassuring.png",
+    "output": "10_rt_reassuring_telop.png",
+    "text": "お子さんのペースで",
+    "size": [
+      940,
+      1672
+    ]
+  },
+  {
+    "source": "frame_11_save_cta_background.png",
+    "output": "11_save_cta_telop.png",
+    "text": "【保存】\nいざという時に",
+    "size": [
+      941,
+      1672
+    ]
+  },
+  {
+    "source": "frame_12_rt_bow_follow.png",
+    "output": "12_follow_cta_telop.png",
+    "text": "フォローで応援お願いします",
+    "size": [
+      941,
+      1672
+    ]
+  }
+]

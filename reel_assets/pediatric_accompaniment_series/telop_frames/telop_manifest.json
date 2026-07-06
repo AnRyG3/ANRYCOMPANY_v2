@@ -1,0 +1,98 @@
+[
+  {
+    "frame": "01_parent_child_anxious_telop.png",
+    "source": "frame_01_parent_child_anxious.png",
+    "telop": [
+      "抱っこしたまま",
+      "付き添える？"
+    ]
+  },
+  {
+    "frame": "02_tech_explains_telop.png",
+    "source": "frame_02_tech_explains.png",
+    "telop": [
+      "検査内容によっては",
+      "付き添えることも"
+    ]
+  },
+  {
+    "frame": "03_child_restless_telop.png",
+    "source": "frame_03_child_restless.png",
+    "telop": [
+      "小さいお子さんは",
+      "じっとするのが難しい"
+    ]
+  },
+  {
+    "frame": "04_parent_reassures_child_telop.png",
+    "source": "frame_04_parent_reassures_child.png",
+    "telop": [
+      "そばにいると",
+      "安心できることも"
+    ]
+  },
+  {
+    "frame": "05_protective_apron_telop.png",
+    "source": "frame_05_protective_apron.png",
+    "telop": [
+      "付き添い時は",
+      "防護エプロンを着用"
+    ]
+  },
+  {
+    "frame": "06_parent_wearing_apron_telop.png",
+    "source": "frame_06_parent_wearing_apron.png",
+    "telop": [
+      "必要のない被ばくを",
+      "できるだけ少なく"
+    ]
+  },
+  {
+    "frame": "07_position_guidance_telop.png",
+    "source": "frame_07_position_guidance.png",
+    "telop": [
+      "抱き方・立ち位置は",
+      "その場で案内します"
+    ]
+  },
+  {
+    "frame": "08_parent_confirms_telop.png",
+    "source": "frame_08_parent_confirms.png",
+    "telop": [
+      "「これで大丈夫？」",
+      "聞いてOK"
+    ]
+  },
+  {
+    "frame": "09_child_calm_telop.png",
+    "source": "frame_09_child_calm.png",
+    "telop": [
+      "そばにいる方が",
+      "スムーズなことも"
+    ]
+  },
+  {
+    "frame": "10_tech_consult_telop.png",
+    "source": "frame_10_tech_consult.png",
+    "telop": [
+      "不安な時は",
+      "まず相談してください"
+    ]
+  },
+  {
+    "frame": "11_save_cta_telop.png",
+    "source": "CTA reference",
+    "telop": [
+      "役に立ったら",
+      "保存してください"
+    ]
+  },
+  {
+    "frame": "12_follow_cta_telop.png",
+    "source": "CTA reference",
+    "telop": [
+      "診療放射線技師の発信",
+      "フォローで応援お願いします"
+    ]
+  }
+]
