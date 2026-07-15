@@ -1,0 +1,93 @@
+﻿{
+  "title": "手術のあと、何度もレントゲンを撮るのはなぜ？",
+  "font": "F:\\ANRYCAMPANY\\reel_assets\\fonts\\M_PLUS_Rounded_1c\\MPLUSRounded1c-Bold.ttf",
+  "style": "white rounded rectangle, dark navy M PLUS Rounded 1c Bold, short key-point telop",
+  "frames": [
+    {
+      "source": "F:\\ANRYCAMPANY\\reel_assets\\postop_xray_followup_images\\frame_01_patient_waiting.png",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\postop_xray_followup_telop_frames\\frame_01_telop.png",
+      "telop": [
+        "またレントゲン？"
+      ]
+    },
+    {
+      "source": "F:\\ANRYCAMPANY\\reel_assets\\postop_xray_followup_images\\frame_02_explanation.png",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\postop_xray_followup_telop_frames\\frame_02_telop.png",
+      "telop": [
+        "術後の状態確認です"
+      ]
+    },
+    {
+      "source": "F:\\ANRYCAMPANY\\reel_assets\\postop_xray_followup_images\\frame_03_monitor_real_xray.png",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\postop_xray_followup_telop_frames\\frame_03_telop.png",
+      "telop": [
+        "金属の位置を確認"
+      ]
+    },
+    {
+      "source": "F:\\ANRYCAMPANY\\reel_assets\\postop_xray_followup_images\\frame_04_plate_screw_explanation.png",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\postop_xray_followup_telop_frames\\frame_04_telop.png",
+      "telop": [
+        "ズレがないか確認"
+      ]
+    },
+    {
+      "source": "F:\\ANRYCAMPANY\\reel_assets\\postop_xray_followup_images\\frame_05_schedule_check.png",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\postop_xray_followup_telop_frames\\frame_05_telop.png",
+      "telop": [
+        "タイミングごとに撮影"
+      ]
+    },
+    {
+      "source": "F:\\ANRYCAMPANY\\reel_assets\\postop_xray_followup_images\\frame_06_xray_comparison.png",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\postop_xray_followup_telop_frames\\frame_06_telop.png",
+      "telop": [
+        "前回画像と比較します"
+      ]
+    },
+    {
+      "source": "F:\\ANRYCAMPANY\\reel_assets\\postop_xray_followup_images\\frame_07_reassuring_talk.png",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\postop_xray_followup_telop_frames\\frame_07_telop.png",
+      "telop": [
+        "回復を見守る検査"
+      ]
+    },
+    {
+      "source": "F:\\ANRYCAMPANY\\reel_assets\\postop_xray_followup_images\\frame_08_xray_preparation.png",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\postop_xray_followup_telop_frames\\frame_08_telop.png",
+      "telop": [
+        "決まった時期に確認"
+      ]
+    },
+    {
+      "source": "F:\\ANRYCAMPANY\\reel_assets\\postop_xray_followup_images\\frame_09_patient_relief.png",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\postop_xray_followup_telop_frames\\frame_09_telop.png",
+      "telop": [
+        "丁寧に見てもらえています"
+      ]
+    },
+    {
+      "source": "F:\\ANRYCAMPANY\\reel_assets\\postop_xray_followup_images\\frame_10_closing_smile.png",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\postop_xray_followup_telop_frames\\frame_10_telop.png",
+      "telop": [
+        "安心して受けてください"
+      ]
+    },
+    {
+      "source": "F:\\ANRYCAMPANY\\reel_assets\\postop_xray_followup_images\\frame_11_cta_save_smartphone.png",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\postop_xray_followup_telop_frames\\frame_11_telop.png",
+      "telop": [
+        "保存して見返せます"
+      ]
+    },
+    {
+      "source": "F:\\ANRYCAMPANY\\reel_assets\\postop_xray_followup_images\\frame_12_cta_bow.png",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\postop_xray_followup_telop_frames\\frame_12_telop.png",
+      "telop": [
+        "診療放射線技師の発信",
+        "フォローで応援お願いします"
+      ]
+    }
+  ],
+  "contact_sheet": "F:\\ANRYCAMPANY\\reel_assets\\postop_xray_followup_telop_frames\\contact_sheet_telop_frames.png"
+}
