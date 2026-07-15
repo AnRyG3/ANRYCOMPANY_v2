@@ -1,0 +1,102 @@
+﻿{
+  "title": "同じ検査なのに前回と撮り方が違う気がする",
+  "font": "F:\\ANRYCAMPANY\\reel_assets\\fonts\\M_PLUS_Rounded_1c\\MPLUSRounded1c-Bold.ttf",
+  "style": "white rounded rectangle, dark navy M PLUS Rounded 1c Bold",
+  "frames": [
+    {
+      "source": "F:\\ANRYCAMPANY\\reel_assets\\same_exam_different_positioning_images\\slide01_patient_puzzled.png",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\same_exam_different_positioning_telop_frames\\slide01_telop.png",
+      "telop": [
+        "前回と違う？"
+      ]
+    },
+    {
+      "source": "F:\\ANRYCAMPANY\\reel_assets\\same_exam_different_positioning_images\\slide02_patient_closeup.png",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\same_exam_different_positioning_telop_frames\\slide02_telop.png",
+      "telop": [
+        "やり方が",
+        "違うのかな"
+      ]
+    },
+    {
+      "source": "F:\\ANRYCAMPANY\\reel_assets\\same_exam_different_positioning_images\\slide03_blurred_room.png",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\same_exam_different_positioning_telop_frames\\slide03_telop.png",
+      "telop": [
+        "同じ検査でも",
+        "微調整します"
+      ]
+    },
+    {
+      "source": "F:\\ANRYCAMPANY\\reel_assets\\same_exam_different_positioning_images\\slide04_hands_adjustment.png",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\same_exam_different_positioning_telop_frames\\slide04_telop.png",
+      "telop": [
+        "支え方を",
+        "少し変えることも"
+      ]
+    },
+    {
+      "source": "F:\\ANRYCAMPANY\\reel_assets\\same_exam_different_positioning_images\\slide05_supported_angle.png",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\same_exam_different_positioning_telop_frames\\slide05_telop.png",
+      "telop": [
+        "楽な姿勢で",
+        "支えます"
+      ]
+    },
+    {
+      "source": "F:\\ANRYCAMPANY\\reel_assets\\same_exam_different_positioning_images\\slide06_monitor_review.png",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\same_exam_different_positioning_telop_frames\\slide06_telop.png",
+      "telop": [
+        "前回画像も",
+        "確認します"
+      ]
+    },
+    {
+      "source": "F:\\ANRYCAMPANY\\reel_assets\\same_exam_different_positioning_images\\slide07_patient_reassured.png",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\same_exam_different_positioning_telop_frames\\slide07_telop.png",
+      "telop": [
+        "毎回見て",
+        "くれているんだ"
+      ]
+    },
+    {
+      "source": "F:\\ANRYCAMPANY\\reel_assets\\same_exam_different_positioning_images\\slide08_explanation.png",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\same_exam_different_positioning_telop_frames\\slide08_telop.png",
+      "telop": [
+        "その日の状態に",
+        "合わせます"
+      ]
+    },
+    {
+      "source": "F:\\ANRYCAMPANY\\reel_assets\\same_exam_different_positioning_images\\slide09_tech_monitor_work.png",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\same_exam_different_positioning_telop_frames\\slide09_telop.png",
+      "telop": [
+        "必要な情報を",
+        "得やすく"
+      ]
+    },
+    {
+      "source": "F:\\ANRYCAMPANY\\reel_assets\\same_exam_different_positioning_images\\slide10_patient_leaving.png",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\same_exam_different_positioning_telop_frames\\slide10_telop.png",
+      "telop": [
+        "理由がある",
+        "調整です"
+      ]
+    },
+    {
+      "source": "F:\\ANRYCAMPANY\\reel_assets\\same_exam_different_positioning_images\\slide11_save_phone.png",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\same_exam_different_positioning_telop_frames\\slide11_telop.png",
+      "telop": [
+        "あとで見返すなら",
+        "保存"
+      ]
+    },
+    {
+      "source": "F:\\ANRYCAMPANY\\reel_assets\\same_exam_different_positioning_images\\slide12_cta_bow.png",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\same_exam_different_positioning_telop_frames\\slide12_telop.png",
+      "telop": [
+        "診療放射線技師の発信",
+        "フォローで応援お願いします"
+      ]
+    }
+  ]
+}

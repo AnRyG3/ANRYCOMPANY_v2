@@ -1,0 +1,110 @@
+﻿{
+  "title": "ギプスをしていても、レントゲンは撮れるの？",
+  "size": {
+    "width": 1080,
+    "height": 1920
+  },
+  "font": "F:\\ANRYCAMPANY\\reel_assets\\fonts\\M_PLUS_Rounded_1c\\MPLUSRounded1c-Bold.ttf",
+  "source_dir": "F:\\ANRYCAMPANY\\reel_assets\\cast_xray_with_cast_samples",
+  "output_dir": "F:\\ANRYCAMPANY\\reel_assets\\cast_xray_with_cast_telop_frames",
+  "contact_sheet": "F:\\ANRYCAMPANY\\reel_assets\\cast_xray_with_cast_telop_frames\\_contact_sheet_telop_12.png",
+  "style": "white rounded rectangle, dark navy, short telop",
+  "frames": [
+    {
+      "source": "frame_01_patient_cast_waiting_sample.png",
+      "output": "frame_01_telop.png",
+      "telop": [
+        "ギプスのまま",
+        "撮れるの？"
+      ]
+    },
+    {
+      "source": "frame_02_rt_guiding_patient_sample.png",
+      "output": "frame_02_telop.png",
+      "telop": [
+        "そのままで",
+        "撮影できます"
+      ]
+    },
+    {
+      "source": "frame_03_cast_explanation_sample.png",
+      "output": "frame_03_telop.png",
+      "telop": [
+        "骨の確認は",
+        "しやすいです"
+      ]
+    },
+    {
+      "source": "frame_04_keep_cast_reassurance_sample.png",
+      "output": "frame_04_telop.png",
+      "telop": [
+        "外さずに",
+        "大丈夫です"
+      ]
+    },
+    {
+      "source": "frame_05_monitor_check_sample.png",
+      "output": "frame_05_telop.png",
+      "telop": [
+        "ギプス越しでも",
+        "確認できます"
+      ]
+    },
+    {
+      "source": "frame_06_rt_positioning_sample.png",
+      "output": "frame_06_telop.png",
+      "telop": [
+        "体位が",
+        "取りにくいことも"
+      ]
+    },
+    {
+      "source": "frame_07_calm_interaction_sample.png",
+      "output": "frame_07_telop.png",
+      "telop": [
+        "少し時間が",
+        "かかることがあります"
+      ]
+    },
+    {
+      "source": "frame_08_angle_adjustment_sample.png",
+      "output": "frame_08_telop.png",
+      "telop": [
+        "向きや角度を",
+        "調整します"
+      ]
+    },
+    {
+      "source": "frame_09_patient_reassured_sample.png",
+      "output": "frame_09_telop.png",
+      "telop": [
+        "ギプスのままで",
+        "問題ありません"
+      ]
+    },
+    {
+      "source": "frame_10_reassuring_end_sample.png",
+      "output": "frame_10_telop.png",
+      "telop": [
+        "安心して",
+        "受けてくださいね"
+      ]
+    },
+    {
+      "source": "frame_11_save_cta_background.png",
+      "output": "frame_11_telop.png",
+      "telop": [
+        "スマホに保存",
+        "しておくと安心"
+      ]
+    },
+    {
+      "source": "frame_12_follow_cta_bow_sample.png",
+      "output": "frame_12_telop.png",
+      "telop": [
+        "診療放射線技師の発信",
+        "フォローで応援お願いします"
+      ]
+    }
+  ]
+}

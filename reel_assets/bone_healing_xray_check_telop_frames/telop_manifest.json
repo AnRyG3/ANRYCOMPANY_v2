@@ -1,0 +1,109 @@
+﻿{
+  "title": "骨がくっついたかどうか、レントゲンだけでわかるの？",
+  "font": "F:\\ANRYCAMPANY\\reel_assets\\fonts\\M_PLUS_Rounded_1c\\MPLUSRounded1c-Bold.ttf",
+  "style": "white rounded rectangle, dark navy M PLUS Rounded 1c Bold, short telop",
+  "frames": [
+    {
+      "source": "F:\\ANRYCAMPANY\\reel_assets\\bone_healing_xray_check_images\\frame_01_patient_waiting.png",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\bone_healing_xray_check_telop_frames\\frame_01_telop.png",
+      "telop": [
+        "骨、くっついたかな…？"
+      ],
+      "y": 210
+    },
+    {
+      "source": "F:\\ANRYCAMPANY\\reel_assets\\bone_healing_xray_check_images\\frame_02_rt_tech_monitor.png",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\bone_healing_xray_check_telop_frames\\frame_02_telop.png",
+      "telop": [
+        "X線写真で確認"
+      ],
+      "y": 210
+    },
+    {
+      "source": "F:\\ANRYCAMPANY\\reel_assets\\bone_healing_xray_check_images\\frame_03_rt_tech_explaining.png",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\bone_healing_xray_check_telop_frames\\frame_03_telop.png",
+      "telop": [
+        "新しい骨",
+        "「仮骨」を見ます"
+      ],
+      "y": 210
+    },
+    {
+      "source": "F:\\ANRYCAMPANY\\reel_assets\\bone_healing_xray_check_images\\frame_04_rt_tech_pointing_monitor.png",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\bone_healing_xray_check_telop_frames\\frame_04_telop.png",
+      "telop": [
+        "骨折線を",
+        "またいでいるか"
+      ],
+      "y": 210
+    },
+    {
+      "source": "F:\\ANRYCAMPANY\\reel_assets\\bone_healing_xray_check_images\\frame_05_rt_tech_positioning.png",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\bone_healing_xray_check_telop_frames\\frame_05_telop.png",
+      "telop": [
+        "はっきり写る向きを意識"
+      ],
+      "y": 210
+    },
+    {
+      "source": "F:\\ANRYCAMPANY\\reel_assets\\bone_healing_xray_check_images\\frame_06_rt_tech_careful_review.png",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\bone_healing_xray_check_telop_frames\\frame_06_telop.png",
+      "telop": [
+        "場所や写り方で",
+        "判断が難しいことも"
+      ],
+      "y": 210
+    },
+    {
+      "source": "F:\\ANRYCAMPANY\\reel_assets\\bone_healing_xray_check_images\\frame_07_guiding_patient.png",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\bone_healing_xray_check_telop_frames\\frame_07_telop.png",
+      "telop": [
+        "必要に応じて",
+        "CTなどで確認"
+      ],
+      "y": 210
+    },
+    {
+      "source": "F:\\ANRYCAMPANY\\reel_assets\\bone_healing_xray_check_images\\frame_08_rt_tech_nodding.png",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\bone_healing_xray_check_telop_frames\\frame_08_telop.png",
+      "telop": [
+        "くっつき方には個人差"
+      ],
+      "y": 210
+    },
+    {
+      "source": "F:\\ANRYCAMPANY\\reel_assets\\bone_healing_xray_check_images\\frame_09_patient_relieved.png",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\bone_healing_xray_check_telop_frames\\frame_09_telop.png",
+      "telop": [
+        "心配しすぎなくて大丈夫"
+      ],
+      "y": 210
+    },
+    {
+      "source": "F:\\ANRYCAMPANY\\reel_assets\\bone_healing_xray_check_images\\frame_10_smiling_exchange.png",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\bone_healing_xray_check_telop_frames\\frame_10_telop.png",
+      "telop": [
+        "医師の判断に沿って確認"
+      ],
+      "y": 210
+    },
+    {
+      "source": "F:\\ANRYCAMPANY\\reel_assets\\bone_healing_xray_check_images\\frame_11_save_cta_background.png",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\bone_healing_xray_check_telop_frames\\frame_11_telop.png",
+      "telop": [
+        "スマホに保存"
+      ],
+      "y": 210
+    },
+    {
+      "source": "F:\\ANRYCAMPANY\\reel_assets\\bone_healing_xray_check_images\\frame_12_rt_tech_bowing.png",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\bone_healing_xray_check_telop_frames\\frame_12_telop.png",
+      "telop": [
+        "診療放射線技師の発信",
+        "フォローで応援お願いします"
+      ],
+      "y": 210
+    }
+  ],
+  "contact_sheet": "F:\\ANRYCAMPANY\\reel_assets\\bone_healing_xray_check_telop_frames\\contact_sheet_telop_frames.png"
+}

@@ -1,0 +1,84 @@
+﻿{
+  "title": "検査のたびに名前や生年月日を聞かれるのはなぜ？",
+  "size": {
+    "width": 1080,
+    "height": 1920
+  },
+  "font": "F:\\ANRYCAMPANY\\reel_assets\\fonts\\M_PLUS_Rounded_1c\\MPLUSRounded1c-Bold.ttf",
+  "style": "white rounded rectangle, dark navy, short telop only",
+  "source_dir": "F:\\ANRYCAMPANY\\reel_assets\\name_dob_check_samples",
+  "output_dir": "F:\\ANRYCAMPANY\\reel_assets\\name_dob_check_telop_frames",
+  "contact_sheet": "F:\\ANRYCAMPANY\\reel_assets\\name_dob_check_telop_frames\\_contact_sheet_name_dob_telop.png",
+  "frames": [
+    {
+      "source": "sample_01_patient_confused.png",
+      "output": "frame_01_telop.png",
+      "telop": [
+        "名前、また聞かれた？"
+      ]
+    },
+    {
+      "source": "frame_02_tech_welcomes_patient.png",
+      "output": "frame_02_telop.png",
+      "telop": [
+        "検査ごとに確認します"
+      ]
+    },
+    {
+      "source": "frame_03_chart_confirmation.png",
+      "output": "frame_03_telop.png",
+      "telop": [
+        "取り違えを防ぐため"
+      ]
+    },
+    {
+      "source": "frame_04_explain_sequence.png",
+      "output": "frame_04_telop.png",
+      "telop": [
+        "確認はこの順番"
+      ]
+    },
+    {
+      "source": "sample_02_identity_check_conversation.png",
+      "output": "frame_05_telop.png",
+      "telop": [
+        "お名前と生年月日"
+      ]
+    },
+    {
+      "source": "frame_06_body_part_confirmation.png",
+      "output": "frame_06_telop.png",
+      "telop": [
+        "撮影部位も確認"
+      ]
+    },
+    {
+      "source": "frame_07_pain_location_check.png",
+      "output": "frame_07_telop.png",
+      "telop": [
+        "痛い場所も確認"
+      ]
+    },
+    {
+      "source": "frame_08_safety_procedure_nod.png",
+      "output": "frame_08_telop.png",
+      "telop": [
+        "安全のための手順"
+      ]
+    },
+    {
+      "source": "frame_09_patient_relieved.png",
+      "output": "frame_09_telop.png",
+      "telop": [
+        "大切にしている証拠"
+      ]
+    },
+    {
+      "source": "frame_10_cta_bow.png",
+      "output": "frame_10_telop.png",
+      "telop": [
+        "保存・フォローで応援"
+      ]
+    }
+  ]
+}

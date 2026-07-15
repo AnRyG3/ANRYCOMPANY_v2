@@ -1,0 +1,53 @@
+﻿{
+  "title": "骨がくっついたかどうか_レントゲンだけでわかるの",
+  "speaker": "VOICEVOX speaker id 20",
+  "voice_speed": 1.2,
+  "bgm": "F:\\ANRYCAMPANY\\01_ショート動画_リール_YouTubeShorts\\インスタリール用\\BGM フリー素材\\Kind_Heart.mp3",
+  "bgm_volume": "-27dB",
+  "frames": [
+    "F:\\ANRYCAMPANY\\reel_assets\\bone_healing_xray_check_telop_frames\\frame_01_telop.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\bone_healing_xray_check_telop_frames\\frame_02_telop.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\bone_healing_xray_check_telop_frames\\frame_03_telop.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\bone_healing_xray_check_telop_frames\\frame_04_telop.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\bone_healing_xray_check_telop_frames\\frame_05_telop.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\bone_healing_xray_check_telop_frames\\frame_06_telop.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\bone_healing_xray_check_telop_frames\\frame_07_telop.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\bone_healing_xray_check_telop_frames\\frame_08_telop.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\bone_healing_xray_check_telop_frames\\frame_09_telop.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\bone_healing_xray_check_telop_frames\\frame_10_telop.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\bone_healing_xray_check_telop_frames\\frame_11_telop.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\bone_healing_xray_check_telop_frames\\frame_12_telop.png"
+  ],
+  "narration": [
+    "そろそろ骨がくっついてる頃かな。レントゲンだけで本当にわかるのかな。そう感じること、ありますよね。",
+    "はい。多くの場合は、X線写真、いわゆるレントゲンで骨のくっつき具合を確認できます。",
+    "骨折した部分には、新しい骨、かこつが少しずつできてきます。",
+    "そのかこつが骨折線をしっかりまたいでいるかどうかを見て、くっつき具合を判断しています。",
+    "私たちが撮影するときも、骨折した部分がはっきり写る向きを意識しています。",
+    "ただ、骨折の場所や写り方によっては、くっつき具合をはっきり判断しづらいこともあります。",
+    "そういうときは、医師の判断でシーティーなどを使って、より詳しく確認することもあります。",
+    "これは骨のくっつき方が一人ひとり違うためで、決して珍しいことではありません。",
+    "レントゲンだけで大丈夫かなと、心配しすぎなくて大丈夫です。必要に応じて丁寧に確認しています。",
+    "次に骨のくっつき具合を確認することがあれば、医師の判断を信頼して、安心してくださいね。",
+    "この投稿、スマートフォンに保存しておくと安心です。",
+    "診療放射線技師の発信。フォローで応援お願いします。"
+  ],
+  "durations_seconds": [
+    6.697,
+    6.494,
+    4.638,
+    5.7,
+    5.2,
+    5.95,
+    5.854,
+    5.15,
+    6.825,
+    6.313,
+    4.0,
+    4.073
+  ],
+  "total_seconds": 66.893,
+  "voice_audio": "F:\\ANRYCAMPANY\\reel_assets\\bone_healing_xray_check_video\\audio\\voice.wav",
+  "asset_video": "F:\\ANRYCAMPANY\\reel_assets\\bone_healing_xray_check_video\\骨がくっついたかどうか_レントゲンだけでわかるの.mp4",
+  "final_video": "F:\\ANRYCAMPANY\\01_ショート動画_リール_YouTubeShorts\\インスタ完成形\\骨がくっついたかどうか_レントゲンだけでわかるの.mp4"
+}

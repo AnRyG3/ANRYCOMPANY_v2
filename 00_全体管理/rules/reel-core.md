@@ -32,6 +32,7 @@ Do not create images, frames, audio, video, or generation scripts before the mat
 
 - If a person appears, use only registered characters under `ANRYCAMPANY/Characters/`.
 - Read `00_全体管理/rules/character-rules.md` before proposing or generating person images.
+- Before generating any person image, pass `00_全体管理/rules/character-generation-gate.md`; if the registered character identity is not locked, stop before generation.
 - For planning, use `ANRYCAMPANY/Characters/_character_quickref.md` and `_patient_clothing_index.md` before opening full Character ID notes.
 
 ## Audio

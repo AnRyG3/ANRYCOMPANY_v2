@@ -1,0 +1,47 @@
+﻿{
+  "title": "検査のたびに名前や生年月日を聞かれるのはなぜ",
+  "speaker": "VOICEVOX speaker id 20",
+  "voice_speed": 1.2,
+  "bgm": "F:\\ANRYCAMPANY\\01_ショート動画_リール_YouTubeShorts\\インスタリール用\\BGM フリー素材\\Kind_Heart.mp3",
+  "bgm_volume": "-27dB",
+  "frames": [
+    "F:\\ANRYCAMPANY\\reel_assets\\name_dob_check_telop_frames\\frame_01_telop.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\name_dob_check_telop_frames\\frame_02_telop.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\name_dob_check_telop_frames\\frame_03_telop.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\name_dob_check_telop_frames\\frame_04_telop.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\name_dob_check_telop_frames\\frame_05_telop.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\name_dob_check_telop_frames\\frame_06_telop.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\name_dob_check_telop_frames\\frame_07_telop.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\name_dob_check_telop_frames\\frame_08_telop.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\name_dob_check_telop_frames\\frame_09_telop.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\name_dob_check_telop_frames\\frame_10_telop.png"
+  ],
+  "narration": [
+    "さっきも名前と生年月日を聞かれたのに、また同じことを聞かれた。そう感じることがあるかもしれません。",
+    "実はこれ、検査ごとに確認している大切な手順です。",
+    "名前と生年月日は、別の人と取り違えていないかを確認するためのものです。",
+    "私たちは検査の前に、まず本人確認を行います。",
+    "おはようございます。お名前と、生年月日を教えてください。",
+    "続いて、本日撮影する部位に間違いがないかも確認します。",
+    "初めて来られたかたには、痛みのある場所も伺うことがあります。",
+    "面倒なことをしているのではなく、安全のために決まっている手順です。",
+    "何度も同じことを聞かれても、それは患者さんを大切にしている証拠です。",
+    "次に検査を受けるときは、確認の意味を知って、安心して答えてくださいね。診療放射線技師の発信、フォローで応援お願いします。"
+  ],
+  "durations_seconds": [
+    6.479,
+    4.036,
+    5.177,
+    3.94,
+    4.495,
+    4.217,
+    4.3,
+    4.708,
+    4.975,
+    9.113
+  ],
+  "total_seconds": 51.44,
+  "voice_audio": "F:\\ANRYCAMPANY\\reel_assets\\name_dob_check_audio\\voice.wav",
+  "asset_video": "F:\\ANRYCAMPANY\\reel_assets\\name_dob_check_video\\検査のたびに名前や生年月日を聞かれるのはなぜ.mp4",
+  "final_video": "F:\\ANRYCAMPANY\\01_ショート動画_リール_YouTubeShorts\\インスタ完成形\\検査のたびに名前や生年月日を聞かれるのはなぜ.mp4"
+}
