@@ -1,19 +1,19 @@
-﻿# PATIENT_F50_001
+# PATIENT_F50_001
 
 ![[reference_sheet.png]]
 
 ## 基本設定
 
-| 項目 | 内容 |
-| --- | --- |
-| Character ID | PATIENT_F50_001 |
-| 職業 | 一般患者 |
-| 年齢 | 52〜58歳 |
-| 性別 | 女性 |
-| 体型 | 健康的な平均体型。活動的な大人の印象。 |
-| 髪型 | ダークブラウンの短めボブ。あご〜フェイスライン程度の長さ。実用的で現代的な髪型。 |
-| 服装 | 現代的なカジュアル服。淡いニュートラルカラーのカーディガン、白系インナー、ライトグレー系パンツ、歩きやすい靴。医療者の制服は着せない。 |
-| 役割 | マンモグラフィ、CT、MRI、骨密度検査、健診、予防医療を受ける50代女性患者の代表。 |
+| 項目           | 内容                                                                  |
+| ------------ | ------------------------------------------------------------------- |
+| Character ID | PATIENT_F50_001                                                     |
+| 職業           | 一般患者                                                                |
+| 年齢           | 52〜58歳                                                              |
+| 性別           | 女性                                                                  |
+| 体型           | 健康的な平均体型。活動的な大人の印象。                                                 |
+| 髪型           | ダークブラウンの短めボブ。あご〜フェイスライン程度の長さ。実用的で現代的な髪型。                            |
+| 服装           | 現代的なカジュアル服。淡いニュートラルカラーのカーディガン、白系インナー、ライトグレー系パンツ、歩きやすい靴。医療者の制服は着せない。 |
+| 役割           | マンモグラフィ、CT、MRI、骨密度検査、健診、予防医療を受ける50代女性患者の代表。                         |
 
 ## 外見
 
@@ -118,3 +118,9 @@ This English section is canonical for Codex and image generation. Use it when ol
 ### Generation Prompt Summary
 
 Japanese female general patient, age 52-58, photorealistic natural lighting, elegant sophisticated Japanese woman, healthy attractive appearance, confident and graceful, health-conscious professional or active adult, natural mature beauty, slightly longer oval face, well-defined facial structure, intelligent expressive eyes, natural smile, refined facial features, healthy natural aging, subtle smile lines, dark brown short bob, chin-length to jaw-length hair, healthy average build, modern neutral casual clothing, cardigan, white inner top, light gray pants, fictional person, not based on any real person or celebrity, character consistency critical.
+
+### Clothing Variants
+
+| Variant | Reference image | Use |
+| --- | --- | --- |
+| Exam gown | `F:\ANRYCAMPANY\ANRYCAMPANY\Characters\_clothing_variants_20260630\PATIENT_F50_001_exam_gown.png` | Light greige patient exam gown, front-view full-body reference. |

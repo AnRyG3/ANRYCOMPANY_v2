@@ -1,0 +1,136 @@
+﻿{
+  "title": "レントゲンって、実は人の名前だった？",
+  "font": "F:\\ANRYCAMPANY\\reel_assets\\fonts\\M_PLUS_Rounded_1c\\MPLUSRounded1c-Bold.ttf",
+  "style": "M PLUS Rounded 1c Bold, dark navy text, white rounded rectangle, short key-point telop",
+  "frames": [
+    {
+      "source": "F:\\ANRYCAMPANY\\reel_assets\\roentgen_name_origin_samples\\frame_01_opening_roentgen_portrait.png",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\roentgen_name_origin_telop_frames\\frame_01_telop.png",
+      "telop": [
+        "レントゲンは",
+        "人の名前"
+      ],
+      "position": "bottom",
+      "accent": "yellow"
+    },
+    {
+      "source": "F:\\ANRYCAMPANY\\reel_assets\\roentgen_name_origin_samples\\frame_02_patient_surprised_xray_room.png",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\roentgen_name_origin_telop_frames\\frame_02_telop.png",
+      "telop": [
+        "検査名じゃないの？"
+      ],
+      "position": "top",
+      "accent": "yellow"
+    },
+    {
+      "source": "F:\\ANRYCAMPANY\\reel_assets\\roentgen_name_origin_samples\\frame_03_roentgen_historical_lab.png",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\roentgen_name_origin_telop_frames\\frame_03_telop.png",
+      "telop": [
+        "ドイツの物理学者",
+        "レントゲンさん"
+      ],
+      "position": "top",
+      "accent": "blue"
+    },
+    {
+      "source": "F:\\ANRYCAMPANY\\reel_assets\\roentgen_name_origin_samples\\frame_04_wife_hand_xray.png",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\roentgen_name_origin_telop_frames\\frame_04_telop.png",
+      "telop": [
+        "X線を発見した人"
+      ],
+      "position": "top",
+      "accent": "blue"
+    },
+    {
+      "source": "F:\\ANRYCAMPANY\\reel_assets\\roentgen_name_origin_samples\\frame_05_rt_explains_monitor.png",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\roentgen_name_origin_telop_frames\\frame_05_telop.png",
+      "telop": [
+        "本来の正式名では",
+        "ありません"
+      ],
+      "position": "top",
+      "accent": "blue"
+    },
+    {
+      "source": "F:\\ANRYCAMPANY\\reel_assets\\roentgen_name_origin_samples\\frame_06_generic_order_screen_blank.png",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\roentgen_name_origin_telop_frames\\frame_06_telop.png",
+      "telop": [
+        "正確には",
+        "X線写真・X線検査"
+      ],
+      "position": "top",
+      "accent": "blue"
+    },
+    {
+      "source": "F:\\ANRYCAMPANY\\reel_assets\\roentgen_name_origin_samples\\frame_07_hospital_reception_xray_area.png",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\roentgen_name_origin_telop_frames\\frame_07_telop.png",
+      "telop": [
+        "日本では",
+        "レントゲンが定着"
+      ],
+      "position": "top",
+      "accent": "yellow"
+    },
+    {
+      "source": "F:\\ANRYCAMPANY\\reel_assets\\roentgen_name_origin_samples\\frame_08_rt_explains_to_patient.png",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\roentgen_name_origin_telop_frames\\frame_08_telop.png",
+      "telop": [
+        "伝わりやすく",
+        "現場でも使います"
+      ],
+      "position": "top",
+      "accent": "blue"
+    },
+    {
+      "source": "F:\\ANRYCAMPANY\\reel_assets\\roentgen_name_origin_samples\\frame_09_rt_reviews_xray.png",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\roentgen_name_origin_telop_frames\\frame_09_telop.png",
+      "telop": [
+        "正式には",
+        "X線写真"
+      ],
+      "position": "top",
+      "accent": "blue"
+    },
+    {
+      "source": "F:\\ANRYCAMPANY\\reel_assets\\roentgen_name_origin_samples\\frame_10_roentgen_to_modern_xray.png",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\roentgen_name_origin_telop_frames\\frame_10_telop.png",
+      "telop": [
+        "人名が",
+        "検査名として広まった"
+      ],
+      "position": "bottom",
+      "accent": "yellow"
+    },
+    {
+      "source": "F:\\ANRYCAMPANY\\reel_assets\\roentgen_name_origin_samples\\frame_11_patient_reassured.png",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\roentgen_name_origin_telop_frames\\frame_11_telop.png",
+      "telop": [
+        "次に聞いたら",
+        "思い出してみて"
+      ],
+      "position": "top",
+      "accent": "yellow"
+    },
+    {
+      "source": "F:\\ANRYCAMPANY\\reel_assets\\roentgen_name_origin_samples\\frame_12_save_cta_phone_ui.png",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\roentgen_name_origin_telop_frames\\frame_12_telop.png",
+      "telop": [
+        "保存して",
+        "見返してください"
+      ],
+      "position": "top",
+      "accent": "yellow"
+    },
+    {
+      "source": "F:\\ANRYCAMPANY\\reel_assets\\roentgen_name_origin_samples\\frame_13_follow_cta_rt_bow.png",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\roentgen_name_origin_telop_frames\\frame_13_telop.png",
+      "telop": [
+        "診療放射線技師の発信",
+        "フォローで応援お願いします"
+      ],
+      "position": "top",
+      "accent": "blue"
+    }
+  ],
+  "contact_sheet": "F:\\ANRYCAMPANY\\reel_assets\\roentgen_name_origin_telop_frames\\contact_sheet_telop_frames.png"
+}

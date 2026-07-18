@@ -7,6 +7,8 @@ Use this file when creating or updating posting notes.
 - Keep descriptions calm and practical.
 - End with a save/check CTA when suitable.
 - Do not include `#ANRYCAMPANY` in hashtags.
+- Keep hashtags to only the necessary tags. Default to 6-8 tags, and do not exceed 10 unless the user explicitly asks.
+- Choose hashtags from: main exam/topic, patient concern, clinical category, audience intent, and `#診療放射線技師`. Avoid broad filler or duplicate-meaning tags.
 - When a final video is approved with phrases such as "動画OK", "これでOK", or "採用", present posting title, description, and hashtags in chat unless it is unclear whether the approval is for the official final file.
 
 ## Required Fields

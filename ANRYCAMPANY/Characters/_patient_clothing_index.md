@@ -59,3 +59,13 @@
 
 - 季節別患者服一覧: `F:\ANRYCAMPANY\reel_assets\character_references\patients\selected_patient_season_refs_contact_sheet.png`
 - 検査着・看護師服一覧: `F:\ANRYCAMPANY\ANRYCAMPANY\Characters\_clothing_variants_20260630\clothing_variants_contact_sheet.png`
+
+## Readable Patient Clothing Index Addendum
+
+This English section is canonical for the newly added exam gown variants.
+
+| Character ID | Variant | Reference image | Use |
+| --- | --- | --- | --- |
+| PATIENT_F50_001 | Exam gown | `F:\ANRYCAMPANY\ANRYCAMPANY\Characters\_clothing_variants_20260630\PATIENT_F50_001_exam_gown.png` | Light greige patient exam gown, front-view full-body reference. |
+| PATIENT_F70_001 | Exam gown | `F:\ANRYCAMPANY\ANRYCAMPANY\Characters\_clothing_variants_20260630\PATIENT_F70_001_exam_gown.png` | Light greige patient exam gown, front-view full-body reference. |
+| PATIENT_M70_001 | Exam gown | `F:\ANRYCAMPANY\ANRYCAMPANY\Characters\_clothing_variants_20260630\PATIENT_M70_001_exam_gown.png` | Light greige patient exam gown, front-view full-body reference. |
