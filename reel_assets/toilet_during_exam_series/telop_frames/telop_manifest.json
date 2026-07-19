@@ -1,0 +1,107 @@
+﻿{
+  "title": "トイレに行きたくなった、途中で言っていいの?",
+  "size": {
+    "width": 1080,
+    "height": 1920
+  },
+  "font": "F:\\ANRYCAMPANY\\reel_assets\\fonts\\M_PLUS_Rounded_1c\\MPLUSRounded1c-Bold.ttf",
+  "style": "white rounded rectangle backing, dark navy M PLUS Rounded 1c Bold text",
+  "frames": [
+    {
+      "source": "F:\\ANRYCAMPANY\\reel_assets\\toilet_during_exam_series\\images\\01_patient_mri_flatbed.png",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\toilet_during_exam_series\\telop_frames\\01_patient_mri_flatbed_telop.png",
+      "telop": [
+        "検査中に",
+        "トイレに行きたい…"
+      ]
+    },
+    {
+      "source": "F:\\ANRYCAMPANY\\reel_assets\\toilet_during_exam_series\\images\\02_patient_mri_hesitate.png",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\toilet_during_exam_series\\telop_frames\\02_patient_mri_hesitate_telop.png",
+      "telop": [
+        "あと少しだし",
+        "今さら言えない…"
+      ]
+    },
+    {
+      "source": "F:\\ANRYCAMPANY\\reel_assets\\toilet_during_exam_series\\images\\03_rt_pre_exam_guidance.png",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\toilet_during_exam_series\\telop_frames\\03_rt_pre_exam_guidance_telop.png",
+      "telop": [
+        "MRIは",
+        "時間がかかることも"
+      ]
+    },
+    {
+      "source": "F:\\ANRYCAMPANY\\reel_assets\\toilet_during_exam_series\\images\\04_rt_reassure.png",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\toilet_during_exam_series\\telop_frames\\04_rt_reassure_telop.png",
+      "telop": [
+        "途中でつらくなることも",
+        "あります"
+      ]
+    },
+    {
+      "source": "F:\\ANRYCAMPANY\\reel_assets\\toilet_during_exam_series\\images\\05_rt_ct_bladder_explain.png",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\toilet_during_exam_series\\telop_frames\\05_rt_ct_bladder_explain_telop.png",
+      "telop": [
+        "検査によっては",
+        "尿をためる場合も"
+      ]
+    },
+    {
+      "source": "F:\\ANRYCAMPANY\\reel_assets\\toilet_during_exam_series\\images\\06_rt_ct_purpose.png",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\toilet_during_exam_series\\telop_frames\\06_rt_ct_purpose_telop.png",
+      "telop": [
+        "それは",
+        "検査目的があるため"
+      ]
+    },
+    {
+      "source": "F:\\ANRYCAMPANY\\reel_assets\\toilet_during_exam_series\\images\\07_rt_patient_consult.png",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\toilet_during_exam_series\\telop_frames\\07_rt_patient_consult_telop.png",
+      "telop": [
+        "つらい時は",
+        "その場で伝えてOK"
+      ]
+    },
+    {
+      "source": "F:\\ANRYCAMPANY\\reel_assets\\toilet_during_exam_series\\images\\08_patient_relieved.png",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\toilet_during_exam_series\\telop_frames\\08_patient_relieved_telop.png",
+      "telop": [
+        "「こんなことで」は",
+        "気にしなくて大丈夫"
+      ]
+    },
+    {
+      "source": "F:\\ANRYCAMPANY\\reel_assets\\toilet_during_exam_series\\images\\09_rt_table_pause_explain.png",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\toilet_during_exam_series\\telop_frames\\09_rt_table_pause_explain_telop.png",
+      "telop": [
+        "続けるか中断するか",
+        "一緒に判断します"
+      ]
+    },
+    {
+      "source": "F:\\ANRYCAMPANY\\reel_assets\\toilet_during_exam_series\\images\\10_patient_safe_return.png",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\toilet_during_exam_series\\telop_frames\\10_patient_safe_return_telop.png",
+      "telop": [
+        "我慢せず",
+        "伝えてください"
+      ]
+    },
+    {
+      "source": "F:\\ANRYCAMPANY\\reel_assets\\toilet_during_exam_series\\images\\11_smartphone_save.png",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\toilet_during_exam_series\\telop_frames\\11_smartphone_save_telop.png",
+      "telop": [
+        "検査前に見返せるよう",
+        "保存しておいてください"
+      ]
+    },
+    {
+      "source": "F:\\ANRYCAMPANY\\reel_assets\\toilet_during_exam_series\\images\\12_rt_bow_follow.png",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\toilet_during_exam_series\\telop_frames\\12_rt_bow_follow_telop.png",
+      "telop": [
+        "診療放射線技師の発信",
+        "フォローで応援お願いします"
+      ]
+    }
+  ]
+}
