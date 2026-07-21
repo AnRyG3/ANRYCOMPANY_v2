@@ -1,0 +1,90 @@
+﻿{
+  "font": "F:\\ANRYCAMPANY\\reel_assets\\fonts\\M_PLUS_Rounded_1c\\MPLUSRounded1c-Bold.ttf",
+  "style": "white rounded rectangle, dark navy M PLUS Rounded 1c Bold",
+  "frames": [
+    {
+      "source": "F:\\ANRYCAMPANY\\reel_assets\\mri_series\\exam_discomfort_tell_staff_m70\\image_frames\\frame01_patient_flat_mri.png",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\mri_series\\exam_discomfort_tell_staff_m70\\text_frames\\frame01_telop.png",
+      "telop": [
+        "急に、息が苦しい…"
+      ],
+      "y": 250
+    },
+    {
+      "source": "F:\\ANRYCAMPANY\\reel_assets\\mri_series\\exam_discomfort_tell_staff_m70\\image_frames\\frame02_staff_call_button_flat.png",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\mri_series\\exam_discomfort_tell_staff_m70\\text_frames\\frame02_telop.png",
+      "telop": [
+        "迷惑かな、と迷ったら"
+      ],
+      "y": 250
+    },
+    {
+      "source": "F:\\ANRYCAMPANY\\reel_assets\\mri_series\\exam_discomfort_tell_staff_m70\\image_frames\\frame03_staff_reassures.png",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\mri_series\\exam_discomfort_tell_staff_m70\\text_frames\\frame03_telop.png",
+      "telop": [
+        "我慢せず、すぐ伝えて"
+      ],
+      "y": 250
+    },
+    {
+      "source": "F:\\ANRYCAMPANY\\reel_assets\\mri_series\\exam_discomfort_tell_staff_m70\\image_frames\\frame04_call_button_closeup.png",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\mri_series\\exam_discomfort_tell_staff_m70\\text_frames\\frame04_telop.png",
+      "telop": [
+        "ブザーやマイクで伝えられます"
+      ],
+      "y": 250
+    },
+    {
+      "source": "F:\\ANRYCAMPANY\\reel_assets\\mri_series\\exam_discomfort_tell_staff_m70\\image_frames\\frame05_staff_responds_control_room.png",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\mri_series\\exam_discomfort_tell_staff_m70\\text_frames\\frame05_telop.png",
+      "telop": [
+        "必要に応じて",
+        "いったん止めて対応します"
+      ],
+      "y": 250
+    },
+    {
+      "source": "F:\\ANRYCAMPANY\\reel_assets\\mri_series\\exam_discomfort_tell_staff_m70\\image_frames\\frame06_staff_intercom.png",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\mri_series\\exam_discomfort_tell_staff_m70\\text_frames\\frame06_telop.png",
+      "telop": [
+        "体調の変化も",
+        "大切な情報です"
+      ],
+      "y": 250
+    },
+    {
+      "source": "F:\\ANRYCAMPANY\\reel_assets\\mri_series\\exam_discomfort_tell_staff_m70\\image_frames\\frame07_patient_call_button.png",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\mri_series\\exam_discomfort_tell_staff_m70\\text_frames\\frame07_telop.png",
+      "telop": [
+        "「苦しいです」だけでもOK"
+      ],
+      "y": 250
+    },
+    {
+      "source": "F:\\ANRYCAMPANY\\reel_assets\\mri_series\\exam_discomfort_tell_staff_m70\\image_frames\\frame08_patient_reassured_flat.png",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\mri_series\\exam_discomfort_tell_staff_m70\\text_frames\\frame08_telop.png",
+      "telop": [
+        "伝えることは、迷惑じゃない"
+      ],
+      "y": 250
+    },
+    {
+      "source": "F:\\ANRYCAMPANY\\reel_assets\\mri_series\\exam_discomfort_tell_staff_m70\\image_frames\\frame09_save_cta_background.png",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\mri_series\\exam_discomfort_tell_staff_m70\\text_frames\\frame09_telop.png",
+      "telop": [
+        "検査前に見返せるよう",
+        "保存しておいてください"
+      ],
+      "y": 250
+    },
+    {
+      "source": "F:\\ANRYCAMPANY\\reel_assets\\mri_series\\exam_discomfort_tell_staff_m70\\image_frames\\frame10_follow_cta_staff.png",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\mri_series\\exam_discomfort_tell_staff_m70\\text_frames\\frame10_telop.png",
+      "telop": [
+        "フォローして",
+        "一緒に不安を減らそう"
+      ],
+      "y": 250
+    }
+  ]
+}
