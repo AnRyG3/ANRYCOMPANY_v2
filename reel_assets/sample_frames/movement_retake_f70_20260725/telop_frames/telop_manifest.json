@@ -1,0 +1,111 @@
+﻿{
+  "title": "検査中に動いてしまったら",
+  "size": {
+    "width": 1080,
+    "height": 1920
+  },
+  "font": "F:\\ANRYCAMPANY\\reel_assets\\fonts\\M_PLUS_Rounded_1c\\MPLUSRounded1c-Bold.ttf",
+  "style": "white rounded rectangle, dark navy M PLUS Rounded 1c Bold, short telop",
+  "frames": [
+    {
+      "source": "F:\\ANRYCAMPANY\\reel_assets\\sample_frames\\movement_retake_f70_20260725\\frame_01_patient_on_table_sample.png",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\sample_frames\\movement_retake_f70_20260725\\telop_frames\\frame_01_telop.png",
+      "telop": [
+        "動いてしまったら",
+        "撮り直し？"
+      ],
+      "y": "center"
+    },
+    {
+      "source": "F:\\ANRYCAMPANY\\reel_assets\\sample_frames\\movement_retake_f70_20260725\\frame_02_patient_after_exam_sample.png",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\sample_frames\\movement_retake_f70_20260725\\telop_frames\\frame_02_telop.png",
+      "telop": [
+        "迷惑だったかな…",
+        "と感じることも"
+      ],
+      "y": "center"
+    },
+    {
+      "source": "F:\\ANRYCAMPANY\\reel_assets\\sample_frames\\movement_retake_f70_20260725\\frame_03_rt_patient_talk_sample.png",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\sample_frames\\movement_retake_f70_20260725\\telop_frames\\frame_03_telop.png",
+      "telop": [
+        "その気持ち",
+        "自然です"
+      ],
+      "y": "center"
+    },
+    {
+      "source": "F:\\ANRYCAMPANY\\reel_assets\\sample_frames\\movement_retake_f70_20260725\\frame_04_flat_exam_room_sample.png",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\sample_frames\\movement_retake_f70_20260725\\telop_frames\\frame_04_telop.png",
+      "telop": [
+        "同じ姿勢は",
+        "意外と難しい"
+      ],
+      "y": "center"
+    },
+    {
+      "source": "F:\\ANRYCAMPANY\\reel_assets\\sample_frames\\movement_retake_f70_20260725\\frame_05_rt_control_sample.png",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\sample_frames\\movement_retake_f70_20260725\\telop_frames\\frame_05_telop.png",
+      "telop": [
+        "現場では",
+        "想定しています"
+      ],
+      "y": 560
+    },
+    {
+      "source": "F:\\ANRYCAMPANY\\reel_assets\\sample_frames\\movement_retake_f70_20260725\\frame_06_rt_patient_explain_sample.png",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\sample_frames\\movement_retake_f70_20260725\\telop_frames\\frame_06_telop.png",
+      "telop": [
+        "できない場面も",
+        "確認しながら"
+      ],
+      "y": "center"
+    },
+    {
+      "source": "F:\\ANRYCAMPANY\\reel_assets\\sample_frames\\movement_retake_f70_20260725\\frame_07_monitor_review_sample.png",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\sample_frames\\movement_retake_f70_20260725\\telop_frames\\frame_07_telop.png",
+      "telop": [
+        "必要な時は",
+        "医師にも確認"
+      ],
+      "y": "center"
+    },
+    {
+      "source": "F:\\ANRYCAMPANY\\reel_assets\\sample_frames\\movement_retake_f70_20260725\\frame_08_patient_bracing_needs_flat_review_sample.png",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\sample_frames\\movement_retake_f70_20260725\\telop_frames\\frame_08_telop.png",
+      "telop": [
+        "また動いたら…",
+        "不安になりますよね"
+      ],
+      "y": "center"
+    },
+    {
+      "source": "F:\\ANRYCAMPANY\\reel_assets\\sample_frames\\movement_retake_f70_20260725\\frame_09_together_consult_sample.png",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\sample_frames\\movement_retake_f70_20260725\\telop_frames\\frame_09_telop.png",
+      "telop": [
+        "遠慮せず",
+        "伝えてください"
+      ],
+      "y": "center"
+    },
+    {
+      "source": "F:\\ANRYCAMPANY\\reel_assets\\sample_frames\\movement_retake_f70_20260725\\frame_10_save_cta_bg_sample.png",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\sample_frames\\movement_retake_f70_20260725\\telop_frames\\frame_10_telop.png",
+      "telop": [
+        "不安な時のために",
+        "保存してください"
+      ],
+      "y": "center"
+    },
+    {
+      "source": "F:\\ANRYCAMPANY\\reel_assets\\sample_frames\\movement_retake_f70_20260725\\frame_11_follow_cta_bg_sample.png",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\sample_frames\\movement_retake_f70_20260725\\telop_frames\\frame_11_telop.png",
+      "telop": [
+        "検査のこと",
+        "一緒に考えます"
+      ],
+      "y": "center"
+    }
+  ],
+  "contact_sheet": "F:\\ANRYCAMPANY\\reel_assets\\sample_frames\\movement_retake_f70_20260725\\contact_sheet_telop_frames.png"
+}
