@@ -1,0 +1,34 @@
+{
+  "folders": [
+    {
+      "name": "ブログ制作",
+      "path": "03_ブログ"
+    },
+    {
+      "name": "Obsidian管理メモ",
+      "path": "ANRYCAMPANY"
+    },
+    {
+      "name": "全体管理",
+      "path": "00_全体管理"
+    },
+    {
+      "name": "生成画像",
+      "path": "codex_generated_images"
+    },
+    {
+      "name": "制作ツール",
+      "path": "tools"
+    }
+  ],
+  "settings": {
+    "files.exclude": {
+      "**/.git": true,
+      "**/_codex_tmp": true
+    },
+    "search.exclude": {
+      "**/reel_assets": true,
+      "**/_codex_tmp": true
+    }
+  }
+}

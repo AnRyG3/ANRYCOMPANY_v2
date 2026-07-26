@@ -1,0 +1,34 @@
+{
+  "folders": [
+    {
+      "name": "動画制作",
+      "path": "01_ショート動画_リール_YouTubeShorts"
+    },
+    {
+      "name": "動画素材",
+      "path": "reel_assets"
+    },
+    {
+      "name": "制作ツール",
+      "path": "tools"
+    },
+    {
+      "name": "全体管理",
+      "path": "00_全体管理"
+    },
+    {
+      "name": "Obsidian管理メモ",
+      "path": "ANRYCAMPANY"
+    }
+  ],
+  "settings": {
+    "files.exclude": {
+      "**/.git": true,
+      "**/_codex_tmp": true
+    },
+    "search.exclude": {
+      "**/codex_generated_images": true,
+      "**/_codex_tmp": true
+    }
+  }
+}
