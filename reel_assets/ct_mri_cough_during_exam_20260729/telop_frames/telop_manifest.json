@@ -1,0 +1,100 @@
+﻿{
+  "title": "検査中に咳が出そうなとき、我慢しなくて大丈夫？",
+  "font": "F:\\ANRYCAMPANY\\reel_assets\\fonts\\M_PLUS_Rounded_1c\\MPLUSRounded1c-Bold.ttf",
+  "style": "white rounded rectangle backing, dark navy M PLUS Rounded 1c Bold, key words only accented",
+  "size": {
+    "width": 1080,
+    "height": 1920
+  },
+  "frames": [
+    {
+      "source": "F:\\ANRYCAMPANY\\reel_assets\\ct_mri_cough_during_exam_20260729\\image_frames\\s01_patient_cough_urge.png",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\ct_mri_cough_during_exam_20260729\\telop_frames\\s01_patient_cough_urge_telop.png",
+      "telop": [
+        "咳が出そう…",
+        "我慢しないとダメ？"
+      ]
+    },
+    {
+      "source": "F:\\ANRYCAMPANY\\reel_assets\\ct_mri_cough_during_exam_20260729\\image_frames\\s02_worried_about_disturbing_image.png",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\ct_mri_cough_during_exam_20260729\\telop_frames\\s02_worried_about_disturbing_image_telop.png",
+      "telop": [
+        "迷惑かも…と",
+        "不安になりますよね"
+      ]
+    },
+    {
+      "source": "F:\\ANRYCAMPANY\\reel_assets\\ct_mri_cough_during_exam_20260729\\image_frames\\s03_pre_exam_reassurance.png",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\ct_mri_cough_during_exam_20260729\\telop_frames\\s03_pre_exam_reassurance_telop.png",
+      "telop": [
+        "その気持ち",
+        "おかしくありません"
+      ]
+    },
+    {
+      "source": "F:\\ANRYCAMPANY\\reel_assets\\ct_mri_cough_during_exam_20260729\\image_frames\\s04_exam_room_environment.png",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\ct_mri_cough_during_exam_20260729\\telop_frames\\s04_exam_room_environment_telop.png",
+      "telop": [
+        "検査中の咳は",
+        "珍しくありません"
+      ]
+    },
+    {
+      "source": "F:\\ANRYCAMPANY\\reel_assets\\ct_mri_cough_during_exam_20260729\\image_frames\\s05_body_tension_from_overholding.png",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\ct_mri_cough_during_exam_20260729\\telop_frames\\s05_body_tension_from_overholding_telop.png",
+      "telop": [
+        "我慢しすぎると",
+        "力が入ることも"
+      ]
+    },
+    {
+      "source": "F:\\ANRYCAMPANY\\reel_assets\\ct_mri_cough_during_exam_20260729\\image_frames\\s06_staff_can_confirm.png",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\ct_mri_cough_during_exam_20260729\\telop_frames\\s06_staff_can_confirm_telop.png",
+      "telop": [
+        "咳が出たことも",
+        "スタッフ側で確認できます"
+      ]
+    },
+    {
+      "source": "F:\\ANRYCAMPANY\\reel_assets\\ct_mri_cough_during_exam_20260729\\image_frames\\s07_image_review_workstation.png",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\ct_mri_cough_during_exam_20260729\\telop_frames\\s07_image_review_workstation_telop.png",
+      "telop": [
+        "必要に応じて",
+        "画像を確認します"
+      ]
+    },
+    {
+      "source": "F:\\ANRYCAMPANY\\reel_assets\\ct_mri_cough_during_exam_20260729\\image_frames\\s08_hesitating_to_signal.png",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\ct_mri_cough_during_exam_20260729\\telop_frames\\s08_hesitating_to_signal_telop.png",
+      "telop": [
+        "知らせていいか",
+        "迷うときもあります"
+      ]
+    },
+    {
+      "source": "F:\\ANRYCAMPANY\\reel_assets\\ct_mri_cough_during_exam_20260729\\image_frames\\s09_staff_intercom_reassurance.png",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\ct_mri_cough_during_exam_20260729\\telop_frames\\s09_staff_intercom_reassurance_telop.png",
+      "telop": [
+        "つらいときは",
+        "遠慮なく知らせてください"
+      ]
+    },
+    {
+      "source": "F:\\ANRYCAMPANY\\reel_assets\\ct_mri_cough_during_exam_20260729\\image_frames\\s10_cta_save_smartphone.png",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\ct_mri_cough_during_exam_20260729\\telop_frames\\s10_cta_save_smartphone_telop.png",
+      "telop": [
+        "不安なとき用に",
+        "保存しておいてください"
+      ]
+    },
+    {
+      "source": "F:\\ANRYCAMPANY\\reel_assets\\ct_mri_cough_during_exam_20260729\\image_frames\\s11_cta_follow_rt_tech.png",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\ct_mri_cough_during_exam_20260729\\telop_frames\\s11_cta_follow_rt_tech_telop.png",
+      "telop": [
+        "検査のこと",
+        "一緒に考えていきます"
+      ]
+    }
+  ],
+  "contact_sheet": "F:\\ANRYCAMPANY\\reel_assets\\ct_mri_cough_during_exam_20260729\\contact_sheet_telop_frames.png"
+}
