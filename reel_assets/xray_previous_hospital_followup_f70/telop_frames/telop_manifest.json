@@ -1,0 +1,123 @@
+﻿{
+  "title": "前の病院でも撮ったのに、また撮るんですか？",
+  "size": {
+    "width": 1080,
+    "height": 1920
+  },
+  "font": "F:\\ANRYCAMPANY\\reel_assets\\fonts\\M_PLUS_Rounded_1c\\MPLUSRounded1c-Bold.ttf",
+  "style": "white rounded rectangle 94% opacity, dark navy text, teal emphasis words, M PLUS Rounded 1c Bold",
+  "frames": [
+    {
+      "source": "F:\\ANRYCAMPANY\\reel_assets\\xray_previous_hospital_followup_f70\\frame_01_patient_question.png",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\xray_previous_hospital_followup_f70\\telop_frames\\frame_01_telop.png",
+      "telop": [
+        "前の病院でも撮ったのに？"
+      ],
+      "emphasis": [
+        "前の病院でも"
+      ]
+    },
+    {
+      "source": "F:\\ANRYCAMPANY\\reel_assets\\xray_previous_hospital_followup_f70\\frame_02_repeat_uncertainty.png",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\xray_previous_hospital_followup_f70\\telop_frames\\frame_02_telop.png",
+      "telop": [
+        "くり返す意味があるのかな"
+      ],
+      "emphasis": [
+        "くり返す意味"
+      ]
+    },
+    {
+      "source": "F:\\ANRYCAMPANY\\reel_assets\\xray_previous_hospital_followup_f70\\frame_03_rt_listening.png",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\xray_previous_hospital_followup_f70\\telop_frames\\frame_03_telop.png",
+      "telop": [
+        "その気持ち、自然です"
+      ],
+      "emphasis": [
+        "その気持ち"
+      ]
+    },
+    {
+      "source": "F:\\ANRYCAMPANY\\reel_assets\\xray_previous_hospital_followup_f70\\frame_04_doctor_comparison.png",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\xray_previous_hospital_followup_f70\\telop_frames\\frame_04_telop.png",
+      "telop": [
+        "前の画像との比較が大切"
+      ],
+      "emphasis": [
+        "前の画像",
+        "比較"
+      ]
+    },
+    {
+      "source": "F:\\ANRYCAMPANY\\reel_assets\\xray_previous_hospital_followup_f70\\frame_05_single_image_context.png",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\xray_previous_hospital_followup_f70\\telop_frames\\frame_05_telop.png",
+      "telop": [
+        "1枚だけでは分かりにくいことも"
+      ],
+      "emphasis": [
+        "1枚だけ"
+      ]
+    },
+    {
+      "source": "F:\\ANRYCAMPANY\\reel_assets\\xray_previous_hospital_followup_f70\\frame_06_side_by_side_xray.png",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\xray_previous_hospital_followup_f70\\telop_frames\\frame_06_telop.png",
+      "telop": [
+        "変化が見えてきます"
+      ],
+      "emphasis": [
+        "変化"
+      ]
+    },
+    {
+      "source": "F:\\ANRYCAMPANY\\reel_assets\\xray_previous_hospital_followup_f70\\frame_07_prior_image_handoff.png",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\xray_previous_hospital_followup_f70\\telop_frames\\frame_07_telop.png",
+      "telop": [
+        "前の画像が診断の助けに"
+      ],
+      "emphasis": [
+        "前の画像"
+      ]
+    },
+    {
+      "source": "F:\\ANRYCAMPANY\\reel_assets\\xray_previous_hospital_followup_f70\\frame_08_repeat_question.png",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\xray_previous_hospital_followup_f70\\telop_frames\\frame_08_telop.png",
+      "telop": [
+        "何度も撮る意味あるのかな"
+      ],
+      "emphasis": [
+        "何度も撮る意味"
+      ]
+    },
+    {
+      "source": "F:\\ANRYCAMPANY\\reel_assets\\xray_previous_hospital_followup_f70\\frame_09_doctor_reassurance.png",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\xray_previous_hospital_followup_f70\\telop_frames\\frame_09_telop.png",
+      "telop": [
+        "回復の道すじを確認します"
+      ],
+      "emphasis": [
+        "回復の道すじ"
+      ]
+    },
+    {
+      "source": "F:\\ANRYCAMPANY\\reel_assets\\xray_previous_hospital_followup_f70\\frame_10_save_cta_bg.png",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\xray_previous_hospital_followup_f70\\telop_frames\\frame_10_telop.png",
+      "telop": [
+        "保存して見返せます"
+      ],
+      "emphasis": [
+        "保存"
+      ]
+    },
+    {
+      "source": "F:\\ANRYCAMPANY\\reel_assets\\xray_previous_hospital_followup_f70\\frame_11_follow_cta_bg.png",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\xray_previous_hospital_followup_f70\\telop_frames\\frame_11_telop.png",
+      "telop": [
+        "検査の不安をやさしく解説"
+      ],
+      "emphasis": [
+        "検査の不安"
+      ]
+    }
+  ],
+  "contact_sheet": "F:\\ANRYCAMPANY\\reel_assets\\xray_previous_hospital_followup_f70\\contact_sheet_telop_frames.png"
+}

@@ -1,0 +1,63 @@
+﻿{
+  "title": "前の病院でも撮ったのに、また撮るんですか？",
+  "speaker": "VOICEVOX speaker id 20",
+  "voice_speed": 1.2,
+  "bgm": "F:\\ANRYCAMPANY\\01_ショート動画_リール_YouTubeShorts\\インスタリール用\\BGM フリー素材\\Kind_Heart.mp3",
+  "bgm_volume": "-27dB",
+  "frames": [
+    "F:\\ANRYCAMPANY\\reel_assets\\xray_previous_hospital_followup_f70\\telop_frames\\frame_01_telop.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\xray_previous_hospital_followup_f70\\telop_frames\\frame_02_telop.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\xray_previous_hospital_followup_f70\\telop_frames\\frame_03_telop.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\xray_previous_hospital_followup_f70\\telop_frames\\frame_04_telop.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\xray_previous_hospital_followup_f70\\telop_frames\\frame_05_telop.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\xray_previous_hospital_followup_f70\\telop_frames\\frame_06_telop.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\xray_previous_hospital_followup_f70\\telop_frames\\frame_07_telop.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\xray_previous_hospital_followup_f70\\telop_frames\\frame_08_telop.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\xray_previous_hospital_followup_f70\\telop_frames\\frame_09_telop.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\xray_previous_hospital_followup_f70\\telop_frames\\frame_10_telop.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\xray_previous_hospital_followup_f70\\telop_frames\\frame_11_telop.png"
+  ],
+  "display_narration": [
+    "前の病院でも撮影したのに、また撮るんですか。そう聞かれることがあります。",
+    "同じ検査をくり返すことに、意味があるのか分からなくなってしまうこともあります。",
+    "その気持ち、おかしくありません。",
+    "実は、骨折の経過を確認するには、前の画像と見比べることが大切です。",
+    "骨がどのくらい治ってきているかは、1枚の画像だけでは分かりにくいことがあります。",
+    "前の病院で撮った画像と並べることで、変化の様子が見えてきます。",
+    "そのため、可能な範囲で、前の病院で撮った画像を持参していただくと、診断の助けになります。",
+    "それでも、何度も撮って意味があるのかな、と感じてしまうことがありますよね。",
+    "前の画像と見比べることが、回復の道すじを確認することにつながっています。",
+    "この投稿は、スマートフォンに保存しておくと、あとで見返せます。",
+    "検査の不安をやさしく解説しています。フォローで応援お願いします。"
+  ],
+  "voicevox_text": [
+    "前の病院でも撮影したのに、また撮るんですか。そう聞かれることがあります。",
+    "同じ検査をくり返すことに、意味があるのか分からなくなってしまうこともあります。",
+    "その気持ち、おかしくありません。",
+    "実は、骨折の経過を確認するには、前の画像と見比べることが大切です。",
+    "骨がどのくらい治ってきているかは、いちまいの画像だけでは分かりにくいことがあります。",
+    "前の病院で撮った画像と並べることで、変化の様子が見えてきます。",
+    "そのため、可能な範囲で、前の病院で撮った画像を持参していただくと、診断の助けになります。",
+    "それでも、何度も撮って意味があるのかな、と感じてしまうことがありますよね。",
+    "前の画像と見比べることが、回復の道すじを確認することにつながっています。",
+    "この投稿は、スマートフォンに保存しておくと、あとで見返せます。",
+    "検査の不安をやさしく解説しています。フォローで応援お願いします。"
+  ],
+  "durations_seconds": [
+    5.3,
+    5.9,
+    2.8,
+    5.534,
+    5.5,
+    4.6,
+    6.8,
+    5.5,
+    5.6,
+    4.691,
+    4.691
+  ],
+  "total_seconds": 56.917,
+  "voice_audio": "F:\\ANRYCAMPANY\\reel_assets\\xray_previous_hospital_followup_f70_video\\audio\\voice.wav",
+  "asset_video": "F:\\ANRYCAMPANY\\reel_assets\\xray_previous_hospital_followup_f70_video\\前の病院でも撮ったのに_また撮るんですか.mp4",
+  "final_video": "F:\\ANRYCAMPANY\\01_ショート動画_リール_YouTubeShorts\\インスタ完成形\\前の病院でも撮ったのに_また撮るんですか.mp4"
+}

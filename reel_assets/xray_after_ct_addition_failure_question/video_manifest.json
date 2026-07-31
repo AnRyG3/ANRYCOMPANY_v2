@@ -1,0 +1,63 @@
+﻿{
+  "title": "レントゲンのあとCTを追加するのは、失敗だったから?",
+  "speaker": "VOICEVOX speaker id 20",
+  "voice_speed": 1.2,
+  "bgm": "F:\\ANRYCAMPANY\\01_ショート動画_リール_YouTubeShorts\\インスタリール用\\BGM フリー素材\\Kind_Heart.mp3",
+  "bgm_volume": "-25dB",
+  "frames": [
+    "F:\\ANRYCAMPANY\\reel_assets\\xray_after_ct_addition_failure_question\\telop_frames\\frame_01_waiting_explanation_telop.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\xray_after_ct_addition_failure_question\\telop_frames\\frame_02_patient_concern_telop.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\xray_after_ct_addition_failure_question\\telop_frames\\frame_03_rt_reassurance_telop.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\xray_after_ct_addition_failure_question\\telop_frames\\frame_04_xray_room_telop.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\xray_after_ct_addition_failure_question\\telop_frames\\frame_05_ct_room_explanation_telop.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\xray_after_ct_addition_failure_question\\telop_frames\\frame_06_bone_images_monitor_telop.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\xray_after_ct_addition_failure_question\\telop_frames\\frame_07_roles_explanation_telop.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\xray_after_ct_addition_failure_question\\telop_frames\\frame_08_doctor_decision_bone_telop.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\xray_after_ct_addition_failure_question\\telop_frames\\frame_09_patient_relieved_telop.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\xray_after_ct_addition_failure_question\\telop_frames\\frame_10_save_cta_bg_telop.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\xray_after_ct_addition_failure_question\\telop_frames\\frame_11_follow_cta_bg_telop.png"
+  ],
+  "display_narration": [
+    "レントゲンのあとCTも、と言われると、撮り直し？失敗だったの？と不安になりますよね。",
+    "そう感じても、おかしくありません。",
+    "でも、CTの追加は、レントゲンが失敗だった、という意味ではありません。",
+    "レントゲンでは、まず全体の状態を確認します。",
+    "必要な部分を、CTで詳しく確認することがあります。",
+    "骨の重なりやズレの向きは、レントゲンだけでは分かりにくいこともあります。",
+    "レントゲンとCTは、どちらが上というより、それぞれ役割が違う検査です。",
+    "CTを追加する必要性は、症状やレントゲンの結果をもとに、医師が判断します。",
+    "レントゲンがあるからこそ、次にどこを見るかが決めやすくなります。最初の検査も、無駄ではありません。",
+    "検査の流れが不安なときに見返せるよう、保存しておいてください。",
+    "患者さんの不安を減らす検査の話を、フォローして一緒に確認していきましょう。"
+  ],
+  "voice_text": [
+    "レントゲンのあとシーティーも。と言われると、撮り直し。失敗だったの。と不安になりますよね。",
+    "そう感じても、おかしくありません。",
+    "でも、シーティーの追加は、レントゲンが失敗だった、という意味ではありません。",
+    "レントゲンでは、まず全体の状態を確認します。",
+    "必要な部分を、シーティーで詳しく確認することがあります。",
+    "骨のかさなりやズレの向きは、レントゲンだけでは分かりにくいこともあります。",
+    "レントゲンとシーティーは、どちらが上というより、それぞれ役割が違う検査です。",
+    "シーティーを追加する必要性は、症状やレントゲンの結果をもとに、医師が判断します。",
+    "レントゲンがあるからこそ、次にどこを見るかが決めやすくなります。最初の検査も、無駄ではありません。",
+    "検査の流れが不安なときに見返せるよう、保存しておいてください。",
+    "患者さんの不安を減らす検査の話を、フォローして一緒に確認していきましょう。"
+  ],
+  "durations_seconds": [
+    6.747,
+    2.8,
+    5.477,
+    3.6,
+    4.101,
+    4.8,
+    5.531,
+    5.755,
+    6.917,
+    4.6,
+    5.0
+  ],
+  "total_seconds": 55.328,
+  "voice_audio": "F:\\ANRYCAMPANY\\reel_assets\\xray_after_ct_addition_failure_question\\audio\\voice.wav",
+  "asset_video": "F:\\ANRYCAMPANY\\reel_assets\\xray_after_ct_addition_failure_question\\video\\レントゲンのあとCTを追加するのは失敗だったから.mp4",
+  "final_video": "F:\\ANRYCAMPANY\\01_ショート動画_リール_YouTubeShorts\\インスタ完成形\\レントゲンのあとCTを追加するのは失敗だったから.mp4"
+}
