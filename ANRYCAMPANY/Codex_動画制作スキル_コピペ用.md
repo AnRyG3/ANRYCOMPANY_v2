@@ -148,7 +148,7 @@ URL:
 
 ```text
 週次分析
-Obsidianの中に「インスタ*週次結果metricool」と「YouTube*週次結果metricool」を入れています。
+Obsidianの中に「インスタ*週次結果metricool」と「YouTube*週次結果metricool」2026-MM-DD　として入れています。
 また、ANRYCAMPANYのYouTube分析の中に「2026-MM-DD_2026-MM-DD」としてYouTubeのアナリティクス詳細を入れています。
 これらを取得して、分析班に解析させてください。
 尚、metricoolとYouTubeアナリティクスの集計期間が異なっているので、混同しないようにしてください。それぞれで、分析・解析してください。

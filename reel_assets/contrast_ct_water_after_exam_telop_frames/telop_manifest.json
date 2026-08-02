@@ -1,0 +1,91 @@
+﻿{
+  "title": "造影剤の検査後、水分をとるように言われる理由",
+  "font": "F:\\ANRYCAMPANY\\reel_assets\\fonts\\M_PLUS_Rounded_1c\\MPLUSRounded1c-Bold.ttf",
+  "style": "white rounded rectangle backing, dark navy M PLUS Rounded 1c Bold, key words accented",
+  "size": {
+    "width": 1080,
+    "height": 1920
+  },
+  "frames": [
+    {
+      "source": "F:\\ANRYCAMPANY\\reel_assets\\contrast_ct_water_after_exam_images\\frame_01_opening_patient_water.png",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\contrast_ct_water_after_exam_telop_frames\\frame_01_opening_patient_water_telop.png",
+      "telop": [
+        "水分って、そんなに大事？"
+      ]
+    },
+    {
+      "source": "F:\\ANRYCAMPANY\\reel_assets\\contrast_ct_water_after_exam_images\\frame_02_rt_explains_water.png",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\contrast_ct_water_after_exam_telop_frames\\frame_02_rt_explains_water_telop.png",
+      "telop": [
+        "何度も言われると",
+        "少し気になりますよね"
+      ]
+    },
+    {
+      "source": "F:\\ANRYCAMPANY\\reel_assets\\contrast_ct_water_after_exam_images\\frame_03_patient_reassured.png",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\contrast_ct_water_after_exam_telop_frames\\frame_03_patient_reassured_telop.png",
+      "telop": [
+        "その気持ち",
+        "おかしくありません"
+      ]
+    },
+    {
+      "source": "F:\\ANRYCAMPANY\\reel_assets\\contrast_ct_water_after_exam_images\\frame_04_rt_ct_explanation.png",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\contrast_ct_water_after_exam_telop_frames\\frame_04_rt_ct_explanation_telop.png",
+      "telop": [
+        "造影剤は少しずつ",
+        "体の外へ出ていきます"
+      ]
+    },
+    {
+      "source": "F:\\ANRYCAMPANY\\reel_assets\\contrast_ct_water_after_exam_images\\frame_05_patient_drinks_water.png",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\contrast_ct_water_after_exam_telop_frames\\frame_05_patient_drinks_water_telop.png",
+      "telop": [
+        "主に尿として",
+        "出ていきます"
+      ]
+    },
+    {
+      "source": "F:\\ANRYCAMPANY\\reel_assets\\contrast_ct_water_after_exam_images\\frame_06_more_water_explanation.png",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\contrast_ct_water_after_exam_telop_frames\\frame_06_more_water_explanation_telop.png",
+      "telop": [
+        "水分をとることは",
+        "排出の助けになります"
+      ]
+    },
+    {
+      "source": "F:\\ANRYCAMPANY\\reel_assets\\contrast_ct_water_after_exam_images\\frame_07_usual_hydration.png",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\contrast_ct_water_after_exam_telop_frames\\frame_07_usual_hydration_telop.png",
+      "telop": [
+        "特別なことではなく",
+        "少し意識するだけ"
+      ]
+    },
+    {
+      "source": "F:\\ANRYCAMPANY\\reel_assets\\contrast_ct_water_after_exam_images\\frame_08_mild_concern.png",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\contrast_ct_water_after_exam_telop_frames\\frame_08_mild_concern_telop.png",
+      "telop": [
+        "不安になるのも",
+        "自然なことです"
+      ]
+    },
+    {
+      "source": "F:\\ANRYCAMPANY\\reel_assets\\contrast_ct_water_after_exam_images\\frame_09_reassuring_close.png",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\contrast_ct_water_after_exam_telop_frames\\frame_09_reassuring_close_telop.png",
+      "telop": [
+        "危険という意味では",
+        "ありません"
+      ]
+    },
+    {
+      "source": "F:\\ANRYCAMPANY\\reel_assets\\contrast_ct_water_after_exam_images\\frame_10_cta_end_card.png",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\contrast_ct_water_after_exam_telop_frames\\frame_10_cta_end_card_telop.png",
+      "telop": [
+        "保存して",
+        "見返してください"
+      ]
+    }
+  ],
+  "contact_sheet": "F:\\ANRYCAMPANY\\reel_assets\\contrast_ct_water_after_exam_telop_frames\\contact_sheet_telop_frames.png"
+}
