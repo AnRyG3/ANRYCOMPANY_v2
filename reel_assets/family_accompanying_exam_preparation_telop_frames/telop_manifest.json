@@ -1,0 +1,157 @@
+﻿{
+  "title": "高齢の親を検査に連れて行く時、事前に準備しておきたいこと",
+  "style": "要点だけ、1画面1メッセージ、重要語のみ強調",
+  "font": "F:\\ANRYCAMPANY\\reel_assets\\fonts\\M_PLUS_Rounded_1c\\MPLUSRounded1c-Bold.ttf",
+  "size": {
+    "width": 1080,
+    "height": 1920
+  },
+  "frames": [
+    {
+      "source": "reel_assets\\family_accompanying_exam_preparation_images\\frame_01_opening_preparation_bag.png",
+      "output": "reel_assets\\family_accompanying_exam_preparation_telop_frames\\frame_01_opening_preparation_bag_telop.png",
+      "telop": [
+        "親の検査に付き添う前に"
+      ],
+      "box": [
+        84,
+        292,
+        996,
+        448
+      ]
+    },
+    {
+      "source": "reel_assets\\family_accompanying_exam_preparation_images\\frame_02_mild_uncertainty_bag.png",
+      "output": "reel_assets\\family_accompanying_exam_preparation_telop_frames\\frame_02_mild_uncertainty_bag_telop.png",
+      "telop": [
+        "持ち物、足りてるかな？"
+      ],
+      "box": [
+        84,
+        300,
+        996,
+        458
+      ]
+    },
+    {
+      "source": "reel_assets\\family_accompanying_exam_preparation_images\\frame_03_calm_waiting_empathy.png",
+      "output": "reel_assets\\family_accompanying_exam_preparation_telop_frames\\frame_03_calm_waiting_empathy_telop.png",
+      "telop": [
+        "そう思うのは自然です"
+      ],
+      "box": [
+        92,
+        292,
+        988,
+        450
+      ]
+    },
+    {
+      "source": "reel_assets\\family_accompanying_exam_preparation_images\\frame_04_three_point_checklist.png",
+      "output": "reel_assets\\family_accompanying_exam_preparation_telop_frames\\frame_04_three_point_checklist_telop.png",
+      "telop": [
+        "まずは3つ確認"
+      ],
+      "box": [
+        92,
+        292,
+        988,
+        450
+      ]
+    },
+    {
+      "source": "reel_assets\\family_accompanying_exam_preparation_images\\frame_05_medicine_referral_checklist.png",
+      "output": "reel_assets\\family_accompanying_exam_preparation_telop_frames\\frame_05_medicine_referral_checklist_telop.png",
+      "telop": [
+        "お薬手帳・紹介状"
+      ],
+      "box": [
+        92,
+        308,
+        988,
+        466
+      ]
+    },
+    {
+      "source": "reel_assets\\family_accompanying_exam_preparation_images\\frame_06_easy_change_clothes.png",
+      "output": "reel_assets\\family_accompanying_exam_preparation_telop_frames\\frame_06_easy_change_clothes_telop.png",
+      "telop": [
+        "脱ぎ着しやすい服"
+      ],
+      "box": [
+        92,
+        292,
+        988,
+        450
+      ]
+    },
+    {
+      "source": "reel_assets\\family_accompanying_exam_preparation_images\\frame_07_metal_items_ready.png",
+      "output": "reel_assets\\family_accompanying_exam_preparation_telop_frames\\frame_07_metal_items_ready_telop.png",
+      "telop": [
+        "金属類は外しやすく"
+      ],
+      "box": [
+        92,
+        292,
+        988,
+        450
+      ]
+    },
+    {
+      "source": "reel_assets\\family_accompanying_exam_preparation_images\\frame_08_mild_concern_waiting.png",
+      "output": "reel_assets\\family_accompanying_exam_preparation_telop_frames\\frame_08_mild_concern_waiting_telop.png",
+      "telop": [
+        "迷ったらそのまま聞いてOK"
+      ],
+      "box": [
+        84,
+        292,
+        996,
+        450
+      ]
+    },
+    {
+      "source": "reel_assets\\family_accompanying_exam_preparation_images\\frame_09_reception_question_ok.png",
+      "output": "reel_assets\\family_accompanying_exam_preparation_telop_frames\\frame_09_reception_question_ok_telop.png",
+      "telop": [
+        "当日スタッフに確認できます"
+      ],
+      "box": [
+        74,
+        304,
+        1006,
+        462
+      ]
+    },
+    {
+      "source": "reel_assets\\family_accompanying_exam_preparation_images\\frame_10_save_cta_background.png",
+      "output": "reel_assets\\family_accompanying_exam_preparation_telop_frames\\frame_10_save_cta_background_telop.png",
+      "telop": [
+        "付き添い前に見返せるように",
+        "保存しておいてください"
+      ],
+      "box": [
+        78,
+        326,
+        1002,
+        574
+      ]
+    },
+    {
+      "source": "reel_assets\\family_accompanying_exam_preparation_images\\frame_11_follow_cta_background.png",
+      "output": "reel_assets\\family_accompanying_exam_preparation_telop_frames\\frame_11_follow_cta_background_telop.png",
+      "telop": [
+        "検査前の不安を",
+        "少し軽く"
+      ],
+      "box": [
+        92,
+        300,
+        988,
+        548
+      ]
+    }
+  ],
+  "contact_sheet": "reel_assets\\family_accompanying_exam_preparation_telop_frames\\_qa_contact_sheet_telop.png"
+}
