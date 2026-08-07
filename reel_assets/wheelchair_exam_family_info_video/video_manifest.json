@@ -1,0 +1,63 @@
+﻿{
+  "title": "車椅子で検査_付き添い家族が伝えると助かること",
+  "speaker": "VOICEVOX speaker id 20",
+  "voice_speed": 1.2,
+  "bgm": "F:\\ANRYCAMPANY\\01_ショート動画_リール_YouTubeShorts\\インスタリール用\\BGM フリー素材\\Kind_Heart.mp3",
+  "bgm_volume": "-25dB",
+  "frames": [
+    "F:\\ANRYCAMPANY\\reel_assets\\wheelchair_exam_family_info_telop_frames\\frame_01_opening_wheelchair_patient_telop.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\wheelchair_exam_family_info_telop_frames\\frame_02_waiting_with_papers_telop.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\wheelchair_exam_family_info_telop_frames\\frame_03_reassuring_patient_telop.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\wheelchair_exam_family_info_telop_frames\\frame_04_basic_flow_guidance_telop.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\wheelchair_exam_family_info_telop_frames\\frame_05_mobility_check_telop.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\wheelchair_exam_family_info_telop_frames\\frame_06_pain_position_check_telop.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\wheelchair_exam_family_info_telop_frames\\frame_07_wheelchair_near_exam_table_telop.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\wheelchair_exam_family_info_telop_frames\\frame_08_memo_hands_telop.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\wheelchair_exam_family_info_telop_frames\\frame_09_staff_checking_info_telop.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\wheelchair_exam_family_info_telop_frames\\frame_10_cta_background_telop.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\wheelchair_exam_family_info_telop_frames\\frame_11_follow_cta_background_telop.png"
+  ],
+  "display_narration": [
+    "車椅子で検査に行く時、付き添い家族が先に伝えると助かることがあります。",
+    "車椅子だから、何か特別な準備が必要なのではと、不安になることもありますよね。",
+    "普段と違う対応をお願いすることになるのでは、と身構えてしまう。その気持ち、おかしくありません。",
+    "実は、車椅子を使っている方の検査でも、基本的な流れは大きく変わりません。",
+    "事前に伝えていただけると助かるのは、立ち上がりや寝返りなど、普段どのくらい自分で身体を動かせるかです。",
+    "また、痛みが出やすい場所や、避けたほうがよい姿勢があれば、先に教えていただけると安心です。",
+    "検査の内容によっては、車椅子のまま進められる場合もあれば、検査台への移動が必要な場合もあります。",
+    "それでも、うまく伝えられるかと、心配になってしまうことがあります。",
+    "先にわかっていると、当日の声かけや準備がしやすくなります。",
+    "家族の検査前に見返せるように、保存しておいてください。",
+    "検査前の不安が少し軽くなる話を、診療放射線技師の目線で発信しています。"
+  ],
+  "voicevox_text": [
+    "車椅子で検査に行く時、付き添い家族が先に伝えると助かることがあります。",
+    "車椅子だから、何か特別な準備が必要なのではと、不安になることもありますよね。",
+    "普段と違う対応をお願いすることになるのでは、と身構えてしまう。その気持ち、おかしくありません。",
+    "実は、車椅子を使っているかたの検査でも、基本的な流れは大きく変わりません。",
+    "事前に伝えていただけると助かるのは、立ち上がりや寝返りなど、普段どのくらい自分でからだを動かせるかです。",
+    "また、痛みが出やすい場所や、避けたほうがよい姿勢があれば、先に教えていただけると安心です。",
+    "検査の内容によっては、車椅子のまま進められる場合もあれば、検査台への移動が必要な場合もあります。",
+    "それでも、うまく伝えられるかと、心配になってしまうことがあります。",
+    "先にわかっていると、当日の声かけや準備がしやすくなります。",
+    "家族の検査前に見返せるように、保存しておいてください。",
+    "検査前の不安が少し軽くなる話を、しんりょうほうしゃせんぎしの目線で発信しています。"
+  ],
+  "durations_seconds": [
+    4.979,
+    5.865,
+    6.611,
+    5.609,
+    6.771,
+    6.515,
+    6.921,
+    4.691,
+    4.414,
+    3.987,
+    5.566
+  ],
+  "total_seconds": 61.93,
+  "voice_audio": "F:\\ANRYCAMPANY\\reel_assets\\wheelchair_exam_family_info_video\\audio\\voice.wav",
+  "asset_video": "F:\\ANRYCAMPANY\\reel_assets\\wheelchair_exam_family_info_video\\車椅子で検査_付き添い家族が伝えると助かること.mp4",
+  "final_video": "F:\\ANRYCAMPANY\\01_ショート動画_リール_YouTubeShorts\\インスタ完成形\\車椅子で検査_付き添い家族が伝えると助かること.mp4"
+}

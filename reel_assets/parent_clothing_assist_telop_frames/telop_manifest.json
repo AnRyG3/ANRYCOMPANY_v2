@@ -1,0 +1,166 @@
+﻿{
+  "title": "親の着替えが不安な時、付き添い家族が先に伝えたいこと",
+  "style": "要点だけ、1画面1メッセージ、白角丸パネル、重要語だけ強調",
+  "font": "F:\\ANRYCAMPANY\\reel_assets\\fonts\\M_PLUS_Rounded_1c\\MPLUSRounded1c-Bold.ttf",
+  "size": {
+    "width": 1080,
+    "height": 1920
+  },
+  "frames": [
+    {
+      "source": "reel_assets\\parent_clothing_assist_images\\frame_01_opening_patient_changing_room.png",
+      "output": "reel_assets\\parent_clothing_assist_telop_frames\\frame_01_opening_patient_changing_room_telop.png",
+      "telop": [
+        "親の着替え",
+        "一人でできるかな"
+      ],
+      "box": [
+        76,
+        178,
+        1004,
+        430
+      ]
+    },
+    {
+      "source": "reel_assets\\parent_clothing_assist_images\\frame_02_family_view_waiting_area.png",
+      "output": "reel_assets\\parent_clothing_assist_telop_frames\\frame_02_family_view_waiting_area_telop.png",
+      "telop": [
+        "手伝う？",
+        "見守る？"
+      ],
+      "box": [
+        76,
+        176,
+        1004,
+        428
+      ]
+    },
+    {
+      "source": "reel_assets\\parent_clothing_assist_images\\frame_03_reassured_patient_bench.png",
+      "output": "reel_assets\\parent_clothing_assist_telop_frames\\frame_03_reassured_patient_bench_telop.png",
+      "telop": [
+        "その気持ち",
+        "おかしくありません"
+      ],
+      "box": [
+        76,
+        176,
+        1004,
+        428
+      ]
+    },
+    {
+      "source": "reel_assets\\parent_clothing_assist_images\\frame_04_clothing_varies_by_person.png",
+      "output": "reel_assets\\parent_clothing_assist_telop_frames\\frame_04_clothing_varies_by_person_telop.png",
+      "telop": [
+        "手伝いの必要さは",
+        "人それぞれ"
+      ],
+      "box": [
+        76,
+        176,
+        1004,
+        428
+      ]
+    },
+    {
+      "source": "reel_assets\\parent_clothing_assist_images\\frame_05_info_to_share_checklist.png",
+      "output": "reel_assets\\parent_clothing_assist_telop_frames\\frame_05_info_to_share_checklist_telop.png",
+      "telop": [
+        "普段の着替え",
+        "先に伝えてOK"
+      ],
+      "box": [
+        76,
+        176,
+        1004,
+        428
+      ]
+    },
+    {
+      "source": "reel_assets\\parent_clothing_assist_images\\frame_06_staff_support_preparation_area.png",
+      "output": "reel_assets\\parent_clothing_assist_telop_frames\\frame_06_staff_support_preparation_area_telop.png",
+      "telop": [
+        "対応は",
+        "状況によって変わります"
+      ],
+      "box": [
+        76,
+        176,
+        1004,
+        428
+      ]
+    },
+    {
+      "source": "reel_assets\\parent_clothing_assist_images\\frame_07_no_need_to_force_patient.png",
+      "output": "reel_assets\\parent_clothing_assist_telop_frames\\frame_07_no_need_to_force_patient_telop.png",
+      "telop": [
+        "無理に一人で",
+        "進めなくて大丈夫"
+      ],
+      "box": [
+        76,
+        176,
+        1004,
+        428
+      ]
+    },
+    {
+      "source": "reel_assets\\parent_clothing_assist_images\\frame_08_how_much_to_tell_memo.png",
+      "output": "reel_assets\\parent_clothing_assist_telop_frames\\frame_08_how_much_to_tell_memo_telop.png",
+      "telop": [
+        "どこまで伝える？",
+        "迷っても大丈夫"
+      ],
+      "box": [
+        76,
+        176,
+        1004,
+        428
+      ]
+    },
+    {
+      "source": "reel_assets\\parent_clothing_assist_images\\frame_09_staff_prepares_gown.png",
+      "output": "reel_assets\\parent_clothing_assist_telop_frames\\frame_09_staff_prepares_gown_telop.png",
+      "telop": [
+        "先にわかると",
+        "準備しやすい"
+      ],
+      "box": [
+        76,
+        176,
+        1004,
+        428
+      ]
+    },
+    {
+      "source": "reel_assets\\parent_clothing_assist_images\\frame_10_save_cta_background.png",
+      "output": "reel_assets\\parent_clothing_assist_telop_frames\\frame_10_save_cta_background_telop.png",
+      "telop": [
+        "保存して",
+        "検査前に見返してね"
+      ],
+      "box": [
+        76,
+        612,
+        1004,
+        864
+      ]
+    },
+    {
+      "source": "reel_assets\\parent_clothing_assist_images\\frame_11_follow_cta_background.png",
+      "output": "reel_assets\\parent_clothing_assist_telop_frames\\frame_11_follow_cta_background_telop.png",
+      "telop": [
+        "フォローで",
+        "検査前の不安を少し軽く"
+      ],
+      "box": [
+        76,
+        612,
+        1004,
+        864
+      ]
+    }
+  ],
+  "contact_sheet": "reel_assets\\parent_clothing_assist_telop_frames\\contact_sheet_telop_frames.png"
+}

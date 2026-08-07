@@ -1,0 +1,166 @@
+﻿{
+  "title": "車椅子で検査に行く時、付き添い家族が伝えると助かること",
+  "style": "white rounded rectangle, dark navy M PLUS Rounded 1c Bold, key words only accented",
+  "font": "F:\\ANRYCAMPANY\\reel_assets\\fonts\\M_PLUS_Rounded_1c\\MPLUSRounded1c-Bold.ttf",
+  "size": {
+    "width": 1080,
+    "height": 1920
+  },
+  "frames": [
+    {
+      "source": "reel_assets\\wheelchair_exam_family_info_images\\frame_01_opening_wheelchair_patient.png",
+      "output": "reel_assets\\wheelchair_exam_family_info_telop_frames\\frame_01_opening_wheelchair_patient_telop.png",
+      "telop": [
+        "車椅子で検査",
+        "先に伝えること"
+      ],
+      "box": [
+        76,
+        178,
+        1004,
+        432
+      ]
+    },
+    {
+      "source": "reel_assets\\wheelchair_exam_family_info_images\\frame_02_waiting_with_papers.png",
+      "output": "reel_assets\\wheelchair_exam_family_info_telop_frames\\frame_02_waiting_with_papers_telop.png",
+      "telop": [
+        "準備が必要？",
+        "不安ですよね"
+      ],
+      "box": [
+        76,
+        176,
+        1004,
+        426
+      ]
+    },
+    {
+      "source": "reel_assets\\wheelchair_exam_family_info_images\\frame_03_reassuring_patient.png",
+      "output": "reel_assets\\wheelchair_exam_family_info_telop_frames\\frame_03_reassuring_patient_telop.png",
+      "telop": [
+        "その気持ち",
+        "おかしくありません"
+      ],
+      "box": [
+        82,
+        174,
+        998,
+        420
+      ]
+    },
+    {
+      "source": "reel_assets\\wheelchair_exam_family_info_images\\frame_04_basic_flow_guidance.png",
+      "output": "reel_assets\\wheelchair_exam_family_info_telop_frames\\frame_04_basic_flow_guidance_telop.png",
+      "telop": [
+        "流れは",
+        "大きく変わらないことも"
+      ],
+      "box": [
+        74,
+        176,
+        1006,
+        428
+      ]
+    },
+    {
+      "source": "reel_assets\\wheelchair_exam_family_info_images\\frame_05_mobility_check.png",
+      "output": "reel_assets\\wheelchair_exam_family_info_telop_frames\\frame_05_mobility_check_telop.png",
+      "telop": [
+        "立つ・寝返り",
+        "伝えておく"
+      ],
+      "box": [
+        76,
+        1288,
+        1004,
+        1538
+      ]
+    },
+    {
+      "source": "reel_assets\\wheelchair_exam_family_info_images\\frame_06_pain_position_check.png",
+      "output": "reel_assets\\wheelchair_exam_family_info_telop_frames\\frame_06_pain_position_check_telop.png",
+      "telop": [
+        "痛みの場所",
+        "避けたい姿勢"
+      ],
+      "box": [
+        76,
+        176,
+        1004,
+        430
+      ]
+    },
+    {
+      "source": "reel_assets\\wheelchair_exam_family_info_images\\frame_07_wheelchair_near_exam_table.png",
+      "output": "reel_assets\\wheelchair_exam_family_info_telop_frames\\frame_07_wheelchair_near_exam_table_telop.png",
+      "telop": [
+        "検査によって",
+        "移動が必要な場合も"
+      ],
+      "box": [
+        76,
+        176,
+        1004,
+        430
+      ]
+    },
+    {
+      "source": "reel_assets\\wheelchair_exam_family_info_images\\frame_08_memo_hands.png",
+      "output": "reel_assets\\wheelchair_exam_family_info_telop_frames\\frame_08_memo_hands_telop.png",
+      "telop": [
+        "心配なら",
+        "メモでOK"
+      ],
+      "box": [
+        78,
+        790,
+        1002,
+        1040
+      ]
+    },
+    {
+      "source": "reel_assets\\wheelchair_exam_family_info_images\\frame_09_staff_checking_info.png",
+      "output": "reel_assets\\wheelchair_exam_family_info_telop_frames\\frame_09_staff_checking_info_telop.png",
+      "telop": [
+        "先にわかると",
+        "準備しやすい"
+      ],
+      "box": [
+        76,
+        176,
+        1004,
+        426
+      ]
+    },
+    {
+      "source": "reel_assets\\wheelchair_exam_family_info_images\\frame_10_cta_background.png",
+      "output": "reel_assets\\wheelchair_exam_family_info_telop_frames\\frame_10_cta_background_telop.png",
+      "telop": [
+        "保存して検査前に",
+        "見返してください"
+      ],
+      "box": [
+        76,
+        640,
+        1004,
+        898
+      ]
+    },
+    {
+      "source": "reel_assets\\wheelchair_exam_family_info_images\\frame_10_cta_background.png",
+      "output": "reel_assets\\wheelchair_exam_family_info_telop_frames\\frame_11_follow_cta_background_telop.png",
+      "telop": [
+        "フォローで",
+        "検査前の不安を少し軽く"
+      ],
+      "box": [
+        76,
+        640,
+        1004,
+        898
+      ]
+    }
+  ],
+  "contact_sheet": "reel_assets\\wheelchair_exam_family_info_telop_frames\\contact_sheet_telop_frames.png"
+}
