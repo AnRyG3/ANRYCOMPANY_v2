@@ -1,0 +1,166 @@
+﻿{
+  "title": "車椅子や杖を使う親、検査台への移動はどうすればいい？",
+  "style": "要点だけ、1画面1メッセージ、患者さん向けにやさしく、断定しすぎない、重要語だけ強調、X軸中央配置",
+  "font": "F:\\ANRYCAMPANY\\reel_assets\\fonts\\M_PLUS_Rounded_1c\\MPLUSRounded1c-Bold.ttf",
+  "size": {
+    "width": 1080,
+    "height": 1920
+  },
+  "frames": [
+    {
+      "source": "reel_assets\\parent_transfer_10_images\\01_waiting_wheelchair.png",
+      "output": "reel_assets\\parent_transfer_10_telop_frames\\01_waiting_wheelchair_telop.png",
+      "telop": [
+        "車椅子の親",
+        "検査台へどう移る？"
+      ],
+      "box": [
+        82,
+        1188,
+        998,
+        1424
+      ]
+    },
+    {
+      "source": "reel_assets\\parent_transfer_10_images\\02_concern_before_transfer.png",
+      "output": "reel_assets\\parent_transfer_10_telop_frames\\02_concern_before_transfer_telop.png",
+      "telop": [
+        "家族だけで",
+        "動かしていい？"
+      ],
+      "box": [
+        82,
+        1188,
+        998,
+        1424
+      ]
+    },
+    {
+      "source": "reel_assets\\parent_transfer_10_images\\03_staff_reassurance.png",
+      "output": "reel_assets\\parent_transfer_10_telop_frames\\03_staff_reassurance_telop.png",
+      "telop": [
+        "その気持ち",
+        "おかしくありません"
+      ],
+      "box": [
+        82,
+        1054,
+        998,
+        1290
+      ]
+    },
+    {
+      "source": "reel_assets\\parent_transfer_10_images\\04_transfer_method_changes.png",
+      "output": "reel_assets\\parent_transfer_10_telop_frames\\04_transfer_method_changes_telop.png",
+      "telop": [
+        "移動方法は",
+        "状態で変わります"
+      ],
+      "box": [
+        82,
+        1188,
+        998,
+        1424
+      ]
+    },
+    {
+      "source": "reel_assets\\parent_transfer_10_images\\05_do_not_move_alone.png",
+      "output": "reel_assets\\parent_transfer_10_telop_frames\\05_do_not_move_alone_telop.png",
+      "telop": [
+        "無理に動かさず",
+        "スタッフへ"
+      ],
+      "box": [
+        82,
+        1188,
+        998,
+        1424
+      ]
+    },
+    {
+      "source": "reel_assets\\parent_transfer_10_images\\06_explain_usual_support.png",
+      "output": "reel_assets\\parent_transfer_10_telop_frames\\06_explain_usual_support_telop.png",
+      "telop": [
+        "普段の支え方",
+        "先に伝える"
+      ],
+      "box": [
+        82,
+        292,
+        998,
+        528
+      ]
+    },
+    {
+      "source": "reel_assets\\parent_transfer_10_images\\07_family_support_check.png",
+      "output": "reel_assets\\parent_transfer_10_telop_frames\\07_family_support_check_telop.png",
+      "telop": [
+        "必要な時は",
+        "支え方を確認"
+      ],
+      "box": [
+        82,
+        1188,
+        998,
+        1424
+      ]
+    },
+    {
+      "source": "reel_assets\\parent_transfer_10_images\\08_anxious_to_explain.png",
+      "output": "reel_assets\\parent_transfer_10_telop_frames\\08_anxious_to_explain_telop.png",
+      "telop": [
+        "うまく話せるか",
+        "不安でも"
+      ],
+      "box": [
+        82,
+        292,
+        998,
+        528
+      ]
+    },
+    {
+      "source": "reel_assets\\parent_transfer_10_images\\09_relief_after_telling.png",
+      "output": "reel_assets\\parent_transfer_10_telop_frames\\09_relief_after_telling_telop.png",
+      "telop": [
+        "負担を減らす",
+        "手がかりに"
+      ],
+      "box": [
+        82,
+        1188,
+        998,
+        1424
+      ]
+    },
+    {
+      "source": "reel_assets\\parent_transfer_10_images\\10_save_cta.png",
+      "output": "reel_assets\\parent_transfer_10_telop_frames\\10_save_cta_telop.png",
+      "telop": [
+        "保存して",
+        "付き添い前に見返す"
+      ],
+      "box": [
+        82,
+        1124,
+        998,
+        1360
+      ]
+    },
+    {
+      "source": "reel_assets\\parent_transfer_10_images\\11_follow_cta.png",
+      "output": "reel_assets\\parent_transfer_10_telop_frames\\11_follow_cta_telop.png",
+      "telop": [
+        "検査の不安を",
+        "少しずつ軽く"
+      ],
+      "box": [
+        82,
+        1054,
+        998,
+        1290
+      ]
+    }
+  ],
+  "contact_sheet": "reel_assets\\parent_transfer_10_telop_frames\\_qa_contact_sheet_telop.png"
+}

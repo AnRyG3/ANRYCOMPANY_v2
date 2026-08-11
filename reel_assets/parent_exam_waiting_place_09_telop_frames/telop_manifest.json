@@ -1,0 +1,152 @@
+﻿{
+  "title": "親の検査当日、付き添い家族が待つのはどこ？",
+  "style": "要点だけ、1画面1メッセージ、やさしい患者さん向け表現、重要語だけ強調、X軸中央配置",
+  "font": "F:\\ANRYCAMPANY\\reel_assets\\fonts\\M_PLUS_Rounded_1c\\MPLUSRounded1c-Bold.ttf",
+  "size": {
+    "width": 1080,
+    "height": 1920
+  },
+  "frames": [
+    {
+      "source": "reel_assets\\parent_exam_waiting_place_09_images\\frame_01_companion_unsure_corridor.png",
+      "output": "reel_assets\\parent_exam_waiting_place_09_telop_frames\\frame_01_companion_unsure_corridor_telop.png",
+      "telop": [
+        "親の検査当日",
+        "どこで待つ？"
+      ],
+      "box": [
+        76,
+        834,
+        1004,
+        1086
+      ]
+    },
+    {
+      "source": "reel_assets\\parent_exam_waiting_place_09_images\\frame_02_signs_unclear_corridor.png",
+      "output": "reel_assets\\parent_exam_waiting_place_09_telop_frames\\frame_02_signs_unclear_corridor_telop.png",
+      "telop": [
+        "案内表示だけでは",
+        "迷うことも"
+      ],
+      "box": [
+        76,
+        834,
+        1004,
+        1086
+      ]
+    },
+    {
+      "source": "reel_assets\\parent_exam_waiting_place_09_images\\frame_03_reassurance_waiting.png",
+      "output": "reel_assets\\parent_exam_waiting_place_09_telop_frames\\frame_03_reassurance_waiting_telop.png",
+      "telop": [
+        "その気持ち",
+        "おかしくありません"
+      ],
+      "box": [
+        76,
+        176,
+        1004,
+        428
+      ]
+    },
+    {
+      "source": "reel_assets\\parent_exam_waiting_place_09_images\\frame_04_near_exam_room_waiting.png",
+      "output": "reel_assets\\parent_exam_waiting_place_09_telop_frames\\frame_04_near_exam_room_waiting_telop.png",
+      "telop": [
+        "待つ場所は",
+        "検査や施設で変わります"
+      ],
+      "box": [
+        76,
+        834,
+        1004,
+        1086
+      ]
+    },
+    {
+      "source": "reel_assets\\parent_exam_waiting_place_09_images\\frame_05_separate_waiting_area.png",
+      "output": "reel_assets\\parent_exam_waiting_place_09_telop_frames\\frame_05_separate_waiting_area_telop.png",
+      "telop": [
+        "離れた待合へ",
+        "ご案内することも"
+      ],
+      "box": [
+        76,
+        834,
+        1004,
+        1086
+      ]
+    },
+    {
+      "source": "reel_assets\\parent_exam_waiting_place_09_images\\frame_06_check_reception.png",
+      "output": "reel_assets\\parent_exam_waiting_place_09_telop_frames\\frame_06_check_reception_telop.png",
+      "telop": [
+        "分からない時は",
+        "受付で確認OK"
+      ],
+      "box": [
+        76,
+        834,
+        1004,
+        1086
+      ]
+    },
+    {
+      "source": "reel_assets\\parent_exam_waiting_place_09_images\\frame_07_call_guidance_board.png",
+      "output": "reel_assets\\parent_exam_waiting_place_09_telop_frames\\frame_07_call_guidance_board_telop.png",
+      "telop": [
+        "呼び出し方法も",
+        "施設ごとに案内"
+      ],
+      "box": [
+        76,
+        834,
+        1004,
+        1086
+      ]
+    },
+    {
+      "source": "reel_assets\\parent_exam_waiting_place_09_images\\frame_08_listening_for_call.png",
+      "output": "reel_assets\\parent_exam_waiting_place_09_telop_frames\\frame_08_listening_for_call_telop.png",
+      "telop": [
+        "聞き逃さないか",
+        "気になることも"
+      ],
+      "box": [
+        76,
+        176,
+        1004,
+        428
+      ]
+    },
+    {
+      "source": "reel_assets\\parent_exam_waiting_place_09_images\\frame_09_ask_on_spot.png",
+      "output": "reel_assets\\parent_exam_waiting_place_09_telop_frames\\frame_09_ask_on_spot_telop.png",
+      "telop": [
+        "迷ったら",
+        "その場で聞いてOK"
+      ],
+      "box": [
+        76,
+        176,
+        1004,
+        428
+      ]
+    },
+    {
+      "source": "reel_assets\\parent_exam_waiting_place_09_images\\frame_10_cta_save_review.png",
+      "output": "reel_assets\\parent_exam_waiting_place_09_telop_frames\\frame_10_cta_save_review_telop.png",
+      "telop": [
+        "保存して",
+        "検査前に見返してね"
+      ],
+      "box": [
+        76,
+        612,
+        1004,
+        864
+      ]
+    }
+  ],
+  "contact_sheet": "reel_assets\\parent_exam_waiting_place_09_telop_frames\\contact_sheet_telop_frames.png"
+}
