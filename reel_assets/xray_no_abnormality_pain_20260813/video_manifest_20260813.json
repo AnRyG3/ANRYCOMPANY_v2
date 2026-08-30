@@ -1,0 +1,63 @@
+﻿{
+  "title": "骨は折れていないのに痛い",
+  "speaker": "VOICEVOX speaker id 20",
+  "voice_speed": 1.2,
+  "bgm": "F:\\ANRYCAMPANY\\01_ショート動画_リール_YouTubeShorts\\インスタリール用\\BGM フリー素材\\Kind_Heart.mp3",
+  "bgm_volume": "-25dB",
+  "frames": [
+    "F:\\ANRYCAMPANY\\reel_assets\\xray_no_abnormality_pain_telop_frames_20260813\\telop_01_20260813_patient_waiting_pain.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\xray_no_abnormality_pain_telop_frames_20260813\\telop_02_20260813_patient_confused_hallway.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\xray_no_abnormality_pain_telop_frames_20260813\\telop_03_20260813_rt_reassuring_acceptance.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\xray_no_abnormality_pain_telop_frames_20260813\\telop_04_20260813_patient_soft_tissue_hint.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\xray_no_abnormality_pain_telop_frames_20260813\\telop_05_20260813_patient_joint_area_load.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\xray_no_abnormality_pain_telop_frames_20260813\\telop_06_20260813_xray_bone_review_monitor.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\xray_no_abnormality_pain_telop_frames_20260813\\telop_07_20260813_patient_lingering_uncertainty.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\xray_no_abnormality_pain_telop_frames_20260813\\telop_08_20260813_rt_individual_difference.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\xray_no_abnormality_pain_telop_frames_20260813\\telop_09_20260813_patient_tells_rt.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\xray_no_abnormality_pain_telop_frames_20260813\\telop_10_20260813_save_cta_phone.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\xray_no_abnormality_pain_telop_frames_20260813\\telop_11_20260813_follow_cta_rt_closing.png"
+  ],
+  "display_narration": [
+    "「骨は折れていない」と言われたのに、痛みが強くて驚いてしまう。",
+    "骨が原因じゃないなら、いったい何が痛いんだろうと、不安になってしまう。",
+    "その気持ち、おかしくありません。",
+    "実は、痛みの原因は骨だけとは限りません。",
+    "筋肉や関節まわりなど、骨以外の組織への負担や炎症が、痛みとして現れることもあります。",
+    "骨に異常がないことは、痛みの原因を探る出発点でもあります。",
+    "それでも、「じゃあこの痛みは何なのか」と、モヤモヤが残ってしまう。",
+    "痛みの原因や感じ方には個人差があり、時間をかけて分かってくることもあります。",
+    "気になる症状は、そのまま伝えていただいて大丈夫です。",
+    "検査後に痛みが続いて不安になった時、見返せるように保存しておいてください。",
+    "次はどんな不安を取り上げるか。フォローして次回もチェックしてみてください。"
+  ],
+  "voice_text": [
+    "骨は折れていない、と言われたのに、痛みが強くて驚いてしまう。",
+    "骨が原因じゃないなら、いったい何が痛いんだろうと、不安になってしまう。",
+    "その気持ち、おかしくありません。",
+    "実は、痛みの原因は骨だけとは限りません。",
+    "筋肉や関節まわりなど、骨以外の組織への負担や炎症が、痛みとして現れることもあります。",
+    "骨に異常がないことは、痛みの原因を探る出発点でもあります。",
+    "それでも、じゃあこの痛みは何なのかと、モヤモヤが残ってしまう。",
+    "痛みの原因や感じ方には個人差があり、時間をかけて分かってくることもあります。",
+    "気になる症状は、そのまま伝えていただいて大丈夫です。",
+    "検査後に痛みが続いて不安になった時、見返せるように保存しておいてください。",
+    "次はどんな不安を取り上げるか。フォローして次回もチェックしてみてください。"
+  ],
+  "durations_seconds": [
+    4.496,
+    5.2,
+    2.8,
+    3.419,
+    6.6,
+    4.6,
+    5.0,
+    5.4,
+    4.2,
+    5.253,
+    4.731
+  ],
+  "total_seconds": 51.699,
+  "voice_audio": "F:\\ANRYCAMPANY\\reel_assets\\xray_no_abnormality_pain_20260813\\audio\\voice.wav",
+  "asset_video": "F:\\ANRYCAMPANY\\reel_assets\\xray_no_abnormality_pain_20260813\\video\\骨は折れていないのに痛い_20260813.mp4",
+  "final_video": "F:\\ANRYCAMPANY\\01_ショート動画_リール_YouTubeShorts\\インスタ完成形\\骨は折れていないのに痛い_20260813.mp4"
+}

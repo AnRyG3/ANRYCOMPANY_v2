@@ -1,0 +1,208 @@
+[
+  {
+    "index": 1,
+    "source": "F:\\ANRYCAMPANY\\reel_assets\\shippu_exam_20260825_images\\image_01_patient_notices_large_patch.png",
+    "output": "F:\\ANRYCAMPANY\\reel_assets\\shippu_exam_20260825_telop_frames\\telop_01_patient_notices_large_patch.png",
+    "telop": [
+      [
+        "湿布",
+        "を貼ったまま"
+      ],
+      [
+        "来ちゃった時"
+      ]
+    ],
+    "highlights": [
+      "湿布"
+    ],
+    "top_y": 170,
+    "x_axis": "center",
+    "font": "F:\\ANRYCAMPANY\\reel_assets\\fonts\\M_PLUS_Rounded_1c\\MPLUSRounded1c-Bold.ttf"
+  },
+  {
+    "index": 2,
+    "source": "F:\\ANRYCAMPANY\\reel_assets\\shippu_exam_20260825_images\\image_02_patient_wonders_remove_patch.png",
+    "output": "F:\\ANRYCAMPANY\\reel_assets\\shippu_exam_20260825_telop_frames\\telop_02_patient_wonders_remove_patch.png",
+    "telop": [
+      [
+        "外していいか"
+      ],
+      [
+        "迷ったら"
+      ]
+    ],
+    "highlights": [
+      "迷ったら"
+    ],
+    "top_y": 170,
+    "x_axis": "center",
+    "font": "F:\\ANRYCAMPANY\\reel_assets\\fonts\\M_PLUS_Rounded_1c\\MPLUSRounded1c-Bold.ttf"
+  },
+  {
+    "index": 3,
+    "source": "F:\\ANRYCAMPANY\\reel_assets\\shippu_exam_20260825_images\\image_03_patient_pauses_before_removing.png",
+    "output": "F:\\ANRYCAMPANY\\reel_assets\\shippu_exam_20260825_telop_frames\\telop_03_patient_pauses_before_removing.png",
+    "telop": [
+      [
+        "自分で外さず"
+      ],
+      [
+        "まず",
+        "確認"
+      ]
+    ],
+    "highlights": [
+      "確認"
+    ],
+    "top_y": 170,
+    "x_axis": "center",
+    "font": "F:\\ANRYCAMPANY\\reel_assets\\fonts\\M_PLUS_Rounded_1c\\MPLUSRounded1c-Bold.ttf"
+  },
+  {
+    "index": 4,
+    "source": "F:\\ANRYCAMPANY\\reel_assets\\shippu_exam_20260825_images\\image_04_rt_reassuring_acceptance.png",
+    "output": "F:\\ANRYCAMPANY\\reel_assets\\shippu_exam_20260825_telop_frames\\telop_04_rt_reassuring_acceptance.png",
+    "telop": [
+      [
+        "その",
+        "気持ち"
+      ],
+      [
+        "おかしくありません"
+      ]
+    ],
+    "highlights": [
+      "気持ち"
+    ],
+    "top_y": 190,
+    "x_axis": "center",
+    "font": "F:\\ANRYCAMPANY\\reel_assets\\fonts\\M_PLUS_Rounded_1c\\MPLUSRounded1c-Bold.ttf"
+  },
+  {
+    "index": 5,
+    "source": "F:\\ANRYCAMPANY\\reel_assets\\shippu_exam_20260825_images\\image_05_exam_content_confirmation.png",
+    "output": "F:\\ANRYCAMPANY\\reel_assets\\shippu_exam_20260825_telop_frames\\telop_05_exam_content_confirmation.png",
+    "telop": [
+      [
+        "検査内容",
+        "によって"
+      ],
+      [
+        "確認",
+        "が必要なことも"
+      ]
+    ],
+    "highlights": [
+      "検査内容",
+      "確認"
+    ],
+    "top_y": 170,
+    "x_axis": "center",
+    "font": "F:\\ANRYCAMPANY\\reel_assets\\fonts\\M_PLUS_Rounded_1c\\MPLUSRounded1c-Bold.ttf"
+  },
+  {
+    "index": 6,
+    "source": "F:\\ANRYCAMPANY\\reel_assets\\shippu_exam_20260825_images\\image_06_no_rush_to_remove.png",
+    "output": "F:\\ANRYCAMPANY\\reel_assets\\shippu_exam_20260825_telop_frames\\telop_06_no_rush_to_remove.png",
+    "telop": [
+      [
+        "慌てて外さなくて"
+      ],
+      [
+        "大丈夫",
+        "です"
+      ]
+    ],
+    "highlights": [
+      "大丈夫"
+    ],
+    "top_y": 170,
+    "x_axis": "center",
+    "font": "F:\\ANRYCAMPANY\\reel_assets\\fonts\\M_PLUS_Rounded_1c\\MPLUSRounded1c-Bold.ttf"
+  },
+  {
+    "index": 7,
+    "source": "F:\\ANRYCAMPANY\\reel_assets\\shippu_exam_20260825_images\\image_07_tells_rt_large_patch.png",
+    "output": "F:\\ANRYCAMPANY\\reel_assets\\shippu_exam_20260825_telop_frames\\telop_07_tells_rt_large_patch.png",
+    "telop": [
+      [
+        "受付や検査前に"
+      ],
+      [
+        "伝えて",
+        "ください"
+      ]
+    ],
+    "highlights": [
+      "伝えて"
+    ],
+    "top_y": 170,
+    "x_axis": "center",
+    "font": "F:\\ANRYCAMPANY\\reel_assets\\fonts\\M_PLUS_Rounded_1c\\MPLUSRounded1c-Bold.ttf"
+  },
+  {
+    "index": 8,
+    "source": "F:\\ANRYCAMPANY\\reel_assets\\shippu_exam_20260825_images\\image_08_where_and_when_confirmation.png",
+    "output": "F:\\ANRYCAMPANY\\reel_assets\\shippu_exam_20260825_telop_frames\\telop_08_where_and_when_confirmation.png",
+    "telop": [
+      [
+        "どこ",
+        "に・",
+        "いつから",
+        "を"
+      ],
+      [
+        "伝える",
+        "と確認しやすい"
+      ]
+    ],
+    "highlights": [
+      "いつから",
+      "どこ",
+      "伝える"
+    ],
+    "top_y": 170,
+    "x_axis": "center",
+    "font": "F:\\ANRYCAMPANY\\reel_assets\\fonts\\M_PLUS_Rounded_1c\\MPLUSRounded1c-Bold.ttf"
+  },
+  {
+    "index": 9,
+    "source": "F:\\ANRYCAMPANY\\reel_assets\\shippu_exam_20260825_images\\image_09_patient_remembers_to_tell.png",
+    "output": "F:\\ANRYCAMPANY\\reel_assets\\shippu_exam_20260825_telop_frames\\telop_09_patient_remembers_to_tell.png",
+    "telop": [
+      [
+        "気づいた時に"
+      ],
+      [
+        "伝えれば",
+        "大丈夫"
+      ]
+    ],
+    "highlights": [
+      "大丈夫"
+    ],
+    "top_y": 170,
+    "x_axis": "center",
+    "font": "F:\\ANRYCAMPANY\\reel_assets\\fonts\\M_PLUS_Rounded_1c\\MPLUSRounded1c-Bold.ttf"
+  },
+  {
+    "index": 10,
+    "source": "F:\\ANRYCAMPANY\\reel_assets\\shippu_exam_20260825_images\\image_10_save_follow_cta_space.png",
+    "output": "F:\\ANRYCAMPANY\\reel_assets\\shippu_exam_20260825_telop_frames\\telop_10_save_follow_cta_space.png",
+    "telop": [
+      [
+        "検査前日に"
+      ],
+      [
+        "見返せるよう",
+        "保存"
+      ]
+    ],
+    "highlights": [
+      "保存"
+    ],
+    "top_y": 560,
+    "x_axis": "center",
+    "font": "F:\\ANRYCAMPANY\\reel_assets\\fonts\\M_PLUS_Rounded_1c\\MPLUSRounded1c-Bold.ttf"
+  }
+]

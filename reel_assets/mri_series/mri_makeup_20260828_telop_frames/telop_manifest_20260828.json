@@ -1,0 +1,210 @@
+[
+  {
+    "index": 1,
+    "source": "F:\\ANRYCAMPANY\\reel_assets\\mri_series\\mri_makeup_20260828_images\\image_01_opening_makeup_question.png",
+    "output": "F:\\ANRYCAMPANY\\reel_assets\\mri_series\\mri_makeup_20260828_telop_frames\\telop_01_opening_makeup_question.png",
+    "telop": [
+      [
+        "MRI",
+        "の日"
+      ],
+      [
+        "メイク",
+        "大丈夫？"
+      ]
+    ],
+    "highlights": [
+      "MRI",
+      "メイク"
+    ],
+    "x_axis": "center",
+    "y_position": "center",
+    "font": "F:\\ANRYCAMPANY\\reel_assets\\fonts\\M_PLUS_Rounded_1c\\MPLUSRounded1c-Bold.ttf"
+  },
+  {
+    "index": 2,
+    "source": "F:\\ANRYCAMPANY\\reel_assets\\mri_series\\mri_makeup_20260828_images\\image_02_eye_makeup_pause.png",
+    "output": "F:\\ANRYCAMPANY\\reel_assets\\mri_series\\mri_makeup_20260828_telop_frames\\telop_02_eye_makeup_pause.png",
+    "telop": [
+      [
+        "アイメイク",
+        "は"
+      ],
+      [
+        "確認されることも"
+      ]
+    ],
+    "highlights": [
+      "アイメイク"
+    ],
+    "x_axis": "center",
+    "y_position": "center",
+    "font": "F:\\ANRYCAMPANY\\reel_assets\\fonts\\M_PLUS_Rounded_1c\\MPLUSRounded1c-Bold.ttf"
+  },
+  {
+    "index": 3,
+    "source": "F:\\ANRYCAMPANY\\reel_assets\\mri_series\\mri_makeup_20260828_images\\image_03_appointment_prep_still_life.png",
+    "output": "F:\\ANRYCAMPANY\\reel_assets\\mri_series\\mri_makeup_20260828_telop_frames\\telop_03_appointment_prep_still_life.png",
+    "telop": [
+      [
+        "前日・当日の"
+      ],
+      [
+        "準備",
+        "で確認"
+      ]
+    ],
+    "highlights": [
+      "準備"
+    ],
+    "x_axis": "center",
+    "y_position": "center",
+    "font": "F:\\ANRYCAMPANY\\reel_assets\\fonts\\M_PLUS_Rounded_1c\\MPLUSRounded1c-Bold.ttf"
+  },
+  {
+    "index": 4,
+    "source": "F:\\ANRYCAMPANY\\reel_assets\\mri_series\\mri_makeup_20260828_images\\image_04_eye_makeup_items.png",
+    "output": "F:\\ANRYCAMPANY\\reel_assets\\mri_series\\mri_makeup_20260828_telop_frames\\telop_04_eye_makeup_items.png",
+    "telop": [
+      [
+        "化粧品に"
+      ],
+      [
+        "金属成分",
+        "のことも"
+      ]
+    ],
+    "highlights": [
+      "金属成分"
+    ],
+    "x_axis": "center",
+    "y_position": "center",
+    "font": "F:\\ANRYCAMPANY\\reel_assets\\fonts\\M_PLUS_Rounded_1c\\MPLUSRounded1c-Bold.ttf"
+  },
+  {
+    "index": 5,
+    "source": "F:\\ANRYCAMPANY\\reel_assets\\mri_series\\mri_makeup_20260828_images\\image_05_bright_mri_room.png",
+    "output": "F:\\ANRYCAMPANY\\reel_assets\\mri_series\\mri_makeup_20260828_telop_frames\\telop_05_bright_mri_room.png",
+    "telop": [
+      [
+        "MRI",
+        "では"
+      ],
+      [
+        "画像",
+        "に影響することも"
+      ]
+    ],
+    "highlights": [
+      "MRI",
+      "画像"
+    ],
+    "x_axis": "center",
+    "y_position": "center",
+    "font": "F:\\ANRYCAMPANY\\reel_assets\\fonts\\M_PLUS_Rounded_1c\\MPLUSRounded1c-Bold.ttf"
+  },
+  {
+    "index": 6,
+    "source": "F:\\ANRYCAMPANY\\reel_assets\\mri_series\\mri_makeup_20260828_images\\image_06_head_coil_prep.png",
+    "output": "F:\\ANRYCAMPANY\\reel_assets\\mri_series\\mri_makeup_20260828_telop_frames\\telop_06_head_coil_prep.png",
+    "telop": [
+      [
+        "頭部",
+        "・",
+        "顔まわり",
+        "は"
+      ],
+      [
+        "控えめ案内も"
+      ]
+    ],
+    "highlights": [
+      "頭部",
+      "顔まわり"
+    ],
+    "x_axis": "center",
+    "y_position": "center",
+    "font": "F:\\ANRYCAMPANY\\reel_assets\\fonts\\M_PLUS_Rounded_1c\\MPLUSRounded1c-Bold.ttf"
+  },
+  {
+    "index": 7,
+    "source": "F:\\ANRYCAMPANY\\reel_assets\\mri_series\\mri_makeup_20260828_images\\image_07_reassured_patient_phone.png",
+    "output": "F:\\ANRYCAMPANY\\reel_assets\\mri_series\\mri_makeup_20260828_telop_frames\\telop_07_reassured_patient_phone.png",
+    "telop": [
+      [
+        "全部ダメ",
+        "とは"
+      ],
+      [
+        "限りません"
+      ]
+    ],
+    "highlights": [
+      "全部ダメ"
+    ],
+    "x_axis": "center",
+    "y_position": "bottom",
+    "font": "F:\\ANRYCAMPANY\\reel_assets\\fonts\\M_PLUS_Rounded_1c\\MPLUSRounded1c-Bold.ttf"
+  },
+  {
+    "index": 8,
+    "source": "F:\\ANRYCAMPANY\\reel_assets\\mri_series\\mri_makeup_20260828_images\\image_08_reception_makeup_confirm.png",
+    "output": "F:\\ANRYCAMPANY\\reel_assets\\mri_series\\mri_makeup_20260828_telop_frames\\telop_08_reception_makeup_confirm.png",
+    "telop": [
+      [
+        "迷ったら"
+      ],
+      [
+        "受付",
+        "で伝えてOK"
+      ]
+    ],
+    "highlights": [
+      "受付"
+    ],
+    "x_axis": "center",
+    "y_position": "bottom",
+    "font": "F:\\ANRYCAMPANY\\reel_assets\\fonts\\M_PLUS_Rounded_1c\\MPLUSRounded1c-Bold.ttf"
+  },
+  {
+    "index": 9,
+    "source": "F:\\ANRYCAMPANY\\reel_assets\\mri_series\\mri_makeup_20260828_images\\image_09_save_cta_before_appointment.png",
+    "output": "F:\\ANRYCAMPANY\\reel_assets\\mri_series\\mri_makeup_20260828_telop_frames\\telop_09_save_cta_before_appointment.png",
+    "telop": [
+      [
+        "前日・受付前に"
+      ],
+      [
+        "見返せるよう",
+        "保存"
+      ]
+    ],
+    "highlights": [
+      "保存"
+    ],
+    "x_axis": "center",
+    "y_position": "bottom",
+    "font": "F:\\ANRYCAMPANY\\reel_assets\\fonts\\M_PLUS_Rounded_1c\\MPLUSRounded1c-Bold.ttf"
+  },
+  {
+    "index": 10,
+    "source": "F:\\ANRYCAMPANY\\reel_assets\\mri_series\\mri_makeup_20260828_images\\image_10_rt_closing.png",
+    "output": "F:\\ANRYCAMPANY\\reel_assets\\mri_series\\mri_makeup_20260828_telop_frames\\telop_10_rt_closing.png",
+    "telop": [
+      [
+        "検査前の",
+        "疑問",
+        "も"
+      ],
+      [
+        "診療放射線技師目線で"
+      ]
+    ],
+    "highlights": [
+      "疑問"
+    ],
+    "x_axis": "center",
+    "y_position": "center",
+    "font": "F:\\ANRYCAMPANY\\reel_assets\\fonts\\M_PLUS_Rounded_1c\\MPLUSRounded1c-Bold.ttf"
+  }
+]

@@ -1,0 +1,206 @@
+[
+  {
+    "index": 1,
+    "source": "F:\\ANRYCAMPANY\\reel_assets\\ask_again_hearing_family_20260822_samples\\sample_01_patient_hearing_hesitation.png",
+    "output": "F:\\ANRYCAMPANY\\reel_assets\\ask_again_hearing_family_20260822_telop_frames\\telop_01_patient_hearing_hesitation.png",
+    "telop": [
+      [
+        "説明が"
+      ],
+      [
+        "聞き取り",
+        "にくい時"
+      ]
+    ],
+    "highlights": [
+      "聞き取り"
+    ],
+    "top_y": 178,
+    "center_y": null,
+    "font": "F:\\ANRYCAMPANY\\reel_assets\\fonts\\M_PLUS_Rounded_1c\\MPLUSRounded1c-Bold.ttf"
+  },
+  {
+    "index": 2,
+    "source": "F:\\ANRYCAMPANY\\reel_assets\\ask_again_hearing_family_20260822_samples\\image_02_patient_hesitates.png",
+    "output": "F:\\ANRYCAMPANY\\reel_assets\\ask_again_hearing_family_20260822_telop_frames\\telop_02_patient_hesitates.png",
+    "telop": [
+      [
+        "聞き返しても"
+      ],
+      [
+        "大丈夫"
+      ]
+    ],
+    "highlights": [
+      "大丈夫"
+    ],
+    "top_y": 172,
+    "center_y": null,
+    "font": "F:\\ANRYCAMPANY\\reel_assets\\fonts\\M_PLUS_Rounded_1c\\MPLUSRounded1c-Bold.ttf"
+  },
+  {
+    "index": 3,
+    "source": "F:\\ANRYCAMPANY\\reel_assets\\ask_again_hearing_family_20260822_samples\\image_03_patient_apologetic_bow.png",
+    "output": "F:\\ANRYCAMPANY\\reel_assets\\ask_again_hearing_family_20260822_telop_frames\\telop_03_patient_apologetic_bow.png",
+    "telop": [
+      [
+        "申し訳ないと"
+      ],
+      [
+        "感じることも"
+      ]
+    ],
+    "highlights": [
+      "申し訳ない"
+    ],
+    "top_y": 164,
+    "center_y": null,
+    "font": "F:\\ANRYCAMPANY\\reel_assets\\fonts\\M_PLUS_Rounded_1c\\MPLUSRounded1c-Bold.ttf"
+  },
+  {
+    "index": 4,
+    "source": "F:\\ANRYCAMPANY\\reel_assets\\ask_again_hearing_family_20260822_samples\\image_04_rt_accepts_feeling.png",
+    "output": "F:\\ANRYCAMPANY\\reel_assets\\ask_again_hearing_family_20260822_telop_frames\\telop_04_rt_accepts_feeling.png",
+    "telop": [
+      [
+        "その気持ち"
+      ],
+      [
+        "自然です"
+      ]
+    ],
+    "highlights": [
+      "自然"
+    ],
+    "top_y": null,
+    "center_y": 960,
+    "font": "F:\\ANRYCAMPANY\\reel_assets\\fonts\\M_PLUS_Rounded_1c\\MPLUSRounded1c-Bold.ttf"
+  },
+  {
+    "index": 5,
+    "source": "F:\\ANRYCAMPANY\\reel_assets\\ask_again_hearing_family_20260822_samples\\sample_05_patient_asks_again.png",
+    "output": "F:\\ANRYCAMPANY\\reel_assets\\ask_again_hearing_family_20260822_telop_frames\\telop_05_patient_asks_again.png",
+    "telop": [
+      [
+        "もう一度"
+      ],
+      [
+        "お願いしますでOK"
+      ]
+    ],
+    "highlights": [
+      "もう一度"
+    ],
+    "top_y": 176,
+    "center_y": null,
+    "font": "F:\\ANRYCAMPANY\\reel_assets\\fonts\\M_PLUS_Rounded_1c\\MPLUSRounded1c-Bold.ttf"
+  },
+  {
+    "index": 6,
+    "source": "F:\\ANRYCAMPANY\\reel_assets\\ask_again_hearing_family_20260822_samples\\image_06_rt_explains_again.png",
+    "output": "F:\\ANRYCAMPANY\\reel_assets\\ask_again_hearing_family_20260822_telop_frames\\telop_06_rt_explains_again.png",
+    "telop": [
+      [
+        "理解できるまで"
+      ],
+      [
+        "確認",
+        "して",
+        "大丈夫"
+      ]
+    ],
+    "highlights": [
+      "大丈夫",
+      "確認"
+    ],
+    "top_y": null,
+    "center_y": 960,
+    "font": "F:\\ANRYCAMPANY\\reel_assets\\fonts\\M_PLUS_Rounded_1c\\MPLUSRounded1c-Bold.ttf"
+  },
+  {
+    "index": 7,
+    "source": "F:\\ANRYCAMPANY\\reel_assets\\ask_again_hearing_family_20260822_samples\\image_07_patient_reassured.png",
+    "output": "F:\\ANRYCAMPANY\\reel_assets\\ask_again_hearing_family_20260822_telop_frames\\telop_07_patient_reassured.png",
+    "telop": [
+      [
+        "不安な時は"
+      ],
+      [
+        "確認",
+        "して",
+        "大丈夫"
+      ]
+    ],
+    "highlights": [
+      "大丈夫",
+      "確認"
+    ],
+    "top_y": 176,
+    "center_y": null,
+    "font": "F:\\ANRYCAMPANY\\reel_assets\\fonts\\M_PLUS_Rounded_1c\\MPLUSRounded1c-Bold.ttf"
+  },
+  {
+    "index": 8,
+    "source": "F:\\ANRYCAMPANY\\reel_assets\\ask_again_hearing_family_20260822_samples\\image_08_needed_confirmation.png",
+    "output": "F:\\ANRYCAMPANY\\reel_assets\\ask_again_hearing_family_20260822_telop_frames\\telop_08_needed_confirmation.png",
+    "telop": [
+      [
+        "聞き返しは"
+      ],
+      [
+        "必要な確認"
+      ]
+    ],
+    "highlights": [
+      "確認",
+      "聞き返し"
+    ],
+    "top_y": null,
+    "center_y": 960,
+    "font": "F:\\ANRYCAMPANY\\reel_assets\\fonts\\M_PLUS_Rounded_1c\\MPLUSRounded1c-Bold.ttf"
+  },
+  {
+    "index": 9,
+    "source": "F:\\ANRYCAMPANY\\reel_assets\\ask_again_hearing_family_20260822_samples\\image_09_family_confirms_together.png",
+    "output": "F:\\ANRYCAMPANY\\reel_assets\\ask_again_hearing_family_20260822_telop_frames\\telop_09_family_confirms_together.png",
+    "telop": [
+      [
+        "家族",
+        "と一緒に"
+      ],
+      [
+        "確認",
+        "OK"
+      ]
+    ],
+    "highlights": [
+      "家族",
+      "確認"
+    ],
+    "top_y": null,
+    "center_y": 960,
+    "font": "F:\\ANRYCAMPANY\\reel_assets\\fonts\\M_PLUS_Rounded_1c\\MPLUSRounded1c-Bold.ttf"
+  },
+  {
+    "index": 10,
+    "source": "F:\\ANRYCAMPANY\\reel_assets\\ask_again_hearing_family_20260822_samples\\image_10_family_save_cta.png",
+    "output": "F:\\ANRYCAMPANY\\reel_assets\\ask_again_hearing_family_20260822_telop_frames\\telop_10_family_save_cta.png",
+    "telop": [
+      [
+        "検査前に"
+      ],
+      [
+        "家族",
+        "で",
+        "保存"
+      ]
+    ],
+    "highlights": [
+      "保存",
+      "家族"
+    ],
+    "top_y": 1180,
+    "center_y": null,
+    "font": "F:\\ANRYCAMPANY\\reel_assets\\fonts\\M_PLUS_Rounded_1c\\MPLUSRounded1c-Bold.ttf"
+  }
+]

@@ -1,0 +1,239 @@
+[
+  {
+    "index": 1,
+    "source": "F:\\ANRYCAMPANY\\reel_assets\\ct_bra_wire_20260826_images\\image_01_patient_holding_exam_gown.png",
+    "output": "F:\\ANRYCAMPANY\\reel_assets\\ct_bra_wire_20260826_telop_frames\\telop_01_patient_holding_exam_gown.png",
+    "telop": [
+      [
+        "お腹の",
+        "CT",
+        "なのに"
+      ],
+      [
+        "ブラ",
+        "も外すの？"
+      ]
+    ],
+    "highlights": [
+      "CT",
+      "ブラ"
+    ],
+    "top_y": null,
+    "center_y": 1220,
+    "x_axis": "center",
+    "font": "F:\\ANRYCAMPANY\\reel_assets\\fonts\\M_PLUS_Rounded_1c\\MPLUSRounded1c-Bold.ttf"
+  },
+  {
+    "index": 2,
+    "source": "F:\\ANRYCAMPANY\\reel_assets\\ct_bra_wire_20260826_images\\image_02_rt_handing_exam_gown.png",
+    "output": "F:\\ANRYCAMPANY\\reel_assets\\ct_bra_wire_20260826_telop_frames\\telop_02_rt_handing_exam_gown.png",
+    "telop": [
+      [
+        "金具",
+        "つきのブラは"
+      ],
+      [
+        "外すことがあります"
+      ]
+    ],
+    "highlights": [
+      "金具"
+    ],
+    "top_y": null,
+    "center_y": 1220,
+    "x_axis": "center",
+    "font": "F:\\ANRYCAMPANY\\reel_assets\\fonts\\M_PLUS_Rounded_1c\\MPLUSRounded1c-Bold.ttf"
+  },
+  {
+    "index": 3,
+    "source": "F:\\ANRYCAMPANY\\reel_assets\\ct_bra_wire_20260826_images\\image_03_pants_metal_button.png",
+    "output": "F:\\ANRYCAMPANY\\reel_assets\\ct_bra_wire_20260826_telop_frames\\telop_03_pants_metal_button.png",
+    "telop": [
+      [
+        "ズボンの",
+        "金具",
+        "も"
+      ],
+      [
+        "写ることがあります"
+      ]
+    ],
+    "highlights": [
+      "金具"
+    ],
+    "top_y": null,
+    "center_y": 1220,
+    "x_axis": "center",
+    "font": "F:\\ANRYCAMPANY\\reel_assets\\fonts\\M_PLUS_Rounded_1c\\MPLUSRounded1c-Bold.ttf"
+  },
+  {
+    "index": 4,
+    "source": "F:\\ANRYCAMPANY\\reel_assets\\ct_bra_wire_20260826_images\\image_04_exam_gown_and_private_clothes.png",
+    "output": "F:\\ANRYCAMPANY\\reel_assets\\ct_bra_wire_20260826_telop_frames\\telop_04_exam_gown_and_private_clothes.png",
+    "telop": [
+      [
+        "検査着",
+        "に着替えて"
+      ],
+      [
+        "確認します"
+      ]
+    ],
+    "highlights": [
+      "検査着"
+    ],
+    "top_y": null,
+    "center_y": 960,
+    "x_axis": "center",
+    "font": "F:\\ANRYCAMPANY\\reel_assets\\fonts\\M_PLUS_Rounded_1c\\MPLUSRounded1c-Bold.ttf"
+  },
+  {
+    "index": 5,
+    "source": "F:\\ANRYCAMPANY\\reel_assets\\ct_bra_wire_20260826_images\\image_05_metal_check_clothing_basket.png",
+    "output": "F:\\ANRYCAMPANY\\reel_assets\\ct_bra_wire_20260826_telop_frames\\telop_05_metal_check_clothing_basket.png",
+    "telop": [
+      [
+        "金具",
+        "がある物は"
+      ],
+      [
+        "事前に",
+        "確認"
+      ]
+    ],
+    "highlights": [
+      "確認",
+      "金具"
+    ],
+    "top_y": null,
+    "center_y": 960,
+    "x_axis": "center",
+    "font": "F:\\ANRYCAMPANY\\reel_assets\\fonts\\M_PLUS_Rounded_1c\\MPLUSRounded1c-Bold.ttf"
+  },
+  {
+    "index": 6,
+    "source": "F:\\ANRYCAMPANY\\reel_assets\\ct_bra_wire_20260826_images\\image_06_abdominal_ct_monitor.png",
+    "output": "F:\\ANRYCAMPANY\\reel_assets\\ct_bra_wire_20260826_telop_frames\\telop_06_abdominal_ct_monitor.png",
+    "telop": [
+      [
+        "撮影範囲",
+        "に入ると"
+      ],
+      [
+        "見え方に影響も"
+      ]
+    ],
+    "highlights": [
+      "撮影範囲"
+    ],
+    "top_y": null,
+    "center_y": 960,
+    "x_axis": "center",
+    "font": "F:\\ANRYCAMPANY\\reel_assets\\fonts\\M_PLUS_Rounded_1c\\MPLUSRounded1c-Bold.ttf"
+  },
+  {
+    "index": 7,
+    "source": "F:\\ANRYCAMPANY\\reel_assets\\ct_bra_wire_20260826_images\\image_07_rt_reviewing_ct_image.png",
+    "output": "F:\\ANRYCAMPANY\\reel_assets\\ct_bra_wire_20260826_telop_frames\\telop_07_rt_reviewing_ct_image.png",
+    "telop": [
+      [
+        "見やすい",
+        "画像のため"
+      ],
+      [
+        "お願いしています"
+      ]
+    ],
+    "highlights": [
+      "見やすい"
+    ],
+    "top_y": null,
+    "center_y": 650,
+    "x_axis": "center",
+    "font": "F:\\ANRYCAMPANY\\reel_assets\\fonts\\M_PLUS_Rounded_1c\\MPLUSRounded1c-Bold.ttf"
+  },
+  {
+    "index": 8,
+    "source": "F:\\ANRYCAMPANY\\reel_assets\\ct_bra_wire_20260826_images\\image_08_patient_asks_rt.png",
+    "output": "F:\\ANRYCAMPANY\\reel_assets\\ct_bra_wire_20260826_telop_frames\\telop_08_patient_asks_rt.png",
+    "telop": [
+      [
+        "迷ったら"
+      ],
+      [
+        "聞いて",
+        "大丈夫"
+      ]
+    ],
+    "highlights": [
+      "大丈夫",
+      "聞いて"
+    ],
+    "top_y": null,
+    "center_y": 1220,
+    "x_axis": "center",
+    "font": "F:\\ANRYCAMPANY\\reel_assets\\fonts\\M_PLUS_Rounded_1c\\MPLUSRounded1c-Bold.ttf"
+  },
+  {
+    "index": 9,
+    "source": "F:\\ANRYCAMPANY\\reel_assets\\ct_bra_wire_20260826_images\\image_09_pre_exam_checkpoint.png",
+    "output": "F:\\ANRYCAMPANY\\reel_assets\\ct_bra_wire_20260826_telop_frames\\telop_09_pre_exam_checkpoint.png",
+    "telop": [
+      [
+        "見落としやすい"
+      ],
+      [
+        "検査前",
+        "のポイント"
+      ]
+    ],
+    "highlights": [
+      "検査前"
+    ],
+    "top_y": null,
+    "center_y": 960,
+    "x_axis": "center",
+    "font": "F:\\ANRYCAMPANY\\reel_assets\\fonts\\M_PLUS_Rounded_1c\\MPLUSRounded1c-Bold.ttf"
+  },
+  {
+    "index": 10,
+    "source": "F:\\ANRYCAMPANY\\reel_assets\\ct_bra_wire_20260826_images\\image_10_save_cta_phone.png",
+    "output": "F:\\ANRYCAMPANY\\reel_assets\\ct_bra_wire_20260826_telop_frames\\telop_10_save_cta_phone.png",
+    "telop": [
+      [
+        "腹部CTの前日に"
+      ],
+      [
+        "見返せるよう",
+        "保存"
+      ]
+    ],
+    "highlights": [
+      "保存"
+    ],
+    "top_y": null,
+    "center_y": 960,
+    "x_axis": "center",
+    "font": "F:\\ANRYCAMPANY\\reel_assets\\fonts\\M_PLUS_Rounded_1c\\MPLUSRounded1c-Bold.ttf"
+  },
+  {
+    "index": 11,
+    "source": "F:\\ANRYCAMPANY\\reel_assets\\ct_bra_wire_20260826_images\\image_11_rt_closing_ct_room.png",
+    "output": "F:\\ANRYCAMPANY\\reel_assets\\ct_bra_wire_20260826_telop_frames\\telop_11_rt_closing_ct_room.png",
+    "telop": [
+      [
+        "検査前の不安も"
+      ],
+      [
+        "やさしく発信中"
+      ]
+    ],
+    "highlights": [
+      "不安"
+    ],
+    "top_y": 176,
+    "center_y": null,
+    "x_axis": "center",
+    "font": "F:\\ANRYCAMPANY\\reel_assets\\fonts\\M_PLUS_Rounded_1c\\MPLUSRounded1c-Bold.ttf"
+  }
+]

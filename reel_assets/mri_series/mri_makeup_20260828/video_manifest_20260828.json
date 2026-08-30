@@ -1,0 +1,149 @@
+﻿{
+  "title": "MRIの日、メイクってして行っても大丈夫ですか？",
+  "speaker": "VOICEVOX speaker id 20",
+  "voice_speed": 1.2,
+  "bgm": "F:\\ANRYCAMPANY\\01_ショート動画_リール_YouTubeShorts\\インスタリール用\\BGM フリー素材\\Kind_Heart.mp3",
+  "bgm_volume": "-26dB",
+  "frames": [
+    "F:\\ANRYCAMPANY\\reel_assets\\mri_series\\mri_makeup_20260828_telop_frames\\telop_01_opening_makeup_question.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\mri_series\\mri_makeup_20260828_telop_frames\\telop_02_eye_makeup_pause.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\mri_series\\mri_makeup_20260828_telop_frames\\telop_03_appointment_prep_still_life.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\mri_series\\mri_makeup_20260828_telop_frames\\telop_04_eye_makeup_items.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\mri_series\\mri_makeup_20260828_telop_frames\\telop_05_bright_mri_room.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\mri_series\\mri_makeup_20260828_telop_frames\\telop_06_head_coil_prep.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\mri_series\\mri_makeup_20260828_telop_frames\\telop_07_reassured_patient_phone.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\mri_series\\mri_makeup_20260828_telop_frames\\telop_08_reception_makeup_confirm.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\mri_series\\mri_makeup_20260828_telop_frames\\telop_09_save_cta_before_appointment.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\mri_series\\mri_makeup_20260828_telop_frames\\telop_10_rt_closing.png"
+  ],
+  "display_narration": [
+    "MRIの日、メイクってして行っても大丈夫ですか。",
+    "MRI検査前に、メイクについて確認されることがあります。",
+    "特にアイシャドウ、アイライナー、マスカラなどのアイメイクは注意されることがあります。",
+    "化粧品の中には、金属成分が含まれているものがあるためです。",
+    "MRIでは、金属成分が熱感や画像の乱れにつながる可能性があります。",
+    "特に頭部や顔まわりの検査では、メイクを控えめにするよう案内されることがあります。",
+    "ただし、すべてのメイクが必ずダメという意味ではありません。",
+    "施設や検査部位によって対応が変わるため、不安なときは予約の時や受付で、メイクをしていますと伝えてください。",
+    "MRIの予約がある人は、検査前日や受付前に見返せるように保存しておいてください。",
+    "ほかの検査前の疑問も、診療放射線技師目線で発信しています。"
+  ],
+  "voice_text": [
+    "エムアールアイの日、メイクってして行っても大丈夫ですか。",
+    "エムアールアイ検査前に、メイクについて確認されることがあります。",
+    "特にアイシャドウ、アイライナー、マスカラなどのアイメイクは注意されることがあります。",
+    "化粧品の中には、金属成分が含まれているものがあるためです。",
+    "エムアールアイでは、金属成分が熱感や画像の乱れにつながる可能性があります。",
+    "特に頭部や顔まわりの検査では、メイクを控えめにするよう案内されることがあります。",
+    "ただし、すべてのメイクが必ずダメという意味ではありません。",
+    "施設や検査部位によって対応が変わるため、不安なときは予約の時や受付で、メイクをしていますと伝えてください。",
+    "エムアールアイの予約がある人は、検査前日や受付前に見返せるように保存しておいてください。",
+    "ほかの検査前の疑問も、しんりょうほうしゃせんぎし目線で発信しています。"
+  ],
+  "raw_voice_seconds": [
+    3.008,
+    3.605,
+    4.779,
+    3.872,
+    4.768,
+    4.832,
+    3.392,
+    6.763,
+    5.451,
+    4.171
+  ],
+  "durations_seconds": [
+    3.048,
+    3.645,
+    4.819,
+    3.912,
+    4.808,
+    4.872,
+    3.432,
+    6.803,
+    5.491,
+    4.211
+  ],
+  "tail_padding_seconds_each": 0.04,
+  "total_timeline_seconds": 45.04,
+  "voice_audio_seconds": 45.04,
+  "video_seconds": 44.97,
+  "max_added_gap_seconds": 0.04,
+  "audio_stream_present": true,
+  "voice_audio": "F:\\ANRYCAMPANY\\reel_assets\\mri_series\\mri_makeup_20260828\\audio\\voice.wav",
+  "asset_video": "F:\\ANRYCAMPANY\\reel_assets\\mri_series\\mri_makeup_20260828\\video\\MRI前_メイクして行っても大丈夫ですか_20260828.mp4",
+  "final_video": "F:\\ANRYCAMPANY\\01_ショート動画_リール_YouTubeShorts\\インスタ完成形\\MRI前_メイクして行っても大丈夫ですか_20260828.mp4",
+  "qa_contact_sheet": "F:\\ANRYCAMPANY\\reel_assets\\mri_series\\mri_makeup_20260828\\qa_midframes\\qa_midframes_contact_sheet.jpg",
+  "alignment_check": [
+    {
+      "index": 1,
+      "frame": "telop_01_opening_makeup_question.png",
+      "display_narration": "MRIの日、メイクってして行っても大丈夫ですか。",
+      "voice_text": "エムアールアイの日、メイクってして行っても大丈夫ですか。",
+      "duration_seconds": 3.048
+    },
+    {
+      "index": 2,
+      "frame": "telop_02_eye_makeup_pause.png",
+      "display_narration": "MRI検査前に、メイクについて確認されることがあります。",
+      "voice_text": "エムアールアイ検査前に、メイクについて確認されることがあります。",
+      "duration_seconds": 3.645
+    },
+    {
+      "index": 3,
+      "frame": "telop_03_appointment_prep_still_life.png",
+      "display_narration": "特にアイシャドウ、アイライナー、マスカラなどのアイメイクは注意されることがあります。",
+      "voice_text": "特にアイシャドウ、アイライナー、マスカラなどのアイメイクは注意されることがあります。",
+      "duration_seconds": 4.819
+    },
+    {
+      "index": 4,
+      "frame": "telop_04_eye_makeup_items.png",
+      "display_narration": "化粧品の中には、金属成分が含まれているものがあるためです。",
+      "voice_text": "化粧品の中には、金属成分が含まれているものがあるためです。",
+      "duration_seconds": 3.912
+    },
+    {
+      "index": 5,
+      "frame": "telop_05_bright_mri_room.png",
+      "display_narration": "MRIでは、金属成分が熱感や画像の乱れにつながる可能性があります。",
+      "voice_text": "エムアールアイでは、金属成分が熱感や画像の乱れにつながる可能性があります。",
+      "duration_seconds": 4.808
+    },
+    {
+      "index": 6,
+      "frame": "telop_06_head_coil_prep.png",
+      "display_narration": "特に頭部や顔まわりの検査では、メイクを控えめにするよう案内されることがあります。",
+      "voice_text": "特に頭部や顔まわりの検査では、メイクを控えめにするよう案内されることがあります。",
+      "duration_seconds": 4.872
+    },
+    {
+      "index": 7,
+      "frame": "telop_07_reassured_patient_phone.png",
+      "display_narration": "ただし、すべてのメイクが必ずダメという意味ではありません。",
+      "voice_text": "ただし、すべてのメイクが必ずダメという意味ではありません。",
+      "duration_seconds": 3.432
+    },
+    {
+      "index": 8,
+      "frame": "telop_08_reception_makeup_confirm.png",
+      "display_narration": "施設や検査部位によって対応が変わるため、不安なときは予約の時や受付で、メイクをしていますと伝えてください。",
+      "voice_text": "施設や検査部位によって対応が変わるため、不安なときは予約の時や受付で、メイクをしていますと伝えてください。",
+      "duration_seconds": 6.803
+    },
+    {
+      "index": 9,
+      "frame": "telop_09_save_cta_before_appointment.png",
+      "display_narration": "MRIの予約がある人は、検査前日や受付前に見返せるように保存しておいてください。",
+      "voice_text": "エムアールアイの予約がある人は、検査前日や受付前に見返せるように保存しておいてください。",
+      "duration_seconds": 5.491
+    },
+    {
+      "index": 10,
+      "frame": "telop_10_rt_closing.png",
+      "display_narration": "ほかの検査前の疑問も、診療放射線技師目線で発信しています。",
+      "voice_text": "ほかの検査前の疑問も、しんりょうほうしゃせんぎし目線で発信しています。",
+      "duration_seconds": 4.211
+    }
+  ]
+}

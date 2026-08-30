@@ -1,0 +1,72 @@
+﻿{
+  "title": "説明が聞き取れなかった時、聞き返して大丈夫です",
+  "speaker": "VOICEVOX speaker id 20",
+  "voice_speed": 1.2,
+  "bgm": "F:\\ANRYCAMPANY\\01_ショート動画_リール_YouTubeShorts\\インスタリール用\\BGM フリー素材\\Kind_Heart.mp3",
+  "bgm_volume": "-25dB",
+  "frames": [
+    "F:\\ANRYCAMPANY\\reel_assets\\ask_again_hearing_family_20260822_telop_frames\\telop_01_patient_hearing_hesitation.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\ask_again_hearing_family_20260822_telop_frames\\telop_02_patient_hesitates.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\ask_again_hearing_family_20260822_telop_frames\\telop_03_patient_apologetic_bow.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\ask_again_hearing_family_20260822_telop_frames\\telop_04_rt_accepts_feeling.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\ask_again_hearing_family_20260822_telop_frames\\telop_05_patient_asks_again.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\ask_again_hearing_family_20260822_telop_frames\\telop_06_rt_explains_again.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\ask_again_hearing_family_20260822_telop_frames\\telop_07_patient_reassured.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\ask_again_hearing_family_20260822_telop_frames\\telop_08_needed_confirmation.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\ask_again_hearing_family_20260822_telop_frames\\telop_09_family_confirms_together.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\ask_again_hearing_family_20260822_telop_frames\\telop_10_family_save_cta.png"
+  ],
+  "display_narration": [
+    "検査室で説明が聞き取りにくかった時、聞き返していいのか迷うことがあります。",
+    "聞き返していいのか、迷ってしまう。",
+    "何度も聞くと申し訳ないと、感じてしまう。",
+    "その気持ち、おかしくありません。",
+    "聞き取れなかった部分は、その都度聞き返していただいて大丈夫です。",
+    "説明を最後まで理解していただくことの方が大切です。",
+    "不安なまま進むより、聞き返していただく方が、安心して受けていただけます。",
+    "それでも、何度も聞くのは迷惑かなと、気になってしまう。聞き返すことは、迷惑ではなく、必要な確認です。",
+    "分からないところがあれば、遠慮せず伝えていただいて大丈夫です。",
+    "ご本人やご家族が、次の検査前に見返せるように、保存しておいてください。検査前に知っておくと安心なことを、これからも届けます。フォローしてお待ちください。"
+  ],
+  "voice_text": [
+    "検査室で説明が聞き取りにくかった時、聞き返していいのか迷うことがあります。",
+    "聞き返していいのか、迷ってしまう。",
+    "何度も聞くと申し訳ないと、感じてしまう。",
+    "その気持ち、おかしくありません。",
+    "聞き取れなかった部分は、その都度聞き返していただいて大丈夫です。",
+    "説明を最後まで理解していただくことのほうが大切です。",
+    "不安なまま進むより、聞き返していただくほうが、安心して受けていただけます。",
+    "それでも、何度も聞くのは迷惑かなと、気になってしまう。聞き返すことは、迷惑ではなく、必要な確認です。",
+    "分からないところがあれば、遠慮せず伝えていただいて大丈夫です。",
+    "ご本人やご家族が、次の検査前に見返せるように、保存しておいてください。検査前に知っておくと安心なことを、これからも届けます。フォローしてお待ちください。"
+  ],
+  "raw_voice_seconds": [
+    4.672,
+    2.251,
+    2.805,
+    1.973,
+    3.797,
+    3.275,
+    4.853,
+    7.861,
+    3.712,
+    10.731
+  ],
+  "durations_seconds": [
+    4.812,
+    2.391,
+    2.945,
+    2.113,
+    3.937,
+    3.415,
+    4.993,
+    8.001,
+    3.852,
+    10.871
+  ],
+  "tail_padding_seconds_each": 0.14,
+  "total_seconds": 47.331,
+  "voice_audio": "F:\\ANRYCAMPANY\\reel_assets\\ask_again_hearing_family_20260822\\audio\\voice.wav",
+  "asset_video": "F:\\ANRYCAMPANY\\reel_assets\\ask_again_hearing_family_20260822\\video\\説明が聞き取れなかった時_聞き返して大丈夫です_20260822.mp4",
+  "final_video": "F:\\ANRYCAMPANY\\01_ショート動画_リール_YouTubeShorts\\インスタ完成形\\説明が聞き取れなかった時_聞き返して大丈夫です_20260822.mp4"
+}

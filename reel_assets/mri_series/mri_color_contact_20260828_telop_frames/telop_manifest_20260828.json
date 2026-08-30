@@ -1,0 +1,204 @@
+[
+  {
+    "index": 1,
+    "source": "F:\\ANRYCAMPANY\\reel_assets\\mri_series\\mri_color_contact_20260828_samples\\sample_01_patient_contact_case.png",
+    "output": "F:\\ANRYCAMPANY\\reel_assets\\mri_series\\mri_color_contact_20260828_telop_frames\\telop_01_patient_contact_case.png",
+    "telop": [
+      [
+        "MRI前日"
+      ],
+      [
+        "カラコン",
+        "どうする？"
+      ]
+    ],
+    "highlights": [
+      "カラコン"
+    ],
+    "x_axis": "center",
+    "y_position": "top",
+    "font": "F:\\ANRYCAMPANY\\reel_assets\\fonts\\M_PLUS_Rounded_1c\\MPLUSRounded1c-Bold.ttf"
+  },
+  {
+    "index": 2,
+    "source": "F:\\ANRYCAMPANY\\reel_assets\\mri_series\\mri_color_contact_20260828_samples\\image_02_patient_checks_appointment.png",
+    "output": "F:\\ANRYCAMPANY\\reel_assets\\mri_series\\mri_color_contact_20260828_telop_frames\\telop_02_patient_checks_appointment.png",
+    "telop": [
+      [
+        "問診",
+        "で"
+      ],
+      [
+        "聞かれることも"
+      ]
+    ],
+    "highlights": [
+      "問診"
+    ],
+    "x_axis": "center",
+    "y_position": "center",
+    "font": "F:\\ANRYCAMPANY\\reel_assets\\fonts\\M_PLUS_Rounded_1c\\MPLUSRounded1c-Bold.ttf"
+  },
+  {
+    "index": 3,
+    "source": "F:\\ANRYCAMPANY\\reel_assets\\mri_series\\mri_color_contact_20260828_samples\\image_03_rt_clear_contact_explain.png",
+    "output": "F:\\ANRYCAMPANY\\reel_assets\\mri_series\\mri_color_contact_20260828_telop_frames\\telop_03_rt_clear_contact_explain.png",
+    "telop": [
+      [
+        "透明コンタクト",
+        "は"
+      ],
+      [
+        "施設で確認"
+      ]
+    ],
+    "highlights": [
+      "透明コンタクト"
+    ],
+    "x_axis": "center",
+    "y_position": "top",
+    "font": "F:\\ANRYCAMPANY\\reel_assets\\fonts\\M_PLUS_Rounded_1c\\MPLUSRounded1c-Bold.ttf"
+  },
+  {
+    "index": 4,
+    "source": "F:\\ANRYCAMPANY\\reel_assets\\mri_series\\mri_color_contact_20260828_samples\\image_04_colored_contact_still_life.png",
+    "output": "F:\\ANRYCAMPANY\\reel_assets\\mri_series\\mri_color_contact_20260828_telop_frames\\telop_04_colored_contact_still_life.png",
+    "telop": [
+      [
+        "カラコン",
+        "や"
+      ],
+      [
+        "縁取りレンズ",
+        "は注意"
+      ]
+    ],
+    "highlights": [
+      "カラコン",
+      "縁取りレンズ"
+    ],
+    "x_axis": "center",
+    "y_position": "top",
+    "font": "F:\\ANRYCAMPANY\\reel_assets\\fonts\\M_PLUS_Rounded_1c\\MPLUSRounded1c-Bold.ttf"
+  },
+  {
+    "index": 5,
+    "source": "F:\\ANRYCAMPANY\\reel_assets\\mri_series\\mri_color_contact_20260828_samples\\image_05_mri_precheck_counter.png",
+    "output": "F:\\ANRYCAMPANY\\reel_assets\\mri_series\\mri_color_contact_20260828_telop_frames\\telop_05_mri_precheck_counter.png",
+    "telop": [
+      [
+        "MRI",
+        "は"
+      ],
+      [
+        "強い磁場を使います"
+      ]
+    ],
+    "highlights": [
+      "MRI"
+    ],
+    "x_axis": "center",
+    "y_position": "center",
+    "font": "F:\\ANRYCAMPANY\\reel_assets\\fonts\\M_PLUS_Rounded_1c\\MPLUSRounded1c-Bold.ttf"
+  },
+  {
+    "index": 6,
+    "source": "F:\\ANRYCAMPANY\\reel_assets\\mri_series\\mri_color_contact_20260828_samples\\image_06_mri_contact_risk_calm.png",
+    "output": "F:\\ANRYCAMPANY\\reel_assets\\mri_series\\mri_color_contact_20260828_telop_frames\\telop_06_mri_contact_risk_calm.png",
+    "telop": [
+      [
+        "金属成分",
+        "で"
+      ],
+      [
+        "発熱や画像影響も"
+      ]
+    ],
+    "highlights": [
+      "金属成分"
+    ],
+    "x_axis": "center",
+    "y_position": "center",
+    "font": "F:\\ANRYCAMPANY\\reel_assets\\fonts\\M_PLUS_Rounded_1c\\MPLUSRounded1c-Bold.ttf"
+  },
+  {
+    "index": 7,
+    "source": "F:\\ANRYCAMPANY\\reel_assets\\mri_series\\mri_color_contact_20260828_samples\\image_07_patient_removes_contacts.png",
+    "output": "F:\\ANRYCAMPANY\\reel_assets\\mri_series\\mri_color_contact_20260828_telop_frames\\telop_07_patient_removes_contacts.png",
+    "telop": [
+      [
+        "カラコン",
+        "は"
+      ],
+      [
+        "外す案内も"
+      ]
+    ],
+    "highlights": [
+      "カラコン"
+    ],
+    "x_axis": "center",
+    "y_position": "center",
+    "font": "F:\\ANRYCAMPANY\\reel_assets\\fonts\\M_PLUS_Rounded_1c\\MPLUSRounded1c-Bold.ttf"
+  },
+  {
+    "index": 8,
+    "source": "F:\\ANRYCAMPANY\\reel_assets\\mri_series\\mri_color_contact_20260828_samples\\sample_08_patient_consults_rt.png",
+    "output": "F:\\ANRYCAMPANY\\reel_assets\\mri_series\\mri_color_contact_20260828_telop_frames\\telop_08_patient_consults_rt.png",
+    "telop": [
+      [
+        "迷ったら"
+      ],
+      [
+        "受付で",
+        "相談"
+      ]
+    ],
+    "highlights": [
+      "相談"
+    ],
+    "x_axis": "center",
+    "y_position": "center",
+    "font": "F:\\ANRYCAMPANY\\reel_assets\\fonts\\M_PLUS_Rounded_1c\\MPLUSRounded1c-Bold.ttf"
+  },
+  {
+    "index": 9,
+    "source": "F:\\ANRYCAMPANY\\reel_assets\\mri_series\\mri_color_contact_20260828_samples\\image_09_save_cta_phone.png",
+    "output": "F:\\ANRYCAMPANY\\reel_assets\\mri_series\\mri_color_contact_20260828_telop_frames\\telop_09_save_cta_phone.png",
+    "telop": [
+      [
+        "前日・受付前に"
+      ],
+      [
+        "見返せるよう",
+        "保存"
+      ]
+    ],
+    "highlights": [
+      "保存"
+    ],
+    "x_axis": "center",
+    "y_position": "top",
+    "font": "F:\\ANRYCAMPANY\\reel_assets\\fonts\\M_PLUS_Rounded_1c\\MPLUSRounded1c-Bold.ttf"
+  },
+  {
+    "index": 10,
+    "source": "F:\\ANRYCAMPANY\\reel_assets\\mri_series\\mri_color_contact_20260828_samples\\image_10_rt_closing.png",
+    "output": "F:\\ANRYCAMPANY\\reel_assets\\mri_series\\mri_color_contact_20260828_telop_frames\\telop_10_rt_closing.png",
+    "telop": [
+      [
+        "検査前の疑問も"
+      ],
+      [
+        "診療放射線技師",
+        "目線で"
+      ]
+    ],
+    "highlights": [
+      "疑問"
+    ],
+    "x_axis": "center",
+    "y_position": "center",
+    "font": "F:\\ANRYCAMPANY\\reel_assets\\fonts\\M_PLUS_Rounded_1c\\MPLUSRounded1c-Bold.ttf"
+  }
+]

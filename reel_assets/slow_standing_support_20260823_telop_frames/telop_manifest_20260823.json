@@ -1,0 +1,211 @@
+[
+  {
+    "index": 1,
+    "source": "F:\\ANRYCAMPANY\\reel_assets\\slow_standing_support_20260823_images\\image_01_patient_slow_standing.png",
+    "output": "F:\\ANRYCAMPANY\\reel_assets\\slow_standing_support_20260823_telop_frames\\telop_01_patient_slow_standing.png",
+    "telop": [
+      [
+        "すぐ立てなくても"
+      ],
+      [
+        "大丈夫"
+      ]
+    ],
+    "highlights": [
+      "大丈夫"
+    ],
+    "top_y": null,
+    "center_y": 960,
+    "font": "F:\\ANRYCAMPANY\\reel_assets\\fonts\\M_PLUS_Rounded_1c\\MPLUSRounded1c-Bold.ttf",
+    "x_axis": "center"
+  },
+  {
+    "index": 2,
+    "source": "F:\\ANRYCAMPANY\\reel_assets\\slow_standing_support_20260823_images\\image_02_rt_support_ready.png",
+    "output": "F:\\ANRYCAMPANY\\reel_assets\\slow_standing_support_20260823_telop_frames\\telop_02_rt_support_ready.png",
+    "telop": [
+      [
+        "急がず"
+      ],
+      [
+        "声",
+        "をかけてください"
+      ]
+    ],
+    "highlights": [
+      "声"
+    ],
+    "top_y": null,
+    "center_y": 960,
+    "font": "F:\\ANRYCAMPANY\\reel_assets\\fonts\\M_PLUS_Rounded_1c\\MPLUSRounded1c-Bold.ttf",
+    "x_axis": "center"
+  },
+  {
+    "index": 3,
+    "source": "F:\\ANRYCAMPANY\\reel_assets\\slow_standing_support_20260823_images\\image_03_waiting_worried.png",
+    "output": "F:\\ANRYCAMPANY\\reel_assets\\slow_standing_support_20260823_telop_frames\\telop_03_waiting_worried.png",
+    "telop": [
+      [
+        "焦る気持ちも"
+      ],
+      [
+        "自然",
+        "です"
+      ]
+    ],
+    "highlights": [
+      "自然"
+    ],
+    "top_y": 178,
+    "center_y": null,
+    "font": "F:\\ANRYCAMPANY\\reel_assets\\fonts\\M_PLUS_Rounded_1c\\MPLUSRounded1c-Bold.ttf",
+    "x_axis": "center"
+  },
+  {
+    "index": 4,
+    "source": "F:\\ANRYCAMPANY\\reel_assets\\slow_standing_support_20260823_images\\image_04_reassuring_voice.png",
+    "output": "F:\\ANRYCAMPANY\\reel_assets\\slow_standing_support_20260823_telop_frames\\telop_04_reassuring_voice.png",
+    "telop": [
+      [
+        "その気持ち"
+      ],
+      [
+        "おかしくありません"
+      ]
+    ],
+    "highlights": [
+      "気持ち"
+    ],
+    "top_y": null,
+    "center_y": 960,
+    "font": "F:\\ANRYCAMPANY\\reel_assets\\fonts\\M_PLUS_Rounded_1c\\MPLUSRounded1c-Bold.ttf",
+    "x_axis": "center"
+  },
+  {
+    "index": 5,
+    "source": "F:\\ANRYCAMPANY\\reel_assets\\slow_standing_support_20260823_images\\image_05_slow_pause.png",
+    "output": "F:\\ANRYCAMPANY\\reel_assets\\slow_standing_support_20260823_telop_frames\\telop_05_slow_pause.png",
+    "telop": [
+      [
+        "速さより"
+      ],
+      [
+        "安全",
+        "が大切"
+      ]
+    ],
+    "highlights": [
+      "安全"
+    ],
+    "top_y": null,
+    "center_y": 960,
+    "font": "F:\\ANRYCAMPANY\\reel_assets\\fonts\\M_PLUS_Rounded_1c\\MPLUSRounded1c-Bold.ttf",
+    "x_axis": "center"
+  },
+  {
+    "index": 6,
+    "source": "F:\\ANRYCAMPANY\\reel_assets\\slow_standing_support_20260823_images\\image_06_safely_standing.png",
+    "output": "F:\\ANRYCAMPANY\\reel_assets\\slow_standing_support_20260823_telop_frames\\telop_06_safely_standing.png",
+    "telop": [
+      [
+        "ゆっくり",
+        "立てれば"
+      ],
+      [
+        "大丈夫"
+      ]
+    ],
+    "highlights": [
+      "ゆっくり",
+      "大丈夫"
+    ],
+    "top_y": null,
+    "center_y": 960,
+    "font": "F:\\ANRYCAMPANY\\reel_assets\\fonts\\M_PLUS_Rounded_1c\\MPLUSRounded1c-Bold.ttf",
+    "x_axis": "center"
+  },
+  {
+    "index": 7,
+    "source": "F:\\ANRYCAMPANY\\reel_assets\\slow_standing_support_20260823_images\\image_07_quiet_reflection.png",
+    "output": "F:\\ANRYCAMPANY\\reel_assets\\slow_standing_support_20260823_telop_frames\\telop_07_quiet_reflection.png",
+    "telop": [
+      [
+        "自分だけ遅い"
+      ],
+      [
+        "と思っても"
+      ]
+    ],
+    "highlights": [
+      "自分だけ"
+    ],
+    "top_y": null,
+    "center_y": 960,
+    "font": "F:\\ANRYCAMPANY\\reel_assets\\fonts\\M_PLUS_Rounded_1c\\MPLUSRounded1c-Bold.ttf",
+    "x_axis": "center"
+  },
+  {
+    "index": 8,
+    "source": "F:\\ANRYCAMPANY\\reel_assets\\slow_standing_support_20260823_images\\image_08_own_pace_reassurance.png",
+    "output": "F:\\ANRYCAMPANY\\reel_assets\\slow_standing_support_20260823_telop_frames\\telop_08_own_pace_reassurance.png",
+    "telop": [
+      [
+        "ペースには"
+      ],
+      [
+        "個人差",
+        "があります"
+      ]
+    ],
+    "highlights": [
+      "個人差"
+    ],
+    "top_y": null,
+    "center_y": 960,
+    "font": "F:\\ANRYCAMPANY\\reel_assets\\fonts\\M_PLUS_Rounded_1c\\MPLUSRounded1c-Bold.ttf",
+    "x_axis": "center"
+  },
+  {
+    "index": 9,
+    "source": "F:\\ANRYCAMPANY\\reel_assets\\slow_standing_support_20260823_images\\image_09_relief_after_standing.png",
+    "output": "F:\\ANRYCAMPANY\\reel_assets\\slow_standing_support_20260823_telop_frames\\telop_09_relief_after_standing.png",
+    "telop": [
+      [
+        "無理せず"
+      ],
+      [
+        "ご自身の",
+        "ペース",
+        "で"
+      ]
+    ],
+    "highlights": [
+      "ペース"
+    ],
+    "top_y": null,
+    "center_y": 960,
+    "font": "F:\\ANRYCAMPANY\\reel_assets\\fonts\\M_PLUS_Rounded_1c\\MPLUSRounded1c-Bold.ttf",
+    "x_axis": "center"
+  },
+  {
+    "index": 10,
+    "source": "F:\\ANRYCAMPANY\\reel_assets\\slow_standing_support_20260823_images\\image_10_save_cta_phone.png",
+    "output": "F:\\ANRYCAMPANY\\reel_assets\\slow_standing_support_20260823_telop_frames\\telop_10_save_cta_phone.png",
+    "telop": [
+      [
+        "不安な時に"
+      ],
+      [
+        "見返せるよう",
+        "保存"
+      ]
+    ],
+    "highlights": [
+      "保存"
+    ],
+    "top_y": 178,
+    "center_y": null,
+    "font": "F:\\ANRYCAMPANY\\reel_assets\\fonts\\M_PLUS_Rounded_1c\\MPLUSRounded1c-Bold.ttf",
+    "x_axis": "center"
+  }
+]

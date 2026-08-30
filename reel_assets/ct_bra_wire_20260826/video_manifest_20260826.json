@@ -1,0 +1,149 @@
+﻿{
+  "title": "お腹のCTなのにブラジャーも外すんですか",
+  "speaker": "VOICEVOX speaker id 20",
+  "voice_speed": 1.2,
+  "bgm": "F:\\ANRYCAMPANY\\01_ショート動画_リール_YouTubeShorts\\インスタリール用\\BGM フリー素材\\Kind_Heart.mp3",
+  "bgm_volume": "-25dB",
+  "frames": [
+    "F:\\ANRYCAMPANY\\reel_assets\\ct_bra_wire_20260826_telop_frames\\telop_01_patient_holding_exam_gown.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\ct_bra_wire_20260826_telop_frames\\telop_02_rt_handing_exam_gown.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\ct_bra_wire_20260826_telop_frames\\telop_03_pants_metal_button.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\ct_bra_wire_20260826_telop_frames\\telop_04_exam_gown_and_private_clothes.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\ct_bra_wire_20260826_telop_frames\\telop_05_metal_check_clothing_basket.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\ct_bra_wire_20260826_telop_frames\\telop_06_abdominal_ct_monitor.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\ct_bra_wire_20260826_telop_frames\\telop_07_rt_reviewing_ct_image.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\ct_bra_wire_20260826_telop_frames\\telop_08_patient_asks_rt.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\ct_bra_wire_20260826_telop_frames\\telop_09_pre_exam_checkpoint.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\ct_bra_wire_20260826_telop_frames\\telop_10_save_cta_phone.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\ct_bra_wire_20260826_telop_frames\\telop_11_rt_closing_ct_room.png"
+  ],
+  "display_narration": [
+    "腹部CTの前に、「ブラジャーも外してください」と言われて、驚くことがあります。",
+    "金具つきのブラジャーは、検査前に外していただくことがあります。",
+    "ズボンやスカートのファスナー、ボタンなどの金具も、画像に写ることがあります。",
+    "そのため、検査着に着替えていただきながら、金具がないか確認しています。",
+    "ブラジャーのワイヤーやホックも、位置によっては撮影範囲に入ることがあります。",
+    "撮影範囲に入ると、画像の見え方に影響することがあります。",
+    "外していただくのは、より見やすい画像にするためです。",
+    "迷った時は、「これは外した方がいいですか」と聞いて大丈夫です。",
+    "腹部CTでは、意外と見落としやすい検査前のポイントです。",
+    "腹部CTの前日に見返せるように、保存しておいてください。",
+    "検査前の小さな不安も、診療放射線技師目線でやさしく発信しています。"
+  ],
+  "voice_text": [
+    "腹部シーティーの前に、ブラジャーも外してください、と言われて、驚くことがあります。",
+    "金具つきのブラジャーは、検査前に外していただくことがあります。",
+    "ズボンやスカートのファスナー、ボタンなどの金具も、画像に写ることがあります。",
+    "そのため、検査着に着替えていただきながら、金具がないか確認しています。",
+    "ブラジャーのワイヤーやホックも、位置によっては撮影範囲に入ることがあります。",
+    "撮影範囲に入ると、画像の見え方に影響することがあります。",
+    "外していただくのは、より見やすい画像にするためです。",
+    "迷った時は、これは外したほうがいいですか、と聞いて大丈夫です。",
+    "腹部シーティーでは、意外と見落としやすい検査前のポイントです。",
+    "腹部シーティーの前日に見返せるように、保存しておいてください。",
+    "検査前の小さな不安も、診療放射線技師目線で、やさしく発信しています。"
+  ],
+  "raw_voice_seconds": [
+    5.333,
+    3.691,
+    4.704,
+    4.448,
+    4.512,
+    4.096,
+    3.179,
+    4.352,
+    3.872,
+    3.776,
+    5.067
+  ],
+  "durations_seconds": [
+    5.393,
+    3.751,
+    4.764,
+    4.508,
+    4.572,
+    4.156,
+    3.239,
+    4.412,
+    3.932,
+    3.836,
+    5.127
+  ],
+  "tail_padding_seconds_each": 0.06,
+  "total_timeline_seconds": 47.689,
+  "voice_audio_seconds": 47.689,
+  "video_seconds": 47.69,
+  "max_silent_gap_seconds": 0.06,
+  "voice_audio": "F:\\ANRYCAMPANY\\reel_assets\\ct_bra_wire_20260826\\audio\\voice.wav",
+  "asset_video": "F:\\ANRYCAMPANY\\reel_assets\\ct_bra_wire_20260826\\video\\お腹のCTなのにブラジャーも外すんですか_20260826.mp4",
+  "final_video": "F:\\ANRYCAMPANY\\01_ショート動画_リール_YouTubeShorts\\インスタ完成形\\お腹のCTなのにブラジャーも外すんですか_20260826.mp4",
+  "qa_contact_sheet": "F:\\ANRYCAMPANY\\reel_assets\\ct_bra_wire_20260826\\qa_midframes\\qa_midframes_contact_sheet.jpg",
+  "alignment_check": [
+    {
+      "index": 1,
+      "frame": "telop_01_patient_holding_exam_gown.png",
+      "voice_text": "腹部シーティーの前に、ブラジャーも外してください、と言われて、驚くことがあります。",
+      "duration_seconds": 5.393
+    },
+    {
+      "index": 2,
+      "frame": "telop_02_rt_handing_exam_gown.png",
+      "voice_text": "金具つきのブラジャーは、検査前に外していただくことがあります。",
+      "duration_seconds": 3.751
+    },
+    {
+      "index": 3,
+      "frame": "telop_03_pants_metal_button.png",
+      "voice_text": "ズボンやスカートのファスナー、ボタンなどの金具も、画像に写ることがあります。",
+      "duration_seconds": 4.764
+    },
+    {
+      "index": 4,
+      "frame": "telop_04_exam_gown_and_private_clothes.png",
+      "voice_text": "そのため、検査着に着替えていただきながら、金具がないか確認しています。",
+      "duration_seconds": 4.508
+    },
+    {
+      "index": 5,
+      "frame": "telop_05_metal_check_clothing_basket.png",
+      "voice_text": "ブラジャーのワイヤーやホックも、位置によっては撮影範囲に入ることがあります。",
+      "duration_seconds": 4.572
+    },
+    {
+      "index": 6,
+      "frame": "telop_06_abdominal_ct_monitor.png",
+      "voice_text": "撮影範囲に入ると、画像の見え方に影響することがあります。",
+      "duration_seconds": 4.156
+    },
+    {
+      "index": 7,
+      "frame": "telop_07_rt_reviewing_ct_image.png",
+      "voice_text": "外していただくのは、より見やすい画像にするためです。",
+      "duration_seconds": 3.239
+    },
+    {
+      "index": 8,
+      "frame": "telop_08_patient_asks_rt.png",
+      "voice_text": "迷った時は、これは外したほうがいいですか、と聞いて大丈夫です。",
+      "duration_seconds": 4.412
+    },
+    {
+      "index": 9,
+      "frame": "telop_09_pre_exam_checkpoint.png",
+      "voice_text": "腹部シーティーでは、意外と見落としやすい検査前のポイントです。",
+      "duration_seconds": 3.932
+    },
+    {
+      "index": 10,
+      "frame": "telop_10_save_cta_phone.png",
+      "voice_text": "腹部シーティーの前日に見返せるように、保存しておいてください。",
+      "duration_seconds": 3.836
+    },
+    {
+      "index": 11,
+      "frame": "telop_11_rt_closing_ct_room.png",
+      "voice_text": "検査前の小さな不安も、診療放射線技師目線で、やさしく発信しています。",
+      "duration_seconds": 5.127
+    }
+  ]
+}

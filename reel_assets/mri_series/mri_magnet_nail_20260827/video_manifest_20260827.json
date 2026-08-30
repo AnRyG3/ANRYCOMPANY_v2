@@ -1,0 +1,160 @@
+﻿{
+  "title": "MRI前、マグネットネイルしてたらどうする？",
+  "speaker": "VOICEVOX speaker id 20",
+  "voice_speed": 1.2,
+  "bgm": "F:\\ANRYCAMPANY\\01_ショート動画_リール_YouTubeShorts\\インスタリール用\\BGM フリー素材\\Kind_Heart.mp3",
+  "bgm_volume": "-26dB",
+  "frames": [
+    "F:\\ANRYCAMPANY\\reel_assets\\mri_series\\mri_magnet_nail_20260827\\telop_frames\\telop_01_mri_reservation_magnet_nail_patient.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\mri_series\\mri_magnet_nail_20260827\\telop_frames\\telop_02_mri_questionnaire_nail_item.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\mri_series\\mri_magnet_nail_20260827\\telop_frames\\telop_03_magnet_nail_closeup.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\mri_series\\mri_magnet_nail_20260827\\telop_frames\\telop_04_clean_mri_room.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\mri_series\\mri_magnet_nail_20260827\\telop_frames\\telop_05_patient_checks_nails_waiting.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\mri_series\\mri_magnet_nail_20260827\\telop_frames\\telop_06_rt_checks_patient_nails.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\mri_series\\mri_magnet_nail_20260827\\telop_frames\\telop_07_patient_enters_mri_bore_hands_inside.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\mri_series\\mri_magnet_nail_20260827\\telop_frames\\telop_08_patient_prepares_nail_removal.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\mri_series\\mri_magnet_nail_20260827\\telop_frames\\telop_09_mri_nail_consult_rt.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\mri_series\\mri_magnet_nail_20260827\\telop_frames\\telop_10_save_cta_phone.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\mri_series\\mri_magnet_nail_20260827\\telop_frames\\telop_11_rt_closing_mri_corridor.png"
+  ],
+  "display_narration": [
+    "MRIの予約があるのに、マグネットネイルをしている。これ、外した方がいいのかなと思う方がいます。",
+    "MRI検査前の問診で、ネイルについて聞かれて驚くことがあります。",
+    "マグネットネイルや一部のジェルネイルには、鉄粉などの金属成分が含まれることがあります。",
+    "MRIは、強い磁石と電波を使って撮影する検査です。",
+    "成分によっては、熱を持ったり、変色したり、画像に影響したりする可能性があります。",
+    "特に大事なのは、画像だけでなく、患者さんの体へのリスクがあることです。",
+    "撮影する場所が手元から離れていても、MRI装置の中には入ります。",
+    "施設によって対応は分かれますが、予約検査なら、前もって準備できると安心です。",
+    "外せない場合や、対象かわからない場合は、予約時や検査前に相談してください。",
+    "MRI予約がある人や家族は、検査前日や受付前に見返せるように保存しておいてください。",
+    "検査前の疑問も、診療放射線技師目線でやさしく発信しています。"
+  ],
+  "voice_text": [
+    "エムアールアイの予約があるのに、マグネットネイルをしている。これ、外したほうがいいのかなと思うかたがいます。",
+    "エムアールアイ検査前の問診で、ネイルについて聞かれて驚くことがあります。",
+    "マグネットネイルや一部のジェルネイルには、てっぷんなどの金属成分が含まれることがあります。",
+    "エムアールアイは、強い磁石と電波を使って撮影する検査です。",
+    "成分によっては、熱を持ったり、変色したり、画像に影響したりする可能性があります。",
+    "特に大事なのは、画像だけでなく、患者さんの体へのリスクがあることです。",
+    "撮影する場所が手元から離れていても、エムアールアイ装置の中には入ります。",
+    "施設によって対応は分かれますが、予約検査なら、前もって準備できると安心です。",
+    "外せない場合や、対象かわからない場合は、予約時や検査前に相談してください。",
+    "エムアールアイ予約がある人や家族は、検査前日や受付前に見返せるように保存しておいてください。",
+    "検査前の疑問も、しんりょうほうしゃせんぎし目線で、やさしく発信しています。"
+  ],
+  "raw_voice_seconds": [
+    6.357,
+    4.299,
+    4.949,
+    3.712,
+    5.931,
+    4.779,
+    4.683,
+    5.301,
+    5.333,
+    5.835,
+    4.608
+  ],
+  "durations_seconds": [
+    6.397,
+    4.339,
+    4.989,
+    3.752,
+    5.971,
+    4.819,
+    4.723,
+    5.341,
+    5.373,
+    5.875,
+    4.648
+  ],
+  "tail_padding_seconds_each": 0.04,
+  "total_timeline_seconds": 56.227,
+  "voice_audio_seconds": 56.225,
+  "video_seconds": 56.23,
+  "max_added_gap_seconds": 0.04,
+  "voice_audio": "F:\\ANRYCAMPANY\\reel_assets\\mri_series\\mri_magnet_nail_20260827\\audio\\voice.wav",
+  "asset_video": "F:\\ANRYCAMPANY\\reel_assets\\mri_series\\mri_magnet_nail_20260827\\video\\MRI前_マグネットネイルしてたらどうする_20260827.mp4",
+  "final_video": "F:\\ANRYCAMPANY\\01_ショート動画_リール_YouTubeShorts\\インスタ完成形\\MRI前_マグネットネイルしてたらどうする_20260827.mp4",
+  "qa_contact_sheet": "F:\\ANRYCAMPANY\\reel_assets\\mri_series\\mri_magnet_nail_20260827\\qa_midframes\\qa_midframes_contact_sheet.jpg",
+  "alignment_check": [
+    {
+      "index": 1,
+      "frame": "telop_01_mri_reservation_magnet_nail_patient.png",
+      "display_narration": "MRIの予約があるのに、マグネットネイルをしている。これ、外した方がいいのかなと思う方がいます。",
+      "voice_text": "エムアールアイの予約があるのに、マグネットネイルをしている。これ、外したほうがいいのかなと思うかたがいます。",
+      "duration_seconds": 6.397
+    },
+    {
+      "index": 2,
+      "frame": "telop_02_mri_questionnaire_nail_item.png",
+      "display_narration": "MRI検査前の問診で、ネイルについて聞かれて驚くことがあります。",
+      "voice_text": "エムアールアイ検査前の問診で、ネイルについて聞かれて驚くことがあります。",
+      "duration_seconds": 4.339
+    },
+    {
+      "index": 3,
+      "frame": "telop_03_magnet_nail_closeup.png",
+      "display_narration": "マグネットネイルや一部のジェルネイルには、鉄粉などの金属成分が含まれることがあります。",
+      "voice_text": "マグネットネイルや一部のジェルネイルには、てっぷんなどの金属成分が含まれることがあります。",
+      "duration_seconds": 4.989
+    },
+    {
+      "index": 4,
+      "frame": "telop_04_clean_mri_room.png",
+      "display_narration": "MRIは、強い磁石と電波を使って撮影する検査です。",
+      "voice_text": "エムアールアイは、強い磁石と電波を使って撮影する検査です。",
+      "duration_seconds": 3.752
+    },
+    {
+      "index": 5,
+      "frame": "telop_05_patient_checks_nails_waiting.png",
+      "display_narration": "成分によっては、熱を持ったり、変色したり、画像に影響したりする可能性があります。",
+      "voice_text": "成分によっては、熱を持ったり、変色したり、画像に影響したりする可能性があります。",
+      "duration_seconds": 5.971
+    },
+    {
+      "index": 6,
+      "frame": "telop_06_rt_checks_patient_nails.png",
+      "display_narration": "特に大事なのは、画像だけでなく、患者さんの体へのリスクがあることです。",
+      "voice_text": "特に大事なのは、画像だけでなく、患者さんの体へのリスクがあることです。",
+      "duration_seconds": 4.819
+    },
+    {
+      "index": 7,
+      "frame": "telop_07_patient_enters_mri_bore_hands_inside.png",
+      "display_narration": "撮影する場所が手元から離れていても、MRI装置の中には入ります。",
+      "voice_text": "撮影する場所が手元から離れていても、エムアールアイ装置の中には入ります。",
+      "duration_seconds": 4.723
+    },
+    {
+      "index": 8,
+      "frame": "telop_08_patient_prepares_nail_removal.png",
+      "display_narration": "施設によって対応は分かれますが、予約検査なら、前もって準備できると安心です。",
+      "voice_text": "施設によって対応は分かれますが、予約検査なら、前もって準備できると安心です。",
+      "duration_seconds": 5.341
+    },
+    {
+      "index": 9,
+      "frame": "telop_09_mri_nail_consult_rt.png",
+      "display_narration": "外せない場合や、対象かわからない場合は、予約時や検査前に相談してください。",
+      "voice_text": "外せない場合や、対象かわからない場合は、予約時や検査前に相談してください。",
+      "duration_seconds": 5.373
+    },
+    {
+      "index": 10,
+      "frame": "telop_10_save_cta_phone.png",
+      "display_narration": "MRI予約がある人や家族は、検査前日や受付前に見返せるように保存しておいてください。",
+      "voice_text": "エムアールアイ予約がある人や家族は、検査前日や受付前に見返せるように保存しておいてください。",
+      "duration_seconds": 5.875
+    },
+    {
+      "index": 11,
+      "frame": "telop_11_rt_closing_mri_corridor.png",
+      "display_narration": "検査前の疑問も、診療放射線技師目線でやさしく発信しています。",
+      "voice_text": "検査前の疑問も、しんりょうほうしゃせんぎし目線で、やさしく発信しています。",
+      "duration_seconds": 4.648
+    }
+  ]
+}

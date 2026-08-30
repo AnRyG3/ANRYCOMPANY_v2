@@ -1,4 +1,4 @@
-﻿---
+---
 type: idea
 medium: LINEスタンプ
 category: LINEスタンプ

@@ -1,0 +1,227 @@
+[
+  {
+    "index": 1,
+    "source": "F:\\ANRYCAMPANY\\reel_assets\\mri_series\\mri_magnet_nail_20260827\\images\\frame_01_mri_reservation_magnet_nail_patient.png",
+    "output": "F:\\ANRYCAMPANY\\reel_assets\\mri_series\\mri_magnet_nail_20260827\\telop_frames\\telop_01_mri_reservation_magnet_nail_patient.png",
+    "telop": [
+      [
+        "MRI予約",
+        "あるのに"
+      ],
+      [
+        "ネイル",
+        "大丈夫？"
+      ]
+    ],
+    "highlights": [
+      "MRI予約",
+      "ネイル"
+    ],
+    "x_axis": "center",
+    "y_position": "top",
+    "font": "F:\\ANRYCAMPANY\\reel_assets\\fonts\\M_PLUS_Rounded_1c\\MPLUSRounded1c-Bold.ttf"
+  },
+  {
+    "index": 2,
+    "source": "F:\\ANRYCAMPANY\\reel_assets\\mri_series\\mri_magnet_nail_20260827\\images\\frame_02_mri_questionnaire_nail_item.png",
+    "output": "F:\\ANRYCAMPANY\\reel_assets\\mri_series\\mri_magnet_nail_20260827\\telop_frames\\telop_02_mri_questionnaire_nail_item.png",
+    "telop": [
+      [
+        "問診",
+        "で"
+      ],
+      [
+        "聞かれることも"
+      ]
+    ],
+    "highlights": [
+      "問診"
+    ],
+    "x_axis": "center",
+    "y_position": "top",
+    "font": "F:\\ANRYCAMPANY\\reel_assets\\fonts\\M_PLUS_Rounded_1c\\MPLUSRounded1c-Bold.ttf"
+  },
+  {
+    "index": 3,
+    "source": "F:\\ANRYCAMPANY\\reel_assets\\mri_series\\mri_magnet_nail_20260827\\images\\frame_03_magnet_nail_closeup.png",
+    "output": "F:\\ANRYCAMPANY\\reel_assets\\mri_series\\mri_magnet_nail_20260827\\telop_frames\\telop_03_magnet_nail_closeup.png",
+    "telop": [
+      [
+        "一部のネイルに"
+      ],
+      [
+        "金属",
+        "成分も"
+      ]
+    ],
+    "highlights": [
+      "金属"
+    ],
+    "x_axis": "center",
+    "y_position": "center",
+    "font": "F:\\ANRYCAMPANY\\reel_assets\\fonts\\M_PLUS_Rounded_1c\\MPLUSRounded1c-Bold.ttf"
+  },
+  {
+    "index": 4,
+    "source": "F:\\ANRYCAMPANY\\reel_assets\\mri_series\\mri_magnet_nail_20260827\\images\\frame_04_clean_mri_room.png",
+    "output": "F:\\ANRYCAMPANY\\reel_assets\\mri_series\\mri_magnet_nail_20260827\\telop_frames\\telop_04_clean_mri_room.png",
+    "telop": [
+      [
+        "MRI",
+        "は"
+      ],
+      [
+        "強い磁石を使います"
+      ]
+    ],
+    "highlights": [
+      "MRI"
+    ],
+    "x_axis": "center",
+    "y_position": "center",
+    "font": "F:\\ANRYCAMPANY\\reel_assets\\fonts\\M_PLUS_Rounded_1c\\MPLUSRounded1c-Bold.ttf"
+  },
+  {
+    "index": 5,
+    "source": "F:\\ANRYCAMPANY\\reel_assets\\mri_series\\mri_magnet_nail_20260827\\images\\frame_05_patient_checks_nails_waiting.png",
+    "output": "F:\\ANRYCAMPANY\\reel_assets\\mri_series\\mri_magnet_nail_20260827\\telop_frames\\telop_05_patient_checks_nails_waiting.png",
+    "telop": [
+      [
+        "熱",
+        "や",
+        "変色"
+      ],
+      [
+        "画像への影響も"
+      ]
+    ],
+    "highlights": [
+      "変色",
+      "熱"
+    ],
+    "x_axis": "center",
+    "y_position": "top",
+    "font": "F:\\ANRYCAMPANY\\reel_assets\\fonts\\M_PLUS_Rounded_1c\\MPLUSRounded1c-Bold.ttf"
+  },
+  {
+    "index": 6,
+    "source": "F:\\ANRYCAMPANY\\reel_assets\\mri_series\\mri_magnet_nail_20260827\\images\\frame_06_rt_checks_patient_nails.png",
+    "output": "F:\\ANRYCAMPANY\\reel_assets\\mri_series\\mri_magnet_nail_20260827\\telop_frames\\telop_06_rt_checks_patient_nails.png",
+    "telop": [
+      [
+        "いちばん大事なのは"
+      ],
+      [
+        "体",
+        "へのリスク"
+      ]
+    ],
+    "highlights": [
+      "体"
+    ],
+    "x_axis": "center",
+    "y_position": "top",
+    "font": "F:\\ANRYCAMPANY\\reel_assets\\fonts\\M_PLUS_Rounded_1c\\MPLUSRounded1c-Bold.ttf"
+  },
+  {
+    "index": 7,
+    "source": "F:\\ANRYCAMPANY\\reel_assets\\mri_series\\mri_magnet_nail_20260827\\images\\frame_07_patient_enters_mri_bore_hands_inside.png",
+    "output": "F:\\ANRYCAMPANY\\reel_assets\\mri_series\\mri_magnet_nail_20260827\\telop_frames\\telop_07_patient_enters_mri_bore_hands_inside.png",
+    "telop": [
+      [
+        "手元",
+        "が離れていても"
+      ],
+      [
+        "装置",
+        "の中に入ります"
+      ]
+    ],
+    "highlights": [
+      "手元",
+      "装置"
+    ],
+    "x_axis": "center",
+    "y_position": "top",
+    "font": "F:\\ANRYCAMPANY\\reel_assets\\fonts\\M_PLUS_Rounded_1c\\MPLUSRounded1c-Bold.ttf"
+  },
+  {
+    "index": 8,
+    "source": "F:\\ANRYCAMPANY\\reel_assets\\mri_series\\mri_magnet_nail_20260827\\images\\frame_08_patient_prepares_nail_removal.png",
+    "output": "F:\\ANRYCAMPANY\\reel_assets\\mri_series\\mri_magnet_nail_20260827\\telop_frames\\telop_08_patient_prepares_nail_removal.png",
+    "telop": [
+      [
+        "予約検査",
+        "なら"
+      ],
+      [
+        "前もって準備を"
+      ]
+    ],
+    "highlights": [
+      "予約検査"
+    ],
+    "x_axis": "center",
+    "y_position": "top",
+    "font": "F:\\ANRYCAMPANY\\reel_assets\\fonts\\M_PLUS_Rounded_1c\\MPLUSRounded1c-Bold.ttf"
+  },
+  {
+    "index": 9,
+    "source": "F:\\ANRYCAMPANY\\reel_assets\\mri_series\\mri_magnet_nail_20260827\\images\\frame_09_mri_nail_consult_rt.png",
+    "output": "F:\\ANRYCAMPANY\\reel_assets\\mri_series\\mri_magnet_nail_20260827\\telop_frames\\telop_09_mri_nail_consult_rt.png",
+    "telop": [
+      [
+        "外せない時は"
+      ],
+      [
+        "先に",
+        "相談"
+      ]
+    ],
+    "highlights": [
+      "相談"
+    ],
+    "x_axis": "center",
+    "y_position": "top",
+    "font": "F:\\ANRYCAMPANY\\reel_assets\\fonts\\M_PLUS_Rounded_1c\\MPLUSRounded1c-Bold.ttf"
+  },
+  {
+    "index": 10,
+    "source": "F:\\ANRYCAMPANY\\reel_assets\\mri_series\\mri_magnet_nail_20260827\\images\\frame_10_save_cta_phone.png",
+    "output": "F:\\ANRYCAMPANY\\reel_assets\\mri_series\\mri_magnet_nail_20260827\\telop_frames\\telop_10_save_cta_phone.png",
+    "telop": [
+      [
+        "検査前日や受付前に"
+      ],
+      [
+        "見返せるよう",
+        "保存"
+      ]
+    ],
+    "highlights": [
+      "保存"
+    ],
+    "x_axis": "center",
+    "y_position": "top",
+    "font": "F:\\ANRYCAMPANY\\reel_assets\\fonts\\M_PLUS_Rounded_1c\\MPLUSRounded1c-Bold.ttf"
+  },
+  {
+    "index": 11,
+    "source": "F:\\ANRYCAMPANY\\reel_assets\\mri_series\\mri_magnet_nail_20260827\\images\\frame_11_rt_closing_mri_corridor.png",
+    "output": "F:\\ANRYCAMPANY\\reel_assets\\mri_series\\mri_magnet_nail_20260827\\telop_frames\\telop_11_rt_closing_mri_corridor.png",
+    "telop": [
+      [
+        "検査前の疑問も"
+      ],
+      [
+        "やさしく発信中"
+      ]
+    ],
+    "highlights": [
+      "疑問"
+    ],
+    "x_axis": "center",
+    "y_position": "bottom",
+    "font": "F:\\ANRYCAMPANY\\reel_assets\\fonts\\M_PLUS_Rounded_1c\\MPLUSRounded1c-Bold.ttf"
+  }
+]

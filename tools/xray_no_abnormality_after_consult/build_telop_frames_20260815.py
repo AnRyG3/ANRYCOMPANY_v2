@@ -1,0 +1,216 @@
+from pathlib import Path
+
+from PIL import Image, ImageDraw, ImageFont
+
+
+ROOT = Path(r"F:\ANRYCAMPANY")
+BASE = ROOT / "reel_assets" / "xray_no_abnormality_after_consult_images_20260815"
+OUT = ROOT / "reel_assets" / "xray_no_abnormality_after_consult_telop_frames_20260815"
+CONTACT = OUT / "contact_sheet_20260815_telop_frames.jpg"
+TEXTS = OUT / "telop_texts_20260815.txt"
+FONT_PATH = ROOT / "reel_assets" / "fonts" / "M_PLUS_Rounded_1c" / "MPLUSRounded1c-Bold.ttf"
+
+W, H = 1080, 1920
+NAVY = (16, 36, 55, 255)
+ACCENT = (0, 104, 150, 255)
+WHITE = (255, 255, 255, 238)
+SHADOW = (0, 0, 0, 38)
+
+
+CUTS = [
+    (
+        "image_01_opening_patient_after_no_abnormality.png",
+        "telop_01_opening_patient_after_no_abnormality.png",
+        [["異常なし", "でも"], ["痛み", "が残る"]],
+        {"異常なし", "痛み"},
+        330,
+    ),
+    (
+        "image_02_patient_unsure_corridor.png",
+        "telop_02_patient_unsure_corridor.png",
+        [["また", "相談", "していい？"]],
+        {"相談"},
+        330,
+    ),
+    (
+        "image_03_patient_reassured_feeling_valid.png",
+        "telop_03_patient_reassured_feeling_valid.png",
+        [["その", "気持ち"], ["おかしく", "ありません"]],
+        {"気持ち", "ありません"},
+        220,
+    ),
+    (
+        "image_04_doctor_explains_followup_possible.png",
+        "telop_04_doctor_explains_followup_possible.png",
+        [["異常なし", "は"], ["相談", "終了ではありません"]],
+        {"異常なし", "相談"},
+        330,
+    ),
+    (
+        "image_05_patient_symptom_change_hint.png",
+        "telop_05_patient_symptom_change_hint.png",
+        [["変化", "があれば"], ["相談", "の目安に"]],
+        {"変化", "相談"},
+        220,
+    ),
+    (
+        "image_06_doctor_continue_consultation.png",
+        "telop_06_doctor_continue_consultation.png",
+        [["同じ", "医療機関", "に"], ["続けて", "相談", "OK"]],
+        {"医療機関", "相談"},
+        330,
+    ),
+    (
+        "image_07_patient_hesitates_to_ask_again.png",
+        "telop_07_patient_hesitates_to_ask_again.png",
+        [["また聞く", "のは"], ["申し訳ない？"]],
+        {"また聞く"},
+        330,
+    ),
+    (
+        "image_08_doctor_records_symptom_history.png",
+        "telop_08_doctor_records_symptom_history.png",
+        [["経過", "を伝えることも"], ["診療", "の手がかりに"]],
+        {"経過", "診療"},
+        220,
+    ),
+    (
+        "image_09_patient_tells_changes.png",
+        "telop_09_patient_tells_changes.png",
+        [["気になる", "変化", "は"], ["そのまま", "伝えてOK"]],
+        {"変化", "そのまま"},
+        330,
+    ),
+    (
+        "image_10_save_cta_phone_blank.png",
+        "telop_10_save_cta_phone_blank.png",
+        [["迷った", "時に"], ["見返せるよう", "保存"]],
+        {"迷った", "保存"},
+        330,
+    ),
+    (
+        "image_11_follow_cta_rt_closing.png",
+        "telop_11_follow_cta_rt_closing.png",
+        [["検査のリアル"], ["フォロー", "で受け取る"]],
+        {"フォロー"},
+        330,
+    ),
+]
+
+
+def font(size: int) -> ImageFont.FreeTypeFont:
+    return ImageFont.truetype(str(FONT_PATH), size)
+
+
+def cover(img: Image.Image, size: tuple[int, int]) -> Image.Image:
+    w, h = size
+    scale = max(w / img.width, h / img.height)
+    resized = img.resize((int(img.width * scale), int(img.height * scale)), Image.Resampling.LANCZOS)
+    left = (resized.width - w) // 2
+    top = (resized.height - h) // 2
+    return resized.crop((left, top, left + w, top + h))
+
+
+def segment_width(draw: ImageDraw.ImageDraw, text: str, fnt: ImageFont.FreeTypeFont) -> int:
+    box = draw.textbbox((0, 0), text, font=fnt)
+    return box[2] - box[0]
+
+
+def layout_width(draw: ImageDraw.ImageDraw, line: list[str], fnt: ImageFont.FreeTypeFont) -> int:
+    gap = int(fnt.size * 0.08)
+    return sum(segment_width(draw, part, fnt) for part in line) + gap * (len(line) - 1)
+
+
+def fit_size(draw: ImageDraw.ImageDraw, lines: list[list[str]], max_w: int, start: int = 70) -> int:
+    size = start
+    while size >= 38:
+        fnt = font(size)
+        if max(layout_width(draw, line, fnt) for line in lines) <= max_w:
+            return size
+        size -= 2
+    return 38
+
+
+def draw_centered_segments(
+    draw: ImageDraw.ImageDraw,
+    y: int,
+    line: list[str],
+    fnt: ImageFont.FreeTypeFont,
+    highlights: set[str],
+) -> None:
+    gap = int(fnt.size * 0.08)
+    total_w = layout_width(draw, line, fnt)
+    x = (W - total_w) // 2
+    for part in line:
+        fill = ACCENT if part in highlights else NAVY
+        draw.text((x, y), part, font=fnt, fill=fill, anchor="la")
+        x += segment_width(draw, part, fnt) + gap
+
+
+def add_telop(img: Image.Image, lines: list[list[str]], highlights: set[str], box_y1: int) -> Image.Image:
+    img = cover(img.convert("RGB"), (W, H)).convert("RGBA")
+    overlay = Image.new("RGBA", (W, H), (0, 0, 0, 0))
+    draw = ImageDraw.Draw(overlay)
+
+    size = fit_size(draw, lines, 790)
+    fnt = font(size)
+    line_h = int(size * 1.18)
+    text_h = line_h * len(lines)
+    pad_x, pad_y = 58, 42
+    box_w = min(910, max(layout_width(draw, line, fnt) for line in lines) + pad_x * 2)
+    box_h = text_h + pad_y * 2
+    box_x1 = (W - box_w) // 2
+    box_x2 = box_x1 + box_w
+    box_y2 = box_y1 + box_h
+
+    draw.rounded_rectangle(
+        (box_x1 + 5, box_y1 + 7, box_x2 + 5, box_y2 + 7),
+        radius=30,
+        fill=SHADOW,
+    )
+    draw.rounded_rectangle((box_x1, box_y1, box_x2, box_y2), radius=30, fill=WHITE)
+
+    first_y = box_y1 + pad_y + int(size * 0.12)
+    for i, line in enumerate(lines):
+        draw_centered_segments(draw, first_y + i * line_h, line, fnt, highlights)
+
+    img.alpha_composite(overlay)
+    return img.convert("RGB")
+
+
+def make_contact_sheet(paths: list[Path]) -> None:
+    cols, rows = 3, 4
+    tw, th = 240, 426
+    label_h = 34
+    board = Image.new("RGB", (tw * cols, (th + label_h) * rows), (245, 245, 245))
+    label_font = ImageFont.load_default()
+    draw = ImageDraw.Draw(board)
+    for i, path in enumerate(paths):
+        thumb = cover(Image.open(path).convert("RGB"), (tw, th))
+        x = (i % cols) * tw
+        y = (i // cols) * (th + label_h)
+        board.paste(thumb, (x, y))
+        draw.text((x + 8, y + th + 8), path.stem[:28], fill=(0, 0, 0), font=label_font)
+    board.save(CONTACT, quality=92)
+
+
+def main() -> None:
+    OUT.mkdir(parents=True, exist_ok=True)
+    out_paths: list[Path] = []
+    text_lines: list[str] = []
+    for i, (src_name, out_name, lines, highlights, y) in enumerate(CUTS, start=1):
+        src = BASE / src_name
+        out_path = OUT / out_name
+        add_telop(Image.open(src), lines, highlights, y).save(out_path, quality=95)
+        out_paths.append(out_path)
+        text_lines.append(f"{i:02d}. " + " / ".join("".join(line) for line in lines))
+
+    make_contact_sheet(out_paths)
+    TEXTS.write_text("\n".join(text_lines) + "\n", encoding="utf-8-sig")
+    print(f"created {len(out_paths)} telop frames")
+    print(OUT)
+    print(CONTACT)
+
+
+if __name__ == "__main__":
+    main()

@@ -1,0 +1,208 @@
+[
+  {
+    "index": 1,
+    "source": "F:\\ANRYCAMPANY\\reel_assets\\exam_table_support_20260824_images\\image_01_exam_table_hesitation.png",
+    "output": "F:\\ANRYCAMPANY\\reel_assets\\exam_table_support_20260824_telop_frames\\telop_01_exam_table_hesitation.png",
+    "telop": [
+      [
+        "この台"
+      ],
+      [
+        "上がれるかな"
+      ]
+    ],
+    "highlights": [
+      "台"
+    ],
+    "font": "F:\\ANRYCAMPANY\\reel_assets\\fonts\\M_PLUS_Rounded_1c\\MPLUSRounded1c-Bold.ttf",
+    "x_axis": "center",
+    "y_axis": "center"
+  },
+  {
+    "index": 2,
+    "source": "F:\\ANRYCAMPANY\\reel_assets\\exam_table_support_20260824_images\\image_02_table_height_step.png",
+    "output": "F:\\ANRYCAMPANY\\reel_assets\\exam_table_support_20260824_telop_frames\\telop_02_table_height_step.png",
+    "telop": [
+      [
+        "高さ",
+        "を見ると"
+      ],
+      [
+        "不安",
+        "になることも"
+      ]
+    ],
+    "highlights": [
+      "不安",
+      "高さ"
+    ],
+    "font": "F:\\ANRYCAMPANY\\reel_assets\\fonts\\M_PLUS_Rounded_1c\\MPLUSRounded1c-Bold.ttf",
+    "x_axis": "center",
+    "y_axis": "center"
+  },
+  {
+    "index": 3,
+    "source": "F:\\ANRYCAMPANY\\reel_assets\\exam_table_support_20260824_images\\image_03_self_pressure_hesitation.png",
+    "output": "F:\\ANRYCAMPANY\\reel_assets\\exam_table_support_20260824_telop_frames\\telop_03_self_pressure_hesitation.png",
+    "telop": [
+      [
+        "無理",
+        "は"
+      ],
+      [
+        "しなくて大丈夫"
+      ]
+    ],
+    "highlights": [
+      "無理"
+    ],
+    "font": "F:\\ANRYCAMPANY\\reel_assets\\fonts\\M_PLUS_Rounded_1c\\MPLUSRounded1c-Bold.ttf",
+    "x_axis": "center",
+    "y_axis": "center"
+  },
+  {
+    "index": 4,
+    "source": "F:\\ANRYCAMPANY\\reel_assets\\exam_table_support_20260824_images\\image_04_feeling_is_ok.png",
+    "output": "F:\\ANRYCAMPANY\\reel_assets\\exam_table_support_20260824_telop_frames\\telop_04_feeling_is_ok.png",
+    "telop": [
+      [
+        "その",
+        "気持ち"
+      ],
+      [
+        "おかしくありません"
+      ]
+    ],
+    "highlights": [
+      "気持ち"
+    ],
+    "font": "F:\\ANRYCAMPANY\\reel_assets\\fonts\\M_PLUS_Rounded_1c\\MPLUSRounded1c-Bold.ttf",
+    "x_axis": "center",
+    "y_axis": "center"
+  },
+  {
+    "index": 5,
+    "source": "F:\\ANRYCAMPANY\\reel_assets\\exam_table_support_20260824_images\\image_05_adjustable_method_explain.png",
+    "output": "F:\\ANRYCAMPANY\\reel_assets\\exam_table_support_20260824_telop_frames\\telop_05_adjustable_method_explain.png",
+    "telop": [
+      [
+        "上がり方",
+        "は"
+      ],
+      [
+        "調整",
+        "できます"
+      ]
+    ],
+    "highlights": [
+      "上がり方",
+      "調整"
+    ],
+    "font": "F:\\ANRYCAMPANY\\reel_assets\\fonts\\M_PLUS_Rounded_1c\\MPLUSRounded1c-Bold.ttf",
+    "x_axis": "center",
+    "y_axis": "center"
+  },
+  {
+    "index": 6,
+    "source": "F:\\ANRYCAMPANY\\reel_assets\\exam_table_support_20260824_images\\image_06_sit_bottom_first_support.png",
+    "output": "F:\\ANRYCAMPANY\\reel_assets\\exam_table_support_20260824_telop_frames\\telop_06_sit_bottom_first_support.png",
+    "telop": [
+      [
+        "まず",
+        "座る",
+        "と"
+      ],
+      [
+        "安定しやすい"
+      ]
+    ],
+    "highlights": [
+      "座る"
+    ],
+    "font": "F:\\ANRYCAMPANY\\reel_assets\\fonts\\M_PLUS_Rounded_1c\\MPLUSRounded1c-Bold.ttf",
+    "x_axis": "center",
+    "y_axis": "center"
+  },
+  {
+    "index": 7,
+    "source": "F:\\ANRYCAMPANY\\reel_assets\\exam_table_support_20260824_images\\image_07_tell_concerns_first.png",
+    "output": "F:\\ANRYCAMPANY\\reel_assets\\exam_table_support_20260824_telop_frames\\telop_07_tell_concerns_first.png",
+    "telop": [
+      [
+        "不安",
+        "なことは"
+      ],
+      [
+        "先に",
+        "伝えてOK"
+      ]
+    ],
+    "highlights": [
+      "不安",
+      "先に"
+    ],
+    "font": "F:\\ANRYCAMPANY\\reel_assets\\fonts\\M_PLUS_Rounded_1c\\MPLUSRounded1c-Bold.ttf",
+    "x_axis": "center",
+    "y_axis": "center"
+  },
+  {
+    "index": 8,
+    "source": "F:\\ANRYCAMPANY\\reel_assets\\exam_table_support_20260824_images\\image_08_safe_guidance.png",
+    "output": "F:\\ANRYCAMPANY\\reel_assets\\exam_table_support_20260824_telop_frames\\telop_08_safe_guidance.png",
+    "telop": [
+      [
+        "できるかより"
+      ],
+      [
+        "伝える",
+        "ことが大切"
+      ]
+    ],
+    "highlights": [
+      "伝える"
+    ],
+    "font": "F:\\ANRYCAMPANY\\reel_assets\\fonts\\M_PLUS_Rounded_1c\\MPLUSRounded1c-Bold.ttf",
+    "x_axis": "center",
+    "y_axis": "center"
+  },
+  {
+    "index": 9,
+    "source": "F:\\ANRYCAMPANY\\reel_assets\\exam_table_support_20260824_images\\image_09_tell_at_table.png",
+    "output": "F:\\ANRYCAMPANY\\reel_assets\\exam_table_support_20260824_telop_frames\\telop_09_tell_at_table.png",
+    "telop": [
+      [
+        "検査台",
+        "の前でも"
+      ],
+      [
+        "伝えて大丈夫"
+      ]
+    ],
+    "highlights": [
+      "検査台"
+    ],
+    "font": "F:\\ANRYCAMPANY\\reel_assets\\fonts\\M_PLUS_Rounded_1c\\MPLUSRounded1c-Bold.ttf",
+    "x_axis": "center",
+    "y_axis": "center"
+  },
+  {
+    "index": 10,
+    "source": "F:\\ANRYCAMPANY\\reel_assets\\exam_table_support_20260824_images\\image_10_save_cta_phone.png",
+    "output": "F:\\ANRYCAMPANY\\reel_assets\\exam_table_support_20260824_telop_frames\\telop_10_save_cta_phone.png",
+    "telop": [
+      [
+        "検査前に"
+      ],
+      [
+        "見返せるよう",
+        "保存"
+      ]
+    ],
+    "highlights": [
+      "保存"
+    ],
+    "font": "F:\\ANRYCAMPANY\\reel_assets\\fonts\\M_PLUS_Rounded_1c\\MPLUSRounded1c-Bold.ttf",
+    "x_axis": "center",
+    "y_axis": "center"
+  }
+]

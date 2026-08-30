@@ -1,0 +1,148 @@
+﻿{
+  "title": "MRI前、カラコンは外す？",
+  "speaker": "VOICEVOX speaker id 20",
+  "voice_speed": 1.2,
+  "bgm": "F:\\ANRYCAMPANY\\01_ショート動画_リール_YouTubeShorts\\インスタリール用\\BGM フリー素材\\Kind_Heart.mp3",
+  "bgm_volume": "-26dB",
+  "frames": [
+    "F:\\ANRYCAMPANY\\reel_assets\\mri_series\\mri_color_contact_20260828_telop_frames\\telop_01_patient_contact_case.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\mri_series\\mri_color_contact_20260828_telop_frames\\telop_02_patient_checks_appointment.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\mri_series\\mri_color_contact_20260828_telop_frames\\telop_03_rt_clear_contact_explain.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\mri_series\\mri_color_contact_20260828_telop_frames\\telop_04_colored_contact_still_life.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\mri_series\\mri_color_contact_20260828_telop_frames\\telop_05_mri_precheck_counter.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\mri_series\\mri_color_contact_20260828_telop_frames\\telop_06_mri_contact_risk_calm.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\mri_series\\mri_color_contact_20260828_telop_frames\\telop_07_patient_removes_contacts.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\mri_series\\mri_color_contact_20260828_telop_frames\\telop_08_patient_consults_rt.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\mri_series\\mri_color_contact_20260828_telop_frames\\telop_09_save_cta_phone.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\mri_series\\mri_color_contact_20260828_telop_frames\\telop_10_rt_closing.png"
+  ],
+  "display_narration": [
+    "MRI前日、カラコンって外して行くべきですか。",
+    "MRI検査前の問診で、コンタクトについて聞かれて驚く方がいます。",
+    "透明なコンタクトは、そのまま検査できる施設もあります。",
+    "一方でカラーコンタクトや縁取りのあるレンズは、着色部分に金属成分が含まれていることがあります。",
+    "MRIは、強い磁場と電波を使って撮影する検査です。",
+    "金属成分が、発熱や画像への影響につながることがあります。",
+    "そのため、カラーコンタクトは外すよう案内されることがあります。",
+    "迷ったときは、予約の時や受付で、カラコンをしていますと伝えて大丈夫です。",
+    "MRIの予約がある人は、前日や受付前に見返せるように、この投稿を保存しておいてください。",
+    "ほかの検査前の疑問も、診療放射線技師目線で発信しています。"
+  ],
+  "voice_text": [
+    "エムアールアイ前日、カラコンって外して行くべきですか。",
+    "エムアールアイ検査前の問診で、コンタクトについて聞かれて驚くかたがいます。",
+    "透明なコンタクトは、そのまま検査できる施設もあります。",
+    "一方でカラーコンタクトやふちどりのあるレンズは、着色部分に金属成分が含まれていることがあります。",
+    "エムアールアイは、強い磁場と電波を使って撮影する検査です。",
+    "金属成分が、発熱や画像への影響につながることがあります。",
+    "そのため、カラーコンタクトは外すよう案内されることがあります。",
+    "迷ったときは、予約の時や受付で、カラコンをしていますと伝えて大丈夫です。",
+    "エムアールアイの予約がある人は、前日や受付前に見返せるように、この投稿を保存しておいてください。",
+    "ほかの検査前の疑問も、しんりょうほうしゃせんぎし目線で発信しています。"
+  ],
+  "raw_voice_seconds": [
+    3.381,
+    4.341,
+    3.328,
+    5.899,
+    3.637,
+    3.947,
+    3.712,
+    5.013,
+    6.24,
+    4.171
+  ],
+  "durations_seconds": [
+    3.421,
+    4.381,
+    3.368,
+    5.939,
+    3.677,
+    3.987,
+    3.752,
+    5.053,
+    6.28,
+    4.211
+  ],
+  "tail_padding_seconds_each": 0.04,
+  "total_timeline_seconds": 44.069,
+  "voice_audio_seconds": 44.068,
+  "video_seconds": 44.07,
+  "max_added_gap_seconds": 0.04,
+  "voice_audio": "F:\\ANRYCAMPANY\\reel_assets\\mri_series\\mri_color_contact_20260828\\audio\\voice.wav",
+  "asset_video": "F:\\ANRYCAMPANY\\reel_assets\\mri_series\\mri_color_contact_20260828\\video\\MRI前_カラコンは外す_20260828.mp4",
+  "final_video": "F:\\ANRYCAMPANY\\01_ショート動画_リール_YouTubeShorts\\インスタ完成形\\MRI前_カラコンは外す_20260828.mp4",
+  "qa_contact_sheet": "F:\\ANRYCAMPANY\\reel_assets\\mri_series\\mri_color_contact_20260828\\qa_midframes\\qa_midframes_contact_sheet.jpg",
+  "alignment_check": [
+    {
+      "index": 1,
+      "frame": "telop_01_patient_contact_case.png",
+      "display_narration": "MRI前日、カラコンって外して行くべきですか。",
+      "voice_text": "エムアールアイ前日、カラコンって外して行くべきですか。",
+      "duration_seconds": 3.421
+    },
+    {
+      "index": 2,
+      "frame": "telop_02_patient_checks_appointment.png",
+      "display_narration": "MRI検査前の問診で、コンタクトについて聞かれて驚く方がいます。",
+      "voice_text": "エムアールアイ検査前の問診で、コンタクトについて聞かれて驚くかたがいます。",
+      "duration_seconds": 4.381
+    },
+    {
+      "index": 3,
+      "frame": "telop_03_rt_clear_contact_explain.png",
+      "display_narration": "透明なコンタクトは、そのまま検査できる施設もあります。",
+      "voice_text": "透明なコンタクトは、そのまま検査できる施設もあります。",
+      "duration_seconds": 3.368
+    },
+    {
+      "index": 4,
+      "frame": "telop_04_colored_contact_still_life.png",
+      "display_narration": "一方でカラーコンタクトや縁取りのあるレンズは、着色部分に金属成分が含まれていることがあります。",
+      "voice_text": "一方でカラーコンタクトやふちどりのあるレンズは、着色部分に金属成分が含まれていることがあります。",
+      "duration_seconds": 5.939
+    },
+    {
+      "index": 5,
+      "frame": "telop_05_mri_precheck_counter.png",
+      "display_narration": "MRIは、強い磁場と電波を使って撮影する検査です。",
+      "voice_text": "エムアールアイは、強い磁場と電波を使って撮影する検査です。",
+      "duration_seconds": 3.677
+    },
+    {
+      "index": 6,
+      "frame": "telop_06_mri_contact_risk_calm.png",
+      "display_narration": "金属成分が、発熱や画像への影響につながることがあります。",
+      "voice_text": "金属成分が、発熱や画像への影響につながることがあります。",
+      "duration_seconds": 3.987
+    },
+    {
+      "index": 7,
+      "frame": "telop_07_patient_removes_contacts.png",
+      "display_narration": "そのため、カラーコンタクトは外すよう案内されることがあります。",
+      "voice_text": "そのため、カラーコンタクトは外すよう案内されることがあります。",
+      "duration_seconds": 3.752
+    },
+    {
+      "index": 8,
+      "frame": "telop_08_patient_consults_rt.png",
+      "display_narration": "迷ったときは、予約の時や受付で、カラコンをしていますと伝えて大丈夫です。",
+      "voice_text": "迷ったときは、予約の時や受付で、カラコンをしていますと伝えて大丈夫です。",
+      "duration_seconds": 5.053
+    },
+    {
+      "index": 9,
+      "frame": "telop_09_save_cta_phone.png",
+      "display_narration": "MRIの予約がある人は、前日や受付前に見返せるように、この投稿を保存しておいてください。",
+      "voice_text": "エムアールアイの予約がある人は、前日や受付前に見返せるように、この投稿を保存しておいてください。",
+      "duration_seconds": 6.28
+    },
+    {
+      "index": 10,
+      "frame": "telop_10_rt_closing.png",
+      "display_narration": "ほかの検査前の疑問も、診療放射線技師目線で発信しています。",
+      "voice_text": "ほかの検査前の疑問も、しんりょうほうしゃせんぎし目線で発信しています。",
+      "duration_seconds": 4.211
+    }
+  ]
+}
