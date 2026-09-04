@@ -1,0 +1,207 @@
+﻿[
+  {
+    "index": 1,
+    "source": "reel_assets\\mri_series\\mri_cane_20260903_images\\01_hook_home_cane.png",
+    "output": "reel_assets\\mri_series\\mri_cane_20260903_telop_frames\\telop_01_hook_home_cane.png",
+    "telop": [
+      [
+        "杖",
+        "がないと歩けない…"
+      ],
+      [
+        "MRI",
+        "大丈夫かな？"
+      ]
+    ],
+    "highlights": [
+      "MRI",
+      "杖"
+    ],
+    "position": "center",
+    "font": "F:\\ANRYCAMPANY\\reel_assets\\fonts\\M_PLUS_Rounded_1c\\MPLUSRounded1c-Bold.ttf"
+  },
+  {
+    "index": 2,
+    "source": "reel_assets\\mri_series\\mri_cane_20260903_images\\02_reception_tell_cane.png",
+    "output": "reel_assets\\mri_series\\mri_cane_20260903_telop_frames\\telop_02_reception_tell_cane.png",
+    "telop": [
+      [
+        "杖",
+        "の方も"
+      ],
+      [
+        "MRI検査",
+        "は受けられます"
+      ]
+    ],
+    "highlights": [
+      "MRI検査",
+      "杖"
+    ],
+    "position": "center",
+    "font": "F:\\ANRYCAMPANY\\reel_assets\\fonts\\M_PLUS_Rounded_1c\\MPLUSRounded1c-Bold.ttf"
+  },
+  {
+    "index": 3,
+    "source": "reel_assets\\mri_series\\mri_cane_20260903_images\\03_cane_outside_mri_room.png",
+    "output": "reel_assets\\mri_series\\mri_cane_20260903_telop_frames\\telop_03_cane_outside_mri_room.png",
+    "telop": [
+      [
+        "杖",
+        "は"
+      ],
+      [
+        "MRI室",
+        "には持ち込めません"
+      ]
+    ],
+    "highlights": [
+      "MRI室",
+      "杖"
+    ],
+    "position": "center",
+    "font": "F:\\ANRYCAMPANY\\reel_assets\\fonts\\M_PLUS_Rounded_1c\\MPLUSRounded1c-Bold.ttf"
+  },
+  {
+    "index": 4,
+    "source": "reel_assets\\mri_series\\mri_cane_20260903_images\\04_supported_walk_mri.png",
+    "output": "reel_assets\\mri_series\\mri_cane_20260903_telop_frames\\telop_04_supported_walk_mri.png",
+    "telop": [
+      [
+        "寝台",
+        "までは"
+      ],
+      [
+        "スタッフ",
+        "が支えます"
+      ]
+    ],
+    "highlights": [
+      "スタッフ",
+      "寝台"
+    ],
+    "position": "center",
+    "font": "F:\\ANRYCAMPANY\\reel_assets\\fonts\\M_PLUS_Rounded_1c\\MPLUSRounded1c-Bold.ttf"
+  },
+  {
+    "index": 5,
+    "source": "reel_assets\\mri_series\\mri_cane_20260903_images\\05_positioning_on_table_v2_low_headrest.png",
+    "output": "reel_assets\\mri_series\\mri_cane_20260903_telop_frames\\telop_05_positioning_on_table.png",
+    "telop": [
+      [
+        "横になったら"
+      ],
+      [
+        "体の位置",
+        "を整えます"
+      ]
+    ],
+    "highlights": [
+      "体の位置"
+    ],
+    "position": "center",
+    "font": "F:\\ANRYCAMPANY\\reel_assets\\fonts\\M_PLUS_Rounded_1c\\MPLUSRounded1c-Bold.ttf"
+  },
+  {
+    "index": 6,
+    "source": "reel_assets\\mri_series\\mri_cane_20260903_images\\06_calm_on_mri_table_v2_flat_no_pillow.png",
+    "output": "reel_assets\\mri_series\\mri_cane_20260903_telop_frames\\telop_06_calm_on_mri_table.png",
+    "telop": [
+      [
+        "体勢",
+        "が整ったら"
+      ],
+      [
+        "そのまま検査へ"
+      ]
+    ],
+    "highlights": [
+      "体勢",
+      "検査"
+    ],
+    "position": "center",
+    "font": "F:\\ANRYCAMPANY\\reel_assets\\fonts\\M_PLUS_Rounded_1c\\MPLUSRounded1c-Bold.ttf"
+  },
+  {
+    "index": 7,
+    "source": "reel_assets\\mri_series\\mri_cane_20260903_images\\07_after_exam_sit_up.png",
+    "output": "reel_assets\\mri_series\\mri_cane_20260903_telop_frames\\telop_07_after_exam_sit_up.png",
+    "telop": [
+      [
+        "検査後",
+        "も"
+      ],
+      [
+        "起き上がり",
+        "を確認"
+      ]
+    ],
+    "highlights": [
+      "検査後",
+      "起き上がり"
+    ],
+    "position": "center",
+    "font": "F:\\ANRYCAMPANY\\reel_assets\\fonts\\M_PLUS_Rounded_1c\\MPLUSRounded1c-Bold.ttf"
+  },
+  {
+    "index": 8,
+    "source": "reel_assets\\mri_series\\mri_cane_20260903_images\\08_receive_cane_after_mri.png",
+    "output": "reel_assets\\mri_series\\mri_cane_20260903_telop_frames\\telop_08_receive_cane_after_mri.png",
+    "telop": [
+      [
+        "杖",
+        "の場所まで"
+      ],
+      [
+        "同じようにご案内"
+      ]
+    ],
+    "highlights": [
+      "杖"
+    ],
+    "position": "center",
+    "font": "F:\\ANRYCAMPANY\\reel_assets\\fonts\\M_PLUS_Rounded_1c\\MPLUSRounded1c-Bold.ttf"
+  },
+  {
+    "index": 9,
+    "source": "reel_assets\\mri_series\\mri_cane_20260903_images\\09_prepare_to_tell_cane.png",
+    "output": "reel_assets\\mri_series\\mri_cane_20260903_telop_frames\\telop_09_prepare_to_tell_cane.png",
+    "telop": [
+      [
+        "予約時",
+        "に"
+      ],
+      [
+        "杖",
+        "のことを伝えて"
+      ]
+    ],
+    "highlights": [
+      "予約時",
+      "杖"
+    ],
+    "position": "center",
+    "font": "F:\\ANRYCAMPANY\\reel_assets\\fonts\\M_PLUS_Rounded_1c\\MPLUSRounded1c-Bold.ttf"
+  },
+  {
+    "index": 10,
+    "source": "reel_assets\\mri_series\\mri_cane_20260903_images\\10_save_cta_phone.png",
+    "output": "reel_assets\\mri_series\\mri_cane_20260903_telop_frames\\telop_10_save_cta_phone.png",
+    "telop": [
+      [
+        "検査前日",
+        "に"
+      ],
+      [
+        "見返せるよう",
+        "保存"
+      ]
+    ],
+    "highlights": [
+      "保存",
+      "検査前日"
+    ],
+    "position": "center",
+    "font": "F:\\ANRYCAMPANY\\reel_assets\\fonts\\M_PLUS_Rounded_1c\\MPLUSRounded1c-Bold.ttf"
+  }
+]

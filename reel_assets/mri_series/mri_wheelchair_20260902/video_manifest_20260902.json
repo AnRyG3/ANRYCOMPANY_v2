@@ -1,0 +1,149 @@
+﻿{
+  "title": "車椅子だけどMRI受けられるのかな_20260902",
+  "speaker": "VOICEVOX speaker id 20",
+  "voice_speed": 1.2,
+  "bgm": "F:\\ANRYCAMPANY\\01_ショート動画_リール_YouTubeShorts\\インスタリール用\\BGM フリー素材\\Kind_Heart.mp3",
+  "bgm_volume": "-26dB",
+  "frames": [
+    "F:\\ANRYCAMPANY\\reel_assets\\mri_series\\mri_wheelchair_20260902_telop_frames\\telop_01_opening_wheelchair_home.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\mri_series\\mri_wheelchair_20260902_telop_frames\\telop_02_reception_consultation.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\mri_series\\mri_wheelchair_20260902_telop_frames\\telop_03_wheelchair_outside_mri_room.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\mri_series\\mri_wheelchair_20260902_telop_frames\\telop_04_prepare_single_table.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\mri_series\\mri_wheelchair_20260902_telop_frames\\telop_05_transfer_support_single_table.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\mri_series\\mri_wheelchair_20260902_telop_frames\\telop_06_on_table_ready_for_mri.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\mri_series\\mri_wheelchair_20260902_telop_frames\\telop_07_pre_exam_consult_support_needs.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\mri_series\\mri_wheelchair_20260902_telop_frames\\telop_08_return_to_wheelchair_after_exam.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\mri_series\\mri_wheelchair_20260902_telop_frames\\telop_09_appointment_note_wheelchair.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\mri_series\\mri_wheelchair_20260902_telop_frames\\telop_10_save_cta_phone.png"
+  ],
+  "display_narration": [
+    "車椅子だけど、MRIって受けられるのかな。",
+    "車椅子を使っている方も、MRI検査は受けられます。",
+    "ただし、車椅子をMRI室に入れることはできません。",
+    "施設によっては、MRI室の外で寝台へ移る方法をとることもあります。",
+    "移るときは、職員が付き添ってサポートします。",
+    "寝台に移ったあとは、そのまま検査へ進みます。",
+    "立ち上がりに不安がある、支えが必要、痛い場所がある。そういうことは予約時に伝えておくと安心です。",
+    "検査が終わったあとも、同じように寝台から車椅子へ戻ります。",
+    "車椅子を使っていることだけでなく、移るときに心配なことも一緒に伝えてください。",
+    "MRIの予定がある方やご家族は、検査前日に見返せるよう保存してください。次回は、杖を使っている方のMRIについてお話しします。"
+  ],
+  "voice_text": [
+    "車椅子だけど、エムアールアイって受けられるのかな。",
+    "車椅子を使っているかたも、エムアールアイ検査は受けられます。",
+    "ただし、車椅子をエムアールアイ室に入れることはできません。",
+    "施設によっては、エムアールアイ室の外で寝台へ移る方法をとることもあります。",
+    "移るときは、職員が付き添ってサポートします。",
+    "寝台に移ったあとは、そのまま検査へ進みます。",
+    "立ち上がりに不安がある、支えが必要、痛い場所がある。そういうことは予約時に伝えておくと安心です。",
+    "検査が終わったあとも、同じように寝台から車椅子へ戻ります。",
+    "車椅子を使っていることだけでなく、移るときに心配なことも一緒に伝えてください。",
+    "エムアールアイの予定があるかたやご家族は、検査前日に見返せるよう保存してください。次回は、杖を使っているかたのエムアールアイについてお話しします。"
+  ],
+  "raw_voice_seconds": [
+    2.933,
+    3.595,
+    3.563,
+    4.597,
+    2.848,
+    3.061,
+    6.795,
+    3.701,
+    4.939,
+    8.885
+  ],
+  "durations_seconds": [
+    2.973,
+    3.635,
+    3.603,
+    4.637,
+    2.888,
+    3.101,
+    6.835,
+    3.741,
+    4.979,
+    8.925
+  ],
+  "tail_padding_seconds_each": 0.04,
+  "total_timeline_seconds": 45.317,
+  "voice_audio_seconds": 45.316,
+  "video_seconds": 45.32,
+  "max_added_gap_seconds": 0.04,
+  "audio_stream_present": true,
+  "voice_audio": "F:\\ANRYCAMPANY\\reel_assets\\mri_series\\mri_wheelchair_20260902\\audio\\voice.wav",
+  "asset_video": "F:\\ANRYCAMPANY\\reel_assets\\mri_series\\mri_wheelchair_20260902\\video\\車椅子だけどMRI受けられるのかな_20260902.mp4",
+  "final_video": "F:\\ANRYCAMPANY\\01_ショート動画_リール_YouTubeShorts\\インスタ完成形\\車椅子だけどMRI受けられるのかな_20260902.mp4",
+  "qa_contact_sheet": "F:\\ANRYCAMPANY\\reel_assets\\mri_series\\mri_wheelchair_20260902\\qa_midframes\\qa_midframes_contact_sheet.jpg",
+  "alignment_check": [
+    {
+      "index": 1,
+      "frame": "telop_01_opening_wheelchair_home.png",
+      "display_narration": "車椅子だけど、MRIって受けられるのかな。",
+      "voice_text": "車椅子だけど、エムアールアイって受けられるのかな。",
+      "duration_seconds": 2.973
+    },
+    {
+      "index": 2,
+      "frame": "telop_02_reception_consultation.png",
+      "display_narration": "車椅子を使っている方も、MRI検査は受けられます。",
+      "voice_text": "車椅子を使っているかたも、エムアールアイ検査は受けられます。",
+      "duration_seconds": 3.635
+    },
+    {
+      "index": 3,
+      "frame": "telop_03_wheelchair_outside_mri_room.png",
+      "display_narration": "ただし、車椅子をMRI室に入れることはできません。",
+      "voice_text": "ただし、車椅子をエムアールアイ室に入れることはできません。",
+      "duration_seconds": 3.603
+    },
+    {
+      "index": 4,
+      "frame": "telop_04_prepare_single_table.png",
+      "display_narration": "施設によっては、MRI室の外で寝台へ移る方法をとることもあります。",
+      "voice_text": "施設によっては、エムアールアイ室の外で寝台へ移る方法をとることもあります。",
+      "duration_seconds": 4.637
+    },
+    {
+      "index": 5,
+      "frame": "telop_05_transfer_support_single_table.png",
+      "display_narration": "移るときは、職員が付き添ってサポートします。",
+      "voice_text": "移るときは、職員が付き添ってサポートします。",
+      "duration_seconds": 2.888
+    },
+    {
+      "index": 6,
+      "frame": "telop_06_on_table_ready_for_mri.png",
+      "display_narration": "寝台に移ったあとは、そのまま検査へ進みます。",
+      "voice_text": "寝台に移ったあとは、そのまま検査へ進みます。",
+      "duration_seconds": 3.101
+    },
+    {
+      "index": 7,
+      "frame": "telop_07_pre_exam_consult_support_needs.png",
+      "display_narration": "立ち上がりに不安がある、支えが必要、痛い場所がある。そういうことは予約時に伝えておくと安心です。",
+      "voice_text": "立ち上がりに不安がある、支えが必要、痛い場所がある。そういうことは予約時に伝えておくと安心です。",
+      "duration_seconds": 6.835
+    },
+    {
+      "index": 8,
+      "frame": "telop_08_return_to_wheelchair_after_exam.png",
+      "display_narration": "検査が終わったあとも、同じように寝台から車椅子へ戻ります。",
+      "voice_text": "検査が終わったあとも、同じように寝台から車椅子へ戻ります。",
+      "duration_seconds": 3.741
+    },
+    {
+      "index": 9,
+      "frame": "telop_09_appointment_note_wheelchair.png",
+      "display_narration": "車椅子を使っていることだけでなく、移るときに心配なことも一緒に伝えてください。",
+      "voice_text": "車椅子を使っていることだけでなく、移るときに心配なことも一緒に伝えてください。",
+      "duration_seconds": 4.979
+    },
+    {
+      "index": 10,
+      "frame": "telop_10_save_cta_phone.png",
+      "display_narration": "MRIの予定がある方やご家族は、検査前日に見返せるよう保存してください。次回は、杖を使っている方のMRIについてお話しします。",
+      "voice_text": "エムアールアイの予定があるかたやご家族は、検査前日に見返せるよう保存してください。次回は、杖を使っているかたのエムアールアイについてお話しします。",
+      "duration_seconds": 8.925
+    }
+  ]
+}

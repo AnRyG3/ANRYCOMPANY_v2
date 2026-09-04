@@ -1,0 +1,149 @@
+﻿{
+  "title": "リブレ2をつけたままX線・CT検査を受けてもいい？",
+  "speaker": "VOICEVOX speaker id 20",
+  "voice_speed": 1.2,
+  "bgm": "F:\\ANRYCAMPANY\\01_ショート動画_リール_YouTubeShorts\\インスタリール用\\BGM フリー素材\\Kind_Heart.mp3",
+  "bgm_volume": "-26dB",
+  "frames": [
+    "F:\\ANRYCAMPANY\\reel_assets\\libre2_xray_ct_20260831\\telop_frames\\telop_01_patient_home_sensor.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\libre2_xray_ct_20260831\\telop_frames\\telop_02_reception_sensor_notice.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\libre2_xray_ct_20260831\\telop_frames\\telop_03_rt_instruction_update.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\libre2_xray_ct_20260831\\telop_frames\\telop_04_old_instruction_leaflet.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\libre2_xray_ct_20260831\\telop_frames\\telop_05_ct_room_sensor_check.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\libre2_xray_ct_20260831\\telop_frames\\telop_06_mri_entrance_remove.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\libre2_xray_ct_20260831\\telop_frames\\telop_07_instruction_transition.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\libre2_xray_ct_20260831\\telop_frames\\telop_08_rt_questionnaire_check.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\libre2_xray_ct_20260831\\telop_frames\\telop_09_patient_tells_rt.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\libre2_xray_ct_20260831\\telop_frames\\telop_10_save_cta_phone.png"
+  ],
+  "display_narration": [
+    "このセンサー、今日の検査で外すのかな。",
+    "まず受付や検査前に、「リブレをつけています」と伝えてください。",
+    "FreeStyleリブレ2は、X線・CT検査での案内が見直されました。",
+    "以前は、X線やCTの時も外すように書かれていました。",
+    "今はX線・CTでは、原則、外す必要はありません。",
+    "ただしMRI検査は、今まで通り検査前に外します。",
+    "新しい表示は、2026年10月以降に順番に切り替わる予定です。",
+    "しばらくは古い説明書の製品もあります。迷う時は現場で確認します。",
+    "迷ったら、「これをつけています」と、遠慮なく伝えてください。",
+    "検査前日や受付前に見返せるように、保存しておいてください。"
+  ],
+  "voice_text": [
+    "このセンサー、今日の検査で外すのかな。",
+    "まず受付や検査前に、リブレをつけています、と伝えてください。",
+    "フリースタイルリブレツーは、エックス線、シーティー検査での案内が見直されました。",
+    "以前は、エックス線やシーティーの時も、外すように書かれていました。",
+    "今はエックス線、シーティーでは、原則、外す必要はありません。",
+    "ただしエムアールアイ検査は、今まで通り、検査前に外します。",
+    "新しい表示は、二千二十六年十月以降に、順番に切り替わる予定です。",
+    "しばらくは、古い説明書の製品もあります。迷う時は、現場で確認します。",
+    "迷ったら、これをつけています、と、遠慮なく伝えてください。",
+    "検査前日や受付前に見返せるように、保存しておいてください。"
+  ],
+  "raw_voice_seconds": [
+    2.496,
+    4.416,
+    4.928,
+    4.149,
+    4.608,
+    4.0,
+    5.088,
+    5.472,
+    4.427,
+    3.979
+  ],
+  "durations_seconds": [
+    2.556,
+    4.476,
+    4.988,
+    4.209,
+    4.668,
+    4.06,
+    5.148,
+    5.532,
+    4.487,
+    4.039
+  ],
+  "tail_padding_seconds_each": 0.06,
+  "total_timeline_seconds": 44.163,
+  "voice_audio_seconds": 44.162,
+  "video_seconds": 44.16,
+  "max_added_gap_seconds": 0.06,
+  "audio_stream_present": true,
+  "voice_audio": "F:\\ANRYCAMPANY\\reel_assets\\libre2_xray_ct_20260831\\audio\\voice.wav",
+  "asset_video": "F:\\ANRYCAMPANY\\reel_assets\\libre2_xray_ct_20260831\\video\\リブレ2_X線_CT検査で外す必要はありますか_20260831.mp4",
+  "final_video": "F:\\ANRYCAMPANY\\01_ショート動画_リール_YouTubeShorts\\インスタ完成形\\リブレ2_X線_CT検査で外す必要はありますか_20260831.mp4",
+  "qa_contact_sheet": "F:\\ANRYCAMPANY\\reel_assets\\libre2_xray_ct_20260831\\qa_midframes\\qa_midframes_contact_sheet.jpg",
+  "alignment_check": [
+    {
+      "index": 1,
+      "frame": "telop_01_patient_home_sensor.png",
+      "display_narration": "このセンサー、今日の検査で外すのかな。",
+      "voice_text": "このセンサー、今日の検査で外すのかな。",
+      "duration_seconds": 2.556
+    },
+    {
+      "index": 2,
+      "frame": "telop_02_reception_sensor_notice.png",
+      "display_narration": "まず受付や検査前に、「リブレをつけています」と伝えてください。",
+      "voice_text": "まず受付や検査前に、リブレをつけています、と伝えてください。",
+      "duration_seconds": 4.476
+    },
+    {
+      "index": 3,
+      "frame": "telop_03_rt_instruction_update.png",
+      "display_narration": "FreeStyleリブレ2は、X線・CT検査での案内が見直されました。",
+      "voice_text": "フリースタイルリブレツーは、エックス線、シーティー検査での案内が見直されました。",
+      "duration_seconds": 4.988
+    },
+    {
+      "index": 4,
+      "frame": "telop_04_old_instruction_leaflet.png",
+      "display_narration": "以前は、X線やCTの時も外すように書かれていました。",
+      "voice_text": "以前は、エックス線やシーティーの時も、外すように書かれていました。",
+      "duration_seconds": 4.209
+    },
+    {
+      "index": 5,
+      "frame": "telop_05_ct_room_sensor_check.png",
+      "display_narration": "今はX線・CTでは、原則、外す必要はありません。",
+      "voice_text": "今はエックス線、シーティーでは、原則、外す必要はありません。",
+      "duration_seconds": 4.668
+    },
+    {
+      "index": 6,
+      "frame": "telop_06_mri_entrance_remove.png",
+      "display_narration": "ただしMRI検査は、今まで通り検査前に外します。",
+      "voice_text": "ただしエムアールアイ検査は、今まで通り、検査前に外します。",
+      "duration_seconds": 4.06
+    },
+    {
+      "index": 7,
+      "frame": "telop_07_instruction_transition.png",
+      "display_narration": "新しい表示は、2026年10月以降に順番に切り替わる予定です。",
+      "voice_text": "新しい表示は、二千二十六年十月以降に、順番に切り替わる予定です。",
+      "duration_seconds": 5.148
+    },
+    {
+      "index": 8,
+      "frame": "telop_08_rt_questionnaire_check.png",
+      "display_narration": "しばらくは古い説明書の製品もあります。迷う時は現場で確認します。",
+      "voice_text": "しばらくは、古い説明書の製品もあります。迷う時は、現場で確認します。",
+      "duration_seconds": 5.532
+    },
+    {
+      "index": 9,
+      "frame": "telop_09_patient_tells_rt.png",
+      "display_narration": "迷ったら、「これをつけています」と、遠慮なく伝えてください。",
+      "voice_text": "迷ったら、これをつけています、と、遠慮なく伝えてください。",
+      "duration_seconds": 4.487
+    },
+    {
+      "index": 10,
+      "frame": "telop_10_save_cta_phone.png",
+      "display_narration": "検査前日や受付前に見返せるように、保存しておいてください。",
+      "voice_text": "検査前日や受付前に見返せるように、保存しておいてください。",
+      "duration_seconds": 4.039
+    }
+  ]
+}

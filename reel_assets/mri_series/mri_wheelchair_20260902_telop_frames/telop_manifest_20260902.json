@@ -1,0 +1,205 @@
+﻿[
+  {
+    "index": 1,
+    "source": "reel_assets\\mri_series\\mri_wheelchair_20260902_images\\01_opening_wheelchair_home.png",
+    "output": "reel_assets\\mri_series\\mri_wheelchair_20260902_telop_frames\\telop_01_opening_wheelchair_home.png",
+    "telop": [
+      [
+        "車椅子",
+        "だけど"
+      ],
+      [
+        "MRI",
+        "受けられる？"
+      ]
+    ],
+    "highlights": [
+      "MRI",
+      "車椅子"
+    ],
+    "position": "top",
+    "font": "F:\\ANRYCAMPANY\\reel_assets\\fonts\\M_PLUS_Rounded_1c\\MPLUSRounded1c-Bold.ttf"
+  },
+  {
+    "index": 2,
+    "source": "reel_assets\\mri_series\\mri_wheelchair_20260902_images\\02_reception_consultation.png",
+    "output": "reel_assets\\mri_series\\mri_wheelchair_20260902_telop_frames\\telop_02_reception_consultation.png",
+    "telop": [
+      [
+        "車椅子",
+        "の方も"
+      ],
+      [
+        "MRI検査",
+        "は受けられます"
+      ]
+    ],
+    "highlights": [
+      "MRI検査",
+      "車椅子"
+    ],
+    "position": "center",
+    "font": "F:\\ANRYCAMPANY\\reel_assets\\fonts\\M_PLUS_Rounded_1c\\MPLUSRounded1c-Bold.ttf"
+  },
+  {
+    "index": 3,
+    "source": "reel_assets\\mri_series\\mri_wheelchair_20260902_images\\03_wheelchair_outside_mri_room.png",
+    "output": "reel_assets\\mri_series\\mri_wheelchair_20260902_telop_frames\\telop_03_wheelchair_outside_mri_room.png",
+    "telop": [
+      [
+        "ただし"
+      ],
+      [
+        "車椅子",
+        "はMRI室へ入れません"
+      ]
+    ],
+    "highlights": [
+      "MRI室",
+      "車椅子"
+    ],
+    "position": "center",
+    "font": "F:\\ANRYCAMPANY\\reel_assets\\fonts\\M_PLUS_Rounded_1c\\MPLUSRounded1c-Bold.ttf"
+  },
+  {
+    "index": 4,
+    "source": "reel_assets\\mri_series\\mri_wheelchair_20260902_images\\04_prepare_single_table.png",
+    "output": "reel_assets\\mri_series\\mri_wheelchair_20260902_telop_frames\\telop_04_prepare_single_table.png",
+    "telop": [
+      [
+        "室外",
+        "で"
+      ],
+      [
+        "寝台",
+        "へ移る方法も"
+      ]
+    ],
+    "highlights": [
+      "室外",
+      "寝台"
+    ],
+    "position": "center",
+    "font": "F:\\ANRYCAMPANY\\reel_assets\\fonts\\M_PLUS_Rounded_1c\\MPLUSRounded1c-Bold.ttf"
+  },
+  {
+    "index": 5,
+    "source": "reel_assets\\mri_series\\mri_wheelchair_20260902_images\\05_transfer_support_single_table.png",
+    "output": "reel_assets\\mri_series\\mri_wheelchair_20260902_telop_frames\\telop_05_transfer_support_single_table.png",
+    "telop": [
+      [
+        "移乗",
+        "は"
+      ],
+      [
+        "職員",
+        "がサポート"
+      ]
+    ],
+    "highlights": [
+      "移乗",
+      "職員"
+    ],
+    "position": "bottom",
+    "font": "F:\\ANRYCAMPANY\\reel_assets\\fonts\\M_PLUS_Rounded_1c\\MPLUSRounded1c-Bold.ttf"
+  },
+  {
+    "index": 6,
+    "source": "reel_assets\\mri_series\\mri_wheelchair_20260902_images\\06_on_table_ready_for_mri_v3_flat_table.png",
+    "output": "reel_assets\\mri_series\\mri_wheelchair_20260902_telop_frames\\telop_06_on_table_ready_for_mri.png",
+    "telop": [
+      [
+        "寝台",
+        "に移ったら"
+      ],
+      [
+        "検査へ進みます"
+      ]
+    ],
+    "highlights": [
+      "寝台"
+    ],
+    "position": "bottom",
+    "font": "F:\\ANRYCAMPANY\\reel_assets\\fonts\\M_PLUS_Rounded_1c\\MPLUSRounded1c-Bold.ttf"
+  },
+  {
+    "index": 7,
+    "source": "reel_assets\\mri_series\\mri_wheelchair_20260902_images\\07_pre_exam_consult_support_needs.png",
+    "output": "reel_assets\\mri_series\\mri_wheelchair_20260902_telop_frames\\telop_07_pre_exam_consult_support_needs.png",
+    "telop": [
+      [
+        "支えが必要",
+        "なら"
+      ],
+      [
+        "予約時",
+        "に伝えて"
+      ]
+    ],
+    "highlights": [
+      "予約時",
+      "支えが必要"
+    ],
+    "position": "top",
+    "font": "F:\\ANRYCAMPANY\\reel_assets\\fonts\\M_PLUS_Rounded_1c\\MPLUSRounded1c-Bold.ttf"
+  },
+  {
+    "index": 8,
+    "source": "reel_assets\\mri_series\\mri_wheelchair_20260902_images\\08_return_to_wheelchair_after_exam.png",
+    "output": "reel_assets\\mri_series\\mri_wheelchair_20260902_telop_frames\\telop_08_return_to_wheelchair_after_exam.png",
+    "telop": [
+      [
+        "検査後",
+        "も"
+      ],
+      [
+        "同じように戻ります"
+      ]
+    ],
+    "highlights": [
+      "検査後"
+    ],
+    "position": "bottom",
+    "font": "F:\\ANRYCAMPANY\\reel_assets\\fonts\\M_PLUS_Rounded_1c\\MPLUSRounded1c-Bold.ttf"
+  },
+  {
+    "index": 9,
+    "source": "reel_assets\\mri_series\\mri_wheelchair_20260902_images\\09_appointment_note_wheelchair.png",
+    "output": "reel_assets\\mri_series\\mri_wheelchair_20260902_telop_frames\\telop_09_appointment_note_wheelchair.png",
+    "telop": [
+      [
+        "痛い場所",
+        "も"
+      ],
+      [
+        "一緒に伝えてOK"
+      ]
+    ],
+    "highlights": [
+      "痛い場所"
+    ],
+    "position": "center",
+    "font": "F:\\ANRYCAMPANY\\reel_assets\\fonts\\M_PLUS_Rounded_1c\\MPLUSRounded1c-Bold.ttf"
+  },
+  {
+    "index": 10,
+    "source": "reel_assets\\mri_series\\mri_wheelchair_20260902_images\\10_save_cta_phone.png",
+    "output": "reel_assets\\mri_series\\mri_wheelchair_20260902_telop_frames\\telop_10_save_cta_phone.png",
+    "telop": [
+      [
+        "検査前日",
+        "に"
+      ],
+      [
+        "見返せるよう",
+        "保存"
+      ]
+    ],
+    "highlights": [
+      "保存",
+      "検査前日"
+    ],
+    "position": "center",
+    "font": "F:\\ANRYCAMPANY\\reel_assets\\fonts\\M_PLUS_Rounded_1c\\MPLUSRounded1c-Bold.ttf"
+  }
+]

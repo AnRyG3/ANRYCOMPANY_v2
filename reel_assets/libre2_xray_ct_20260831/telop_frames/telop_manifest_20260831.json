@@ -1,0 +1,153 @@
+﻿[
+  {
+    "index": 1,
+    "source": "reel_assets\\libre2_xray_ct_20260831\\backgrounds\\frame_01_patient_home_sensor.png",
+    "output": "reel_assets\\libre2_xray_ct_20260831\\telop_frames\\telop_01_patient_home_sensor.png",
+    "telop": [
+      "このセンサー",
+      "検査で外すのかな..."
+    ],
+    "highlights": [
+      "このセンサー"
+    ],
+    "x_axis": "center",
+    "position": "center",
+    "font": "F:\\ANRYCAMPANY\\reel_assets\\fonts\\M_PLUS_Rounded_1c\\MPLUSRounded1c-Bold.ttf"
+  },
+  {
+    "index": 2,
+    "source": "reel_assets\\libre2_xray_ct_20260831\\backgrounds\\frame_02_reception_sensor_notice.png",
+    "output": "reel_assets\\libre2_xray_ct_20260831\\telop_frames\\telop_02_reception_sensor_notice.png",
+    "telop": [
+      "まずつけてますと",
+      "伝えてください"
+    ],
+    "highlights": [
+      "つけてます"
+    ],
+    "x_axis": "center",
+    "position": "center",
+    "font": "F:\\ANRYCAMPANY\\reel_assets\\fonts\\M_PLUS_Rounded_1c\\MPLUSRounded1c-Bold.ttf"
+  },
+  {
+    "index": 3,
+    "source": "reel_assets\\libre2_xray_ct_20260831\\backgrounds\\frame_03_rt_instruction_update.png",
+    "output": "reel_assets\\libre2_xray_ct_20260831\\telop_frames\\telop_03_rt_instruction_update.png",
+    "telop": [
+      "リブレ2の説明書が",
+      "改訂されました"
+    ],
+    "highlights": [
+      "リブレ2",
+      "改訂"
+    ],
+    "x_axis": "center",
+    "position": "bottom",
+    "font": "F:\\ANRYCAMPANY\\reel_assets\\fonts\\M_PLUS_Rounded_1c\\MPLUSRounded1c-Bold.ttf"
+  },
+  {
+    "index": 4,
+    "source": "reel_assets\\libre2_xray_ct_20260831\\backgrounds\\frame_04_old_instruction_leaflet.png",
+    "output": "reel_assets\\libre2_xray_ct_20260831\\telop_frames\\telop_04_old_instruction_leaflet.png",
+    "telop": [
+      "以前はX線・CTでも",
+      "外す案内がありました"
+    ],
+    "highlights": [
+      "X線・CT"
+    ],
+    "x_axis": "center",
+    "position": "center",
+    "font": "F:\\ANRYCAMPANY\\reel_assets\\fonts\\M_PLUS_Rounded_1c\\MPLUSRounded1c-Bold.ttf"
+  },
+  {
+    "index": 5,
+    "source": "reel_assets\\libre2_xray_ct_20260831\\backgrounds\\frame_05_ct_room_sensor_check.png",
+    "output": "reel_assets\\libre2_xray_ct_20260831\\telop_frames\\telop_05_ct_room_sensor_check.png",
+    "telop": [
+      "X線・CTは",
+      "原則外す必要はありません"
+    ],
+    "highlights": [
+      "X線・CT"
+    ],
+    "x_axis": "center",
+    "position": "center",
+    "font": "F:\\ANRYCAMPANY\\reel_assets\\fonts\\M_PLUS_Rounded_1c\\MPLUSRounded1c-Bold.ttf"
+  },
+  {
+    "index": 6,
+    "source": "reel_assets\\libre2_xray_ct_20260831\\backgrounds\\frame_06_mri_entrance_remove.png",
+    "output": "reel_assets\\libre2_xray_ct_20260831\\telop_frames\\telop_06_mri_entrance_remove.png",
+    "telop": [
+      "MRIは今まで通り",
+      "検査前に外します"
+    ],
+    "highlights": [
+      "MRI"
+    ],
+    "x_axis": "center",
+    "position": "center",
+    "font": "F:\\ANRYCAMPANY\\reel_assets\\fonts\\M_PLUS_Rounded_1c\\MPLUSRounded1c-Bold.ttf"
+  },
+  {
+    "index": 7,
+    "source": "reel_assets\\libre2_xray_ct_20260831\\backgrounds\\frame_07_instruction_transition.png",
+    "output": "reel_assets\\libre2_xray_ct_20260831\\telop_frames\\telop_07_instruction_transition.png",
+    "telop": [
+      "10月以降に順次",
+      "表示が切り替わります"
+    ],
+    "highlights": [
+      "10月以降"
+    ],
+    "x_axis": "center",
+    "position": "center",
+    "font": "F:\\ANRYCAMPANY\\reel_assets\\fonts\\M_PLUS_Rounded_1c\\MPLUSRounded1c-Bold.ttf"
+  },
+  {
+    "index": 8,
+    "source": "reel_assets\\libre2_xray_ct_20260831\\backgrounds\\frame_08_rt_questionnaire_check.png",
+    "output": "reel_assets\\libre2_xray_ct_20260831\\telop_frames\\telop_08_rt_questionnaire_check.png",
+    "telop": [
+      "古い説明書の時も",
+      "現場で確認します"
+    ],
+    "highlights": [
+      "確認"
+    ],
+    "x_axis": "center",
+    "position": "bottom",
+    "font": "F:\\ANRYCAMPANY\\reel_assets\\fonts\\M_PLUS_Rounded_1c\\MPLUSRounded1c-Bold.ttf"
+  },
+  {
+    "index": 9,
+    "source": "reel_assets\\libre2_xray_ct_20260831\\backgrounds\\frame_09_patient_tells_rt.png",
+    "output": "reel_assets\\libre2_xray_ct_20260831\\telop_frames\\telop_09_patient_tells_rt.png",
+    "telop": [
+      "迷ったら",
+      "遠慮なく伝えてOK"
+    ],
+    "highlights": [
+      "伝えて"
+    ],
+    "x_axis": "center",
+    "position": "center",
+    "font": "F:\\ANRYCAMPANY\\reel_assets\\fonts\\M_PLUS_Rounded_1c\\MPLUSRounded1c-Bold.ttf"
+  },
+  {
+    "index": 10,
+    "source": "reel_assets\\libre2_xray_ct_20260831\\backgrounds\\frame_10_save_cta_phone.png",
+    "output": "reel_assets\\libre2_xray_ct_20260831\\telop_frames\\telop_10_save_cta_phone.png",
+    "telop": [
+      "検査前日・受付前に",
+      "見返せるよう保存"
+    ],
+    "highlights": [
+      "保存"
+    ],
+    "x_axis": "center",
+    "position": "top",
+    "font": "F:\\ANRYCAMPANY\\reel_assets\\fonts\\M_PLUS_Rounded_1c\\MPLUSRounded1c-Bold.ttf"
+  }
+]
