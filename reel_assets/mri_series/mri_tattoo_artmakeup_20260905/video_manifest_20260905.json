@@ -1,0 +1,71 @@
+﻿{
+  "title": "MRI前_タトゥーアートメイク申告_20260905",
+  "speaker": "VOICEVOX speaker id 20",
+  "voice_speed": 1.2,
+  "bgm": "F:\\ANRYCAMPANY\\01_ショート動画_リール_YouTubeShorts\\インスタリール用\\BGM フリー素材\\Kind_Heart.mp3",
+  "bgm_volume": "-26dB",
+  "frames": [
+    "F:\\ANRYCAMPANY\\reel_assets\\mri_series\\mri_tattoo_artmakeup_20260905_telop\\telop_01_reception_disclose_tattoo.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\mri_series\\mri_tattoo_artmakeup_20260905_telop\\telop_02_waiting_area_worry.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\mri_series\\mri_tattoo_artmakeup_20260905_telop\\telop_03_tattoo_checklist_closeup.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\mri_series\\mri_tattoo_artmakeup_20260905_telop\\telop_04_artmakeup_eye_closeup.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\mri_series\\mri_tattoo_artmakeup_20260905_telop\\telop_05_pigment_checklist_stilllife.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\mri_series\\mri_tattoo_artmakeup_20260905_telop\\telop_06_staff_hand_screening.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\mri_series\\mri_tattoo_artmakeup_20260905_telop\\telop_07_mri_room_15t_background.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\mri_series\\mri_tattoo_artmakeup_20260905_telop\\telop_08_patient_relieved.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\mri_series\\mri_tattoo_artmakeup_20260905_telop\\telop_09_save_share_cta_background.png"
+  ],
+  "display_narration": [
+    "タトゥーがあるけど、MRIって受けられるのかな。",
+    "そんなときは、受付前に先に一言、伝えてください。",
+    "色素の成分は、見た目だけでは分からないことがあります。",
+    "アートメイクや入れ墨も、検査前の確認が必要です。",
+    "検査中に熱く感じることがあるため、事前の申告が大切です。",
+    "伝えてもらえれば、スタッフが検査の条件を確認できます。",
+    "当院では、タトゥーや入れ墨のある方は、3Tでは撮像せず、1.5Tで対応しています。",
+    "隠さなくて大丈夫です。言っていいことなんです。",
+    "検査前日や受付前に見返せるよう、保存しておいてください。"
+  ],
+  "voice_text": [
+    "タトゥーがあるけど、エムアールアイって受けられるのかな。",
+    "そんなときは、受付前に先に一言、伝えてください。",
+    "色素の成分は、見た目だけでは分からないことがあります。",
+    "アートメイクや、入れ墨も、検査前の確認が必要です。",
+    "検査中に熱く感じることがあるため、事前の申告が大切です。",
+    "伝えてもらえれば、スタッフが検査の条件を確認できます。",
+    "当院では、タトゥーや入れ墨のあるかたは、さんてすらでは撮像せず、いってんごテスラで対応しています。",
+    "隠さなくて大丈夫です。言っていいことなんです。",
+    "検査前日や受付前に見返せるよう、保存しておいてください。"
+  ],
+  "raw_voice_seconds": [
+    2.976,
+    3.904,
+    3.339,
+    3.701,
+    4.064,
+    3.499,
+    6.464,
+    3.083,
+    3.989
+  ],
+  "durations_seconds": [
+    3.036,
+    3.964,
+    3.399,
+    3.761,
+    4.124,
+    3.559,
+    6.524,
+    3.143,
+    4.049
+  ],
+  "tail_padding_seconds_each": 0.06,
+  "total_planned_seconds": 35.559,
+  "voice_audio": "F:\\ANRYCAMPANY\\reel_assets\\mri_series\\mri_tattoo_artmakeup_20260905\\audio\\voice.wav",
+  "voice_audio_seconds": 35.56,
+  "asset_video": "F:\\ANRYCAMPANY\\reel_assets\\mri_series\\mri_tattoo_artmakeup_20260905\\video\\MRI前_タトゥーアートメイク申告_20260905.mp4",
+  "final_video": "F:\\ANRYCAMPANY\\01_ショート動画_リール_YouTubeShorts\\インスタ完成形\\MRI前_タトゥーアートメイク申告_20260905.mp4",
+  "video_seconds": 35.56,
+  "midframe_qa_sheet": "F:\\ANRYCAMPANY\\reel_assets\\mri_series\\mri_tattoo_artmakeup_20260905\\video_qa_midframes_20260905.png",
+  "sync_check": "Each still frame duration is matched to its narration segment plus 0.06 seconds only; no long silent gap is inserted."
+}

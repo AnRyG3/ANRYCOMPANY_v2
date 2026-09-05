@@ -36,6 +36,7 @@ User-facing Obsidian notes, scripts, captions, and deliverables should stay in J
 
 - For ANRYCAMPANY video/reel work, read `00_全体管理/rules/reel-core.md` before proposing or producing.
 - Do not create images, frames, audio, video, or generation scripts until the required approval gate is met.
+- For scenes where a patient is lying on an exam table, do not force the face or expression to be visible. Keep the pillow/headrest low and use a natural examination posture; do not raise the neck or upper body just to show the expression.
 - Before image text insertion or final text frames, read `00_全体管理/rules/telop-style-rules.md`.
 - When a person may appear in an image, read `00_全体管理/rules/character-rules.md` and `ANRYCAMPANY/Characters/_character_quickref.md` first; read the relevant Character ID note only before actual image generation or when details are ambiguous.
 - Read stage-specific rules only when needed:

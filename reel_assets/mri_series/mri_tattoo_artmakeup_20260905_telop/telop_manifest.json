@@ -1,0 +1,147 @@
+﻿{
+  "title": "MRI前、タトゥーやアートメイクがあると受けられない？",
+  "style": "要点だけ、1画面2行以内、重要語だけ青または保存色で強調",
+  "font": "F:\\ANRYCAMPANY\\reel_assets\\fonts\\M_PLUS_Rounded_1c\\MPLUSRounded1c-Bold.ttf",
+  "size": {
+    "width": 1080,
+    "height": 1920
+  },
+  "frames": [
+    {
+      "source": "reel_assets\\mri_series\\mri_tattoo_artmakeup_20260905_images\\frame01_reception_disclose_tattoo.png",
+      "output": "reel_assets\\mri_series\\mri_tattoo_artmakeup_20260905_telop\\telop_01_reception_disclose_tattoo.png",
+      "telop": [
+        "タトゥーあり",
+        "MRI受けられる？"
+      ],
+      "position": "bottom",
+      "box": [
+        82,
+        1248,
+        998,
+        1484
+      ]
+    },
+    {
+      "source": "reel_assets\\mri_series\\mri_tattoo_artmakeup_20260905_images\\frame02_waiting_area_worry.png",
+      "output": "reel_assets\\mri_series\\mri_tattoo_artmakeup_20260905_telop\\telop_02_waiting_area_worry.png",
+      "telop": [
+        "受付前に",
+        "先にひと言"
+      ],
+      "position": "top",
+      "box": [
+        82,
+        252,
+        998,
+        488
+      ]
+    },
+    {
+      "source": "reel_assets\\mri_series\\mri_tattoo_artmakeup_20260905_images\\frame03_tattoo_checklist_closeup.png",
+      "output": "reel_assets\\mri_series\\mri_tattoo_artmakeup_20260905_telop\\telop_03_tattoo_checklist_closeup.png",
+      "telop": [
+        "色素の成分は",
+        "見た目で分からない"
+      ],
+      "position": "top",
+      "box": [
+        82,
+        252,
+        998,
+        488
+      ]
+    },
+    {
+      "source": "reel_assets\\mri_series\\mri_tattoo_artmakeup_20260905_images\\frame04_artmakeup_eye_closeup.png",
+      "output": "reel_assets\\mri_series\\mri_tattoo_artmakeup_20260905_telop\\telop_04_artmakeup_eye_closeup.png",
+      "telop": [
+        "アートメイクも",
+        "申告を"
+      ],
+      "position": "top",
+      "box": [
+        82,
+        252,
+        998,
+        488
+      ]
+    },
+    {
+      "source": "reel_assets\\mri_series\\mri_tattoo_artmakeup_20260905_images\\frame05_pigment_checklist_stilllife.png",
+      "output": "reel_assets\\mri_series\\mri_tattoo_artmakeup_20260905_telop\\telop_05_pigment_checklist_stilllife.png",
+      "telop": [
+        "検査中に",
+        "熱く感じることも"
+      ],
+      "position": "top",
+      "box": [
+        82,
+        252,
+        998,
+        488
+      ]
+    },
+    {
+      "source": "reel_assets\\mri_series\\mri_tattoo_artmakeup_20260905_images\\frame06_staff_hand_screening.png",
+      "output": "reel_assets\\mri_series\\mri_tattoo_artmakeup_20260905_telop\\telop_06_staff_hand_screening.png",
+      "telop": [
+        "伝えると",
+        "確認が進みます"
+      ],
+      "position": "top",
+      "box": [
+        82,
+        252,
+        998,
+        488
+      ]
+    },
+    {
+      "source": "reel_assets\\mri_series\\mri_tattoo_artmakeup_20260905_images\\frame07_mri_room_15t_background.png",
+      "output": "reel_assets\\mri_series\\mri_tattoo_artmakeup_20260905_telop\\telop_07_mri_room_15t_background.png",
+      "telop": [
+        "当院では",
+        "1.5Tで対応"
+      ],
+      "position": "center",
+      "box": [
+        82,
+        842,
+        998,
+        1078
+      ]
+    },
+    {
+      "source": "reel_assets\\mri_series\\mri_tattoo_artmakeup_20260905_images\\frame08_patient_relieved.png",
+      "output": "reel_assets\\mri_series\\mri_tattoo_artmakeup_20260905_telop\\telop_08_patient_relieved.png",
+      "telop": [
+        "隠さなくて",
+        "大丈夫"
+      ],
+      "position": "bottom",
+      "box": [
+        82,
+        1248,
+        998,
+        1484
+      ]
+    },
+    {
+      "source": "reel_assets\\mri_series\\mri_tattoo_artmakeup_20260905_images\\frame09_save_share_cta_background.png",
+      "output": "reel_assets\\mri_series\\mri_tattoo_artmakeup_20260905_telop\\telop_09_save_share_cta_background.png",
+      "telop": [
+        "検査前日・受付前に",
+        "保存して見返す"
+      ],
+      "position": "center",
+      "box": [
+        82,
+        842,
+        998,
+        1078
+      ]
+    }
+  ],
+  "contact_sheet": "reel_assets\\mri_series\\mri_tattoo_artmakeup_20260905_telop\\_qa_contact_sheet_telop.png"
+}

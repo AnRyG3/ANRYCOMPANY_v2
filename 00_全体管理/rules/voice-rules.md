@@ -19,6 +19,8 @@ Use these substitutions in voice-only narration text. Image text may keep normal
 - 方: かた
 - 他にも: ほかにも
 - 微調整: びちょうせい
+- 増毛: ぞうもう
+- 増毛パウダー: ぞうもうパウダー
 
 For ambiguous or repeatedly misread words, use kana in the actual text passed to the voice engine from the first generation. If a word is still misread after one correction, avoid the problematic kanji/word in voice-only text and rewrite the spoken phrase while keeping the display text unchanged when appropriate.
 
