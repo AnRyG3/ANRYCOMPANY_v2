@@ -1,0 +1,57 @@
+﻿{
+  "title": "造影CTのあと、お酒は飲んでもいい？",
+  "speaker": "VOICEVOX speaker id 20",
+  "voice_speed": 1.2,
+  "voice_text": [
+    "今日、ぞうえいシーティーだったけど、お酒、飲んでいいのかな。",
+    "検査のとき、聞きそびれた。",
+    "実は、医療機関によって、案内が違うこともあります。",
+    "ぞうえい剤の多くは、時間とともに、にょうから出ていきます。",
+    "水分制限がなければ、水やお茶で、水分をとりましょう。",
+    "お酒は、水分補給の代わりにはなりません。",
+    "検査当日の飲酒を、控えるよう案内する施設もあります。",
+    "腎臓の病気や、水分制限があるかたは、受けた説明を優先してください。",
+    "迷ったら、検査を受けた医療機関へ、確認しましょう。",
+    "ぞうえいシーティーを受けた日の帰宅後に、見返せるよう、保存とフォローをお願いします。"
+  ],
+  "display_text": [
+    "今日、造影CTだった。お酒、飲んでいい？",
+    "検査のとき、聞きそびれた…",
+    "案内は医療機関で違うこともあります",
+    "造影剤の多くは尿から出ていきます",
+    "水分制限がなければ 水やお茶で水分補給",
+    "お酒は 水分補給の代わりにはなりません",
+    "当日の飲酒を控えるよう 案内する施設もあります",
+    "腎臓の病気・水分制限がある方は 個別の説明を優先",
+    "迷ったら 受けた医療機関へ確認",
+    "帰宅後に見返すなら 保存・フォロー"
+  ],
+  "frames": [
+    "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_contrast_alcohol_v1\\telop_frames\\01_hook_convenience_store_telop.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_contrast_alcohol_v1\\telop_frames\\02_hesitation_at_shelf_telop.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_contrast_alcohol_v1\\telop_frames\\03_check_instructions_telop.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_contrast_alcohol_v1\\telop_frames\\04_pour_water_telop.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_contrast_alcohol_v1\\telop_frames\\05_choose_water_telop.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_contrast_alcohol_v1\\telop_frames\\06_water_not_alcohol_telop.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_contrast_alcohol_v1\\telop_frames\\07_check_facility_guidance_telop.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_contrast_alcohol_v1\\telop_frames\\08_follow_individual_guidance_telop.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_contrast_alcohol_v1\\telop_frames\\09_call_facility_telop.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_contrast_alcohol_v1\\telop_frames\\10_cta_home_telop.png"
+  ],
+  "durations_seconds": [
+    3.488,
+    1.739,
+    3.328,
+    3.445,
+    3.573,
+    2.624,
+    3.541,
+    4.715,
+    3.317,
+    4.597
+  ],
+  "total_seconds": 34.368,
+  "voice_audio": "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_contrast_alcohol_v1\\audio\\voice.wav",
+  "asset_video": "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_contrast_alcohol_v1\\造影CTのあと、お酒は飲んでもいい？.mp4",
+  "final_video": "F:\\ANRYCAMPANY\\01_ショート動画_リール_YouTubeShorts\\インスタ完成形\\造影CTのあと、お酒は飲んでもいい？.mp4"
+}

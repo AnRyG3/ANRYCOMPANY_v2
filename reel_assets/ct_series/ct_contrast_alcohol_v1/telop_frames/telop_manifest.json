@@ -1,0 +1,102 @@
+﻿{
+  "title": "造影CTのあと、お酒は飲んでもいい？",
+  "font": "F:\\ANRYCAMPANY\\reel_assets\\fonts\\M_PLUS_Rounded_1c\\MPLUSRounded1c-Bold.ttf",
+  "style": "bottom-center; white rounded backing; dark navy text; blue key words only",
+  "size": {
+    "width": 1080,
+    "height": 1920
+  },
+  "frames": [
+    {
+      "source": "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_contrast_alcohol_v1\\01_hook_convenience_store.png",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_contrast_alcohol_v1\\telop_frames\\01_hook_convenience_store_telop.png",
+      "telop": [
+        "今日、造影CTだった",
+        "お酒、飲んでいい？"
+      ],
+      "position": "bottom-center"
+    },
+    {
+      "source": "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_contrast_alcohol_v1\\02_hesitation_at_shelf.png",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_contrast_alcohol_v1\\telop_frames\\02_hesitation_at_shelf_telop.png",
+      "telop": [
+        "検査のとき",
+        "聞きそびれた…"
+      ],
+      "position": "bottom-center"
+    },
+    {
+      "source": "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_contrast_alcohol_v1\\03_check_instructions.png",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_contrast_alcohol_v1\\telop_frames\\03_check_instructions_telop.png",
+      "telop": [
+        "案内は医療機関で",
+        "違うこともあります"
+      ],
+      "position": "bottom-center"
+    },
+    {
+      "source": "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_contrast_alcohol_v1\\04_pour_water.png",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_contrast_alcohol_v1\\telop_frames\\04_pour_water_telop.png",
+      "telop": [
+        "造影剤の多くは",
+        "尿から出ていきます"
+      ],
+      "position": "bottom-center"
+    },
+    {
+      "source": "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_contrast_alcohol_v1\\05_choose_water.png",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_contrast_alcohol_v1\\telop_frames\\05_choose_water_telop.png",
+      "telop": [
+        "水分制限がなければ",
+        "水やお茶で水分補給"
+      ],
+      "position": "bottom-center"
+    },
+    {
+      "source": "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_contrast_alcohol_v1\\06_water_not_alcohol.png",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_contrast_alcohol_v1\\telop_frames\\06_water_not_alcohol_telop.png",
+      "telop": [
+        "お酒は",
+        "水分補給の代わりにはなりません"
+      ],
+      "position": "bottom-center"
+    },
+    {
+      "source": "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_contrast_alcohol_v1\\07_check_facility_guidance.png",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_contrast_alcohol_v1\\telop_frames\\07_check_facility_guidance_telop.png",
+      "telop": [
+        "当日の飲酒を控えるよう",
+        "案内する施設もあります"
+      ],
+      "position": "bottom-center"
+    },
+    {
+      "source": "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_contrast_alcohol_v1\\08_follow_individual_guidance.png",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_contrast_alcohol_v1\\telop_frames\\08_follow_individual_guidance_telop.png",
+      "telop": [
+        "腎臓の病気・水分制限がある方は",
+        "個別の説明を優先"
+      ],
+      "position": "bottom-center"
+    },
+    {
+      "source": "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_contrast_alcohol_v1\\09_call_facility.png",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_contrast_alcohol_v1\\telop_frames\\09_call_facility_telop.png",
+      "telop": [
+        "迷ったら",
+        "受けた医療機関へ確認"
+      ],
+      "position": "bottom-center"
+    },
+    {
+      "source": "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_contrast_alcohol_v1\\10_cta_home.png",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_contrast_alcohol_v1\\telop_frames\\10_cta_home_telop.png",
+      "telop": [
+        "帰宅後に見返すなら",
+        "保存・フォロー"
+      ],
+      "position": "bottom-center"
+    }
+  ],
+  "contact_sheet": "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_contrast_alcohol_v1\\telop_frames\\contact_sheet_telop_frames.png"
+}

@@ -1,0 +1,58 @@
+﻿{
+  "title": "胃のバリウム検査のあと、すぐ腹部CTを受けてもいい？",
+  "speaker": "VOICEVOX speaker id 20",
+  "voice_speed": 1.2,
+  "artificial_transition_silence_seconds": 0,
+  "voice_text": [
+    "ばりうむ検査の3日後に、腹部シーティー。このまま受けていいのかな。",
+    "まずは、腹部シーティーの予約先へ、確認しましょう。",
+    "確認が必要な主な理由は、画像への影響です。",
+    "腸にばりうむが残ると、シーティーでは、白く強く映ります。",
+    "すると、その周りが見えにくくなることがあります。",
+    "画像を正確に見るために、確認が必要なんです。",
+    "いっしゅうかんほど、間隔を空ける案内もあります。",
+    "ただし、施設や検査内容によって、対応は異なります。",
+    "予約のときに、ばりうむ検査を受けた日を、伝えましょう。",
+    "腹部シーティーの前に見返せるよう、保存して、ご家族にも共有してください。"
+  ],
+  "display_text": [
+    "バリウム検査の3日後に 腹部CT。このまま受けていい？",
+    "まず、予約先へ確認しましょう",
+    "確認が必要な主な理由は 画像への影響です",
+    "腸に残ったバリウム 白く強く映ります",
+    "その周りが見えにくく なることがあります",
+    "画像を正確に見るための確認です",
+    "1週間ほど空ける案内もあります",
+    "ただし、施設や検査内容で対応は異なります",
+    "「○日にバリウム検査」と予約先へ伝えましょう",
+    "腹部CT前に見返せるよう 保存・共有"
+  ],
+  "frames": [
+    "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\barium_abdominal_ct_v1_images\\telop_frames\\01_hook_appointment_slip_telop.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\barium_abdominal_ct_v1_images\\telop_frames\\02_call_to_confirm_telop.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\barium_abdominal_ct_v1_images\\telop_frames\\03_ct_room_telop.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\barium_abdominal_ct_v1_images\\telop_frames\\04_patient_ct_room_telop.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\barium_abdominal_ct_v1_images\\telop_frames\\05_ct_control_room_telop.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\barium_abdominal_ct_v1_images\\telop_frames\\06_calm_explanation_telop.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\barium_abdominal_ct_v1_images\\telop_frames\\07_calendar_check_telop.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\barium_abdominal_ct_v1_images\\telop_frames\\08_tell_staff_telop.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\barium_abdominal_ct_v1_images\\telop_frames\\09_call_with_date_telop.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\barium_abdominal_ct_v1_images\\telop_frames\\10_save_cta_background_telop.png"
+  ],
+  "durations_seconds": [
+    3.669,
+    3.157,
+    3.072,
+    3.616,
+    2.72,
+    2.976,
+    2.667,
+    3.648,
+    3.157,
+    4.48
+  ],
+  "total_seconds": 33.163,
+  "voice_audio": "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\barium_abdominal_ct_v1_images\\audio\\voice.wav",
+  "asset_video": "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\barium_abdominal_ct_v1_images\\胃のバリウム検査のあと、すぐ腹部CTを受けてもいい？.mp4",
+  "final_video": "F:\\ANRYCAMPANY\\01_ショート動画_リール_YouTubeShorts\\インスタ完成形\\胃のバリウム検査のあと、すぐ腹部CTを受けてもいい？.mp4"
+}

@@ -1,0 +1,58 @@
+﻿{
+  "title": "造影CT前、糖尿病の薬はいつも通りでいい？",
+  "speaker": "VOICEVOX speaker id 20",
+  "voice_speed": 1.2,
+  "transition_silence_seconds": 0.08,
+  "voice_text": [
+    "この糖尿病の薬、今朝も飲んでいいのかな。",
+    "まず、予約時の案内を確認してください。",
+    "分からなくても、自己判断しなくて大丈夫です。",
+    "ぞうえいシーティーでは、一部の糖尿病薬を休むことがあります。",
+    "ただし、薬の種類や体の状態で、対応は変わります。",
+    "案内が分からなければ、検査を受ける医療機関へ確認してください。",
+    "当日は、お薬手帳など、薬の名前が分かるものを持参してください。",
+    "受付で、自分から見せて大丈夫です。",
+    "ぞうえいシーティーの前日に見返せるよう、この投稿を保存してください。",
+    "付き添うご家族にも共有を。次の疑問に備えて、フォローをお願いします。"
+  ],
+  "display_text": [
+    "この糖尿病の薬 今朝も飲んでいい？",
+    "まず 予約時の案内を確認",
+    "自己判断しなくて 大丈夫です",
+    "糖尿病薬の一部は 休むことがあります",
+    "薬の種類や状態で 対応は変わります",
+    "不明なときは 医療機関へ確認",
+    "当日は お薬手帳を持参",
+    "受付で自分から 見せて大丈夫です",
+    "造影CTの前日に 見返せるよう保存",
+    "付き添うご家族にも この安心を共有"
+  ],
+  "frames": [
+    "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_contrast_diabetes_medicine_v1\\telop_frames\\01_hook_morning_medicine_telop.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_contrast_diabetes_medicine_v1\\telop_frames\\02_check_appointment_guidance_telop.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_contrast_diabetes_medicine_v1\\telop_frames\\03_reassured_no_self_decision_telop.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_contrast_diabetes_medicine_v1\\telop_frames\\04_compare_medicine_types_telop.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_contrast_diabetes_medicine_v1\\telop_frames\\05_check_medicine_details_telop.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_contrast_diabetes_medicine_v1\\telop_frames\\06_call_medical_facility_telop.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_contrast_diabetes_medicine_v1\\telop_frames\\07_bring_medication_notebook_telop.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_contrast_diabetes_medicine_v1\\telop_frames\\08_show_medication_notebook_telop.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_contrast_diabetes_medicine_v1\\telop_frames\\09_prepare_night_before_telop.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_contrast_diabetes_medicine_v1\\telop_frames\\10_save_share_on_phone_telop.png"
+  ],
+  "durations_seconds": [
+    2.613,
+    2.496,
+    2.645,
+    3.605,
+    3.584,
+    3.68,
+    4.256,
+    2.304,
+    3.989,
+    4.245
+  ],
+  "total_seconds": 33.419,
+  "voice_audio": "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_contrast_diabetes_medicine_v1\\audio\\voice.wav",
+  "asset_video": "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_contrast_diabetes_medicine_v1\\造影CT前、糖尿病の薬はいつも通りでいい？.mp4",
+  "final_video": "F:\\ANRYCAMPANY\\01_ショート動画_リール_YouTubeShorts\\インスタ完成形\\造影CT前、糖尿病の薬はいつも通りでいい？.mp4"
+}

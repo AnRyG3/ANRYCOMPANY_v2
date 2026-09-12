@@ -1,0 +1,102 @@
+﻿{
+  "title": "胃のバリウム検査のあと、すぐ腹部CTを受けてもいい？",
+  "font": "F:\\ANRYCAMPANY\\reel_assets\\fonts\\M_PLUS_Rounded_1c\\MPLUSRounded1c-Bold.ttf",
+  "style": "X-axis centered; top/center/bottom only; center preferred; white rounded backing; dark navy text; blue key words only",
+  "size": {
+    "width": 1080,
+    "height": 1920
+  },
+  "frames": [
+    {
+      "source": "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\barium_abdominal_ct_v1_images\\01_hook_appointment_slip.png",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\barium_abdominal_ct_v1_images\\telop_frames\\01_hook_appointment_slip_telop.png",
+      "telop": [
+        "バリウム検査の3日後に",
+        "腹部CT。このまま受けていい？"
+      ],
+      "position": "center-center"
+    },
+    {
+      "source": "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\barium_abdominal_ct_v1_images\\02_call_to_confirm.png",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\barium_abdominal_ct_v1_images\\telop_frames\\02_call_to_confirm_telop.png",
+      "telop": [
+        "まず、予約先へ",
+        "確認しましょう"
+      ],
+      "position": "top-center"
+    },
+    {
+      "source": "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\barium_abdominal_ct_v1_images\\03_ct_room.png",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\barium_abdominal_ct_v1_images\\telop_frames\\03_ct_room_telop.png",
+      "telop": [
+        "確認が必要な主な理由は",
+        "画像への影響です"
+      ],
+      "position": "center-center"
+    },
+    {
+      "source": "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\barium_abdominal_ct_v1_images\\04_patient_ct_room.png",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\barium_abdominal_ct_v1_images\\telop_frames\\04_patient_ct_room_telop.png",
+      "telop": [
+        "腸に残ったバリウム",
+        "白く強く映ります"
+      ],
+      "position": "center-center"
+    },
+    {
+      "source": "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\barium_abdominal_ct_v1_images\\05_ct_control_room.png",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\barium_abdominal_ct_v1_images\\telop_frames\\05_ct_control_room_telop.png",
+      "telop": [
+        "その周りが見えにくく",
+        "なることがあります"
+      ],
+      "position": "top-center"
+    },
+    {
+      "source": "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\barium_abdominal_ct_v1_images\\06_calm_explanation.png",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\barium_abdominal_ct_v1_images\\telop_frames\\06_calm_explanation_telop.png",
+      "telop": [
+        "画像を正確に見るための",
+        "確認です"
+      ],
+      "position": "top-center"
+    },
+    {
+      "source": "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\barium_abdominal_ct_v1_images\\07_calendar_check.png",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\barium_abdominal_ct_v1_images\\telop_frames\\07_calendar_check_telop.png",
+      "telop": [
+        "1週間ほど空ける案内も",
+        "あります"
+      ],
+      "position": "top-center"
+    },
+    {
+      "source": "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\barium_abdominal_ct_v1_images\\08_tell_staff.png",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\barium_abdominal_ct_v1_images\\telop_frames\\08_tell_staff_telop.png",
+      "telop": [
+        "ただし、施設や検査内容で",
+        "対応は異なります"
+      ],
+      "position": "top-center"
+    },
+    {
+      "source": "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\barium_abdominal_ct_v1_images\\09_call_with_date.png",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\barium_abdominal_ct_v1_images\\telop_frames\\09_call_with_date_telop.png",
+      "telop": [
+        "「○日にバリウム検査」と",
+        "予約先へ伝えましょう"
+      ],
+      "position": "top-center"
+    },
+    {
+      "source": "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\barium_abdominal_ct_v1_images\\10_save_cta_background.png",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\barium_abdominal_ct_v1_images\\telop_frames\\10_save_cta_background_telop.png",
+      "telop": [
+        "腹部CT前に見返せるよう",
+        "保存・共有"
+      ],
+      "position": "center-center"
+    }
+  ],
+  "contact_sheet": "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\barium_abdominal_ct_v1_images\\telop_frames\\contact_sheet_telop_frames.png"
+}

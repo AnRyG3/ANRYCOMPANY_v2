@@ -1,0 +1,102 @@
+﻿{
+  "title": "造影CT前、糖尿病の薬はいつも通りでいい？",
+  "font": "F:\\ANRYCAMPANY\\reel_assets\\fonts\\M_PLUS_Rounded_1c\\MPLUSRounded1c-Bold.ttf",
+  "style": "X-axis centered; top/center/bottom only; white rounded backing; dark navy text; blue key words only",
+  "size": {
+    "width": 1080,
+    "height": 1920
+  },
+  "frames": [
+    {
+      "source": "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_contrast_diabetes_medicine_v1\\01_hook_morning_medicine.png",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_contrast_diabetes_medicine_v1\\telop_frames\\01_hook_morning_medicine_telop.png",
+      "telop": [
+        "この糖尿病の薬",
+        "今朝も飲んでいい？"
+      ],
+      "position": "top-center"
+    },
+    {
+      "source": "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_contrast_diabetes_medicine_v1\\02_check_appointment_guidance.png",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_contrast_diabetes_medicine_v1\\telop_frames\\02_check_appointment_guidance_telop.png",
+      "telop": [
+        "まず",
+        "予約時の案内を確認"
+      ],
+      "position": "top-center"
+    },
+    {
+      "source": "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_contrast_diabetes_medicine_v1\\03_reassured_no_self_decision.png",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_contrast_diabetes_medicine_v1\\telop_frames\\03_reassured_no_self_decision_telop.png",
+      "telop": [
+        "自己判断しなくて",
+        "大丈夫です"
+      ],
+      "position": "top-center"
+    },
+    {
+      "source": "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_contrast_diabetes_medicine_v1\\04_compare_medicine_types.png",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_contrast_diabetes_medicine_v1\\telop_frames\\04_compare_medicine_types_telop.png",
+      "telop": [
+        "糖尿病薬の一部は",
+        "休むことがあります"
+      ],
+      "position": "top-center"
+    },
+    {
+      "source": "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_contrast_diabetes_medicine_v1\\05_check_medicine_details.png",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_contrast_diabetes_medicine_v1\\telop_frames\\05_check_medicine_details_telop.png",
+      "telop": [
+        "薬の種類や状態で",
+        "対応は変わります"
+      ],
+      "position": "top-center"
+    },
+    {
+      "source": "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_contrast_diabetes_medicine_v1\\06_call_medical_facility.png",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_contrast_diabetes_medicine_v1\\telop_frames\\06_call_medical_facility_telop.png",
+      "telop": [
+        "不明なときは",
+        "医療機関へ確認"
+      ],
+      "position": "top-center"
+    },
+    {
+      "source": "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_contrast_diabetes_medicine_v1\\07_bring_medication_notebook.png",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_contrast_diabetes_medicine_v1\\telop_frames\\07_bring_medication_notebook_telop.png",
+      "telop": [
+        "当日は",
+        "お薬手帳を持参"
+      ],
+      "position": "bottom-center"
+    },
+    {
+      "source": "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_contrast_diabetes_medicine_v1\\08_show_medication_notebook.png",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_contrast_diabetes_medicine_v1\\telop_frames\\08_show_medication_notebook_telop.png",
+      "telop": [
+        "受付で自分から",
+        "見せて大丈夫です"
+      ],
+      "position": "bottom-center"
+    },
+    {
+      "source": "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_contrast_diabetes_medicine_v1\\09_prepare_night_before.png",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_contrast_diabetes_medicine_v1\\telop_frames\\09_prepare_night_before_telop.png",
+      "telop": [
+        "造影CTの前日に",
+        "見返せるよう保存"
+      ],
+      "position": "bottom-center"
+    },
+    {
+      "source": "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_contrast_diabetes_medicine_v1\\10_save_share_on_phone.png",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_contrast_diabetes_medicine_v1\\telop_frames\\10_save_share_on_phone_telop.png",
+      "telop": [
+        "付き添うご家族にも",
+        "この安心を共有"
+      ],
+      "position": "bottom-center"
+    }
+  ],
+  "contact_sheet": "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_contrast_diabetes_medicine_v1\\telop_frames\\contact_sheet_telop_frames.png"
+}

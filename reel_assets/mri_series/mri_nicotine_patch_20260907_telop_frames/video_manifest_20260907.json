@@ -1,0 +1,114 @@
+﻿{
+  "title": "MRI前、禁煙パッチを貼っていたら",
+  "voice_engine": "VOICEVOX",
+  "speaker": "VOICEVOX speaker id 20",
+  "voice_speed": 1.2,
+  "bgm": "F:\\ANRYCAMPANY\\01_ショート動画_リール_YouTubeShorts\\インスタリール用\\BGM フリー素材\\Kind_Heart.mp3",
+  "bgm_volume": "-26dB",
+  "frames": [
+    "F:\\ANRYCAMPANY\\reel_assets\\mri_series\\mri_nicotine_patch_20260907_telop_frames\\telop_01_hook_patient_patch_mri.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\mri_series\\mri_nicotine_patch_20260907_telop_frames\\telop_02_reception_disclose_patch.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\mri_series\\mri_nicotine_patch_20260907_telop_frames\\telop_03_patch_before_mri.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\mri_series\\mri_nicotine_patch_20260907_telop_frames\\telop_04_patch_mri_attention.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\mri_series\\mri_nicotine_patch_20260907_telop_frames\\telop_05_confirm_timing_with_staff.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\mri_series\\mri_nicotine_patch_20260907_telop_frames\\telop_06_reassured_after_explanation.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\mri_series\\mri_nicotine_patch_20260907_telop_frames\\telop_07_save_and_share_cta.png"
+  ],
+  "display_narration": [
+    "禁煙パッチをしたまま、MRIを受けていいのかな？",
+    "受付で、先に伝えてください。",
+    "ニコチンパッチは、MRIの前に外す必要があります。",
+    "MRIの影響で貼った部分が熱くなり、やけどのおそれがあるためです。",
+    "自分で判断せず、外すタイミングをスタッフに確認しましょう。",
+    "先に伝えれば対応してもらえるので、大丈夫です。",
+    "MRIの予約票と一緒に見返せるよう保存。禁煙中のご家族にはLINEで共有してくださいね。"
+  ],
+  "voice_text": [
+    "禁煙パッチをしたまま、エムアールアイを受けていいのかな。",
+    "受付で、先に伝えてください。",
+    "ニコチンパッチは、エムアールアイの前に外す必要があります。",
+    "エムアールアイの影響で、貼った部分が熱くなり、やけどのおそれがあるためです。",
+    "自分で判断せず、外すタイミングをスタッフに確認しましょう。",
+    "先に伝えれば、対応してもらえるので、大丈夫です。",
+    "エムアールアイの予約票と一緒に見返せるよう保存。禁煙中のご家族には、ラインで共有してくださいね。"
+  ],
+  "raw_voice_seconds": [
+    3.061,
+    2.133,
+    3.541,
+    4.608,
+    3.733,
+    3.488,
+    6.432
+  ],
+  "durations_seconds": [
+    3.101,
+    2.173,
+    3.581,
+    4.648,
+    3.773,
+    3.528,
+    6.472
+  ],
+  "tail_padding_seconds_each": 0.04,
+  "max_added_gap_seconds": 0.04,
+  "total_timeline_seconds": 27.277,
+  "voice_audio_seconds": 27.276,
+  "video_seconds": 27.28,
+  "voice_audio": "F:\\ANRYCAMPANY\\reel_assets\\mri_series\\mri_nicotine_patch_20260907_telop_frames\\audio\\voice.wav",
+  "voice_bgm_mix": "F:\\ANRYCAMPANY\\reel_assets\\mri_series\\mri_nicotine_patch_20260907_telop_frames\\audio\\voice_bgm_mix.wav",
+  "asset_video": "F:\\ANRYCAMPANY\\reel_assets\\mri_series\\mri_nicotine_patch_20260907_telop_frames\\video\\MRI前_禁煙パッチを貼っていたら_20260907.mp4",
+  "final_video": "F:\\ANRYCAMPANY\\01_ショート動画_リール_YouTubeShorts\\インスタ完成形\\MRI前_禁煙パッチを貼っていたら_20260907.mp4",
+  "qa_contact_sheet": "F:\\ANRYCAMPANY\\reel_assets\\mri_series\\mri_nicotine_patch_20260907_telop_frames\\qa_midframes\\qa_midframes_contact_sheet.jpg",
+  "alignment_check": [
+    {
+      "index": 1,
+      "frame": "telop_01_hook_patient_patch_mri.png",
+      "display_narration": "禁煙パッチをしたまま、MRIを受けていいのかな？",
+      "voice_text": "禁煙パッチをしたまま、エムアールアイを受けていいのかな。",
+      "duration_seconds": 3.101
+    },
+    {
+      "index": 2,
+      "frame": "telop_02_reception_disclose_patch.png",
+      "display_narration": "受付で、先に伝えてください。",
+      "voice_text": "受付で、先に伝えてください。",
+      "duration_seconds": 2.173
+    },
+    {
+      "index": 3,
+      "frame": "telop_03_patch_before_mri.png",
+      "display_narration": "ニコチンパッチは、MRIの前に外す必要があります。",
+      "voice_text": "ニコチンパッチは、エムアールアイの前に外す必要があります。",
+      "duration_seconds": 3.581
+    },
+    {
+      "index": 4,
+      "frame": "telop_04_patch_mri_attention.png",
+      "display_narration": "MRIの影響で貼った部分が熱くなり、やけどのおそれがあるためです。",
+      "voice_text": "エムアールアイの影響で、貼った部分が熱くなり、やけどのおそれがあるためです。",
+      "duration_seconds": 4.648
+    },
+    {
+      "index": 5,
+      "frame": "telop_05_confirm_timing_with_staff.png",
+      "display_narration": "自分で判断せず、外すタイミングをスタッフに確認しましょう。",
+      "voice_text": "自分で判断せず、外すタイミングをスタッフに確認しましょう。",
+      "duration_seconds": 3.773
+    },
+    {
+      "index": 6,
+      "frame": "telop_06_reassured_after_explanation.png",
+      "display_narration": "先に伝えれば対応してもらえるので、大丈夫です。",
+      "voice_text": "先に伝えれば、対応してもらえるので、大丈夫です。",
+      "duration_seconds": 3.528
+    },
+    {
+      "index": 7,
+      "frame": "telop_07_save_and_share_cta.png",
+      "display_narration": "MRIの予約票と一緒に見返せるよう保存。禁煙中のご家族にはLINEで共有してくださいね。",
+      "voice_text": "エムアールアイの予約票と一緒に見返せるよう保存。禁煙中のご家族には、ラインで共有してくださいね。",
+      "duration_seconds": 6.472
+    }
+  ]
+}

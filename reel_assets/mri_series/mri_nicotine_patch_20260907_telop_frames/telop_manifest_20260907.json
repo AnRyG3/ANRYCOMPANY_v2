@@ -1,0 +1,189 @@
+﻿[
+  {
+    "index": 1,
+    "source": "reel_assets\\mri_series\\mri_nicotine_patch_20260907_images\\frame_01_hook_patient_patch_mri.png",
+    "output": "reel_assets\\mri_series\\mri_nicotine_patch_20260907_telop_frames\\telop_01_hook_patient_patch_mri.png",
+    "telop": [
+      [
+        "禁煙パッチ"
+      ],
+      [
+        "MRI",
+        "前どうする？"
+      ]
+    ],
+    "highlights": [
+      "MRI",
+      "禁煙パッチ"
+    ],
+    "position": "bottom",
+    "box": [
+      225,
+      1270,
+      854,
+      1488
+    ],
+    "font": "F:\\ANRYCAMPANY\\reel_assets\\fonts\\M_PLUS_Rounded_1c\\MPLUSRounded1c-Bold.ttf"
+  },
+  {
+    "index": 2,
+    "source": "reel_assets\\mri_series\\mri_nicotine_patch_20260907_images\\frame_02_reception_disclose_patch.png",
+    "output": "reel_assets\\mri_series\\mri_nicotine_patch_20260907_telop_frames\\telop_02_reception_disclose_patch.png",
+    "telop": [
+      [
+        "受付",
+        "で"
+      ],
+      [
+        "先に",
+        "伝えてください"
+      ]
+    ],
+    "highlights": [
+      "先に",
+      "受付"
+    ],
+    "position": "bottom",
+    "box": [
+      186,
+      1270,
+      893,
+      1488
+    ],
+    "font": "F:\\ANRYCAMPANY\\reel_assets\\fonts\\M_PLUS_Rounded_1c\\MPLUSRounded1c-Bold.ttf"
+  },
+  {
+    "index": 3,
+    "source": "reel_assets\\mri_series\\mri_nicotine_patch_20260907_images\\frame_03_patch_before_mri.png",
+    "output": "reel_assets\\mri_series\\mri_nicotine_patch_20260907_telop_frames\\telop_03_patch_before_mri.png",
+    "telop": [
+      [
+        "MRI",
+        "の前に"
+      ],
+      [
+        "外す",
+        "必要があります"
+      ]
+    ],
+    "highlights": [
+      "MRI",
+      "外す"
+    ],
+    "position": "bottom",
+    "box": [
+      186,
+      1270,
+      893,
+      1488
+    ],
+    "font": "F:\\ANRYCAMPANY\\reel_assets\\fonts\\M_PLUS_Rounded_1c\\MPLUSRounded1c-Bold.ttf"
+  },
+  {
+    "index": 4,
+    "source": "reel_assets\\mri_series\\mri_nicotine_patch_20260907_images\\frame_04_patch_mri_attention.png",
+    "output": "reel_assets\\mri_series\\mri_nicotine_patch_20260907_telop_frames\\telop_04_patch_mri_attention.png",
+    "telop": [
+      [
+        "貼った部分が"
+      ],
+      [
+        "熱く",
+        "なることも"
+      ]
+    ],
+    "highlights": [
+      "熱く"
+    ],
+    "position": "bottom",
+    "box": [
+      252,
+      1270,
+      827,
+      1488
+    ],
+    "font": "F:\\ANRYCAMPANY\\reel_assets\\fonts\\M_PLUS_Rounded_1c\\MPLUSRounded1c-Bold.ttf"
+  },
+  {
+    "index": 5,
+    "source": "reel_assets\\mri_series\\mri_nicotine_patch_20260907_images\\frame_05_confirm_timing_with_staff.png",
+    "output": "reel_assets\\mri_series\\mri_nicotine_patch_20260907_telop_frames\\telop_05_confirm_timing_with_staff.png",
+    "telop": [
+      [
+        "外す",
+        "タイミング",
+        "は"
+      ],
+      [
+        "スタッフに",
+        "確認"
+      ]
+    ],
+    "highlights": [
+      "タイミング",
+      "確認"
+    ],
+    "position": "bottom",
+    "box": [
+      217,
+      1270,
+      863,
+      1488
+    ],
+    "font": "F:\\ANRYCAMPANY\\reel_assets\\fonts\\M_PLUS_Rounded_1c\\MPLUSRounded1c-Bold.ttf"
+  },
+  {
+    "index": 6,
+    "source": "reel_assets\\mri_series\\mri_nicotine_patch_20260907_images\\frame_06_reassured_after_explanation.png",
+    "output": "reel_assets\\mri_series\\mri_nicotine_patch_20260907_telop_frames\\telop_06_reassured_after_explanation.png",
+    "telop": [
+      [
+        "先に",
+        "伝えれば"
+      ],
+      [
+        "対応",
+        "してもらえます"
+      ]
+    ],
+    "highlights": [
+      "先に",
+      "対応"
+    ],
+    "position": "bottom",
+    "box": [
+      186,
+      1270,
+      893,
+      1488
+    ],
+    "font": "F:\\ANRYCAMPANY\\reel_assets\\fonts\\M_PLUS_Rounded_1c\\MPLUSRounded1c-Bold.ttf"
+  },
+  {
+    "index": 7,
+    "source": "reel_assets\\mri_series\\mri_nicotine_patch_20260907_images\\frame_07_save_and_share_cta.png",
+    "output": "reel_assets\\mri_series\\mri_nicotine_patch_20260907_telop_frames\\telop_07_save_and_share_cta.png",
+    "telop": [
+      [
+        "予約票と一緒に"
+      ],
+      [
+        "保存",
+        "・",
+        "共有"
+      ]
+    ],
+    "highlights": [
+      "保存",
+      "共有"
+    ],
+    "position": "center",
+    "box": [
+      255,
+      851,
+      825,
+      1069
+    ],
+    "font": "F:\\ANRYCAMPANY\\reel_assets\\fonts\\M_PLUS_Rounded_1c\\MPLUSRounded1c-Bold.ttf"
+  }
+]
