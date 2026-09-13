@@ -1,0 +1,102 @@
+﻿{
+  "title": "造影CTのあと、授乳はどうすればいい？",
+  "font": "F:\\ANRYCAMPANY\\reel_assets\\fonts\\M_PLUS_Rounded_1c\\MPLUSRounded1c-Bold.ttf",
+  "style": "X-axis centered; top/center/bottom only; white rounded rectangle 92% opacity; dark navy text; blue key words only",
+  "size": {
+    "width": 1080,
+    "height": 1920
+  },
+  "frames": [
+    {
+      "source": "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_contrast_breastfeeding_v1_images\\01_hook_baby_carrier.png",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_contrast_breastfeeding_v1_telop_frames\\01_hook_baby_carrier_telop.png",
+      "telop": [
+        "造影CTのあと",
+        "授乳して大丈夫？"
+      ],
+      "position": "center-center"
+    },
+    {
+      "source": "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_contrast_breastfeeding_v1_images\\02_question_baby_carrier.png",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_contrast_breastfeeding_v1_telop_frames\\02_question_baby_carrier_telop.png",
+      "telop": [
+        "赤ちゃんのことだから",
+        "気になりますよね"
+      ],
+      "position": "center-center"
+    },
+    {
+      "source": "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_contrast_breastfeeding_v1_images\\03_ask_before_leaving.png",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_contrast_breastfeeding_v1_telop_frames\\03_ask_before_leaving_telop.png",
+      "telop": [
+        "迷ったら",
+        "帰る前に確認"
+      ],
+      "position": "center-center"
+    },
+    {
+      "source": "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_contrast_breastfeeding_v1_images\\04_empathy_after_exam.png",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_contrast_breastfeeding_v1_telop_frames\\04_empathy_after_exam_telop.png",
+      "telop": [
+        "慎重になるのは",
+        "自然なことです"
+      ],
+      "position": "center-center"
+    },
+    {
+      "source": "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_contrast_breastfeeding_v1_images\\05_reassuring_explanation.png",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_contrast_breastfeeding_v1_telop_frames\\05_reassuring_explanation_telop.png",
+      "telop": [
+        "多くの場合",
+        "授乳を続けられます"
+      ],
+      "position": "center-center"
+    },
+    {
+      "source": "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_contrast_breastfeeding_v1_images\\06_calm_ct_room.png",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_contrast_breastfeeding_v1_telop_frames\\06_calm_ct_room_telop.png",
+      "telop": [
+        "赤ちゃんに届く量は",
+        "ごくわずかです"
+      ],
+      "position": "center-center"
+    },
+    {
+      "source": "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_contrast_breastfeeding_v1_images\\07_ask_staff.png",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_contrast_breastfeeding_v1_telop_frames\\07_ask_staff_telop.png",
+      "telop": [
+        "個別の状況は",
+        "担当スタッフに確認"
+      ],
+      "position": "center-center"
+    },
+    {
+      "source": "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_contrast_breastfeeding_v1_images\\08_leave_reassured.png",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_contrast_breastfeeding_v1_telop_frames\\08_leave_reassured_telop.png",
+      "telop": [
+        "自分で時間を",
+        "決めなくて大丈夫"
+      ],
+      "position": "center-center"
+    },
+    {
+      "source": "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_contrast_breastfeeding_v1_images\\09_save_cta.png",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_contrast_breastfeeding_v1_telop_frames\\09_save_cta_telop.png",
+      "telop": [
+        "検査日に見返せるよう",
+        "保存"
+      ],
+      "position": "center-center"
+    },
+    {
+      "source": "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_contrast_breastfeeding_v1_images\\10_follow_cta.png",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_contrast_breastfeeding_v1_telop_frames\\10_follow_cta_telop.png",
+      "telop": [
+        "次の検査に備えて",
+        "フォロー"
+      ],
+      "position": "center-center"
+    }
+  ],
+  "contact_sheet": "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_contrast_breastfeeding_v1_telop_frames\\contact_sheet_telop_frames.png"
+}

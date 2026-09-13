@@ -1,0 +1,58 @@
+﻿{
+  "title": "造影CTのあと、授乳はどうすればいい？",
+  "speaker": "VOICEVOX speaker id 20",
+  "voice_speed": 1.2,
+  "transition_silence_seconds": 0.0,
+  "voice_text": [
+    "ぞうえいシーティーのあと、じゅにゅうして大丈夫かな。",
+    "赤ちゃんのことだから、気になりますよね。",
+    "迷ったら、帰る前に担当スタッフへ確認を。",
+    "慎重になるのは、自然なことです。",
+    "特別な理由がなければ、じゅにゅうは続けられるとされています。",
+    "赤ちゃんの体に取り込まれる量は、ごくわずかです。",
+    "個別の状況では、対応が変わることもあります。",
+    "自分で時間を決めなくて大丈夫です。",
+    "検査日に見返せるよう、保存してください。",
+    "次の検査に備えて、フォローしてください。"
+  ],
+  "display_text": [
+    "造影CTのあと / 授乳して大丈夫？",
+    "赤ちゃんのことだから / 気になりますよね",
+    "迷ったら / 帰る前に確認",
+    "慎重になるのは / 自然なことです",
+    "多くの場合 / 授乳を続けられます",
+    "赤ちゃんに届く量は / ごくわずかです",
+    "個別の状況は / 担当スタッフに確認",
+    "自分で時間を / 決めなくて大丈夫",
+    "検査日に見返せるよう / 保存",
+    "次の検査に備えて / フォロー"
+  ],
+  "frames": [
+    "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_contrast_breastfeeding_v1_telop_frames\\01_hook_baby_carrier_telop.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_contrast_breastfeeding_v1_telop_frames\\02_question_baby_carrier_telop.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_contrast_breastfeeding_v1_telop_frames\\03_ask_before_leaving_telop.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_contrast_breastfeeding_v1_telop_frames\\04_empathy_after_exam_telop.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_contrast_breastfeeding_v1_telop_frames\\05_reassuring_explanation_telop.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_contrast_breastfeeding_v1_telop_frames\\06_calm_ct_room_telop.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_contrast_breastfeeding_v1_telop_frames\\07_ask_staff_telop.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_contrast_breastfeeding_v1_telop_frames\\08_leave_reassured_telop.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_contrast_breastfeeding_v1_telop_frames\\09_save_cta_telop.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_contrast_breastfeeding_v1_telop_frames\\10_follow_cta_telop.png"
+  ],
+  "durations_seconds": [
+    2.528,
+    2.176,
+    2.827,
+    2.144,
+    3.275,
+    2.795,
+    2.699,
+    2.08,
+    2.475,
+    2.347
+  ],
+  "total_seconds": 25.344,
+  "voice_audio": "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_contrast_breastfeeding_v1_audio\\voice.wav",
+  "asset_video": "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\造影CTのあと、授乳はどうすればいい？.mp4",
+  "final_video": "F:\\ANRYCAMPANY\\01_ショート動画_リール_YouTubeShorts\\インスタ完成形\\造影CTのあと、授乳はどうすればいい？.mp4"
+}
