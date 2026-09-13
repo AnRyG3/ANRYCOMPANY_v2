@@ -1,0 +1,39 @@
+﻿{
+  "title": "造影検査後に帰宅してから気分が悪いとき",
+  "speaker": "VOICEVOX speaker id 20",
+  "voice_speed": 1.2,
+  "frames": [
+    "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_contrast_aftercare_phone_v1_samples\\telop_frames\\s01_home_question_telop.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_contrast_aftercare_phone_v1_samples\\telop_frames\\s02_mild_fatigue_telop.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_contrast_aftercare_phone_v1_samples\\telop_frames\\s03_call_facility_telop.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_contrast_aftercare_phone_v1_samples\\telop_frames\\s04_time_passes_telop.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_contrast_aftercare_phone_v1_samples\\telop_frames\\s05_emergency_119_telop.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_contrast_aftercare_phone_v1_samples\\telop_frames\\s06_consultation_telop.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_contrast_aftercare_phone_v1_samples\\telop_frames\\s07_contact_info_telop.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_contrast_aftercare_phone_v1_samples\\telop_frames\\s08_save_share_telop.png"
+  ],
+  "voice_text": [
+    "造影検査のあと、家で気分が悪い。電話していいのかな、と迷いますよね。",
+    "帰宅後、なんとなくだるく感じることもあります。",
+    "気になる変化は、検査を受けた施設へ連絡して大丈夫です。",
+    "時間が経ってから、症状が出ることもあります。",
+    "呼吸が苦しい。意識がもうろうとする。急で強い症状は、ためらわず百十九番へ。",
+    "迷う内容でも、遠慮せず相談してください。",
+    "説明書と連絡先を、帰宅後もすぐ見られる場所に置いておくと安心です。",
+    "帰宅後に見返せるよう保存。ご家族にも共有してください。"
+  ],
+  "durations_seconds": [
+    5.056,
+    2.741,
+    3.605,
+    2.667,
+    5.728,
+    2.848,
+    4.363,
+    3.755
+  ],
+  "total_seconds": 30.763,
+  "voice_audio": "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_contrast_aftercare_phone_v1_samples\\audio\\voice.wav",
+  "asset_video": "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_contrast_aftercare_phone_v1_samples\\video\\造影検査後に帰宅してから気分が悪いとき.mp4",
+  "notes": "各フレームは対応する音声の実測時間のみ表示。追加の無音パディングなし。"
+}
