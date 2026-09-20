@@ -10,7 +10,7 @@ Use this file only before image text insertion, final text-frame generation, or 
 
 ## Text Backing
 
-- Use a white rounded rectangle backing at 85%-95% opacity.
+- Use a white rounded rectangle backing at 60% opacity.
 - Use dark navy text for telops.
 - Avoid pale blue, thin gray, or low-contrast text.
 
