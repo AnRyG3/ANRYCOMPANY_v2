@@ -1,0 +1,43 @@
+﻿{
+  "title": "造影CTの注射、利き腕でも大丈夫？",
+  "speaker": "VOICEVOX speaker id 20",
+  "voice_speed": 1.2,
+  "transition_silence_seconds": 0.0,
+  "voice_text": [
+    "ききうでに、注射しても、大丈夫かな。",
+    "気になるときは、注射の前に、反対の腕はできますか、と伝えて大丈夫です。",
+    "ぞうえいシーティーでは、検査に必要な速さで、ぞうえい剤を注入します。",
+    "そのため、けっかんの状態や、検査内容を確認して、注射する腕を決めます。",
+    "ききうでだから、必ず避けるわけではありません。",
+    "きぼうを伝えることは、わがままではありません。",
+    "けっかんの状態などによっては、きぼうにそえないこともあります。理由をスタッフに確認して大丈夫です。",
+    "理由がわかると、安心して検査に進めます。",
+    "検査前日に見返せるよう、保存しておいてください。次の投稿も、フォローしてご覧ください。"
+  ],
+  "frames": [
+    "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_contrast_dominant_arm_v1_telop_frames\\scene_01_hook_patient_thought_telop.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_contrast_dominant_arm_v1_telop_frames\\scene_02_action_tell_nurse_telop.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_contrast_dominant_arm_v1_telop_frames\\scene_03_ct_preparation_telop.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_contrast_dominant_arm_v1_telop_frames\\scene_04_check_arm_telop.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_contrast_dominant_arm_v1_telop_frames\\scene_05_reassured_patient_telop.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_contrast_dominant_arm_v1_telop_frames\\scene_06_share_preference_telop.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_contrast_dominant_arm_v1_telop_frames\\scene_07_staff_explains_telop.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_contrast_dominant_arm_v1_telop_frames\\scene_08_ready_for_ct_telop.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_contrast_dominant_arm_v1_telop_frames\\scene_09_save_cta_home_telop.png"
+  ],
+  "durations_seconds": [
+    2.304,
+    4.608,
+    4.107,
+    4.544,
+    2.613,
+    2.496,
+    5.643,
+    2.72,
+    5.429
+  ],
+  "total_seconds": 34.464,
+  "voice_audio": "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_contrast_dominant_arm_v1_audio\\voice.wav",
+  "asset_video": "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\造影CTの注射、利き腕でも大丈夫？.mp4",
+  "final_video": "F:\\ANRYCAMPANY\\01_ショート動画_リール_YouTubeShorts\\インスタ完成形\\造影CTの注射、利き腕でも大丈夫？.mp4"
+}

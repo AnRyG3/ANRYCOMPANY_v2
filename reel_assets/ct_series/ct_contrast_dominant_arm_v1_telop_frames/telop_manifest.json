@@ -1,0 +1,88 @@
+﻿{
+  "title": "造影CTの注射、利き腕でも大丈夫？",
+  "font": "F:\\ANRYCAMPANY\\reel_assets\\fonts\\M_PLUS_Rounded_1c\\MPLUSRounded1c-Bold.ttf",
+  "style": "60% white rounded backing, navy text, keyword-only blue emphasis, centered x-axis",
+  "frames": [
+    {
+      "source": "scene_01_hook_patient_thought.png",
+      "output": "scene_01_hook_patient_thought_telop.png",
+      "position": "top",
+      "telop": [
+        "利き腕に",
+        "注射しても大丈夫？"
+      ]
+    },
+    {
+      "source": "scene_02_action_tell_nurse.png",
+      "output": "scene_02_action_tell_nurse_telop.png",
+      "position": "top",
+      "telop": [
+        "「反対の腕はできますか？」",
+        "注射前に伝えて大丈夫です"
+      ]
+    },
+    {
+      "source": "scene_03_ct_preparation.png",
+      "output": "scene_03_ct_preparation_telop.png",
+      "position": "center",
+      "telop": [
+        "腕は血管の状態などを見て",
+        "決めます"
+      ]
+    },
+    {
+      "source": "scene_04_check_arm.png",
+      "output": "scene_04_check_arm_telop.png",
+      "position": "top",
+      "telop": [
+        "血管の状態や検査内容を",
+        "確認します"
+      ]
+    },
+    {
+      "source": "scene_05_reassured_patient.png",
+      "output": "scene_05_reassured_patient_telop.png",
+      "position": "top",
+      "telop": [
+        "利き腕だから",
+        "必ず避けるわけではありません"
+      ]
+    },
+    {
+      "source": "scene_06_share_preference.png",
+      "output": "scene_06_share_preference_telop.png",
+      "position": "center",
+      "telop": [
+        "希望を伝えることは",
+        "わがままではありません"
+      ]
+    },
+    {
+      "source": "scene_07_staff_explains.png",
+      "output": "scene_07_staff_explains_telop.png",
+      "position": "center",
+      "telop": [
+        "希望に沿えないときも",
+        "理由を聞いて大丈夫です"
+      ]
+    },
+    {
+      "source": "scene_08_ready_for_ct.png",
+      "output": "scene_08_ready_for_ct_telop.png",
+      "position": "center",
+      "telop": [
+        "理由がわかると",
+        "安心して進めます"
+      ]
+    },
+    {
+      "source": "scene_09_save_cta_home.png",
+      "output": "scene_09_save_cta_home_telop.png",
+      "position": "top",
+      "telop": [
+        "検査前日に見返せるよう",
+        "保存しておいてください"
+      ]
+    }
+  ]
+}
