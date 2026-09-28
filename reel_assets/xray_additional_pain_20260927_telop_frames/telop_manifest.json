@@ -1,0 +1,206 @@
+﻿[
+  {
+    "index": 1,
+    "source": "reel_assets\\xray_additional_pain_20260927_images\\01_hook_another_pain.png",
+    "output": "reel_assets\\xray_additional_pain_20260927_telop_frames\\telop_01_hook_another_pain.png",
+    "telop": [
+      [
+        "ここも痛い…"
+      ],
+      [
+        "ついでに",
+        "撮ってもらえる？"
+      ]
+    ],
+    "highlights": [
+      "ついでに"
+    ],
+    "position": "center",
+    "font": "F:\\ANRYCAMPANY\\reel_assets\\fonts\\M_PLUS_Rounded_1c\\MPLUSRounded1c-Bold.ttf",
+    "panel_opacity": "70%"
+  },
+  {
+    "index": 2,
+    "source": "reel_assets\\xray_additional_pain_20260927_images\\02_consult_doctor_next.png",
+    "output": "reel_assets\\xray_additional_pain_20260927_telop_frames\\telop_02_consult_doctor_next.png",
+    "telop": [
+      [
+        "別の痛い場所は"
+      ],
+      [
+        "診察で",
+        "医師",
+        "に伝えてください"
+      ]
+    ],
+    "highlights": [
+      "医師"
+    ],
+    "position": "center",
+    "font": "F:\\ANRYCAMPANY\\reel_assets\\fonts\\M_PLUS_Rounded_1c\\MPLUSRounded1c-Bold.ttf",
+    "panel_opacity": "70%"
+  },
+  {
+    "index": 3,
+    "source": "reel_assets\\xray_additional_pain_20260927_images\\03_natural_question.png",
+    "output": "reel_assets\\xray_additional_pain_20260927_telop_frames\\telop_03_natural_question.png",
+    "telop": [
+      [
+        "「ついでに」と思う気持ち"
+      ],
+      [
+        "自然です"
+      ]
+    ],
+    "highlights": [
+      "自然です"
+    ],
+    "position": "top",
+    "font": "F:\\ANRYCAMPANY\\reel_assets\\fonts\\M_PLUS_Rounded_1c\\MPLUSRounded1c-Bold.ttf",
+    "panel_opacity": "70%"
+  },
+  {
+    "index": 4,
+    "source": "reel_assets\\xray_additional_pain_20260927_images\\04_ordered_area_confirmed.png",
+    "output": "reel_assets\\xray_additional_pain_20260927_telop_frames\\telop_04_ordered_area_confirmed.png",
+    "telop": [
+      [
+        "レントゲンは"
+      ],
+      [
+        "医師から",
+        "指示された部位",
+        "を撮影"
+      ]
+    ],
+    "highlights": [
+      "指示された部位"
+    ],
+    "position": "center",
+    "font": "F:\\ANRYCAMPANY\\reel_assets\\fonts\\M_PLUS_Rounded_1c\\MPLUSRounded1c-Bold.ttf",
+    "panel_opacity": "70%"
+  },
+  {
+    "index": 5,
+    "source": "reel_assets\\xray_additional_pain_20260927_images\\05_technologist_checks_order.png",
+    "output": "reel_assets\\xray_additional_pain_20260927_telop_frames\\telop_05_technologist_checks_order.png",
+    "telop": [
+      [
+        "撮影する部位は"
+      ],
+      [
+        "事前の",
+        "指示",
+        "で決まっています"
+      ]
+    ],
+    "highlights": [
+      "指示"
+    ],
+    "position": "top",
+    "font": "F:\\ANRYCAMPANY\\reel_assets\\fonts\\M_PLUS_Rounded_1c\\MPLUSRounded1c-Bold.ttf",
+    "panel_opacity": "70%"
+  },
+  {
+    "index": 6,
+    "source": "reel_assets\\xray_additional_pain_20260927_images\\06_doctor_considers_need.png",
+    "output": "reel_assets\\xray_additional_pain_20260927_telop_frames\\telop_06_doctor_considers_need.png",
+    "telop": [
+      [
+        "追加が必要かは"
+      ],
+      [
+        "医師",
+        "が判断します"
+      ]
+    ],
+    "highlights": [
+      "医師"
+    ],
+    "position": "top",
+    "font": "F:\\ANRYCAMPANY\\reel_assets\\fonts\\M_PLUS_Rounded_1c\\MPLUSRounded1c-Bold.ttf",
+    "panel_opacity": "70%"
+  },
+  {
+    "index": 7,
+    "source": "reel_assets\\xray_additional_pain_20260927_images\\07_process_reassurance.png",
+    "output": "reel_assets\\xray_additional_pain_20260927_telop_frames\\telop_07_process_reassurance.png",
+    "telop": [
+      [
+        "少し手間に感じても"
+      ],
+      [
+        "必要性を確認する",
+        "大切な手順",
+        "です"
+      ]
+    ],
+    "highlights": [
+      "大切な手順"
+    ],
+    "position": "center",
+    "font": "F:\\ANRYCAMPANY\\reel_assets\\fonts\\M_PLUS_Rounded_1c\\MPLUSRounded1c-Bold.ttf",
+    "panel_opacity": "70%"
+  },
+  {
+    "index": 8,
+    "source": "reel_assets\\xray_additional_pain_20260927_images\\08_tell_doctor_symptoms.png",
+    "output": "reel_assets\\xray_additional_pain_20260927_telop_frames\\telop_08_tell_doctor_symptoms.png",
+    "telop": [
+      [
+        "「",
+        "ここも痛い",
+        "」と"
+      ],
+      [
+        "伝えてください"
+      ]
+    ],
+    "highlights": [
+      "ここも痛い"
+    ],
+    "position": "top",
+    "font": "F:\\ANRYCAMPANY\\reel_assets\\fonts\\M_PLUS_Rounded_1c\\MPLUSRounded1c-Bold.ttf",
+    "panel_opacity": "70%"
+  },
+  {
+    "index": 9,
+    "source": "reel_assets\\xray_additional_pain_20260927_images\\09_save_before_consultation.png",
+    "output": "reel_assets\\xray_additional_pain_20260927_telop_frames\\telop_09_save_before_consultation.png",
+    "telop": [
+      [
+        "診察前に見返せるよう"
+      ],
+      [
+        "この投稿を",
+        "保存"
+      ]
+    ],
+    "highlights": [
+      "保存"
+    ],
+    "position": "top",
+    "font": "F:\\ANRYCAMPANY\\reel_assets\\fonts\\M_PLUS_Rounded_1c\\MPLUSRounded1c-Bold.ttf",
+    "panel_opacity": "70%"
+  },
+  {
+    "index": 10,
+    "source": "reel_assets\\xray_additional_pain_20260927_images\\10_follow_cta_technologist.png",
+    "output": "reel_assets\\xray_additional_pain_20260927_telop_frames\\telop_10_follow_cta_technologist.png",
+    "telop": [
+      [
+        "役に立ったら"
+      ],
+      [
+        "フォロー",
+        "もお願いします"
+      ]
+    ],
+    "highlights": [
+      "フォロー"
+    ],
+    "position": "center",
+    "font": "F:\\ANRYCAMPANY\\reel_assets\\fonts\\M_PLUS_Rounded_1c\\MPLUSRounded1c-Bold.ttf",
+    "panel_opacity": "70%"
+  }
+]

@@ -153,7 +153,7 @@ Character IDノート全文は、画像生成直前か不明点がある時だ�
 
 ```text
 完成動画の投稿タイトル、説明文、ハッシュタグ、公開予約情報をObsidian vault に登録してください。
-公開予約: 2026/09/29 19:00
+公開予約: 2026/10/05 19:00
 URL:
 ```
 
@@ -166,8 +166,8 @@ URL:
 
 Obsidianの該当週のInstagram/YouTube分析データを確認して、動画改善に直結する形で分析してください。
 
-Instagramはインスタ_週次結果metricool「20260920」として入っています。  
-YouTubeは `F:\ANRYCAMPANY\ANRYCAMPANY\YouTube分析\02_週別データ\「2026-09-12_2026-09-19」` に入っています。
+Instagramはインスタ_週次結果metricool「20260927」として入っています。  
+YouTubeは `F:\ANRYCAMPANY\ANRYCAMPANY\YouTube分析\02_週別データ\「2026-09-19_2026-09-26」` に入っています。
 
 MetricoolとYouTubeアナリティクスの集計期間が異なる場合は、混同せず別々に扱ってください。
 

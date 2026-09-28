@@ -1,0 +1,97 @@
+﻿{
+  "title": "体格が気になる、CTやMRIの検査台に乗れる？",
+  "style": "white rounded rectangle at 70% opacity; dark navy M PLUS Rounded 1c Bold; blue only for key terms",
+  "position_policy": "horizontal center only; frames 1-4 bottom, frames 6-7 top, all others center",
+  "frames": [
+    {
+      "source": "01_mri_table_hook.png",
+      "output": "01_hook.png",
+      "telop": [
+        "CT・MRIの検査台",
+        "私でも乗れる？"
+      ],
+      "position": "bottom"
+    },
+    {
+      "source": "02_ct_table_consult.png",
+      "output": "02_consult.png",
+      "telop": [
+        "心配なときは",
+        "予約時に相談できます"
+      ],
+      "position": "bottom"
+    },
+    {
+      "source": "03_mri_equipment_conditions.png",
+      "output": "03_equipment_conditions.png",
+      "telop": [
+        "装置ごとに",
+        "条件が異なります"
+      ],
+      "position": "bottom"
+    },
+    {
+      "source": "04_ct_equipment_conditions.png",
+      "output": "04_check_items.png",
+      "telop": [
+        "体格や検査部位で",
+        "確認内容も変わります"
+      ],
+      "position": "bottom"
+    },
+    {
+      "source": "05_reservation_memo_phone.png",
+      "output": "05_tell_body_size.png",
+      "telop": [
+        "予約時に",
+        "体格を伝える"
+      ],
+      "position": "center"
+    },
+    {
+      "source": "06_reception_confirmation.png",
+      "output": "06_advance_check.png",
+      "telop": [
+        "事前にわかると",
+        "確認しやすくなります"
+      ],
+      "position": "top"
+    },
+    {
+      "source": "07_safety_confirmation.png",
+      "output": "07_for_safety.png",
+      "telop": [
+        "安全な検査のための",
+        "確認です"
+      ],
+      "position": "top"
+    },
+    {
+      "source": "08_consult_reservation_desk.png",
+      "output": "08_ask_reservation_desk.png",
+      "telop": [
+        "まずは",
+        "予約先へ相談を"
+      ],
+      "position": "center"
+    },
+    {
+      "source": "09_save_before_appointment.png",
+      "output": "09_save_cta.png",
+      "telop": [
+        "保存して",
+        "予約前に見返す"
+      ],
+      "position": "center"
+    },
+    {
+      "source": "10_follow_cta_background.png",
+      "output": "10_follow_cta.png",
+      "telop": [
+        "役立ったら",
+        "フォローをお願いします"
+      ],
+      "position": "center"
+    }
+  ]
+}

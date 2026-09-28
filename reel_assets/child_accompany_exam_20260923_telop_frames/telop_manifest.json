@@ -1,0 +1,212 @@
+﻿[
+  {
+    "index": 1,
+    "source": "reel_assets\\child_accompany_exam_20260923_images\\01_home_concern.png",
+    "output": "reel_assets\\child_accompany_exam_20260923_telop_frames\\telop_01_hook.png",
+    "telop": [
+      [
+        "自分の検査"
+      ],
+      [
+        "子どもを",
+        "連れて行っていい？"
+      ]
+    ],
+    "highlights": [
+      "子どもを"
+    ],
+    "position": "top",
+    "font": "F:\\ANRYCAMPANY\\reel_assets\\fonts\\M_PLUS_Rounded_1c\\MPLUSRounded1c-Bold.ttf",
+    "panel_opacity": "70%"
+  },
+  {
+    "index": 2,
+    "source": "reel_assets\\child_accompany_exam_20260923_images\\02_previsit_call.png",
+    "output": "reel_assets\\child_accompany_exam_20260923_telop_frames\\telop_02_consult_reservation.png",
+    "telop": [
+      [
+        "預け先がない時は"
+      ],
+      [
+        "予約先",
+        "に相談して大丈夫"
+      ]
+    ],
+    "highlights": [
+      "予約先",
+      "大丈夫"
+    ],
+    "position": "top",
+    "font": "F:\\ANRYCAMPANY\\reel_assets\\fonts\\M_PLUS_Rounded_1c\\MPLUSRounded1c-Bold.ttf",
+    "panel_opacity": "70%"
+  },
+  {
+    "index": 3,
+    "source": "reel_assets\\child_accompany_exam_20260923_images\\03_clinic_entrance.png",
+    "output": "reel_assets\\child_accompany_exam_20260923_telop_frames\\telop_03_facility_difference.png",
+    "telop": [
+      [
+        "対応は"
+      ],
+      [
+        "施設",
+        "や",
+        "検査",
+        "で異なります"
+      ]
+    ],
+    "highlights": [
+      "施設",
+      "検査"
+    ],
+    "position": "center",
+    "font": "F:\\ANRYCAMPANY\\reel_assets\\fonts\\M_PLUS_Rounded_1c\\MPLUSRounded1c-Bold.ttf",
+    "panel_opacity": "70%"
+  },
+  {
+    "index": 4,
+    "source": "reel_assets\\child_accompany_exam_20260923_images\\04_waiting_together.png",
+    "output": "reel_assets\\child_accompany_exam_20260923_telop_frames\\telop_04_wait_together.png",
+    "telop": [
+      [
+        "一緒に",
+        "待てる"
+      ],
+      [
+        "場合もあります"
+      ]
+    ],
+    "highlights": [
+      "待てる"
+    ],
+    "position": "top",
+    "font": "F:\\ANRYCAMPANY\\reel_assets\\fonts\\M_PLUS_Rounded_1c\\MPLUSRounded1c-Bold.ttf",
+    "panel_opacity": "70%"
+  },
+  {
+    "index": 5,
+    "source": "reel_assets\\child_accompany_exam_20260923_images\\05_exam_room_boundary.png",
+    "output": "reel_assets\\child_accompany_exam_20260923_telop_frames\\telop_05_separate_for_exam.png",
+    "telop": [
+      [
+        "検査中は"
+      ],
+      [
+        "離れる",
+        "場合もあります"
+      ]
+    ],
+    "highlights": [
+      "離れる"
+    ],
+    "position": "top",
+    "font": "F:\\ANRYCAMPANY\\reel_assets\\fonts\\M_PLUS_Rounded_1c\\MPLUSRounded1c-Bold.ttf",
+    "panel_opacity": "70%"
+  },
+  {
+    "index": 6,
+    "source": "reel_assets\\child_accompany_exam_20260923_images\\06_call_early_at_home.png",
+    "output": "reel_assets\\child_accompany_exam_20260923_telop_frames\\telop_06_tell_reservation.png",
+    "telop": [
+      [
+        "予約時に"
+      ],
+      [
+        "見てくれる人",
+        "がいなくて",
+        "と伝えて"
+      ]
+    ],
+    "highlights": [
+      "見てくれる人"
+    ],
+    "position": "top",
+    "font": "F:\\ANRYCAMPANY\\reel_assets\\fonts\\M_PLUS_Rounded_1c\\MPLUSRounded1c-Bold.ttf",
+    "panel_opacity": "70%"
+  },
+  {
+    "index": 7,
+    "source": "reel_assets\\child_accompany_exam_20260923_images\\07_two_checks_note.png",
+    "output": "reel_assets\\child_accompany_exam_20260923_telop_frames\\telop_07_two_checks.png",
+    "telop": [
+      [
+        "確認するのは"
+      ],
+      [
+        "同伴",
+        "できる？",
+        "・",
+        "待つ場所",
+        "は？"
+      ]
+    ],
+    "highlights": [
+      "同伴",
+      "待つ場所"
+    ],
+    "position": "center",
+    "font": "F:\\ANRYCAMPANY\\reel_assets\\fonts\\M_PLUS_Rounded_1c\\MPLUSRounded1c-Bold.ttf",
+    "panel_opacity": "70%"
+  },
+  {
+    "index": 8,
+    "source": "reel_assets\\child_accompany_exam_20260923_images\\08_schedule_consultation.png",
+    "output": "reel_assets\\child_accompany_exam_20260923_telop_frames\\telop_08_schedule_consultation.png",
+    "telop": [
+      [
+        "難しい時は"
+      ],
+      [
+        "日程変更",
+        "も相談を"
+      ]
+    ],
+    "highlights": [
+      "日程変更"
+    ],
+    "position": "top",
+    "font": "F:\\ANRYCAMPANY\\reel_assets\\fonts\\M_PLUS_Rounded_1c\\MPLUSRounded1c-Bold.ttf",
+    "panel_opacity": "70%"
+  },
+  {
+    "index": 9,
+    "source": "reel_assets\\child_accompany_exam_20260923_images\\09_family_share.png",
+    "output": "reel_assets\\child_accompany_exam_20260923_telop_frames\\telop_09_save_and_share.png",
+    "telop": [
+      [
+        "予約前に見返せるよう"
+      ],
+      [
+        "保存",
+        "して家族LINEへ共有"
+      ]
+    ],
+    "highlights": [
+      "保存",
+      "家族LINE"
+    ],
+    "position": "top",
+    "font": "F:\\ANRYCAMPANY\\reel_assets\\fonts\\M_PLUS_Rounded_1c\\MPLUSRounded1c-Bold.ttf",
+    "panel_opacity": "70%"
+  },
+  {
+    "index": 10,
+    "source": "reel_assets\\child_accompany_exam_20260923_images\\10_end_card_background.png",
+    "output": "reel_assets\\child_accompany_exam_20260923_telop_frames\\telop_10_follow_cta.png",
+    "telop": [
+      [
+        "役に立ったら"
+      ],
+      [
+        "フォロー",
+        "も"
+      ]
+    ],
+    "highlights": [
+      "フォロー"
+    ],
+    "position": "top",
+    "font": "F:\\ANRYCAMPANY\\reel_assets\\fonts\\M_PLUS_Rounded_1c\\MPLUSRounded1c-Bold.ttf",
+    "panel_opacity": "70%"
+  }
+]

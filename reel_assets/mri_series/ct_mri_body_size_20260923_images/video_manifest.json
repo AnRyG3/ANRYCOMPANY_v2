@@ -1,0 +1,95 @@
+﻿{
+  "title": "体格が気になる、CTやMRIの検査台に乗れる？",
+  "speaker": "VOICEVOX speaker id 20",
+  "voice_speed": 1.2,
+  "transition_silence_seconds": 0.0,
+  "pause_length_scale": 0.32,
+  "frames_and_voice": [
+    {
+      "index": 1,
+      "frame": "01_hook.png",
+      "voice": "シーティーやエムアールアイの検査台。私でも乗れるかな。",
+      "start_seconds": 0.0,
+      "duration_seconds": 2.955,
+      "end_seconds": 2.955
+    },
+    {
+      "index": 2,
+      "frame": "02_consult.png",
+      "voice": "心配なときは、予約のときに相談できます。",
+      "start_seconds": 2.955,
+      "duration_seconds": 2.677,
+      "end_seconds": 5.632
+    },
+    {
+      "index": 3,
+      "frame": "03_equipment_conditions.png",
+      "voice": "シーティーやエムアールアイは、装置ごとに、検査台の耐荷重や、かいこうぶの広さが異なります。",
+      "start_seconds": 5.632,
+      "duration_seconds": 5.376,
+      "end_seconds": 11.008
+    },
+    {
+      "index": 4,
+      "frame": "04_check_items.png",
+      "voice": "検査部位や体格によって、確認する内容も変わります。",
+      "start_seconds": 11.008,
+      "duration_seconds": 3.317,
+      "end_seconds": 14.325
+    },
+    {
+      "index": 5,
+      "frame": "05_tell_body_size.png",
+      "voice": "予約のときに、体重や体格を伝えてください。",
+      "start_seconds": 14.325,
+      "duration_seconds": 2.795,
+      "end_seconds": 17.12
+    },
+    {
+      "index": 6,
+      "frame": "06_advance_check.png",
+      "voice": "事前にわかれば、使う装置や検査方法を確認しやすくなります。",
+      "start_seconds": 17.12,
+      "duration_seconds": 3.797,
+      "end_seconds": 20.917
+    },
+    {
+      "index": 7,
+      "frame": "07_for_safety.png",
+      "voice": "これは、安全に検査を行うために必要な確認です。",
+      "start_seconds": 20.917,
+      "duration_seconds": 3.307,
+      "end_seconds": 24.224
+    },
+    {
+      "index": 8,
+      "frame": "08_ask_reservation_desk.png",
+      "voice": "受けられないと決める前に、まず予約先へ相談してみてください。",
+      "start_seconds": 24.224,
+      "duration_seconds": 3.531,
+      "end_seconds": 27.755
+    },
+    {
+      "index": 9,
+      "frame": "09_save_cta.png",
+      "voice": "検査前日や予約前に見返せるよう、この投稿を保存してください。",
+      "start_seconds": 27.755,
+      "duration_seconds": 4.053,
+      "end_seconds": 31.808
+    },
+    {
+      "index": 10,
+      "frame": "10_follow_cta.png",
+      "voice": "役に立ったら、フォローしてもらえるとうれしいです。",
+      "start_seconds": 31.808,
+      "duration_seconds": 2.581,
+      "end_seconds": 34.389
+    }
+  ],
+  "audio_seconds": 34.389,
+  "video_seconds": 34.39,
+  "audio_video_difference_seconds": 0.001,
+  "audio": "F:\\ANRYCAMPANY\\reel_assets\\mri_series\\ct_mri_body_size_20260923_images\\audio\\voice.wav",
+  "asset_video": "F:\\ANRYCAMPANY\\reel_assets\\mri_series\\ct_mri_body_size_20260923_images\\体格が気になる、CTやMRIの検査台に乗れる？.mp4",
+  "final_video": "F:\\ANRYCAMPANY\\01_ショート動画_リール_YouTubeShorts\\インスタ完成形\\体格が気になる、CTやMRIの検査台に乗れる？.mp4"
+}

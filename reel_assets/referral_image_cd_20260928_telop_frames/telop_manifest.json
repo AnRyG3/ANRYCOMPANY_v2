@@ -1,0 +1,178 @@
+﻿[
+  {
+    "index": 1,
+    "source": "reel_assets\\referral_image_cd_20260928_images\\image_01_reception_arrival.png",
+    "output": "reel_assets\\referral_image_cd_20260928_telop_frames\\telop_01_when_to_show_cd.png",
+    "telop": [
+      [
+        "画像CD",
+        " いつ出す？"
+      ]
+    ],
+    "highlights": [
+      "画像CD"
+    ],
+    "position": "center",
+    "font": "F:\\ANRYCAMPANY\\reel_assets\\fonts\\M_PLUS_Rounded_1c\\MPLUSRounded1c-Bold.ttf",
+    "panel_opacity": "70%"
+  },
+  {
+    "index": 2,
+    "source": "reel_assets\\referral_image_cd_20260928_images\\image_02_present_cd.png",
+    "output": "reel_assets\\referral_image_cd_20260928_telop_frames\\telop_02_tell_reception_first.png",
+    "telop": [
+      [
+        "受付で"
+      ],
+      [
+        "最初に",
+        "伝える"
+      ]
+    ],
+    "highlights": [
+      "最初に"
+    ],
+    "position": "center",
+    "font": "F:\\ANRYCAMPANY\\reel_assets\\fonts\\M_PLUS_Rounded_1c\\MPLUSRounded1c-Bold.ttf",
+    "panel_opacity": "70%"
+  },
+  {
+    "index": 3,
+    "source": "reel_assets\\referral_image_cd_20260928_images\\image_03_wait_for_guidance.png",
+    "output": "reel_assets\\referral_image_cd_20260928_telop_frames\\telop_03_follow_reception_guidance.png",
+    "telop": [
+      [
+        "渡すタイミングは"
+      ],
+      [
+        "受付の案内",
+        "に従う"
+      ]
+    ],
+    "highlights": [
+      "受付の案内"
+    ],
+    "position": "center",
+    "font": "F:\\ANRYCAMPANY\\reel_assets\\fonts\\M_PLUS_Rounded_1c\\MPLUSRounded1c-Bold.ttf",
+    "panel_opacity": "70%"
+  },
+  {
+    "index": 4,
+    "source": "reel_assets\\referral_image_cd_20260928_images\\image_04_cd_and_referral_together.png",
+    "output": "reel_assets\\referral_image_cd_20260928_telop_frames\\telop_04_varies_by_facility.png",
+    "telop": [
+      [
+        "施設によって"
+      ],
+      [
+        "扱いが違うことも"
+      ]
+    ],
+    "highlights": [
+      "施設によって"
+    ],
+    "position": "bottom",
+    "font": "F:\\ANRYCAMPANY\\reel_assets\\fonts\\M_PLUS_Rounded_1c\\MPLUSRounded1c-Bold.ttf",
+    "panel_opacity": "70%"
+  },
+  {
+    "index": 5,
+    "source": "reel_assets\\referral_image_cd_20260928_images\\image_05_check_appointment_guidance.png",
+    "output": "reel_assets\\referral_image_cd_20260928_telop_frames\\telop_05_prioritize_guidance.png",
+    "telop": [
+      [
+        "事前の案内を"
+      ],
+      [
+        "優先してください"
+      ]
+    ],
+    "highlights": [
+      "事前の案内"
+    ],
+    "position": "center",
+    "font": "F:\\ANRYCAMPANY\\reel_assets\\fonts\\M_PLUS_Rounded_1c\\MPLUSRounded1c-Bold.ttf",
+    "panel_opacity": "70%"
+  },
+  {
+    "index": 6,
+    "source": "reel_assets\\referral_image_cd_20260928_images\\image_06_ask_reception.png",
+    "output": "reel_assets\\referral_image_cd_20260928_telop_frames\\telop_06_ask_if_unsure.png",
+    "telop": [
+      [
+        "迷ったら"
+      ],
+      [
+        "「今、お渡ししますか？」"
+      ]
+    ],
+    "highlights": [
+      "迷ったら"
+    ],
+    "position": "center",
+    "font": "F:\\ANRYCAMPANY\\reel_assets\\fonts\\M_PLUS_Rounded_1c\\MPLUSRounded1c-Bold.ttf",
+    "panel_opacity": "70%"
+  },
+  {
+    "index": 7,
+    "source": "reel_assets\\referral_image_cd_20260928_images\\image_07_reassured.png",
+    "output": "reel_assets\\referral_image_cd_20260928_telop_frames\\telop_07_asking_is_ok.png",
+    "telop": [
+      [
+        "確認するのは"
+      ],
+      [
+        "失礼ではありません"
+      ]
+    ],
+    "highlights": [
+      "失礼ではありません"
+    ],
+    "position": "center",
+    "font": "F:\\ANRYCAMPANY\\reel_assets\\fonts\\M_PLUS_Rounded_1c\\MPLUSRounded1c-Bold.ttf",
+    "panel_opacity": "70%"
+  },
+  {
+    "index": 8,
+    "source": "reel_assets\\referral_image_cd_20260928_images\\image_08_prepare_before_visit.png",
+    "output": "reel_assets\\referral_image_cd_20260928_telop_frames\\telop_08_save_before_reception.png",
+    "telop": [
+      [
+        "紹介先の受付前に"
+      ],
+      [
+        "見返せるよう ",
+        "保存"
+      ]
+    ],
+    "highlights": [
+      "保存"
+    ],
+    "position": "center",
+    "font": "F:\\ANRYCAMPANY\\reel_assets\\fonts\\M_PLUS_Rounded_1c\\MPLUSRounded1c-Bold.ttf",
+    "panel_opacity": "70%"
+  },
+  {
+    "index": 9,
+    "source": "reel_assets\\referral_image_cd_20260928_images\\image_09_cta_background.png",
+    "output": "reel_assets\\referral_image_cd_20260928_telop_frames\\telop_09_follow_cta.png",
+    "telop": [
+      [
+        "フォロー",
+        "して"
+      ],
+      [
+        "「これどうする？」を"
+      ],
+      [
+        "一緒に減らそう"
+      ]
+    ],
+    "highlights": [
+      "フォロー"
+    ],
+    "position": "center",
+    "font": "F:\\ANRYCAMPANY\\reel_assets\\fonts\\M_PLUS_Rounded_1c\\MPLUSRounded1c-Bold.ttf",
+    "panel_opacity": "70%"
+  }
+]

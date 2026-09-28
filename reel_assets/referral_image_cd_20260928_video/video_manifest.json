@@ -1,0 +1,76 @@
+﻿{
+  "title": "紹介先_画像CD_受付でいつ出す_20260928",
+  "speaker": "VOICEVOX speaker id 20",
+  "voice_speed": 1.2,
+  "bgm": "F:\\ANRYCAMPANY\\01_ショート動画_リール_YouTubeShorts\\インスタリール用\\BGM フリー素材\\Kind_Heart.mp3",
+  "bgm_volume": "-27dB",
+  "tail_seconds_per_cut": 0.02,
+  "display_narration": [
+    "画像CDはいつ出すのかな。",
+    "受付に着いたら、紹介状と画像CDを持ってきたことを、最初に伝えます。",
+    "その場で渡すかは、受付の案内に従えば大丈夫です。",
+    "施設によって、受付で預かる場合と、診察時に案内される場合があります。",
+    "事前にもらった案内があれば、そちらを優先してください。",
+    "迷ったら、今、お渡ししますか、と聞いて大丈夫です。",
+    "確認することは、失礼ではありません。",
+    "紹介先の受付前に見返せるよう、この動画を保存しておいてください。",
+    "フォローして、検査や受診の迷いを、一緒に減らしていきましょう。"
+  ],
+  "voice_text": [
+    "画像しーでぃーはいつ出すのかな。",
+    "受付に着いたら、紹介状と画像しーでぃーを持ってきたことを、最初に伝えます。",
+    "その場で渡すかは、受付の案内に従えば大丈夫です。",
+    "施設によって、受付で預かる場合と、診察時に案内される場合があります。",
+    "事前にもらった案内があれば、そちらを優先してください。",
+    "迷ったら、今、お渡ししますか、と聞いて大丈夫です。",
+    "確認することは、失礼ではありません。",
+    "紹介先の受付前に見返せるよう、この動画を保存しておいてください。",
+    "フォローして、検査や受診の迷いを、一緒に減らしていきましょう。"
+  ],
+  "frames": [
+    "reel_assets\\referral_image_cd_20260928_telop_frames\\telop_01_when_to_show_cd.png",
+    "reel_assets\\referral_image_cd_20260928_telop_frames\\telop_02_tell_reception_first.png",
+    "reel_assets\\referral_image_cd_20260928_telop_frames\\telop_03_follow_reception_guidance.png",
+    "reel_assets\\referral_image_cd_20260928_telop_frames\\telop_04_varies_by_facility.png",
+    "reel_assets\\referral_image_cd_20260928_telop_frames\\telop_05_prioritize_guidance.png",
+    "reel_assets\\referral_image_cd_20260928_telop_frames\\telop_06_ask_if_unsure.png",
+    "reel_assets\\referral_image_cd_20260928_telop_frames\\telop_07_asking_is_ok.png",
+    "reel_assets\\referral_image_cd_20260928_telop_frames\\telop_08_save_before_reception.png",
+    "reel_assets\\referral_image_cd_20260928_telop_frames\\telop_09_follow_cta.png"
+  ],
+  "raw_voice_durations_seconds": [
+    1.6,
+    4.971,
+    3.605,
+    4.971,
+    3.339,
+    4.021,
+    2.453,
+    4.448,
+    3.979
+  ],
+  "cut_durations_seconds": [
+    1.62,
+    4.991,
+    3.625,
+    4.991,
+    3.359,
+    4.041,
+    2.473,
+    4.468,
+    3.999
+  ],
+  "voice_audio": "reel_assets\\referral_image_cd_20260928_video\\audio\\voice_all.wav",
+  "asset_video": "reel_assets\\referral_image_cd_20260928_video\\紹介先_画像CD_受付でいつ出す_20260928.mp4",
+  "final_video": "01_ショート動画_リール_YouTubeShorts\\インスタ完成形\\紹介先_画像CD_受付でいつ出す_20260928.mp4",
+  "qa_contact_sheet": "reel_assets\\referral_image_cd_20260928_video\\qa_midframes\\qa_midframes_contact_sheet.jpg",
+  "qa": {
+    "duration_seconds": 33.57,
+    "resolution": "1080x1920",
+    "has_audio_stream": true,
+    "voice_duration_seconds": 33.566,
+    "audio_video_duration_difference_seconds": 0.004,
+    "frame_narration_mapping": "one telop frame per matching narration segment",
+    "long_silent_pause": "none; each frame adds only 0.02 seconds after the matching voice segment"
+  }
+}
