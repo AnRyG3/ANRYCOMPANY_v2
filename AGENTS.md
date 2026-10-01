@@ -26,6 +26,7 @@ User-facing Obsidian notes, scripts, captions, and deliverables should stay in J
 ## Always-On Rules
 
 - For medical or radiation-related content, avoid exaggeration and unsupported claims. Prefer calm, anxiety-reducing wording.
+- Keep medical explanations general; direct individual medical judgments to physicians or facility staff.
 - In new ANRYCAMPANY Japanese text, never use the 5-kanji job title U+653E U+5C04 U+7DDA U+6280 U+5E2B.
 - Always use the 7-kanji official term U+8A3A U+7642 U+653E U+5C04 U+7DDA U+6280 U+5E2B.
 - Treat those terms as different qualifications/work scopes, not interchangeable wording.
@@ -35,6 +36,8 @@ User-facing Obsidian notes, scripts, captions, and deliverables should stay in J
 ## Reel and Video Work
 
 - For ANRYCAMPANY video/reel work, read `00_全体管理/rules/reel-core.md` before proposing or producing.
+- Treat the approval order in `00_全体管理/rules/reel-core.md` as the single source of truth for video/reel work.
+- For new videos, follow the source-lock and `production_manifest.md` checks in `00_全体管理/rules/reel-core.md` before text, audio, or video generation.
 - Do not create images, frames, audio, video, or generation scripts until the required approval gate is met.
 - For scenes where a patient is lying on an exam table, do not force the face or expression to be visible. Keep the pillow/headrest low and use a natural examination posture; do not raise the neck or upper body just to show the expression.
 - Before image text insertion or final text frames, read `00_全体管理/rules/telop-style-rules.md`.
