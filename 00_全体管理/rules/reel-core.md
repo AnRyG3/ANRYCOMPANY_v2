@@ -57,6 +57,12 @@ Images in `codex_generated_images` may be used only after they are explicitly pr
 - Confirm text placement, image count, CTA, and common assets before final text insertion.
 - Avoid unsupported medical claims and anxiety-increasing wording.
 
+## Editorial Structure
+
+- For a patient-question reel, make the concrete situation clear in the first second and give a safe provisional answer or next action within the first 3 seconds. Do not spend the opening on a generic introduction or repeat the question without advancing the answer.
+- Keep one video focused on one examination, one patient situation, and one decision or action. When guidance differs by examination, split it into separate videos instead of branching through multiple examinations in one short video, unless the user has explicitly approved a comparison as the video's purpose.
+- Do not remove medically necessary qualifications, facility differences, or confirmation guidance to meet the timing target. Accuracy and a calm explanation take priority over brevity.
+
 ## Visual Direction
 
 - Main visuals should be realistic clinical scenes, realistic equipment, realistic people, or realistic inspection rooms.

@@ -1,0 +1,159 @@
+﻿[
+  {
+    "index": 1,
+    "source": "reel_assets\\ct_series\\ct_early_finish_v1_samples\\sample_01_patient_ct_exit.png",
+    "output": "reel_assets\\ct_series\\ct_early_finish_v1_telop_frames\\telop_01_hook.png",
+    "text": [
+      "もう終わり？",
+      "ちゃんと撮れてる？"
+    ],
+    "highlights": [
+      "ちゃんと"
+    ],
+    "position": "center",
+    "x_axis": "center",
+    "font": "F:\\ANRYCAMPANY\\reel_assets\\fonts\\M_PLUS_Rounded_1c\\MPLUSRounded1c-Bold.ttf",
+    "panel_opacity": "70%"
+  },
+  {
+    "index": 2,
+    "source": "reel_assets\\ct_series\\ct_early_finish_v1_samples\\image_02_referral_reception.png",
+    "output": "reel_assets\\ct_series\\ct_early_finish_v1_telop_frames\\telop_02_referral.png",
+    "text": [
+      "わざわざ来たのに",
+      "もう終わり？"
+    ],
+    "highlights": [],
+    "position": "center",
+    "x_axis": "center",
+    "font": "F:\\ANRYCAMPANY\\reel_assets\\fonts\\M_PLUS_Rounded_1c\\MPLUSRounded1c-Bold.ttf",
+    "panel_opacity": "70%"
+  },
+  {
+    "index": 3,
+    "source": "reel_assets\\ct_series\\ct_early_finish_v1_samples\\image_03_ct_room_reflection.png",
+    "output": "reel_assets\\ct_series\\ct_early_finish_v1_telop_frames\\telop_03_reassurance.png",
+    "text": [
+      "不安になるのは",
+      "自然なことです"
+    ],
+    "highlights": [
+      "不安"
+    ],
+    "position": "center",
+    "x_axis": "center",
+    "font": "F:\\ANRYCAMPANY\\reel_assets\\fonts\\M_PLUS_Rounded_1c\\MPLUSRounded1c-Bold.ttf",
+    "panel_opacity": "70%"
+  },
+  {
+    "index": 4,
+    "source": "reel_assets\\ct_series\\ct_early_finish_v1_samples\\image_04_technologist_questions.png",
+    "output": "reel_assets\\ct_series\\ct_early_finish_v1_telop_frames\\telop_04_ask.png",
+    "text": [
+      "気になったら",
+      "その場で聞いてください"
+    ],
+    "highlights": [
+      "聞いてください"
+    ],
+    "position": "center",
+    "x_axis": "center",
+    "font": "F:\\ANRYCAMPANY\\reel_assets\\fonts\\M_PLUS_Rounded_1c\\MPLUSRounded1c-Bold.ttf",
+    "panel_opacity": "70%"
+  },
+  {
+    "index": 5,
+    "source": "reel_assets\\ct_series\\ct_early_finish_v1_samples\\image_05_ct_room.png",
+    "output": "reel_assets\\ct_series\\ct_early_finish_v1_telop_frames\\telop_05_ct_feature.png",
+    "text": [
+      "CTは",
+      "短時間で広い範囲を撮影"
+    ],
+    "highlights": [
+      "短時間"
+    ],
+    "position": "center",
+    "x_axis": "center",
+    "font": "F:\\ANRYCAMPANY\\reel_assets\\fonts\\M_PLUS_Rounded_1c\\MPLUSRounded1c-Bold.ttf",
+    "panel_opacity": "70%"
+  },
+  {
+    "index": 6,
+    "source": "reel_assets\\ct_series\\ct_early_finish_v1_samples\\sample_02_ct_technologist_console.png",
+    "output": "reel_assets\\ct_series\\ct_early_finish_v1_telop_frames\\telop_06_short_design.png",
+    "text": [
+      "短時間で撮れるように",
+      "作られています"
+    ],
+    "highlights": [
+      "短時間"
+    ],
+    "position": "top",
+    "x_axis": "center",
+    "font": "F:\\ANRYCAMPANY\\reel_assets\\fonts\\M_PLUS_Rounded_1c\\MPLUSRounded1c-Bold.ttf",
+    "panel_opacity": "70%"
+  },
+  {
+    "index": 7,
+    "source": "reel_assets\\ct_series\\ct_early_finish_v1_samples\\image_07_patient_on_ct_table_v4.png",
+    "output": "reel_assets\\ct_series\\ct_early_finish_v1_telop_frames\\telop_07_plain_ct.png",
+    "text": [
+      "単純CTは",
+      "短時間で終わることも"
+    ],
+    "highlights": [
+      "単純CT",
+      "短時間"
+    ],
+    "position": "top",
+    "x_axis": "center",
+    "font": "F:\\ANRYCAMPANY\\reel_assets\\fonts\\M_PLUS_Rounded_1c\\MPLUSRounded1c-Bold.ttf",
+    "panel_opacity": "70%"
+  },
+  {
+    "index": 8,
+    "source": "reel_assets\\ct_series\\ct_early_finish_v1_samples\\image_08_technologist_protocol_check.png",
+    "output": "reel_assets\\ct_series\\ct_early_finish_v1_telop_frames\\telop_08_duration_varies.png",
+    "text": [
+      "検査時間は",
+      "内容や施設で変わります"
+    ],
+    "highlights": [],
+    "position": "top",
+    "x_axis": "center",
+    "font": "F:\\ANRYCAMPANY\\reel_assets\\fonts\\M_PLUS_Rounded_1c\\MPLUSRounded1c-Bold.ttf",
+    "panel_opacity": "70%"
+  },
+  {
+    "index": 9,
+    "source": "reel_assets\\ct_series\\ct_early_finish_v1_samples\\image_09_post_exam_question.png",
+    "output": "reel_assets\\ct_series\\ct_early_finish_v1_telop_frames\\telop_09_not_insufficient.png",
+    "text": [
+      "早く終わっても",
+      "撮影が不十分とは限りません"
+    ],
+    "highlights": [
+      "早く"
+    ],
+    "position": "center",
+    "x_axis": "center",
+    "font": "F:\\ANRYCAMPANY\\reel_assets\\fonts\\M_PLUS_Rounded_1c\\MPLUSRounded1c-Bold.ttf",
+    "panel_opacity": "70%"
+  },
+  {
+    "index": 10,
+    "source": "reel_assets\\ct_series\\ct_early_finish_v1_samples\\image_10_save_ct_info.png",
+    "output": "reel_assets\\ct_series\\ct_early_finish_v1_telop_frames\\telop_10_save.png",
+    "text": [
+      "CTが早く終わって",
+      "不安なときに保存"
+    ],
+    "highlights": [
+      "保存"
+    ],
+    "position": "center",
+    "x_axis": "center",
+    "font": "F:\\ANRYCAMPANY\\reel_assets\\fonts\\M_PLUS_Rounded_1c\\MPLUSRounded1c-Bold.ttf",
+    "panel_opacity": "70%"
+  }
+]

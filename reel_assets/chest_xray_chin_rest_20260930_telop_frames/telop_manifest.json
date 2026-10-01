@@ -1,0 +1,124 @@
+﻿[
+  {
+    "index": 1,
+    "source": "reel_assets\\chest_xray_chin_rest_20260930_samples\\sample_01_hook_chin_rest_high_reference_v3.png",
+    "output": "reel_assets\\chest_xray_chin_rest_20260930_telop_frames\\telop_01_hook.png",
+    "text": [
+      "なんでこんなに高いの？"
+    ],
+    "highlights": [
+      "高い"
+    ],
+    "position": "top",
+    "font": "F:\\ANRYCAMPANY\\reel_assets\\fonts\\M_PLUS_Rounded_1c\\MPLUSRounded1c-Bold.ttf",
+    "panel_opacity": "70%"
+  },
+  {
+    "index": 2,
+    "source": "reel_assets\\chest_xray_chin_rest_20260930_images\\frame_02_no_need_to_force_chin_v2_no_text.png",
+    "output": "reel_assets\\chest_xray_chin_rest_20260930_telop_frames\\telop_02_no_force.png",
+    "text": [
+      "無理に乗せなくて大丈夫"
+    ],
+    "highlights": [
+      "無理に"
+    ],
+    "position": "top",
+    "font": "F:\\ANRYCAMPANY\\reel_assets\\fonts\\M_PLUS_Rounded_1c\\MPLUSRounded1c-Bold.ttf",
+    "panel_opacity": "70%"
+  },
+  {
+    "index": 3,
+    "source": "reel_assets\\chest_xray_chin_rest_20260930_samples\\sample_03_shoulders_against_bucky_reference_v4.png",
+    "output": "reel_assets\\chest_xray_chin_rest_20260930_telop_frames\\telop_03_chest_shoulders.png",
+    "text": [
+      "胸と両肩を板へ"
+    ],
+    "highlights": [
+      "胸と両肩"
+    ],
+    "position": "top",
+    "font": "F:\\ANRYCAMPANY\\reel_assets\\fonts\\M_PLUS_Rounded_1c\\MPLUSRounded1c-Bold.ttf",
+    "panel_opacity": "70%"
+  },
+  {
+    "index": 4,
+    "source": "reel_assets\\chest_xray_chin_rest_20260930_images\\frame_04_height_adjustment_v3_no_text.png",
+    "output": "reel_assets\\chest_xray_chin_rest_20260930_telop_frames\\telop_04_height.png",
+    "text": [
+      "肺全体が入る高さに"
+    ],
+    "highlights": [
+      "肺全体"
+    ],
+    "position": "top",
+    "font": "F:\\ANRYCAMPANY\\reel_assets\\fonts\\M_PLUS_Rounded_1c\\MPLUSRounded1c-Bold.ttf",
+    "panel_opacity": "70%"
+  },
+  {
+    "index": 5,
+    "source": "reel_assets\\chest_xray_chin_rest_20260930_images\\frame_05_height_explanation_v2_no_text.png",
+    "output": "reel_assets\\chest_xray_chin_rest_20260930_telop_frames\\telop_05_upper_lung.png",
+    "text": [
+      "肺の上が切れることも"
+    ],
+    "highlights": [
+      "肺の上"
+    ],
+    "position": "top",
+    "font": "F:\\ANRYCAMPANY\\reel_assets\\fonts\\M_PLUS_Rounded_1c\\MPLUSRounded1c-Bold.ttf",
+    "panel_opacity": "70%"
+  },
+  {
+    "index": 6,
+    "source": "reel_assets\\chest_xray_chin_rest_20260930_images\\frame_06_patient_speaks_up_v3_no_text.png",
+    "output": "reel_assets\\chest_xray_chin_rest_20260930_telop_frames\\telop_06_speak_up.png",
+    "text": [
+      "つらいときは教えてください"
+    ],
+    "highlights": [],
+    "position": "top",
+    "font": "F:\\ANRYCAMPANY\\reel_assets\\fonts\\M_PLUS_Rounded_1c\\MPLUSRounded1c-Bold.ttf",
+    "panel_opacity": "70%"
+  },
+  {
+    "index": 7,
+    "source": "reel_assets\\chest_xray_chin_rest_20260930_images\\frame_07_alternative_position_consultation_v2_no_text.png",
+    "output": "reel_assets\\chest_xray_chin_rest_20260930_telop_frames\\telop_07_alternative.png",
+    "text": [
+      "撮り方を変えることも"
+    ],
+    "highlights": [
+      "撮り方"
+    ],
+    "position": "top",
+    "font": "F:\\ANRYCAMPANY\\reel_assets\\fonts\\M_PLUS_Rounded_1c\\MPLUSRounded1c-Bold.ttf",
+    "panel_opacity": "70%"
+  },
+  {
+    "index": 8,
+    "source": "reel_assets\\chest_xray_chin_rest_20260930_images\\frame_08_patient_reassured_exit_no_text.png",
+    "output": "reel_assets\\chest_xray_chin_rest_20260930_telop_frames\\telop_08_reassurance.png",
+    "text": [
+      "顎が乗らなくても"
+    ],
+    "highlights": [],
+    "position": "center",
+    "font": "F:\\ANRYCAMPANY\\reel_assets\\fonts\\M_PLUS_Rounded_1c\\MPLUSRounded1c-Bold.ttf",
+    "panel_opacity": "70%"
+  },
+  {
+    "index": 9,
+    "source": "reel_assets\\chest_xray_chin_rest_20260930_images\\frame_09_cta_background_no_text.png",
+    "output": "reel_assets\\chest_xray_chin_rest_20260930_telop_frames\\telop_09_save_share.png",
+    "text": [
+      "検査前に保存"
+    ],
+    "highlights": [
+      "保存"
+    ],
+    "position": "center",
+    "font": "F:\\ANRYCAMPANY\\reel_assets\\fonts\\M_PLUS_Rounded_1c\\MPLUSRounded1c-Bold.ttf",
+    "panel_opacity": "70%"
+  }
+]

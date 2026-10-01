@@ -1,0 +1,53 @@
+﻿{
+  "title": "CT検査_もう終わったのと驚かれる理由_20261001",
+  "speaker": "VOICEVOX speaker id 20",
+  "voice_speed": 1.2,
+  "voice_text": [
+    "もう終わり。ちゃんと撮れてるのかな。単純CTのあと、そう驚くかたがいます。",
+    "他院から紹介されて来たかたなら、わざわざ来たのに、もう終わりと感じることもあります。",
+    "不安になるのは、自然なことです。",
+    "気になったら、その場で、診療放射線技師に聞いてください。",
+    "CTは、短時間で広い範囲を撮影できる装置です。",
+    "短時間で撮影できるように、装置が作られています。",
+    "造影剤を使わない単純CTは、短時間で終わることがあります。",
+    "検査時間は内容や施設で変わります。",
+    "早く終わっても、それだけで撮影が不十分とは限りません。",
+    "CTが早く終わって不安になったときに、見返せるよう保存しておいてください。"
+  ],
+  "frames": [
+    "reel_assets\\ct_series\\ct_early_finish_v1_telop_frames\\telop_01_hook.png",
+    "reel_assets\\ct_series\\ct_early_finish_v1_telop_frames\\telop_02_referral.png",
+    "reel_assets\\ct_series\\ct_early_finish_v1_telop_frames\\telop_03_reassurance.png",
+    "reel_assets\\ct_series\\ct_early_finish_v1_telop_frames\\telop_04_ask.png",
+    "reel_assets\\ct_series\\ct_early_finish_v1_telop_frames\\telop_05_ct_feature.png",
+    "reel_assets\\ct_series\\ct_early_finish_v1_telop_frames\\telop_06_short_design.png",
+    "reel_assets\\ct_series\\ct_early_finish_v1_telop_frames\\telop_07_plain_ct.png",
+    "reel_assets\\ct_series\\ct_early_finish_v1_telop_frames\\telop_08_duration_varies.png",
+    "reel_assets\\ct_series\\ct_early_finish_v1_telop_frames\\telop_09_not_insufficient.png",
+    "reel_assets\\ct_series\\ct_early_finish_v1_telop_frames\\telop_10_save.png"
+  ],
+  "raw_voice_durations_seconds": [
+    5.141,
+    5.013,
+    2.155,
+    3.797,
+    3.381,
+    3.2,
+    4.021,
+    2.272,
+    3.733,
+    4.608
+  ],
+  "asset_video": "reel_assets\\ct_series\\ct_early_finish_v1_video\\CT検査_もう終わったのと驚かれる理由_20261001.mp4",
+  "final_video": "01_ショート動画_リール_YouTubeShorts\\インスタ完成形\\CT検査_もう終わったのと驚かれる理由_20261001.mp4",
+  "qa_contact_sheet": "reel_assets\\ct_series\\ct_early_finish_v1_video\\qa_midframes\\qa_midframes_contact_sheet.png",
+  "qa": {
+    "duration_seconds": 37.32,
+    "resolution": "1080x1920",
+    "has_audio_stream": true,
+    "voice_duration_seconds": 37.323,
+    "audio_video_duration_difference_seconds": 0.003,
+    "frame_narration_mapping": "one telop frame per matching narration segment",
+    "deliberate_silent_pause": "none"
+  }
+}

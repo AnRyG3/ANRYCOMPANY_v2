@@ -5,6 +5,7 @@ Use this file when creating or updating posting notes.
 - Use Japanese text.
 - Match nearby posting notes when readable.
 - Keep descriptions calm and practical.
+- In titles and descriptions, naturally include the examination, item, situation, or action using words a patient or family member is likely to search. Do not stuff keywords or make the wording unnatural.
 - End with a save/check CTA when suitable.
 - Do not include `#ANRYCAMPANY` in hashtags.
 - Keep hashtags to only the necessary tags. Default to 6-8 tags, and do not exceed 10 unless the user explicitly asks.

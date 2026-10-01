@@ -1,0 +1,62 @@
+﻿{
+  "title": "胸部レントゲン_顎乗せ台が高い理由_20261001",
+  "speaker": "VOICEVOX speaker id 20",
+  "voice_speed": 1.2,
+  "tail_seconds_per_cut": 0.02,
+  "voice_text": [
+    "なんで、こんなに高いの？ 胸部レントゲンで、そう思ったことはありませんか。",
+    "顎が届かなくても、無理に乗せなくて大丈夫です。",
+    "まずは胸と両肩を、できる範囲で板に近づけてください。",
+    "板は、肺の上から下まで写真に入る高さに調整しています。",
+    "低いままだと、肺の上の方が切れてしまうことがあります。",
+    "姿勢がつらいときは、遠慮なく教えてください。",
+    "難しい場合は、そのかたに合わせて撮り方を変えることもあります。",
+    "「乗らない自分がおかしい」わけではありません。",
+    "検査前に見返せるよう保存して、ご家族にも送ってください。"
+  ],
+  "frames": [
+    "reel_assets\\chest_xray_chin_rest_20260930_telop_frames\\telop_01_hook.png",
+    "reel_assets\\chest_xray_chin_rest_20260930_telop_frames\\telop_02_no_force.png",
+    "reel_assets\\chest_xray_chin_rest_20260930_telop_frames\\telop_03_chest_shoulders.png",
+    "reel_assets\\chest_xray_chin_rest_20260930_telop_frames\\telop_04_height.png",
+    "reel_assets\\chest_xray_chin_rest_20260930_telop_frames\\telop_05_upper_lung.png",
+    "reel_assets\\chest_xray_chin_rest_20260930_telop_frames\\telop_06_speak_up.png",
+    "reel_assets\\chest_xray_chin_rest_20260930_telop_frames\\telop_07_alternative.png",
+    "reel_assets\\chest_xray_chin_rest_20260930_telop_frames\\telop_08_reassurance.png",
+    "reel_assets\\chest_xray_chin_rest_20260930_telop_frames\\telop_09_save_share.png"
+  ],
+  "raw_voice_durations_seconds": [
+    4.875,
+    2.965,
+    3.637,
+    3.979,
+    3.381,
+    2.827,
+    3.776,
+    2.549,
+    3.627
+  ],
+  "segment_durations_seconds": [
+    4.895,
+    2.985,
+    3.657,
+    3.999,
+    3.401,
+    2.847,
+    3.796,
+    2.569,
+    3.647
+  ],
+  "asset_video": "reel_assets\\chest_xray_chin_rest_20261001_video\\胸部レントゲン_顎乗せ台が高い理由_20261001.mp4",
+  "final_video": "01_ショート動画_リール_YouTubeShorts\\インスタ完成形\\胸部レントゲン_顎乗せ台が高い理由_20261001.mp4",
+  "qa_contact_sheet": "reel_assets\\chest_xray_chin_rest_20261001_video\\qa_midframes\\qa_midframes_contact_sheet.jpg",
+  "qa": {
+    "duration_seconds": 31.73,
+    "resolution": "1080x1920",
+    "has_audio_stream": true,
+    "voice_duration_seconds": 31.795,
+    "audio_video_duration_difference_seconds": 0.065,
+    "frame_narration_mapping": "one telop frame per matching narration segment",
+    "long_silent_pause": "none; 0.02 seconds only after each matching narration"
+  }
+}

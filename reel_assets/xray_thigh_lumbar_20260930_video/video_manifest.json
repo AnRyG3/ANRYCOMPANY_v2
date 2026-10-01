@@ -1,0 +1,62 @@
+﻿{
+  "title": "レントゲン_太ももが痛いのになぜ腰も撮るの_20260930",
+  "speaker": "VOICEVOX speaker id 20",
+  "voice_speed": 1.2,
+  "tail_seconds_per_cut": 0.02,
+  "voice_text": [
+    "太ももが痛いのに、どうして腰も撮るのでしょう。",
+    "なぜここもと思ったら、撮影前に確認して大丈夫です。",
+    "痛い場所と、原因の場所は同じとは限りません。",
+    "症状によっては、腰や股関節が関係することもあります。",
+    "医師が必要と判断した部位を、撮影します。",
+    "原因を見分ける手がかりを、増やすためです。",
+    "詳しい目的は、医師やスタッフに確認できます。",
+    "整形外科の検査前に見返せるよう、保存しておいてください。",
+    "検査のなぜをへらしたいかたは、フォローしてください。"
+  ],
+  "frames": [
+    "reel_assets\\xray_thigh_lumbar_20260930_telop_frames\\telop_01_hook_question.png",
+    "reel_assets\\xray_thigh_lumbar_20260930_telop_frames\\telop_02_ask_before_exam.png",
+    "reel_assets\\xray_thigh_lumbar_20260930_telop_frames\\telop_03_pain_and_cause.png",
+    "reel_assets\\xray_thigh_lumbar_20260930_telop_frames\\telop_04_symptoms_may_relate.png",
+    "reel_assets\\xray_thigh_lumbar_20260930_telop_frames\\telop_05_doctor_orders_views.png",
+    "reel_assets\\xray_thigh_lumbar_20260930_telop_frames\\telop_06_clue_for_cause.png",
+    "reel_assets\\xray_thigh_lumbar_20260930_telop_frames\\telop_07_ask_for_purpose.png",
+    "reel_assets\\xray_thigh_lumbar_20260930_telop_frames\\telop_08_save_before_exam.png",
+    "reel_assets\\xray_thigh_lumbar_20260930_telop_frames\\telop_09_follow_cta.png"
+  ],
+  "raw_voice_durations_seconds": [
+    2.827,
+    3.541,
+    3.051,
+    3.669,
+    2.816,
+    2.624,
+    3.029,
+    3.776,
+    2.901
+  ],
+  "segment_durations_seconds": [
+    2.847,
+    3.561,
+    3.071,
+    3.689,
+    2.836,
+    2.644,
+    3.049,
+    3.796,
+    2.921
+  ],
+  "asset_video": "reel_assets\\xray_thigh_lumbar_20260930_video\\レントゲン_太ももが痛いのになぜ腰も撮るの_20260930.mp4",
+  "final_video": "01_ショート動画_リール_YouTubeShorts\\インスタ完成形\\レントゲン_太ももが痛いのになぜ腰も撮るの_20260930.mp4",
+  "qa_contact_sheet": "reel_assets\\xray_thigh_lumbar_20260930_video\\qa_midframes\\qa_midframes_contact_sheet.jpg",
+  "qa": {
+    "duration_seconds": 28.37,
+    "resolution": "1080x1920",
+    "has_audio_stream": true,
+    "voice_duration_seconds": 28.413,
+    "audio_video_duration_difference_seconds": 0.043,
+    "frame_narration_mapping": "one telop frame per matching narration segment",
+    "long_silent_pause": "none; 0.02 seconds only after each matching narration"
+  }
+}

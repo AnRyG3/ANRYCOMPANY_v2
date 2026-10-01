@@ -1,0 +1,137 @@
+﻿[
+  {
+    "index": 1,
+    "source": "reel_assets\\xray_thigh_lumbar_20260930_images\\frame_01_hook_why_lower_back_too.png",
+    "output": "reel_assets\\xray_thigh_lumbar_20260930_telop_frames\\telop_01_hook_question.png",
+    "text": [
+      "太ももが痛いのに",
+      "どうして腰も撮るの？"
+    ],
+    "highlights": [
+      "腰"
+    ],
+    "position": "center",
+    "font": "F:\\ANRYCAMPANY\\reel_assets\\fonts\\M_PLUS_Rounded_1c\\MPLUSRounded1c-Bold.ttf",
+    "panel_opacity": "70%"
+  },
+  {
+    "index": 2,
+    "source": "reel_assets\\xray_thigh_lumbar_20260930_images\\frame_02_ask_before_exam.png",
+    "output": "reel_assets\\xray_thigh_lumbar_20260930_telop_frames\\telop_02_ask_before_exam.png",
+    "text": [
+      "「なぜここも？」と思ったら",
+      "撮影前に確認して大丈夫です"
+    ],
+    "highlights": [
+      "確認"
+    ],
+    "position": "center",
+    "font": "F:\\ANRYCAMPANY\\reel_assets\\fonts\\M_PLUS_Rounded_1c\\MPLUSRounded1c-Bold.ttf",
+    "panel_opacity": "70%"
+  },
+  {
+    "index": 3,
+    "source": "reel_assets\\xray_thigh_lumbar_20260930_images\\frame_03_pain_location_not_always_cause.png",
+    "output": "reel_assets\\xray_thigh_lumbar_20260930_telop_frames\\telop_03_pain_and_cause.png",
+    "text": [
+      "痛い場所と",
+      "原因の場所は同じとは限りません"
+    ],
+    "highlights": [
+      "原因"
+    ],
+    "position": "center",
+    "font": "F:\\ANRYCAMPANY\\reel_assets\\fonts\\M_PLUS_Rounded_1c\\MPLUSRounded1c-Bold.ttf",
+    "panel_opacity": "70%"
+  },
+  {
+    "index": 4,
+    "source": "reel_assets\\xray_thigh_lumbar_20260930_images\\frame_04_symptoms_and_exam_explanation.png",
+    "output": "reel_assets\\xray_thigh_lumbar_20260930_telop_frames\\telop_04_symptoms_may_relate.png",
+    "text": [
+      "症状によっては",
+      "腰や股関節が関係することも"
+    ],
+    "highlights": [
+      "腰や股関節"
+    ],
+    "position": "center",
+    "font": "F:\\ANRYCAMPANY\\reel_assets\\fonts\\M_PLUS_Rounded_1c\\MPLUSRounded1c-Bold.ttf",
+    "panel_opacity": "70%"
+  },
+  {
+    "index": 5,
+    "source": "reel_assets\\xray_thigh_lumbar_20260930_images\\frame_05_preparing_needed_views.png",
+    "output": "reel_assets\\xray_thigh_lumbar_20260930_telop_frames\\telop_05_doctor_orders_views.png",
+    "text": [
+      "医師が",
+      "必要と判断した部位を撮影します"
+    ],
+    "highlights": [
+      "必要と判断した部位"
+    ],
+    "position": "center",
+    "font": "F:\\ANRYCAMPANY\\reel_assets\\fonts\\M_PLUS_Rounded_1c\\MPLUSRounded1c-Bold.ttf",
+    "panel_opacity": "70%"
+  },
+  {
+    "index": 6,
+    "source": "reel_assets\\xray_thigh_lumbar_20260930_images\\frame_06_more_information_needed.png",
+    "output": "reel_assets\\xray_thigh_lumbar_20260930_telop_frames\\telop_06_clue_for_cause.png",
+    "text": [
+      "原因を見分ける",
+      "手がかりを増やすためです"
+    ],
+    "highlights": [
+      "手がかり"
+    ],
+    "position": "top",
+    "font": "F:\\ANRYCAMPANY\\reel_assets\\fonts\\M_PLUS_Rounded_1c\\MPLUSRounded1c-Bold.ttf",
+    "panel_opacity": "70%"
+  },
+  {
+    "index": 7,
+    "source": "reel_assets\\xray_thigh_lumbar_20260930_images\\frame_07_ask_staff_or_doctor.png",
+    "output": "reel_assets\\xray_thigh_lumbar_20260930_telop_frames\\telop_07_ask_for_purpose.png",
+    "text": [
+      "詳しい目的は",
+      "医師やスタッフに確認できます"
+    ],
+    "highlights": [
+      "確認"
+    ],
+    "position": "top",
+    "font": "F:\\ANRYCAMPANY\\reel_assets\\fonts\\M_PLUS_Rounded_1c\\MPLUSRounded1c-Bold.ttf",
+    "panel_opacity": "70%"
+  },
+  {
+    "index": 8,
+    "source": "reel_assets\\xray_thigh_lumbar_20260930_images\\frame_08_save_before_exam.png",
+    "output": "reel_assets\\xray_thigh_lumbar_20260930_telop_frames\\telop_08_save_before_exam.png",
+    "text": [
+      "整形外科の検査前に",
+      "見返せるよう保存"
+    ],
+    "highlights": [
+      "保存"
+    ],
+    "position": "top",
+    "font": "F:\\ANRYCAMPANY\\reel_assets\\fonts\\M_PLUS_Rounded_1c\\MPLUSRounded1c-Bold.ttf",
+    "panel_opacity": "70%"
+  },
+  {
+    "index": 9,
+    "source": "reel_assets\\xray_thigh_lumbar_20260930_images\\frame_09_follow_cta_technologist.png",
+    "output": "reel_assets\\xray_thigh_lumbar_20260930_telop_frames\\telop_09_follow_cta.png",
+    "text": [
+      "検査の「なぜ？」を",
+      "減らしたい方はフォロー"
+    ],
+    "highlights": [
+      "フォロー"
+    ],
+    "position": "center",
+    "font": "F:\\ANRYCAMPANY\\reel_assets\\fonts\\M_PLUS_Rounded_1c\\MPLUSRounded1c-Bold.ttf",
+    "panel_opacity": "70%"
+  }
+]
