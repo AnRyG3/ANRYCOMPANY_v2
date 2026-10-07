@@ -1,0 +1,213 @@
+﻿{
+  "title": "MRI中、寝ちゃっても大丈夫？",
+  "input_manifest": "F:\\ANRYCAMPANY\\reel_assets\\mri_series\\mri_sleep_20261007_images\\production_manifest.md",
+  "style": "要点だけ、1画面1メッセージ、X軸中央、上・中央・下のみ、指定フレームは下段中央、その他は中央、白角丸背景70%不透明、濃紺文字、重要語だけ青強調",
+  "size": {
+    "width": 1080,
+    "height": 1920
+  },
+  "frames": [
+    {
+      "index": 1,
+      "source": "F:\\ANRYCAMPANY\\reel_assets\\mri_series\\mri_sleep_20261007_samples\\sample_01_hook_sleeping_mri.png",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\mri_series\\mri_sleep_20261007_telop_frames\\telop_01_hook.png",
+      "telop": [
+        "MRI中、寝てもいい？",
+        "検査によっては大丈夫"
+      ],
+      "highlights": [
+        "寝ても"
+      ],
+      "position": "bottom",
+      "box": [
+        82,
+        1248,
+        998,
+        1484
+      ],
+      "font": "F:\\ANRYCAMPANY\\reel_assets\\fonts\\M_PLUS_Rounded_1c\\MPLUSRounded1c-Bold.ttf"
+    },
+    {
+      "index": 2,
+      "source": "F:\\ANRYCAMPANY\\reel_assets\\mri_series\\mri_sleep_20261007_images\\frame_02_head_spine_joint_rest.png",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\mri_series\\mri_sleep_20261007_telop_frames\\telop_02_may_sleep.png",
+      "telop": [
+        "頭・背骨・関節などは",
+        "眠ってもよい場合も"
+      ],
+      "highlights": [
+        "眠っても"
+      ],
+      "position": "bottom",
+      "box": [
+        82,
+        1248,
+        998,
+        1484
+      ],
+      "font": "F:\\ANRYCAMPANY\\reel_assets\\fonts\\M_PLUS_Rounded_1c\\MPLUSRounded1c-Bold.ttf"
+    },
+    {
+      "index": 3,
+      "source": "F:\\ANRYCAMPANY\\reel_assets\\mri_series\\mri_sleep_20261007_images\\frame_03_keep_still.png",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\mri_series\\mri_sleep_20261007_telop_frames\\telop_03_motion_blur.png",
+      "telop": [
+        "ただし体が動くと",
+        "画像がぶれることも"
+      ],
+      "highlights": [
+        "動く"
+      ],
+      "position": "center",
+      "box": [
+        82,
+        842,
+        998,
+        1078
+      ],
+      "font": "F:\\ANRYCAMPANY\\reel_assets\\fonts\\M_PLUS_Rounded_1c\\MPLUSRounded1c-Bold.ttf"
+    },
+    {
+      "index": 4,
+      "source": "F:\\ANRYCAMPANY\\reel_assets\\mri_series\\mri_sleep_20261007_images\\frame_04_intercom_voice.png",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\mri_series\\mri_sleep_20261007_telop_frames\\telop_04_staff_voice.png",
+      "telop": [
+        "動いてしまったら",
+        "声をかけることも"
+      ],
+      "highlights": [
+        "声"
+      ],
+      "position": "bottom",
+      "box": [
+        82,
+        1248,
+        998,
+        1484
+      ],
+      "font": "F:\\ANRYCAMPANY\\reel_assets\\fonts\\M_PLUS_Rounded_1c\\MPLUSRounded1c-Bold.ttf"
+    },
+    {
+      "index": 5,
+      "source": "F:\\ANRYCAMPANY\\reel_assets\\mri_series\\mri_sleep_20261007_samples\\sample_02_abdominal_breath_hold.png",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\mri_series\\mri_sleep_20261007_telop_frames\\telop_05_breath_hold.png",
+      "telop": [
+        "お腹などの検査は",
+        "息止めの合図が必要なことも"
+      ],
+      "highlights": [
+        "息止め"
+      ],
+      "position": "bottom",
+      "box": [
+        82,
+        1248,
+        998,
+        1484
+      ],
+      "font": "F:\\ANRYCAMPANY\\reel_assets\\fonts\\M_PLUS_Rounded_1c\\MPLUSRounded1c-Bold.ttf"
+    },
+    {
+      "index": 6,
+      "source": "F:\\ANRYCAMPANY\\reel_assets\\mri_series\\mri_sleep_20261007_images\\frame_06_stay_awake_calm.png",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\mri_series\\mri_sleep_20261007_telop_frames\\telop_06_stay_awake.png",
+      "telop": [
+        "合図がある検査では",
+        "起きているようお願いすることも"
+      ],
+      "highlights": [
+        "合図"
+      ],
+      "position": "bottom",
+      "box": [
+        82,
+        1248,
+        998,
+        1484
+      ],
+      "font": "F:\\ANRYCAMPANY\\reel_assets\\fonts\\M_PLUS_Rounded_1c\\MPLUSRounded1c-Bold.ttf"
+    },
+    {
+      "index": 7,
+      "source": "F:\\ANRYCAMPANY\\reel_assets\\mri_series\\mri_sleep_20261007_images\\frame_07_tell_before_exam.png",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\mri_series\\mri_sleep_20261007_telop_frames\\telop_07_tell_before_exam.png",
+      "telop": [
+        "眠りそうで心配なら",
+        "検査前に伝えてください"
+      ],
+      "highlights": [
+        "検査前"
+      ],
+      "position": "center",
+      "box": [
+        82,
+        842,
+        998,
+        1078
+      ],
+      "font": "F:\\ANRYCAMPANY\\reel_assets\\fonts\\M_PLUS_Rounded_1c\\MPLUSRounded1c-Bold.ttf"
+    },
+    {
+      "index": 8,
+      "source": "F:\\ANRYCAMPANY\\reel_assets\\mri_series\\mri_sleep_20261007_images\\frame_08_question_phrase.png",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\mri_series\\mri_sleep_20261007_telop_frames\\telop_08_question_phrase.png",
+      "telop": [
+        "確認するのは",
+        "息止めの合図はありますか？"
+      ],
+      "highlights": [
+        "息止めの合図"
+      ],
+      "position": "bottom",
+      "box": [
+        82,
+        1248,
+        998,
+        1484
+      ],
+      "font": "F:\\ANRYCAMPANY\\reel_assets\\fonts\\M_PLUS_Rounded_1c\\MPLUSRounded1c-Bold.ttf"
+    },
+    {
+      "index": 9,
+      "source": "F:\\ANRYCAMPANY\\reel_assets\\mri_series\\mri_sleep_20261007_images\\frame_09_ask_staff.png",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\mri_series\\mri_sleep_20261007_telop_frames\\telop_09_ask_staff.png",
+      "telop": [
+        "自分の検査について",
+        "担当者に確認できます"
+      ],
+      "highlights": [
+        "担当者"
+      ],
+      "position": "center",
+      "box": [
+        82,
+        842,
+        998,
+        1078
+      ],
+      "font": "F:\\ANRYCAMPANY\\reel_assets\\fonts\\M_PLUS_Rounded_1c\\MPLUSRounded1c-Bold.ttf"
+    },
+    {
+      "index": 10,
+      "source": "F:\\ANRYCAMPANY\\reel_assets\\mri_series\\mri_sleep_20261007_images\\frame_10_follow_cta.png",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\mri_series\\mri_sleep_20261007_telop_frames\\telop_10_follow.png",
+      "telop": [
+        "検査前の疑問に答えます",
+        "よければフォローを"
+      ],
+      "highlights": [
+        "フォロー"
+      ],
+      "position": "bottom",
+      "box": [
+        82,
+        1248,
+        998,
+        1484
+      ],
+      "font": "F:\\ANRYCAMPANY\\reel_assets\\fonts\\M_PLUS_Rounded_1c\\MPLUSRounded1c-Bold.ttf"
+    }
+  ],
+  "contact_sheet": "F:\\ANRYCAMPANY\\reel_assets\\mri_series\\mri_sleep_20261007_telop_frames\\contact_sheet_telop_frames.png",
+  "note": "Audio and video generation are not included."
+}
