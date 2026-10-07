@@ -10,13 +10,24 @@ ANRYCAMPANYで使う人物キャラクターの管理場所。
 | RT_TECH_002 | 診療放射線技師 | 診療放射線技師の安心ラボのサブ候補キャラクター | [[RT_TECH_002/RT_TECH_002]] |
 | DOCTOR_001 | 医師 | 診断説明と検査提案を行う医師キャラクター | [[DOCTOR_001/DOCTOR_001]] |
 | NURSE_001 | 看護師 | 検査前説明と患者さんサポートを行う看護師キャラクター | [[NURSE_001/NURSE_001]] |
+| RECEPTION_F28_001 | 医療事務・受付スタッフ | 予約確認、受付、問診票案内、検査場所への案内を行うキャラクター | [[RECEPTION_F28_001/RECEPTION_F28_001]] |
 | PATIENT_F20_001 | 一般患者 | CT、MRI、レントゲン、健診を受ける20代女性患者キャラクター | [[PATIENT_F20_001/PATIENT_F20_001]] |
 | PATIENT_F30_001 | 一般患者 | CT、MRI、レントゲン、健診を受ける30代女性患者キャラクター | [[PATIENT_F30_001/PATIENT_F30_001]] |
 | PATIENT_F40_001 | 一般患者 | マンモグラフィ、CT、MRI、健診、予防検査を受ける40代女性患者キャラクター | [[PATIENT_F40_001/PATIENT_F40_001]] |
+| PATIENT_M40_001 | 一般患者 | PET、胃部X線、CT、MRI、手術歴、健診を受ける40代男性患者キャラクター | [[PATIENT_M40_001/PATIENT_M40_001]] |
 | PATIENT_F50_001 | 一般患者 | マンモグラフィ、CT、MRI、骨密度検査、健診、予防医療を受ける50代女性患者キャラクター | [[PATIENT_F50_001/PATIENT_F50_001]] |
+| PATIENT_F60_001 | 一般患者 | 骨密度、CT、MRI、胸部X線、健診を受ける60代女性患者キャラクター | [[PATIENT_F60_001/PATIENT_F60_001]] |
 | PATIENT_F70_001 | General elderly patient | Elderly female patient for fracture, fall prevention, osteoporosis, bone density, X-ray, CT, and MRI scenes | [[PATIENT_F70_001/PATIENT_F70_001]] |
 | PATIENT_M70_001 | General elderly patient | Elderly male patient for fracture, fall prevention, compression fracture, osteoporosis, bone density, X-ray, CT, and MRI scenes | [[PATIENT_M70_001/PATIENT_M70_001]] |
 | PATIENT_M02_001 | 一般患者 | 小児のレントゲン、CT、MRI、検査説明を受ける2才男児患者キャラクター | [[PATIENT_M02_001/PATIENT_M02_001]] |
+| PATIENT_F10_001 | 一般患者 | 小児レントゲン、MRI、スポーツ外傷、検査説明を受ける10代女性患者キャラクター | [[PATIENT_F10_001/PATIENT_F10_001]] |
+
+## 採用記録
+
+- 2026-10-04: [[PATIENT_M40_001/PATIENT_M40_001|PATIENT_M40_001]] を40代男性の一般患者として採用。
+- 2026-10-04: [[RECEPTION_F28_001/RECEPTION_F28_001|RECEPTION_F28_001]] を医療事務・受付スタッフとして採用。
+- 2026-10-04: [[PATIENT_F60_001/PATIENT_F60_001|PATIENT_F60_001]] を60代女性の一般患者として採用。
+- 2026-10-04: [[PATIENT_F10_001/PATIENT_F10_001|PATIENT_F10_001]] を10代女性の一般患者として採用。
 
 ## 運用ルール
 
@@ -36,13 +47,17 @@ This English section is the canonical reference for Codex and image generation. 
 | RT_TECH_002 | Diagnostic radiologic technologist | Secondary/support diagnostic radiologic technologist character | [[RT_TECH_002/RT_TECH_002]] |
 | DOCTOR_001 | Physician | Physician who explains findings and supports medical decision-making | [[DOCTOR_001/DOCTOR_001]] |
 | NURSE_001 | Nurse | Nurse who supports patients and explains preparation calmly | [[NURSE_001/NURSE_001]] |
+| RECEPTION_F28_001 | Medical administrative and reception staff | Reception staff for check-in, appointment confirmation, questionnaire guidance, and wayfinding; no medical judgment | [[RECEPTION_F28_001/RECEPTION_F28_001]] |
 | PATIENT_F20_001 | General patient, female, 20s | Patient for CT, MRI, X-ray, and health screening scenes | [[PATIENT_F20_001/PATIENT_F20_001]] |
 | PATIENT_F30_001 | General patient, female, 30s | Patient for CT, MRI, X-ray, and health screening scenes | [[PATIENT_F30_001/PATIENT_F30_001]] |
 | PATIENT_F40_001 | General patient, female, 40s | Patient for mammography, CT, MRI, screening, and preventive care scenes | [[PATIENT_F40_001/PATIENT_F40_001]] |
+| PATIENT_M40_001 | General patient, male, 40s | Patient for PET, upper GI X-ray, CT, MRI, surgical-history, and screening scenes | [[PATIENT_M40_001/PATIENT_M40_001]] |
 | PATIENT_F50_001 | General patient, female, 50s | Patient for mammography, CT, MRI, bone density, screening, and preventive care scenes | [[PATIENT_F50_001/PATIENT_F50_001]] |
+| PATIENT_F60_001 | General patient, female, 60s | Patient for bone density, CT, MRI, chest X-ray, screening, and outpatient scenes | [[PATIENT_F60_001/PATIENT_F60_001]] |
 | PATIENT_F70_001 | General elderly patient, female, early 70s | Patient for fracture, fall prevention, osteoporosis, bone density, X-ray, CT, MRI, and outpatient explanation scenes | [[PATIENT_F70_001/PATIENT_F70_001]] |
 | PATIENT_M70_001 | General elderly patient, male, early 70s | Patient for fracture, fall prevention, compression fracture, osteoporosis, bone density, X-ray, CT, MRI, and outpatient explanation scenes | [[PATIENT_M70_001/PATIENT_M70_001]] |
 | PATIENT_M02_001 | General pediatric patient, male, 2 years old | Pediatric patient for X-ray, CT, MRI, and examination explanation scenes | [[PATIENT_M02_001/PATIENT_M02_001]] |
+| PATIENT_F10_001 | General pediatric patient, female, 10-12 | Patient for pediatric X-ray, MRI, sports injury, and pre-examination explanation scenes | [[PATIENT_F10_001/PATIENT_F10_001]] |
 
 ## Readable Production Rules
 

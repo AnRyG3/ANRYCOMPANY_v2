@@ -1,0 +1,162 @@
+﻿{
+  "title": "MRI前、禁煙パッチを貼っていたら",
+  "voice_engine": "VOICEVOX",
+  "speaker": "VOICEVOX speaker id 20",
+  "voice_speed": 1.2,
+  "bgm": "F:\\ANRYCAMPANY\\01_ショート動画_リール_YouTubeShorts\\インスタリール用\\BGM フリー素材\\Kind_Heart.mp3",
+  "bgm_volume": "-26dB",
+  "frames": [
+    "F:\\ANRYCAMPANY\\reel_assets\\mri_series\\mri_implant_questionnaire_20261005_telop_frames\\telop_01.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\mri_series\\mri_implant_questionnaire_20261005_telop_frames\\telop_02.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\mri_series\\mri_implant_questionnaire_20261005_telop_frames\\telop_03.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\mri_series\\mri_implant_questionnaire_20261005_telop_frames\\telop_04.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\mri_series\\mri_implant_questionnaire_20261005_telop_frames\\telop_05.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\mri_series\\mri_implant_questionnaire_20261005_telop_frames\\telop_06.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\mri_series\\mri_implant_questionnaire_20261005_telop_frames\\telop_07.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\mri_series\\mri_implant_questionnaire_20261005_telop_frames\\telop_08.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\mri_series\\mri_implant_questionnaire_20261005_telop_frames\\telop_09.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\mri_series\\mri_implant_questionnaire_20261005_telop_frames\\telop_10.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\mri_series\\mri_implant_questionnaire_20261005_telop_frames\\telop_11.png"
+  ],
+  "display_narration": [
+    "手術のボルトがある。MRIの問診票、どう答える？",
+    "該当する項目に、ありと答え、受付や問診で伝えてください。",
+    "同じ病院で受けた手術でも、安全確認のため省略せずに伝えます。",
+    "伝えるのは、手術した部位と時期。",
+    "分かれば、入っている物の名前や種類も伝えてください。",
+    "金属の種類や場所、MRI装置や撮影条件によって判断が変わります。",
+    "全員OKでも、全員不可でもありません。",
+    "種類が分からなくても、分かりませんとそのまま伝えて大丈夫です。",
+    "施設が必要な情報と安全条件を確認し、検査できるか判断します。",
+    "受付や問診で使える一文を、保存して使ってください。",
+    "〇〇の手術を受け、金属が入っていると言われています。部位は〇〇、手術時期は〇年ごろです。種類は分かりません。"
+  ],
+  "voice_text": [
+    "手術のボルトがある。エムアールアイの問診票、どう答える？",
+    "該当する項目に、ありと答え、受付や問診で伝えてください。",
+    "同じ病院で受けた手術でも、安全確認のため省略せずに伝えます。",
+    "伝えるのは、手術した部位と時期。",
+    "分かれば、入っている物の名前や種類も伝えてください。",
+    "金属の種類や場所、エムアールアイ装置や撮影条件によって判断が変わります。",
+    "全員OKでも、全員不可でもありません。",
+    "種類が分からなくても、分かりませんとそのまま伝えて大丈夫です。",
+    "施設が必要な情報と安全条件を確認し、検査できるか判断します。",
+    "受付や問診で使える一文を、保存して使ってください。",
+    "まるまるの手術を受け、金属が入っていると言われています。部位はまるまる、手術時期はまる年ごろです。種類は分かりません。"
+  ],
+  "raw_voice_seconds": [
+    3.851,
+    4.533,
+    4.331,
+    2.144,
+    3.232,
+    4.971,
+    2.667,
+    3.84,
+    4.747,
+    3.584,
+    8.128
+  ],
+  "durations_seconds": [
+    3.891,
+    4.573,
+    4.371,
+    2.184,
+    3.272,
+    5.011,
+    2.707,
+    3.88,
+    4.787,
+    3.624,
+    8.168
+  ],
+  "tail_padding_seconds_each": 0.04,
+  "max_added_gap_seconds": 0.04,
+  "total_timeline_seconds": 46.467,
+  "voice_audio_seconds": 46.466,
+  "video_seconds": 46.47,
+  "voice_audio": "F:\\ANRYCAMPANY\\reel_assets\\mri_series\\mri_implant_questionnaire_20261005_telop_frames\\audio\\voice.wav",
+  "voice_bgm_mix": "F:\\ANRYCAMPANY\\reel_assets\\mri_series\\mri_implant_questionnaire_20261005_telop_frames\\audio\\voice_bgm_mix.wav",
+  "asset_video": "F:\\ANRYCAMPANY\\reel_assets\\mri_series\\mri_implant_questionnaire_20261005_telop_frames\\video\\MRI_手術後の金属と問診_20261005.mp4",
+  "final_video": "F:\\ANRYCAMPANY\\01_ショート動画_リール_YouTubeShorts\\インスタ完成形\\MRI_手術後の金属と問診_20261005.mp4",
+  "qa_contact_sheet": "F:\\ANRYCAMPANY\\reel_assets\\mri_series\\mri_implant_questionnaire_20261005_telop_frames\\qa_midframes\\qa_midframes_contact_sheet.jpg",
+  "alignment_check": [
+    {
+      "index": 1,
+      "frame": "telop_01.png",
+      "display_narration": "手術のボルトがある。MRIの問診票、どう答える？",
+      "voice_text": "手術のボルトがある。エムアールアイの問診票、どう答える？",
+      "duration_seconds": 3.891
+    },
+    {
+      "index": 2,
+      "frame": "telop_02.png",
+      "display_narration": "該当する項目に、ありと答え、受付や問診で伝えてください。",
+      "voice_text": "該当する項目に、ありと答え、受付や問診で伝えてください。",
+      "duration_seconds": 4.573
+    },
+    {
+      "index": 3,
+      "frame": "telop_03.png",
+      "display_narration": "同じ病院で受けた手術でも、安全確認のため省略せずに伝えます。",
+      "voice_text": "同じ病院で受けた手術でも、安全確認のため省略せずに伝えます。",
+      "duration_seconds": 4.371
+    },
+    {
+      "index": 4,
+      "frame": "telop_04.png",
+      "display_narration": "伝えるのは、手術した部位と時期。",
+      "voice_text": "伝えるのは、手術した部位と時期。",
+      "duration_seconds": 2.184
+    },
+    {
+      "index": 5,
+      "frame": "telop_05.png",
+      "display_narration": "分かれば、入っている物の名前や種類も伝えてください。",
+      "voice_text": "分かれば、入っている物の名前や種類も伝えてください。",
+      "duration_seconds": 3.272
+    },
+    {
+      "index": 6,
+      "frame": "telop_06.png",
+      "display_narration": "金属の種類や場所、MRI装置や撮影条件によって判断が変わります。",
+      "voice_text": "金属の種類や場所、エムアールアイ装置や撮影条件によって判断が変わります。",
+      "duration_seconds": 5.011
+    },
+    {
+      "index": 7,
+      "frame": "telop_07.png",
+      "display_narration": "全員OKでも、全員不可でもありません。",
+      "voice_text": "全員OKでも、全員不可でもありません。",
+      "duration_seconds": 2.707
+    },
+    {
+      "index": 8,
+      "frame": "telop_08.png",
+      "display_narration": "種類が分からなくても、分かりませんとそのまま伝えて大丈夫です。",
+      "voice_text": "種類が分からなくても、分かりませんとそのまま伝えて大丈夫です。",
+      "duration_seconds": 3.88
+    },
+    {
+      "index": 9,
+      "frame": "telop_09.png",
+      "display_narration": "施設が必要な情報と安全条件を確認し、検査できるか判断します。",
+      "voice_text": "施設が必要な情報と安全条件を確認し、検査できるか判断します。",
+      "duration_seconds": 4.787
+    },
+    {
+      "index": 10,
+      "frame": "telop_10.png",
+      "display_narration": "受付や問診で使える一文を、保存して使ってください。",
+      "voice_text": "受付や問診で使える一文を、保存して使ってください。",
+      "duration_seconds": 3.624
+    },
+    {
+      "index": 11,
+      "frame": "telop_11.png",
+      "display_narration": "〇〇の手術を受け、金属が入っていると言われています。部位は〇〇、手術時期は〇年ごろです。種類は分かりません。",
+      "voice_text": "まるまるの手術を受け、金属が入っていると言われています。部位はまるまる、手術時期はまる年ごろです。種類は分かりません。",
+      "duration_seconds": 8.168
+    }
+  ]
+}

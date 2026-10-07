@@ -29,3 +29,4 @@ For ambiguous or repeatedly misread words, use kana in the actual text passed to
 - Use `。` for clear pauses.
 - Avoid `？` when the engine stretches the ending too much; rewrite naturally.
 - For contrast phrases, split with punctuation when needed.
+- After narration ends, keep the final visual for 1.0 second with BGM only. Do not add a silent gap; let the BGM fade or end naturally after this tail.

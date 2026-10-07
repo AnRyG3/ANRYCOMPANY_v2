@@ -28,6 +28,12 @@ Use this format:
 | Cut | Approved input image (absolute path) | Purpose |
 |---|---|---|
 | 01 | `F:\\ANRYCAMPANY\\reel_assets\\...\\01.png` | hook |
+
+## Character Clothing Lock
+
+| Character ID | Approved clothing reference (absolute path) | Applies to cuts |
+|---|---|---|
+| `PATIENT_...` | `F:\\ANRYCAMPANY\\...\\outfit_ref.png` | 01-09 |
 ```
 
 - List every approved input image once, in final cut order, including a common end card when used.
@@ -35,6 +41,7 @@ Use this format:
 - Before text insertion, compare the actual input images with the manifest. Stop generation if the count, cut order, or absolute paths differ.
 - Before audio/video generation, confirm that every telop frame maps one-to-one and in the same cut order to its manifest image. Stop generation if the count, order, or source-image path differs.
 - If an approved source image changes, return to image approval before replacing its manifest entry.
+- If a person appears, record the exact clothing-reference path for every Character ID. One Character ID must use the identical outfit in every cut of that video; stop if any cut changes clothing, outerwear, shoes, accessories, or examination gown.
 
 ## Prohibited Source Areas
 

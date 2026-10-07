@@ -1,0 +1,81 @@
+﻿{
+  "title": "前の病院でCTを撮ったのに、また造影CT？",
+  "speaker": "VOICEVOX speaker id 20",
+  "voice_speed": 1.2,
+  "bgm": "F:\\ANRYCAMPANY\\01_ショート動画_リール_YouTubeShorts\\インスタリール用\\BGM フリー素材\\Kind_Heart.mp3",
+  "bgm_volume": "-25dB",
+  "display_narration": [
+    "前の病院でCTを撮ったのに、また造影CT？",
+    "単純CTだけでは分からないことがないか、造影CTで確認することがあります。",
+    "造影剤を使うと、血管や臓器、病変の見え方が変わります。",
+    "必要な情報に応じて、造影CTを追加することがあります。",
+    "前の病院でCTを撮っていても、今回の診察で確認したいことがあれば、造影CTを行うことがあります。",
+    "造影CTが必要かどうかは、医師が判断します。",
+    "以前、造影剤で気分が悪くなったことがある方は、事前に伝えてください。",
+    "気になることがあれば、検査前にスタッフへ確認してください。"
+  ],
+  "voice_text": [
+    "前の病院でしーてぃーを撮ったのに、またぞうえいしーてぃーになると、気になりますよね。",
+    "たんじゅんしーてぃーだけでは、分からないことがないか。ぞうえいしーてぃーで、確認することがあります。",
+    "ぞうえいざいを使うと、けっかんやぞうき、びょうへんの見え方が変わります。",
+    "必要な情報に応じて、ぞうえいしーてぃーを追加することがあります。",
+    "前の病院でしーてぃーを撮っていても、今回の診察で確認したいことがあれば、ぞうえいしーてぃーを行うことがあります。",
+    "ぞうえいしーてぃーが必要かどうかは、医師が判断します。",
+    "以前、ぞうえいざいで気分が悪くなったことがあるかたは、事前に伝えてください。",
+    "気になることがあれば、検査前にスタッフへ確認してください。"
+  ],
+  "frames": [
+    "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_previous_hospital_contrast_v1_samples\\telop_frames\\01_hook_patient_ct_room_telop.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_previous_hospital_contrast_v1_samples\\telop_frames\\02_ct_room_injector_telop.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_previous_hospital_contrast_v1_samples\\telop_frames\\03_injector_detail_telop.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_previous_hospital_contrast_v1_samples\\telop_frames\\04_ct_room_wide_telop.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_previous_hospital_contrast_v1_samples\\telop_frames\\05_patient_waiting_telop.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_previous_hospital_contrast_v1_samples\\telop_frames\\06_patient_corridor_telop.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_previous_hospital_contrast_v1_samples\\telop_frames\\07_patient_reception_telop.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_previous_hospital_contrast_v1_samples\\telop_frames\\08_patient_ct_room_telop.png"
+  ],
+  "voice_durations_seconds": [
+    4.8,
+    5.557,
+    4.107,
+    3.723,
+    6.645,
+    3.083,
+    4.779,
+    3.36
+  ],
+  "video_durations_seconds": [
+    4.8,
+    5.567,
+    4.133,
+    3.733,
+    6.667,
+    3.1,
+    4.8,
+    4.367
+  ],
+  "voice_audio": "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_previous_hospital_contrast_v1_samples\\audio\\voice_all.wav",
+  "asset_video": "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_previous_hospital_contrast_v1_samples\\video\\20261006_前の病院でCTを撮ったのに_また造影CT.mp4",
+  "final_video": "F:\\ANRYCAMPANY\\01_ショート動画_リール_YouTubeShorts\\インスタ完成形\\20261006_前の病院でCTを撮ったのに_また造影CT.mp4",
+  "qa_midframes": [
+    "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_previous_hospital_contrast_v1_samples\\qa_midframes\\qa_mid_01.jpg",
+    "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_previous_hospital_contrast_v1_samples\\qa_midframes\\qa_mid_02.jpg",
+    "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_previous_hospital_contrast_v1_samples\\qa_midframes\\qa_mid_03.jpg",
+    "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_previous_hospital_contrast_v1_samples\\qa_midframes\\qa_mid_04.jpg",
+    "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_previous_hospital_contrast_v1_samples\\qa_midframes\\qa_mid_05.jpg",
+    "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_previous_hospital_contrast_v1_samples\\qa_midframes\\qa_mid_06.jpg",
+    "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_previous_hospital_contrast_v1_samples\\qa_midframes\\qa_mid_07.jpg",
+    "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_previous_hospital_contrast_v1_samples\\qa_midframes\\qa_mid_08.jpg"
+  ],
+  "qa": {
+    "duration_seconds": 37.05,
+    "resolution": "1080x1920",
+    "has_audio_stream": true,
+    "voice_duration_seconds": 36.053,
+    "expected_final_duration_seconds": 37.053,
+    "audio_video_duration_difference_seconds": 0.003,
+    "frame_narration_mapping": "one telop frame per matching narration segment in cut order",
+    "silent_gaps_between_cuts": "none",
+    "final_tail": "1.0 second of BGM only after narration ends"
+  }
+}

@@ -18,3 +18,16 @@ Use this file before proposing or generating any person image for ANRYCAMPANY re
 - Do not approve a sample frame as "using the existing character" unless it visually matches the registered Character ID reference.
 - If no registered character fits the scene, stop and ask whether to create a new Character ID before generating an image.
 - This applies to sample frames, draft images, thumbnails, background people, and final video assets.
+
+## Patient Clothing Variants
+
+- For adult patient characters, use these non-seasonal scene categories when an approved clothing reference exists: arrival/reception, workday, leisure/exercise, and screening.
+- Treat existing approved examination gowns as a separate examination-state category, not as a casual or scene-based clothing variant. Do not substitute an unregistered outfit for any category.
+- Before generating a person image, name the Character ID, the scene category, and the exact approved clothing-reference path.
+
+## Absolute Same-Video Clothing Lock
+
+- For one video, a given Character ID must wear one exact approved outfit from the first sample frame through the final cut.
+- The top, bottoms, outerwear, footwear, accessories, and any examination gown must remain identical in every cut of that video.
+- Do not switch between seasonal clothing, scene categories, casual clothing, workwear, screening clothing, or examination gowns within the same video, even when the scene location changes.
+- Record the locked clothing-reference path in the image plan and in `production_manifest.md`. If a cut differs, treat it as a failed frame and regenerate it before text, audio, or video work proceeds.
