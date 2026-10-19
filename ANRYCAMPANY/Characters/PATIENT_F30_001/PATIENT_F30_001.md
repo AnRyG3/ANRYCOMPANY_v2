@@ -81,6 +81,7 @@
 | `F:\ANRYCAMPANY\reel_assets\character_references\patients\PATIENT_F30_001\PATIENT_F30_001_autumn_ref.png` | 秋の私服参考。 |
 | `F:\ANRYCAMPANY\reel_assets\character_references\patients\PATIENT_F30_001\PATIENT_F30_001_autumn_arrival_greige_ref.png` | 承認済みの秋の来院用私服。グレージュのテーラードジャケット、くすみオリーブの薄手ニット、ネイビーのワイドパンツ、ダークブラウンのローファー。 |
 | `F:\ANRYCAMPANY\reel_assets\character_references\patients\PATIENT_F30_001\PATIENT_F30_001_autumn_modern_layered_ref.png` | 承認済みの秋の来院用私服。チャコールブラックのゆったりしたクルーネックニット、アイボリーのレイヤード裾、ミディアムグレーのワイドパンツ、黒のレザーローファー。 |
+| `F:\ANRYCAMPANY\reel_assets\character_references\patients\PATIENT_F30_001\PATIENT_F30_001_onepiece_arrival_dusty_rose_ref.png` | 承認済みの来院・受付用私服。くすみローズの無地ワンピース（半袖、膝下丈）、濃茶のフラットシューズ、装飾のないベージュのバッグ。心臓エコーのワンピース回で使用。顔は基準画像を優先する。 |
 | `F:\ANRYCAMPANY\reel_assets\character_references\patients\PATIENT_F30_001\PATIENT_F30_001_winter_ref.png` | 冬の私服参考。 |
 
 ## 生成用プロンプト要約
