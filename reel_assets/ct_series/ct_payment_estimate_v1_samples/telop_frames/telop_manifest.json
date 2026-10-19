@@ -1,0 +1,180 @@
+﻿[
+  {
+    "cut": 1,
+    "source": "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_payment_estimate_v1_samples\\scene_01_ct_payment_question_v2.png",
+    "output": "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_payment_estimate_v1_samples\\telop_frames\\telop_01_payment_estimate.png",
+    "text": [
+      "CTの日 会計の目安",
+      "事前に聞いて大丈夫"
+    ],
+    "highlight_words": [
+      " 会計の目安"
+    ],
+    "position": "center",
+    "x_axis": "center",
+    "font": "F:\\ANRYCAMPANY\\reel_assets\\fonts\\M_PLUS_Rounded_1c\\MPLUSRounded1c-Bold.ttf",
+    "panel_opacity": "70%"
+  },
+  {
+    "cut": 2,
+    "source": "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_payment_estimate_v1_samples\\scene_02_reception_guidance.png",
+    "output": "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_payment_estimate_v1_samples\\telop_frames\\telop_02_hospital_difference.png",
+    "text": [
+      "金額は",
+      "病院ごとに違います"
+    ],
+    "highlight_words": [
+      "病院ごと"
+    ],
+    "position": "center",
+    "x_axis": "center",
+    "font": "F:\\ANRYCAMPANY\\reel_assets\\fonts\\M_PLUS_Rounded_1c\\MPLUSRounded1c-Bold.ttf",
+    "panel_opacity": "70%"
+  },
+  {
+    "cut": 3,
+    "source": "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_payment_estimate_v1_samples\\scene_03_payment_method.png",
+    "output": "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_payment_estimate_v1_samples\\telop_frames\\telop_03_payment_method.png",
+    "text": [
+      "使える",
+      "支払い方法も確認"
+    ],
+    "highlight_words": [
+      "支払い方法"
+    ],
+    "position": "center",
+    "x_axis": "center",
+    "font": "F:\\ANRYCAMPANY\\reel_assets\\fonts\\M_PLUS_Rounded_1c\\MPLUSRounded1c-Bold.ttf",
+    "panel_opacity": "70%"
+  },
+  {
+    "cut": 4,
+    "source": "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_payment_estimate_v1_samples\\scene_04_payment_concern.png",
+    "output": "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_payment_estimate_v1_samples\\telop_frames\\telop_04_payment_concern.png",
+    "text": [
+      "当日の会計",
+      "気になりますよね"
+    ],
+    "highlight_words": [
+      "会計"
+    ],
+    "position": "center",
+    "x_axis": "center",
+    "font": "F:\\ANRYCAMPANY\\reel_assets\\fonts\\M_PLUS_Rounded_1c\\MPLUSRounded1c-Bold.ttf",
+    "panel_opacity": "70%"
+  },
+  {
+    "cut": 5,
+    "source": "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_payment_estimate_v1_samples\\scene_05_ct_contrast_difference.png",
+    "output": "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_payment_estimate_v1_samples\\telop_frames\\telop_05_contrast_cost.png",
+    "text": [
+      "造影剤の有無で",
+      "費用が変わることも"
+    ],
+    "highlight_words": [
+      "造影剤"
+    ],
+    "position": "center",
+    "x_axis": "center",
+    "font": "F:\\ANRYCAMPANY\\reel_assets\\fonts\\M_PLUS_Rounded_1c\\MPLUSRounded1c-Bold.ttf",
+    "panel_opacity": "70%"
+  },
+  {
+    "cut": 6,
+    "source": "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_payment_estimate_v1_samples\\scene_06_consultation_and_ct_flow.png",
+    "output": "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_payment_estimate_v1_samples\\telop_frames\\telop_06_other_factors.png",
+    "text": [
+      "初診・再診",
+      "診察やほかの検査でも",
+      "金額が変わることも"
+    ],
+    "highlight_words": [
+      "初診・再診"
+    ],
+    "position": "center",
+    "x_axis": "center",
+    "font": "F:\\ANRYCAMPANY\\reel_assets\\fonts\\M_PLUS_Rounded_1c\\MPLUSRounded1c-Bold.ttf",
+    "panel_opacity": "70%"
+  },
+  {
+    "cut": 7,
+    "source": "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_payment_estimate_v1_samples\\scene_07_coverage_difference.png",
+    "output": "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_payment_estimate_v1_samples\\telop_frames\\telop_07_burden_ratio.png",
+    "text": [
+      "負担割合によって",
+      "窓口の金額は変わります"
+    ],
+    "highlight_words": [
+      "負担割合"
+    ],
+    "position": "center",
+    "x_axis": "center",
+    "font": "F:\\ANRYCAMPANY\\reel_assets\\fonts\\M_PLUS_Rounded_1c\\MPLUSRounded1c-Bold.ttf",
+    "panel_opacity": "70%"
+  },
+  {
+    "cut": 8,
+    "source": "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_payment_estimate_v1_samples\\scene_08_confirm_at_reception.png",
+    "output": "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_payment_estimate_v1_samples\\telop_frames\\telop_08_where_to_ask.png",
+    "text": [
+      "目安と支払い方法は",
+      "受付・会計窓口へ"
+    ],
+    "highlight_words": [
+      "受付・会計窓口"
+    ],
+    "position": "center",
+    "x_axis": "center",
+    "font": "F:\\ANRYCAMPANY\\reel_assets\\fonts\\M_PLUS_Rounded_1c\\MPLUSRounded1c-Bold.ttf",
+    "panel_opacity": "70%"
+  },
+  {
+    "cut": 9,
+    "source": "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_payment_estimate_v1_samples\\scene_09_note_for_preparation.png",
+    "output": "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_payment_estimate_v1_samples\\telop_frames\\telop_09_prepare.png",
+    "text": [
+      "目安がわかると",
+      "当日の準備がしやすい"
+    ],
+    "highlight_words": [
+      "当日の準備"
+    ],
+    "position": "center",
+    "x_axis": "center",
+    "font": "F:\\ANRYCAMPANY\\reel_assets\\fonts\\M_PLUS_Rounded_1c\\MPLUSRounded1c-Bold.ttf",
+    "panel_opacity": "70%"
+  },
+  {
+    "cut": 10,
+    "source": "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_payment_estimate_v1_samples\\scene_10_ask_reception_v2.png",
+    "output": "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_payment_estimate_v1_samples\\telop_frames\\telop_10_question_phrase.png",
+    "text": [
+      "だいたいいくらになりそうですか？",
+      "使える支払い方法も教えてください"
+    ],
+    "highlight_words": [
+      "だいたいいくら",
+      "支払い方法"
+    ],
+    "position": "center",
+    "x_axis": "center",
+    "font": "F:\\ANRYCAMPANY\\reel_assets\\fonts\\M_PLUS_Rounded_1c\\MPLUSRounded1c-Bold.ttf",
+    "panel_opacity": "70%"
+  },
+  {
+    "cut": 11,
+    "source": "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_payment_estimate_v1_samples\\scene_11_save_before_exam_day.png",
+    "output": "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_payment_estimate_v1_samples\\telop_frames\\telop_11_save.png",
+    "text": [
+      "予約日の前に",
+      "見返せるよう 保存"
+    ],
+    "highlight_words": [
+      "保存"
+    ],
+    "position": "bottom",
+    "x_axis": "center",
+    "font": "F:\\ANRYCAMPANY\\reel_assets\\fonts\\M_PLUS_Rounded_1c\\MPLUSRounded1c-Bold.ttf",
+    "panel_opacity": "70%"
+  }
+]

@@ -79,6 +79,8 @@
 | `F:\ANRYCAMPANY\reel_assets\character_references\patients\PATIENT_F30_001\PATIENT_F30_001_spring_ref.png` | 春の私服参考。 |
 | `F:\ANRYCAMPANY\reel_assets\character_references\patients\PATIENT_F30_001\PATIENT_F30_001_summer_ref.png` | 夏の私服参考。 |
 | `F:\ANRYCAMPANY\reel_assets\character_references\patients\PATIENT_F30_001\PATIENT_F30_001_autumn_ref.png` | 秋の私服参考。 |
+| `F:\ANRYCAMPANY\reel_assets\character_references\patients\PATIENT_F30_001\PATIENT_F30_001_autumn_arrival_greige_ref.png` | 承認済みの秋の来院用私服。グレージュのテーラードジャケット、くすみオリーブの薄手ニット、ネイビーのワイドパンツ、ダークブラウンのローファー。 |
+| `F:\ANRYCAMPANY\reel_assets\character_references\patients\PATIENT_F30_001\PATIENT_F30_001_autumn_modern_layered_ref.png` | 承認済みの秋の来院用私服。チャコールブラックのゆったりしたクルーネックニット、アイボリーのレイヤード裾、ミディアムグレーのワイドパンツ、黒のレザーローファー。 |
 | `F:\ANRYCAMPANY\reel_assets\character_references\patients\PATIENT_F30_001\PATIENT_F30_001_winter_ref.png` | 冬の私服参考。 |
 
 ## 生成用プロンプト要約
@@ -104,7 +106,7 @@ This English section is canonical for Codex and image generation. Use it when ol
 | Exam-room clothing variant | Simple pale medical examination gown only when explicitly in an exam-room scene |
 | Approved seasonal summer casual variant | Airy ivory short-sleeve blouse or lightweight knit top, soft sage green ankle-length tapered pants, beige low-heel flats. Saved as `../_clothing_variants_20260630/PATIENT_F30_001_seasonal_summer_casual.png`. |
 | Approved patient examination gown variant | Simple pale warm-gray/beige patient examination gown, loose modest short-sleeve tunic and matching easy pants, simple patient slippers. This is patient clothing, not staff scrubs. Saved as `../_clothing_variants_20260630/PATIENT_F30_001_exam_gown.png`. |
-| Seasonal clothing reference set | Use the selected spring, summer, autumn, and winter private-clothing references saved under `F:\ANRYCAMPANY\reel_assets\character_references\patients\PATIENT_F30_001\`. These are clothing and season references; keep the character face identity from this Character ID. |
+| Seasonal clothing reference set | Use the selected spring, summer, autumn, and winter private-clothing references saved under `F:\ANRYCAMPANY\reel_assets\character_references\patients\PATIENT_F30_001\`. The approved autumn arrival variant is `PATIENT_F30_001_autumn_arrival_greige_ref.png`: greige tailored blazer, muted olive fine-knit top, navy wide-leg trousers, and dark-brown penny loafers. These are clothing and season references; keep the character face identity from this Character ID. |
 | Typical scenes | CT, MRI, X-ray, and health screening explanation scenes |
 
 ### Keep

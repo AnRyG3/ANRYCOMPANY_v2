@@ -1,0 +1,167 @@
+﻿[
+  {
+    "cut": 1,
+    "source": "F:\\ANRYCAMPANY\\reel_assets\\xray_family_contact_20261012_samples\\sample_01_hook_after_xray_no_text_v2.png",
+    "output": "F:\\ANRYCAMPANY\\reel_assets\\xray_family_contact_20261012_telop_frames\\telop_01_family_ok.png",
+    "telop": [
+      "レントゲン後も",
+      "家族に会って大丈夫です"
+    ],
+    "highlights": [
+      "レントゲン後",
+      "大丈夫"
+    ],
+    "position": "center",
+    "x_alignment": "center",
+    "font": "F:\\ANRYCAMPANY\\reel_assets\\fonts\\M_PLUS_Rounded_1c\\MPLUSRounded1c-Bold.ttf",
+    "panel_opacity": "70%"
+  },
+  {
+    "cut": 2,
+    "source": "F:\\ANRYCAMPANY\\reel_assets\\xray_family_contact_20261012_images\\frame_02_after_xray_no_radiation_no_text.png",
+    "output": "F:\\ANRYCAMPANY\\reel_assets\\xray_family_contact_20261012_telop_frames\\telop_02_no_radiation_after.png",
+    "telop": [
+      "撮影後、体から",
+      "放射線は出ません"
+    ],
+    "highlights": [
+      "撮影後",
+      "出ません"
+    ],
+    "position": "center",
+    "x_alignment": "center",
+    "font": "F:\\ANRYCAMPANY\\reel_assets\\fonts\\M_PLUS_Rounded_1c\\MPLUSRounded1c-Bold.ttf",
+    "panel_opacity": "70%"
+  },
+  {
+    "cut": 3,
+    "source": "F:\\ANRYCAMPANY\\reel_assets\\xray_family_contact_20261012_images\\frame_03_check_guidance_no_text.png",
+    "output": "F:\\ANRYCAMPANY\\reel_assets\\xray_family_contact_20261012_telop_frames\\telop_03_check_guidance.png",
+    "telop": [
+      "案内があれば確認して",
+      "普段どおりで大丈夫"
+    ],
+    "highlights": [
+      "案内",
+      "普段どおり"
+    ],
+    "position": "center",
+    "x_alignment": "center",
+    "font": "F:\\ANRYCAMPANY\\reel_assets\\fonts\\M_PLUS_Rounded_1c\\MPLUSRounded1c-Bold.ttf",
+    "panel_opacity": "70%"
+  },
+  {
+    "cut": 4,
+    "source": "F:\\ANRYCAMPANY\\reel_assets\\xray_family_contact_20261012_images\\frame_04_wondering_about_family_no_text.png",
+    "output": "F:\\ANRYCAMPANY\\reel_assets\\xray_family_contact_20261012_telop_frames\\telop_04_family_concern.png",
+    "telop": [
+      "家族に近づいていい？",
+      "気になりますよね"
+    ],
+    "highlights": [
+      "気になります"
+    ],
+    "position": "center",
+    "x_alignment": "center",
+    "font": "F:\\ANRYCAMPANY\\reel_assets\\fonts\\M_PLUS_Rounded_1c\\MPLUSRounded1c-Bold.ttf",
+    "panel_opacity": "70%"
+  },
+  {
+    "cut": 5,
+    "source": "F:\\ANRYCAMPANY\\reel_assets\\xray_family_contact_20261012_images\\frame_05_xray_during_exposure_only_no_text.png",
+    "output": "F:\\ANRYCAMPANY\\reel_assets\\xray_family_contact_20261012_telop_frames\\telop_05_during_exposure_only.png",
+    "telop": [
+      "放射線が出るのは",
+      "撮影している間だけ"
+    ],
+    "highlights": [
+      "撮影している間"
+    ],
+    "position": "center",
+    "x_alignment": "center",
+    "font": "F:\\ANRYCAMPANY\\reel_assets\\fonts\\M_PLUS_Rounded_1c\\MPLUSRounded1c-Bold.ttf",
+    "panel_opacity": "70%"
+  },
+  {
+    "cut": 6,
+    "source": "F:\\ANRYCAMPANY\\reel_assets\\xray_family_contact_20261012_samples\\sample_02_grandchild_hug_no_text.png",
+    "output": "F:\\ANRYCAMPANY\\reel_assets\\xray_family_contact_20261012_telop_frames\\telop_06_hug_is_ok.png",
+    "telop": [
+      "抱っこしても",
+      "そばにいても大丈夫"
+    ],
+    "highlights": [
+      "抱っこ",
+      "大丈夫"
+    ],
+    "position": "top",
+    "x_alignment": "center",
+    "font": "F:\\ANRYCAMPANY\\reel_assets\\fonts\\M_PLUS_Rounded_1c\\MPLUSRounded1c-Bold.ttf",
+    "panel_opacity": "70%"
+  },
+  {
+    "cut": 7,
+    "source": "F:\\ANRYCAMPANY\\reel_assets\\xray_family_contact_20261012_images\\frame_07_follow_special_guidance_no_text.png",
+    "output": "F:\\ANRYCAMPANY\\reel_assets\\xray_family_contact_20261012_telop_frames\\telop_07_special_exam_guidance.png",
+    "telop": [
+      "放射性の薬を使う検査は",
+      "案内に従ってください"
+    ],
+    "highlights": [
+      "放射性の薬",
+      "案内"
+    ],
+    "position": "bottom",
+    "x_alignment": "center",
+    "font": "F:\\ANRYCAMPANY\\reel_assets\\fonts\\M_PLUS_Rounded_1c\\MPLUSRounded1c-Bold.ttf",
+    "panel_opacity": "70%"
+  },
+  {
+    "cut": 8,
+    "source": "F:\\ANRYCAMPANY\\reel_assets\\xray_family_contact_20261012_images\\frame_08_family_time_no_text.png",
+    "output": "F:\\ANRYCAMPANY\\reel_assets\\xray_family_contact_20261012_telop_frames\\telop_08_family_time.png",
+    "telop": [
+      "帰ったら",
+      "いつもどおり家族と一緒に"
+    ],
+    "highlights": [
+      "いつもどおり"
+    ],
+    "position": "top",
+    "x_alignment": "center",
+    "font": "F:\\ANRYCAMPANY\\reel_assets\\fonts\\M_PLUS_Rounded_1c\\MPLUSRounded1c-Bold.ttf",
+    "panel_opacity": "70%"
+  },
+  {
+    "cut": 9,
+    "source": "F:\\ANRYCAMPANY\\reel_assets\\xray_family_contact_20261012_images\\frame_09_tell_family_no_text.png",
+    "output": "F:\\ANRYCAMPANY\\reel_assets\\xray_family_contact_20261012_telop_frames\\telop_09_phrase_for_family.png",
+    "telop": [
+      "「レントゲン後、",
+      "体から放射線は出ないよ」"
+    ],
+    "highlights": [
+      "レントゲン後"
+    ],
+    "position": "top",
+    "x_alignment": "center",
+    "font": "F:\\ANRYCAMPANY\\reel_assets\\fonts\\M_PLUS_Rounded_1c\\MPLUSRounded1c-Bold.ttf",
+    "panel_opacity": "70%"
+  },
+  {
+    "cut": 10,
+    "source": "F:\\ANRYCAMPANY\\reel_assets\\xray_family_contact_20261012_images\\frame_10_save_cta_background_no_text.png",
+    "output": "F:\\ANRYCAMPANY\\reel_assets\\xray_family_contact_20261012_telop_frames\\telop_10_save_cta.png",
+    "telop": [
+      "家族に聞かれたときのために",
+      "保存しておいてください"
+    ],
+    "highlights": [
+      "保存"
+    ],
+    "position": "top",
+    "x_alignment": "center",
+    "font": "F:\\ANRYCAMPANY\\reel_assets\\fonts\\M_PLUS_Rounded_1c\\MPLUSRounded1c-Bold.ttf",
+    "panel_opacity": "70%"
+  }
+]

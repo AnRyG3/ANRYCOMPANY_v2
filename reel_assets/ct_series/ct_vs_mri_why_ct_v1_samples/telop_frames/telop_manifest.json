@@ -1,0 +1,180 @@
+﻿[
+  {
+    "cut": 1,
+    "source": "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_vs_mri_why_ct_v1_samples\\sample_01_consultation_question.png",
+    "output": "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_vs_mri_why_ct_v1_samples\\telop_frames\\telop_01_ct_or_mri.png",
+    "text": [
+      "CTと言われて",
+      "MRIじゃなくて大丈夫？"
+    ],
+    "highlight_words": [
+      "CT",
+      "MRI"
+    ],
+    "position": "center",
+    "x_axis": "center",
+    "font": "F:\\ANRYCAMPANY\\reel_assets\\fonts\\M_PLUS_Rounded_1c\\MPLUSRounded1c-Bold.ttf",
+    "panel_opacity": "70%"
+  },
+  {
+    "cut": 2,
+    "source": "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_vs_mri_why_ct_v1_samples\\scene_02_ct_room_v2.png",
+    "output": "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_vs_mri_why_ct_v1_samples\\telop_frames\\telop_02_purpose.png",
+    "text": [
+      "目的に応じて",
+      "検査を使い分けます"
+    ],
+    "highlight_words": [
+      "目的"
+    ],
+    "position": "center",
+    "x_axis": "center",
+    "font": "F:\\ANRYCAMPANY\\reel_assets\\fonts\\M_PLUS_Rounded_1c\\MPLUSRounded1c-Bold.ttf",
+    "panel_opacity": "70%"
+  },
+  {
+    "cut": 3,
+    "source": "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_vs_mri_why_ct_v1_samples\\scene_03_patient_asks_doctor.png",
+    "output": "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_vs_mri_why_ct_v1_samples\\telop_frames\\telop_03_ask_doctor.png",
+    "text": [
+      "理由は",
+      "医師に聞いて大丈夫"
+    ],
+    "highlight_words": [
+      "大丈夫"
+    ],
+    "position": "center",
+    "x_axis": "center",
+    "font": "F:\\ANRYCAMPANY\\reel_assets\\fonts\\M_PLUS_Rounded_1c\\MPLUSRounded1c-Bold.ttf",
+    "panel_opacity": "70%"
+  },
+  {
+    "cut": 4,
+    "source": "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_vs_mri_why_ct_v1_samples\\scene_04_patient_waiting_with_paper.png",
+    "output": "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_vs_mri_why_ct_v1_samples\\telop_frames\\telop_04_empathy.png",
+    "text": [
+      "MRIのほうが詳しそう…",
+      "不安になりますよね"
+    ],
+    "highlight_words": [
+      "不安"
+    ],
+    "position": "center",
+    "x_axis": "center",
+    "font": "F:\\ANRYCAMPANY\\reel_assets\\fonts\\M_PLUS_Rounded_1c\\MPLUSRounded1c-Bold.ttf",
+    "panel_opacity": "70%"
+  },
+  {
+    "cut": 5,
+    "source": "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_vs_mri_why_ct_v1_samples\\sample_02_ct_mri_comparison_v2.png",
+    "output": "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_vs_mri_why_ct_v1_samples\\telop_frames\\telop_05_different_methods.png",
+    "text": [
+      "CTとMRIは",
+      "体を見る方法が違います"
+    ],
+    "highlight_words": [
+      "CT",
+      "MRI"
+    ],
+    "position": "center",
+    "x_axis": "center",
+    "font": "F:\\ANRYCAMPANY\\reel_assets\\fonts\\M_PLUS_Rounded_1c\\MPLUSRounded1c-Bold.ttf",
+    "panel_opacity": "70%"
+  },
+  {
+    "cut": 6,
+    "source": "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_vs_mri_why_ct_v1_samples\\scene_06_ct_mri_equal_close_comparison_v2.png",
+    "output": "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_vs_mri_why_ct_v1_samples\\telop_frames\\telop_06_different_strengths.png",
+    "text": [
+      "どちらが上ではなく",
+      "得意なことが違います"
+    ],
+    "highlight_words": [
+      "得意"
+    ],
+    "position": "center",
+    "x_axis": "center",
+    "font": "F:\\ANRYCAMPANY\\reel_assets\\fonts\\M_PLUS_Rounded_1c\\MPLUSRounded1c-Bold.ttf",
+    "panel_opacity": "70%"
+  },
+  {
+    "cut": 7,
+    "source": "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_vs_mri_why_ct_v1_samples\\scene_07_doctor_explains_choice.png",
+    "output": "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_vs_mri_why_ct_v1_samples\\telop_frames\\telop_07_doctor_decides.png",
+    "text": [
+      "検査内容は",
+      "医師が決めます"
+    ],
+    "highlight_words": [
+      "医師"
+    ],
+    "position": "center",
+    "x_axis": "center",
+    "font": "F:\\ANRYCAMPANY\\reel_assets\\fonts\\M_PLUS_Rounded_1c\\MPLUSRounded1c-Bold.ttf",
+    "panel_opacity": "70%"
+  },
+  {
+    "cut": 8,
+    "source": "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_vs_mri_why_ct_v1_samples\\scene_08_imaging_department_corridor.png",
+    "output": "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_vs_mri_why_ct_v1_samples\\telop_frames\\telop_08_facility_variation.png",
+    "text": [
+      "施設によって",
+      "進め方が違うことも"
+    ],
+    "highlight_words": [
+      "施設"
+    ],
+    "position": "center",
+    "x_axis": "center",
+    "font": "F:\\ANRYCAMPANY\\reel_assets\\fonts\\M_PLUS_Rounded_1c\\MPLUSRounded1c-Bold.ttf",
+    "panel_opacity": "70%"
+  },
+  {
+    "cut": 9,
+    "source": "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_vs_mri_why_ct_v1_samples\\scene_09_patient_prepares_question.png",
+    "output": "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_vs_mri_why_ct_v1_samples\\telop_frames\\telop_09_not_rude.png",
+    "text": [
+      "聞いたら失礼かな…",
+      "そう思わなくて大丈夫"
+    ],
+    "highlight_words": [
+      "大丈夫"
+    ],
+    "position": "center",
+    "x_axis": "center",
+    "font": "F:\\ANRYCAMPANY\\reel_assets\\fonts\\M_PLUS_Rounded_1c\\MPLUSRounded1c-Bold.ttf",
+    "panel_opacity": "70%"
+  },
+  {
+    "cut": 10,
+    "source": "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_vs_mri_why_ct_v1_samples\\scene_10_patient_question_doctor.png",
+    "output": "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_vs_mri_why_ct_v1_samples\\telop_frames\\telop_10_question_phrase.png",
+    "text": [
+      "今回、CTを受ける理由を",
+      "教えていただけますか？"
+    ],
+    "highlight_words": [
+      "理由"
+    ],
+    "position": "center",
+    "x_axis": "center",
+    "font": "F:\\ANRYCAMPANY\\reel_assets\\fonts\\M_PLUS_Rounded_1c\\MPLUSRounded1c-Bold.ttf",
+    "panel_opacity": "70%"
+  },
+  {
+    "cut": 11,
+    "source": "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_vs_mri_why_ct_v1_samples\\scene_11_patient_saves_on_phone.png",
+    "output": "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_vs_mri_why_ct_v1_samples\\telop_frames\\telop_11_save.png",
+    "text": [
+      "次の検査前に",
+      "見返せるよう保存"
+    ],
+    "highlight_words": [
+      "保存"
+    ],
+    "position": "bottom",
+    "x_axis": "center",
+    "font": "F:\\ANRYCAMPANY\\reel_assets\\fonts\\M_PLUS_Rounded_1c\\MPLUSRounded1c-Bold.ttf",
+    "panel_opacity": "70%"
+  }
+]
