@@ -1,0 +1,138 @@
+{
+  "title": "胸部レントゲンで心臓が大きいと言われたら",
+  "voice_engine": "VOICEVOX",
+  "speaker": "もち子さん・ノーマル",
+  "speaker_id": 20,
+  "speedScale": 1.15,
+  "additional_tempo_filter": false,
+  "bgm": "F:\\ANRYCAMPANY\\01_ショート動画_リール_YouTubeShorts\\インスタリール用\\BGM フリー素材\\Kind_Heart.mp3",
+  "bgm_volume": "-30dB",
+  "final_visual_tail_seconds": 1.0,
+  "total_seconds": 44.867,
+  "voice_all": "F:\\ANRYCAMPANY\\reel_assets\\chest_xray_series\\heart_size_result_consult_20261026\\audio\\voice_all.wav",
+  "asset_video": "F:\\ANRYCAMPANY\\reel_assets\\chest_xray_series\\heart_size_result_consult_20261026\\video\\chest_xray_heart_size_result_20261026.mp4",
+  "final_video": "F:\\ANRYCAMPANY\\01_ショート動画_リール_YouTubeShorts\\インスタ完成形\\胸部レントゲンで心臓が大きいと言われたら_20261026.mp4",
+  "cuts": [
+    {
+      "cut": 1,
+      "source": "F:\\ANRYCAMPANY\\reel_assets\\chest_xray_series\\heart_size_result_consult_20261026\\sample_01_result_waiting_no_text.png",
+      "frame": "F:\\ANRYCAMPANY\\reel_assets\\chest_xray_series\\heart_size_result_consult_20261026\\telop_frames\\frame_01_telop.png",
+      "narration": "胸のレントゲンで「心臓が大きい」と言われたら、気になりますよね。",
+      "voice": "F:\\ANRYCAMPANY\\reel_assets\\chest_xray_series\\heart_size_result_consult_20261026\\audio\\voice_01.wav",
+      "speedScale": 1.15,
+      "voice_seconds": 4.907,
+      "scene_seconds": 5.033,
+      "scene_frames": 151
+    },
+    {
+      "cut": 2,
+      "source": "F:\\ANRYCAMPANY\\reel_assets\\chest_xray_series\\heart_size_result_consult_20261026\\frame_02_no_text.png",
+      "frame": "F:\\ANRYCAMPANY\\reel_assets\\chest_xray_series\\heart_size_result_consult_20261026\\telop_frames\\frame_02_telop.png",
+      "narration": "その一言だけでは、理由までは分かりません。",
+      "voice": "F:\\ANRYCAMPANY\\reel_assets\\chest_xray_series\\heart_size_result_consult_20261026\\audio\\voice_02.wav",
+      "speedScale": 1.15,
+      "voice_seconds": 2.944,
+      "scene_seconds": 3.067,
+      "scene_frames": 92
+    },
+    {
+      "cut": 3,
+      "source": "F:\\ANRYCAMPANY\\reel_assets\\chest_xray_series\\heart_size_result_consult_20261026\\frame_03_no_text.png",
+      "frame": "F:\\ANRYCAMPANY\\reel_assets\\chest_xray_series\\heart_size_result_consult_20261026\\telop_frames\\frame_03_telop.png",
+      "narration": "胸のレントゲンには、肺だけでなく心臓も写っています。",
+      "voice": "F:\\ANRYCAMPANY\\reel_assets\\chest_xray_series\\heart_size_result_consult_20261026\\audio\\voice_03.wav",
+      "speedScale": 1.15,
+      "voice_seconds": 3.733,
+      "scene_seconds": 3.867,
+      "scene_frames": 116
+    },
+    {
+      "cut": 4,
+      "source": "F:\\ANRYCAMPANY\\reel_assets\\chest_xray_series\\heart_size_result_consult_20261026\\frame_04_no_text.png",
+      "frame": "F:\\ANRYCAMPANY\\reel_assets\\chest_xray_series\\heart_size_result_consult_20261026\\telop_frames\\frame_04_telop.png",
+      "narration": "心臓の影の大きさも、写真で見る項目のひとつです。",
+      "voice": "F:\\ANRYCAMPANY\\reel_assets\\chest_xray_series\\heart_size_result_consult_20261026\\audio\\voice_04.wav",
+      "speedScale": 1.15,
+      "voice_seconds": 3.755,
+      "scene_seconds": 3.9,
+      "scene_frames": 117
+    },
+    {
+      "cut": 5,
+      "source": "F:\\ANRYCAMPANY\\reel_assets\\chest_xray_series\\heart_size_result_consult_20261026\\frame_05_comparison_v7_941.png",
+      "frame": "F:\\ANRYCAMPANY\\reel_assets\\chest_xray_series\\heart_size_result_consult_20261026\\telop_frames\\frame_05_telop.png",
+      "narration": "心臓の影の見え方は、撮影の向きや姿勢などでも変わることがあります。",
+      "voice": "F:\\ANRYCAMPANY\\reel_assets\\chest_xray_series\\heart_size_result_consult_20261026\\audio\\voice_05.wav",
+      "speedScale": 1.15,
+      "voice_seconds": 4.555,
+      "scene_seconds": 4.7,
+      "scene_frames": 141
+    },
+    {
+      "cut": 6,
+      "source": "F:\\ANRYCAMPANY\\reel_assets\\chest_xray_series\\heart_size_result_consult_20261026\\frame_06_no_text.png",
+      "frame": "F:\\ANRYCAMPANY\\reel_assets\\chest_xray_series\\heart_size_result_consult_20261026\\telop_frames\\frame_06_telop.png",
+      "narration": "だから、写真だけで心臓の状態を決めることはできません。",
+      "voice": "F:\\ANRYCAMPANY\\reel_assets\\chest_xray_series\\heart_size_result_consult_20261026\\audio\\voice_06.wav",
+      "speedScale": 1.15,
+      "voice_seconds": 3.819,
+      "scene_seconds": 3.967,
+      "scene_frames": 119
+    },
+    {
+      "cut": 7,
+      "source": "F:\\ANRYCAMPANY\\reel_assets\\chest_xray_series\\heart_size_result_consult_20261026\\sample_07_doctor_explanation_no_text.png",
+      "frame": "F:\\ANRYCAMPANY\\reel_assets\\chest_xray_series\\heart_size_result_consult_20261026\\telop_frames\\frame_07_telop.png",
+      "narration": "結果が何を意味するかは、診察で医師が説明します。",
+      "voice": "F:\\ANRYCAMPANY\\reel_assets\\chest_xray_series\\heart_size_result_consult_20261026\\audio\\voice_07.wav",
+      "speedScale": 1.15,
+      "voice_seconds": 3.627,
+      "scene_seconds": 3.767,
+      "scene_frames": 113
+    },
+    {
+      "cut": 8,
+      "source": "F:\\ANRYCAMPANY\\reel_assets\\chest_xray_series\\heart_size_result_consult_20261026\\frame_08_no_text.png",
+      "frame": "F:\\ANRYCAMPANY\\reel_assets\\chest_xray_series\\heart_size_result_consult_20261026\\telop_frames\\frame_08_telop.png",
+      "narration": "意味が分からないままにせず、聞いて大丈夫です。",
+      "voice": "F:\\ANRYCAMPANY\\reel_assets\\chest_xray_series\\heart_size_result_consult_20261026\\audio\\voice_08.wav",
+      "speedScale": 1.15,
+      "voice_seconds": 3.339,
+      "scene_seconds": 3.467,
+      "scene_frames": 104
+    },
+    {
+      "cut": 9,
+      "source": "F:\\ANRYCAMPANY\\reel_assets\\chest_xray_series\\heart_size_result_consult_20261026\\frame_09_no_text.png",
+      "frame": "F:\\ANRYCAMPANY\\reel_assets\\chest_xray_series\\heart_size_result_consult_20261026\\telop_frames\\frame_09_telop.png",
+      "narration": "診察前に、聞きたいことをメモしておきましょう。",
+      "voice": "F:\\ANRYCAMPANY\\reel_assets\\chest_xray_series\\heart_size_result_consult_20261026\\audio\\voice_09.wav",
+      "speedScale": 1.15,
+      "voice_seconds": 3.136,
+      "scene_seconds": 3.267,
+      "scene_frames": 98
+    },
+    {
+      "cut": 10,
+      "source": "F:\\ANRYCAMPANY\\reel_assets\\chest_xray_series\\heart_size_result_consult_20261026\\frame_10_no_text.png",
+      "frame": "F:\\ANRYCAMPANY\\reel_assets\\chest_xray_series\\heart_size_result_consult_20261026\\telop_frames\\frame_10_telop.png",
+      "narration": "「心臓が大きい」とはどういう意味で、次にどうすればいいですか？",
+      "voice": "F:\\ANRYCAMPANY\\reel_assets\\chest_xray_series\\heart_size_result_consult_20261026\\audio\\voice_10.wav",
+      "speedScale": 1.15,
+      "voice_seconds": 4.651,
+      "scene_seconds": 4.8,
+      "scene_frames": 144
+    },
+    {
+      "cut": 11,
+      "source": "F:\\ANRYCAMPANY\\reel_assets\\chest_xray_series\\heart_size_result_consult_20261026\\frame_11_no_text.png",
+      "frame": "F:\\ANRYCAMPANY\\reel_assets\\chest_xray_series\\heart_size_result_consult_20261026\\telop_frames\\frame_11_telop.png",
+      "narration": "診察前にこの質問を見返せるよう、保存してください。",
+      "voice": "F:\\ANRYCAMPANY\\reel_assets\\chest_xray_series\\heart_size_result_consult_20261026\\audio\\voice_11.wav",
+      "speedScale": 1.15,
+      "voice_seconds": 3.883,
+      "scene_seconds": 5.033,
+      "scene_frames": 151
+    }
+  ]
+}

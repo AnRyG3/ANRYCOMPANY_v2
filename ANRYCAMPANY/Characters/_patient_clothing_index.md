@@ -52,6 +52,7 @@
 | 秋の私服 | `F:\ANRYCAMPANY\reel_assets\character_references\patients\PATIENT_F30_001\PATIENT_F30_001_autumn_ref.png` |
 | 秋の来院用・グレージュ | `F:\ANRYCAMPANY\reel_assets\character_references\patients\PATIENT_F30_001\PATIENT_F30_001_autumn_arrival_greige_ref.png` |
 | 秋の来院用・モダンレイヤード | `F:\ANRYCAMPANY\reel_assets\character_references\patients\PATIENT_F30_001\PATIENT_F30_001_autumn_modern_layered_ref.png` |
+| バリウム検査後・青カーディガン（2026-10-26承認） | `F:\ANRYCAMPANY\reel_assets\character_references\patients\PATIENT_F30_001\PATIENT_F30_001_barium_aftercare_blue_cardigan_ref.png` |
 | 来院・受付用・ワンピース | `F:\ANRYCAMPANY\reel_assets\character_references\patients\PATIENT_F30_001\PATIENT_F30_001_onepiece_arrival_dusty_rose_ref.png` |
 | 冬の私服 | `F:\ANRYCAMPANY\reel_assets\character_references\patients\PATIENT_F30_001\PATIENT_F30_001_winter_ref.png` |
 | 検査着 | `F:\ANRYCAMPANY\ANRYCAMPANY\Characters\_clothing_variants_20260630\PATIENT_F30_001_exam_gown.png` |

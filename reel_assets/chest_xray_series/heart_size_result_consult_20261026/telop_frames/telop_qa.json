@@ -1,0 +1,259 @@
+[
+  {
+    "cut": 1,
+    "source": "F:\\ANRYCAMPANY\\reel_assets\\chest_xray_series\\heart_size_result_consult_20261026\\sample_01_result_waiting_no_text.png",
+    "source_sha256": "9d09b426dedced107e2367632aec7ecda50ee6c5949feba0890bbfaf8832ca76",
+    "output": "F:\\ANRYCAMPANY\\reel_assets\\chest_xray_series\\heart_size_result_consult_20261026\\telop_frames\\frame_01_telop.png",
+    "text": "心臓が大きい？気になりますよね",
+    "characters": 15,
+    "lines": 2,
+    "display_lines": [
+      "心臓が大きい？",
+      "気になりますよね"
+    ],
+    "x_center": 470.5,
+    "y_center": 836,
+    "position": "中央",
+    "accent": "心臓",
+    "panel": [
+      210,
+      754,
+      730,
+      918
+    ],
+    "font_size": 60
+  },
+  {
+    "cut": 2,
+    "source": "F:\\ANRYCAMPANY\\reel_assets\\chest_xray_series\\heart_size_result_consult_20261026\\frame_02_no_text.png",
+    "source_sha256": "1d7cd85e42d913895af2df4bcfa3cb25c83b4b34d509a26edc0049757f526eb9",
+    "output": "F:\\ANRYCAMPANY\\reel_assets\\chest_xray_series\\heart_size_result_consult_20261026\\telop_frames\\frame_02_telop.png",
+    "text": "その一言では理由は分からない",
+    "characters": 14,
+    "lines": 2,
+    "display_lines": [
+      "その一言では",
+      "理由は分からない"
+    ],
+    "x_center": 470.5,
+    "y_center": 836,
+    "position": "中央",
+    "accent": "理由",
+    "panel": [
+      210,
+      755,
+      730,
+      918
+    ],
+    "font_size": 60
+  },
+  {
+    "cut": 3,
+    "source": "F:\\ANRYCAMPANY\\reel_assets\\chest_xray_series\\heart_size_result_consult_20261026\\frame_03_no_text.png",
+    "source_sha256": "0429e25245ad3de426f9c2b50f5ae7da558e6f9560071b68302cca9b6d4515d1",
+    "output": "F:\\ANRYCAMPANY\\reel_assets\\chest_xray_series\\heart_size_result_consult_20261026\\telop_frames\\frame_03_telop.png",
+    "text": "肺だけでなく心臓も写る",
+    "characters": 11,
+    "lines": 1,
+    "display_lines": [
+      "肺だけでなく心臓も写る"
+    ],
+    "x_center": 470.5,
+    "y_center": 836,
+    "position": "中央",
+    "accent": "心臓",
+    "panel": [
+      120,
+      789,
+      820,
+      883
+    ],
+    "font_size": 60
+  },
+  {
+    "cut": 4,
+    "source": "F:\\ANRYCAMPANY\\reel_assets\\chest_xray_series\\heart_size_result_consult_20261026\\frame_04_no_text.png",
+    "source_sha256": "0244531371a6c480cb23d2210f53339e55d5e5e0df74d673efe9f40cd4d7dead",
+    "output": "F:\\ANRYCAMPANY\\reel_assets\\chest_xray_series\\heart_size_result_consult_20261026\\telop_frames\\frame_04_telop.png",
+    "text": "心臓の影の大きさも確認",
+    "characters": 11,
+    "lines": 1,
+    "display_lines": [
+      "心臓の影の大きさも確認"
+    ],
+    "x_center": 470.5,
+    "y_center": 836,
+    "position": "中央",
+    "accent": "影",
+    "panel": [
+      120,
+      790,
+      820,
+      882
+    ],
+    "font_size": 60
+  },
+  {
+    "cut": 5,
+    "source": "F:\\ANRYCAMPANY\\reel_assets\\chest_xray_series\\heart_size_result_consult_20261026\\frame_05_comparison_v7_941.png",
+    "source_sha256": "7045943ce952099489b4ee6b0fd4530ff9859fea777097491b2e2a3200845e89",
+    "output": "F:\\ANRYCAMPANY\\reel_assets\\chest_xray_series\\heart_size_result_consult_20261026\\telop_frames\\frame_05_telop.png",
+    "text": "姿勢や撮り方で変わることも",
+    "characters": 13,
+    "lines": 1,
+    "display_lines": [
+      "姿勢や撮り方で変わることも"
+    ],
+    "x_center": 470.5,
+    "y_center": 1322,
+    "position": "下中央",
+    "accent": "撮り方",
+    "panel": [
+      60,
+      1276,
+      880,
+      1368
+    ],
+    "font_size": 60
+  },
+  {
+    "cut": 6,
+    "source": "F:\\ANRYCAMPANY\\reel_assets\\chest_xray_series\\heart_size_result_consult_20261026\\frame_06_no_text.png",
+    "source_sha256": "29f367584c387c1c8df6036dfae19051560bb5db08fbd117a2311f05c1cc4f5f",
+    "output": "F:\\ANRYCAMPANY\\reel_assets\\chest_xray_series\\heart_size_result_consult_20261026\\telop_frames\\frame_06_telop.png",
+    "text": "写真だけで状態は決められない",
+    "characters": 14,
+    "lines": 2,
+    "display_lines": [
+      "写真だけで状態は",
+      "決められない"
+    ],
+    "x_center": 470.5,
+    "y_center": 836,
+    "position": "中央",
+    "accent": "写真",
+    "panel": [
+      210,
+      754,
+      730,
+      918
+    ],
+    "font_size": 60
+  },
+  {
+    "cut": 7,
+    "source": "F:\\ANRYCAMPANY\\reel_assets\\chest_xray_series\\heart_size_result_consult_20261026\\sample_07_doctor_explanation_no_text.png",
+    "source_sha256": "242773a2271f8ab361a1046d5280b92dcbb482254f40cb49c9b53726f8397a68",
+    "output": "F:\\ANRYCAMPANY\\reel_assets\\chest_xray_series\\heart_size_result_consult_20261026\\telop_frames\\frame_07_telop.png",
+    "text": "結果の意味は医師が説明",
+    "characters": 11,
+    "lines": 1,
+    "display_lines": [
+      "結果の意味は医師が説明"
+    ],
+    "x_center": 470.5,
+    "y_center": 836,
+    "position": "中央",
+    "accent": "医師",
+    "panel": [
+      120,
+      789,
+      820,
+      883
+    ],
+    "font_size": 60
+  },
+  {
+    "cut": 8,
+    "source": "F:\\ANRYCAMPANY\\reel_assets\\chest_xray_series\\heart_size_result_consult_20261026\\frame_08_no_text.png",
+    "source_sha256": "5205ff05db75c38f3f44287e5ea074f38592301307d6cc05497422eaa6c7b5ef",
+    "output": "F:\\ANRYCAMPANY\\reel_assets\\chest_xray_series\\heart_size_result_consult_20261026\\telop_frames\\frame_08_telop.png",
+    "text": "分からなければ聞いて大丈夫",
+    "characters": 13,
+    "lines": 1,
+    "display_lines": [
+      "分からなければ聞いて大丈夫"
+    ],
+    "x_center": 470.5,
+    "y_center": 836,
+    "position": "中央",
+    "accent": "聞いて",
+    "panel": [
+      60,
+      790,
+      880,
+      882
+    ],
+    "font_size": 60
+  },
+  {
+    "cut": 9,
+    "source": "F:\\ANRYCAMPANY\\reel_assets\\chest_xray_series\\heart_size_result_consult_20261026\\frame_09_no_text.png",
+    "source_sha256": "cde4316912c1155d345e2b58241e183af47d1b6fca5b9394975237c1a89f7eb7",
+    "output": "F:\\ANRYCAMPANY\\reel_assets\\chest_xray_series\\heart_size_result_consult_20261026\\telop_frames\\frame_09_telop.png",
+    "text": "聞きたいことをメモ",
+    "characters": 9,
+    "lines": 1,
+    "display_lines": [
+      "聞きたいことをメモ"
+    ],
+    "x_center": 470.5,
+    "y_center": 836,
+    "position": "中央",
+    "accent": "メモ",
+    "panel": [
+      180,
+      790,
+      760,
+      882
+    ],
+    "font_size": 60
+  },
+  {
+    "cut": 10,
+    "source": "F:\\ANRYCAMPANY\\reel_assets\\chest_xray_series\\heart_size_result_consult_20261026\\frame_10_no_text.png",
+    "source_sha256": "871661d26ccbbaf3ff0c001f1424ce526e285fc13b7c3e1e1ef0516cd36692fd",
+    "output": "F:\\ANRYCAMPANY\\reel_assets\\chest_xray_series\\heart_size_result_consult_20261026\\telop_frames\\frame_10_telop.png",
+    "text": "「心臓が大きい」の意味と次は？",
+    "characters": 15,
+    "lines": 2,
+    "display_lines": [
+      "「心臓が大きい」の",
+      "意味と次は？"
+    ],
+    "x_center": 470.5,
+    "y_center": 350,
+    "position": "上中央",
+    "accent": "意味",
+    "panel": [
+      180,
+      268,
+      760,
+      433
+    ],
+    "font_size": 60
+  },
+  {
+    "cut": 11,
+    "source": "F:\\ANRYCAMPANY\\reel_assets\\chest_xray_series\\heart_size_result_consult_20261026\\frame_11_no_text.png",
+    "source_sha256": "86510d4c6b770d818b1204cf6972f03be93e107641d3077a561bfd94e41386e4",
+    "output": "F:\\ANRYCAMPANY\\reel_assets\\chest_xray_series\\heart_size_result_consult_20261026\\telop_frames\\frame_11_telop.png",
+    "text": "診察前に見返せるよう保存",
+    "characters": 12,
+    "lines": 1,
+    "display_lines": [
+      "診察前に見返せるよう保存"
+    ],
+    "x_center": 470.5,
+    "y_center": 836,
+    "position": "中央",
+    "accent": "保存",
+    "panel": [
+      90,
+      790,
+      850,
+      882
+    ],
+    "font_size": 60
+  }
+]

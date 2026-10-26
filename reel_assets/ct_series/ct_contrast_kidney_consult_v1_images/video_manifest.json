@@ -1,0 +1,142 @@
+﻿{
+  "title": "造影CTの話が出たら、腎臓について何を伝える？",
+  "speaker": "VOICEVOX もち子さん・ノーマル (style id 20)",
+  "speedScale": 1.15,
+  "video_speed_change": false,
+  "intonationScale": 1.07,
+  "pauseLengthScale": 0.9,
+  "final_bgm_only_tail_seconds": 1.0,
+  "bgm": "F:\\ANRYCAMPANY\\01_ショート動画_リール_YouTubeShorts\\インスタリール用\\BGM フリー素材\\Kind_Heart.mp3",
+  "bgm_volume": "-25dB",
+  "cut_mapping": [
+    {
+      "cut": "01",
+      "source_image": "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_contrast_kidney_consult_v1_images\\01_consultation.png",
+      "telop_frame": "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_contrast_kidney_consult_v1_images\\telop_frames\\telop_01.png",
+      "telop_text": "造影CTなら腎臓のことも医師へ",
+      "narration_text": "造影CTの話なら、腎臓のことを医師に伝えて。",
+      "voice_input_text": "ぞうえいシーティーの話なら、腎臓のことを医師に伝えて。",
+      "voice_file": "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_contrast_kidney_consult_v1_images\\audio\\voice_01.wav",
+      "voice_duration_seconds": 3.467,
+      "video_duration_seconds": 3.467
+    },
+    {
+      "cut": "02",
+      "source_image": "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_contrast_kidney_consult_v1_images\\02_thoughtful_patient.png",
+      "telop_frame": "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_contrast_kidney_consult_v1_images\\telop_frames\\telop_02.png",
+      "telop_text": "造影剤、使える？",
+      "narration_text": "造影剤を使えるのか、気になりますよね。",
+      "voice_input_text": "造影剤を使えるのか、気になりますよね。",
+      "voice_file": "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_contrast_kidney_consult_v1_images\\audio\\voice_02.wav",
+      "voice_duration_seconds": 2.741,
+      "video_duration_seconds": 2.741
+    },
+    {
+      "cut": "03",
+      "source_image": "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_contrast_kidney_consult_v1_images\\03_history_discussion.png",
+      "telop_frame": "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_contrast_kidney_consult_v1_images\\telop_frames\\telop_03.png",
+      "telop_text": "腎臓について言われたことを伝えて",
+      "narration_text": "伝えるのは、腎臓の病気や腎機能の低下を指摘されたことです。",
+      "voice_input_text": "伝えるのは、腎臓の病気や腎機能の低下を指摘されたことです。",
+      "voice_file": "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_contrast_kidney_consult_v1_images\\audio\\voice_03.wav",
+      "voice_duration_seconds": 4.107,
+      "video_duration_seconds": 4.107
+    },
+    {
+      "cut": "04",
+      "source_image": "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_contrast_kidney_consult_v1_images\\04_blood_result_review.png",
+      "telop_frame": "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_contrast_kidney_consult_v1_images\\telop_frames\\telop_04.png",
+      "telop_text": "採血結果で腎機能を確認",
+      "narration_text": "造影CTでは、施設が定める期間内の採血結果で腎機能を確認します。",
+      "voice_input_text": "ぞうえいシーティーでは、施設が定める期間内の採血結果で腎機能を確認します。",
+      "voice_file": "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_contrast_kidney_consult_v1_images\\audio\\voice_04.wav",
+      "voice_duration_seconds": 5.12,
+      "video_duration_seconds": 5.12
+    },
+    {
+      "cut": "05",
+      "source_image": "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_contrast_kidney_consult_v1_images\\05_facility_explanation.png",
+      "telop_frame": "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_contrast_kidney_consult_v1_images\\telop_frames\\telop_05.png",
+      "telop_text": "結果の扱いは施設で異なります",
+      "narration_text": "その期間や、結果がないときの対応は施設によって違います。",
+      "voice_input_text": "その期間や、結果がないときの対応は施設によって違います。",
+      "voice_file": "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_contrast_kidney_consult_v1_images\\audio\\voice_05.wav",
+      "voice_duration_seconds": 3.957,
+      "video_duration_seconds": 3.957
+    },
+    {
+      "cut": "06",
+      "source_image": "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_contrast_kidney_consult_v1_images\\06_result_handover.png",
+      "telop_frame": "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_contrast_kidney_consult_v1_images\\telop_frames\\telop_06.png",
+      "telop_text": "採血結果があれば医師へ",
+      "narration_text": "最近の採血結果が手元にあれば、診察で医師に見せてください。",
+      "voice_input_text": "最近の採血結果が手元にあれば、診察で医師に見せてください。",
+      "voice_file": "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_contrast_kidney_consult_v1_images\\audio\\voice_06.wav",
+      "voice_duration_seconds": 4.128,
+      "video_duration_seconds": 4.128
+    },
+    {
+      "cut": "07",
+      "source_image": "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_contrast_kidney_consult_v1_images\\07_doctor_judgment.png",
+      "telop_frame": "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_contrast_kidney_consult_v1_images\\telop_frames\\telop_07.png",
+      "telop_text": "造影剤の使用は医師が判断",
+      "narration_text": "造影剤を使うかどうかは、医師が判断します。",
+      "voice_input_text": "造影剤を使うかどうかは、医師が判断します。",
+      "voice_file": "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_contrast_kidney_consult_v1_images\\audio\\voice_07.wav",
+      "voice_duration_seconds": 3.019,
+      "video_duration_seconds": 3.019
+    },
+    {
+      "cut": "08",
+      "source_image": "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_contrast_kidney_consult_v1_images\\08_patient_speaks.png",
+      "telop_frame": "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_contrast_kidney_consult_v1_images\\telop_frames\\telop_08.png",
+      "telop_text": "数値が分からなくても伝えて",
+      "narration_text": "数値を覚えていなくても、腎臓について言われたことを伝えて大丈夫です。",
+      "voice_input_text": "数値を覚えていなくても、腎臓について言われたことを伝えて大丈夫です。",
+      "voice_file": "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_contrast_kidney_consult_v1_images\\audio\\voice_08.wav",
+      "voice_duration_seconds": 4.491,
+      "video_duration_seconds": 4.491
+    },
+    {
+      "cut": "09",
+      "source_image": "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_contrast_kidney_consult_v1_images\\09_consult_without_result.png",
+      "telop_frame": "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_contrast_kidney_consult_v1_images\\telop_frames\\telop_09.png",
+      "telop_text": "結果がなくても医師に相談",
+      "narration_text": "採血結果が手元になくても、診察で医師に相談してください。",
+      "voice_input_text": "採血結果が手元になくても、診察で医師に相談してください。",
+      "voice_file": "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_contrast_kidney_consult_v1_images\\audio\\voice_09.wav",
+      "voice_duration_seconds": 4.064,
+      "video_duration_seconds": 4.064
+    },
+    {
+      "cut": "10",
+      "source_image": "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_contrast_kidney_consult_v1_images\\10_example_question.png",
+      "telop_frame": "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_contrast_kidney_consult_v1_images\\telop_frames\\telop_10.png",
+      "telop_text": "腎臓のことで\n確認することはありますか？",
+      "narration_text": "診察では「腎臓が悪いと言われたことがありますが、造影CTの前に確認することはありますか？」と聞いてみてください。",
+      "voice_input_text": "診察では、こう聞いてみてください。腎臓が悪いと言われたことがありますが、ぞうえいシーティーの前に、確認することはありますか。",
+      "voice_file": "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_contrast_kidney_consult_v1_images\\audio\\voice_10.wav",
+      "voice_duration_seconds": 8.352,
+      "video_duration_seconds": 8.352
+    },
+    {
+      "cut": "11",
+      "source_image": "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_contrast_kidney_consult_v1_images\\11_save_before_consult.png",
+      "telop_frame": "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_contrast_kidney_consult_v1_images\\telop_frames\\telop_11.png",
+      "telop_text": "診察前に見返せるよう保存",
+      "narration_text": "この聞き方を保存して診察前に見返し、よければフォローしてください。",
+      "voice_input_text": "この聞き方を保存して診察前に見返し、よければフォローしてください。",
+      "voice_file": "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_contrast_kidney_consult_v1_images\\audio\\voice_11.wav",
+      "voice_duration_seconds": 4.32,
+      "video_duration_seconds": 5.32
+    }
+  ],
+  "narration_duration_seconds": 47.765,
+  "target_video_duration_seconds": 48.765,
+  "measured_video_duration_seconds": 48.83,
+  "detected_long_silences": [],
+  "narration_audio": "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_contrast_kidney_consult_v1_images\\audio\\narration.wav",
+  "asset_video": "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_contrast_kidney_consult_v1_images\\造影CTの話が出たら_腎臓について何を伝える.mp4",
+  "final_video": "F:\\ANRYCAMPANY\\01_ショート動画_リール_YouTubeShorts\\インスタ完成形\\造影CTの話が出たら_腎臓について何を伝える.mp4",
+  "video_sample_sheet": "F:\\ANRYCAMPANY\\reel_assets\\ct_series\\ct_contrast_kidney_consult_v1_images\\video_qa\\contact_sheet_video_samples.png"
+}
