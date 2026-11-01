@@ -1,0 +1,56 @@
+{
+  "decode_ok": true,
+  "sampled_cuts": [
+    {
+      "cut": 1,
+      "time_seconds": 2.0,
+      "screenshot": "F:\\ANRYCAMPANY\\reel_assets\\mri_series\\mri_kairo_20261109\\video\\qa\\video_cut_01.png"
+    },
+    {
+      "cut": 2,
+      "time_seconds": 5.684,
+      "screenshot": "F:\\ANRYCAMPANY\\reel_assets\\mri_series\\mri_kairo_20261109\\video\\qa\\video_cut_02.png"
+    },
+    {
+      "cut": 3,
+      "time_seconds": 9.05,
+      "screenshot": "F:\\ANRYCAMPANY\\reel_assets\\mri_series\\mri_kairo_20261109\\video\\qa\\video_cut_03.png"
+    },
+    {
+      "cut": 4,
+      "time_seconds": 12.35,
+      "screenshot": "F:\\ANRYCAMPANY\\reel_assets\\mri_series\\mri_kairo_20261109\\video\\qa\\video_cut_04.png"
+    },
+    {
+      "cut": 5,
+      "time_seconds": 16.567,
+      "screenshot": "F:\\ANRYCAMPANY\\reel_assets\\mri_series\\mri_kairo_20261109\\video\\qa\\video_cut_05.png"
+    },
+    {
+      "cut": 6,
+      "time_seconds": 21.2,
+      "screenshot": "F:\\ANRYCAMPANY\\reel_assets\\mri_series\\mri_kairo_20261109\\video\\qa\\video_cut_06.png"
+    },
+    {
+      "cut": 7,
+      "time_seconds": 25.85,
+      "screenshot": "F:\\ANRYCAMPANY\\reel_assets\\mri_series\\mri_kairo_20261109\\video\\qa\\video_cut_07.png"
+    },
+    {
+      "cut": 8,
+      "time_seconds": 30.167,
+      "screenshot": "F:\\ANRYCAMPANY\\reel_assets\\mri_series\\mri_kairo_20261109\\video\\qa\\video_cut_08.png"
+    },
+    {
+      "cut": 9,
+      "time_seconds": 35.317,
+      "screenshot": "F:\\ANRYCAMPANY\\reel_assets\\mri_series\\mri_kairo_20261109\\video\\qa\\video_cut_09.png"
+    },
+    {
+      "cut": 10,
+      "time_seconds": 40.917,
+      "screenshot": "F:\\ANRYCAMPANY\\reel_assets\\mri_series\\mri_kairo_20261109\\video\\qa\\video_cut_10.png"
+    }
+  ],
+  "contact_sheet": "F:\\ANRYCAMPANY\\reel_assets\\mri_series\\mri_kairo_20261109\\video\\qa\\video_contact_sheet.png"
+}

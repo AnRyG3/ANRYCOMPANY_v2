@@ -251,11 +251,11 @@ InstagramとYouTubeの週次データを分析し、次週の動画制作に直�
 
 Obsidian内の以下のデータを確認する。
 
-`インスタ_週次結果metricool「20261025」`
+`インスタ_週次結果metricool「20261101」`
 
 **YouTube**
 
-`F:\ANRYCAMPANY\ANRYCAMPANY\YouTube分析\02_週別データ\「2026-10-17_2026-10-24」`
+`F:\ANRYCAMPANY\ANRYCAMPANY\YouTube分析\02_週別データ\「2026-10-24_2026-10-31」`
 
 さらに以下を確認する。
 
@@ -493,7 +493,7 @@ Claudeの回答が未提供の場合は、ここで停止し、最終決定済�
 ## 月次分析
 ```
 YouTubeアナリティクスから取得した該当月の月次データを確認して、チャンネル全体の方向性を分析してください。  
-データは　`F:\ANRYCAMPANY\ANRYCAMPANY\YouTube分析\00_月次分析\「2026-9月」`の中に入れてあります
+データは　`F:\ANRYCAMPANY\ANRYCAMPANY\YouTube分析\00_月次分析\「2026-10月」`の中に入れてあります
 
 月次分析の目的は、個別動画の勝ち負けではなく、
 

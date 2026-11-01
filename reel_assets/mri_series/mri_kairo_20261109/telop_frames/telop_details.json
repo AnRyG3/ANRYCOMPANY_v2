@@ -1,0 +1,174 @@
+{
+  "canvas": [
+    1080,
+    1920
+  ],
+  "font": "F:\\ANRYCAMPANY\\reel_assets\\fonts\\M_PLUS_Rounded_1c\\MPLUSRounded1c-Bold.ttf",
+  "frames": [
+    {
+      "cut": 1,
+      "source": "F:\\ANRYCAMPANY\\reel_assets\\mri_series\\mri_kairo_20261109\\sample_01_arrival_PATIENT_F30_001.png",
+      "source_sha256": "ca5bf1b53d267fd9f0d682f243b8e5a53be6585c4e90ee15bd746212be92f8e3",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\mri_series\\mri_kairo_20261109\\telop_frames\\telop_01.png",
+      "lines": [
+        "MRIの日、貼るカイロは",
+        "入室前に伝えて"
+      ],
+      "characters": 19,
+      "position": "center",
+      "x_center": 540,
+      "y_center": 960,
+      "font_size_px": 64,
+      "blue_terms": [
+        "カイロ"
+      ]
+    },
+    {
+      "cut": 2,
+      "source": "F:\\ANRYCAMPANY\\reel_assets\\mri_series\\mri_kairo_20261109\\sample_02_lobby_PATIENT_F30_001.png",
+      "source_sha256": "9383618a9900d997676d709ef2628484227ab689f46aee1a4322792f767c21cc",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\mri_series\\mri_kairo_20261109\\telop_frames\\telop_02.png",
+      "lines": [
+        "貼って来ても、慌てずに"
+      ],
+      "characters": 11,
+      "position": "center",
+      "x_center": 540,
+      "y_center": 960,
+      "font_size_px": 64,
+      "blue_terms": []
+    },
+    {
+      "cut": 3,
+      "source": "F:\\ANRYCAMPANY\\reel_assets\\mri_series\\mri_kairo_20261109\\image_03_belongings.png",
+      "source_sha256": "9ca6f0268fc5cf422d6362b527e841dfa8ec629663bf2f041dea950f2cb08b4e",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\mri_series\\mri_kairo_20261109\\telop_frames\\telop_03.png",
+      "lines": [
+        "持ち込めない物を確認"
+      ],
+      "characters": 10,
+      "position": "center",
+      "x_center": 540,
+      "y_center": 960,
+      "font_size_px": 64,
+      "blue_terms": []
+    },
+    {
+      "cut": 4,
+      "source": "F:\\ANRYCAMPANY\\reel_assets\\mri_series\\mri_kairo_20261109\\image_04_heat_patch.png",
+      "source_sha256": "edd7df00f5d306fe0bdeac9f5bab132fa21d739b123aacbb2293ce96d11a6c38",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\mri_series\\mri_kairo_20261109\\telop_frames\\telop_04.png",
+      "lines": [
+        "カイロは検査前に外す"
+      ],
+      "characters": 10,
+      "position": "center",
+      "x_center": 540,
+      "y_center": 960,
+      "font_size_px": 64,
+      "blue_terms": [
+        "カイロ"
+      ]
+    },
+    {
+      "cut": 5,
+      "source": "F:\\ANRYCAMPANY\\reel_assets\\mri_series\\mri_kairo_20261109\\image_05_remember_PATIENT_F30_001.png",
+      "source_sha256": "1e86b553ba9aba2841e76fd3e018dcfaf138e4e3f83142a3307b3fce0f9292e4",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\mri_series\\mri_kairo_20261109\\telop_frames\\telop_05.png",
+      "lines": [
+        "背中・腰のカイロを確認"
+      ],
+      "characters": 11,
+      "position": "center",
+      "x_center": 540,
+      "y_center": 960,
+      "font_size_px": 64,
+      "blue_terms": []
+    },
+    {
+      "cut": 6,
+      "source": "F:\\ANRYCAMPANY\\reel_assets\\mri_series\\mri_kairo_20261109\\image_06_checklist.png",
+      "source_sha256": "cde4579d8c478eb26bca639e9ba1732fd7b62ce0c6b0a9fe43e9cb2203db91e6",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\mri_series\\mri_kairo_20261109\\telop_frames\\telop_06.png",
+      "lines": [
+        "身につけた物を確認"
+      ],
+      "characters": 9,
+      "position": "center",
+      "x_center": 540,
+      "y_center": 960,
+      "font_size_px": 64,
+      "blue_terms": [
+        "確認"
+      ]
+    },
+    {
+      "cut": 7,
+      "source": "F:\\ANRYCAMPANY\\reel_assets\\mri_series\\mri_kairo_20261109\\image_07_reception_guide_RECEPTION_F28_001.png",
+      "source_sha256": "0168282d9d1f53fb432bde5aa7b3cef5c4df02a33dee46b2952c0b63cbe93cd4",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\mri_series\\mri_kairo_20261109\\telop_frames\\telop_07.png",
+      "lines": [
+        "外す場所は案内に沿って"
+      ],
+      "characters": 11,
+      "position": "center",
+      "x_center": 540,
+      "y_center": 960,
+      "font_size_px": 64,
+      "blue_terms": []
+    },
+    {
+      "cut": 8,
+      "source": "F:\\ANRYCAMPANY\\reel_assets\\mri_series\\mri_kairo_20261109\\image_08_exam_waiting.png",
+      "source_sha256": "1b3fdf1afa0aee07db7ce719cde75e6fe9635f388dbc94abd08c29975febf454",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\mri_series\\mri_kairo_20261109\\telop_frames\\telop_08.png",
+      "lines": [
+        "迷ったら検査担当者に相談"
+      ],
+      "characters": 12,
+      "position": "center",
+      "x_center": 540,
+      "y_center": 960,
+      "font_size_px": 64,
+      "blue_terms": [
+        "検査担当者"
+      ]
+    },
+    {
+      "cut": 9,
+      "source": "F:\\ANRYCAMPANY\\reel_assets\\mri_series\\mri_kairo_20261109\\image_09_patient_technologist_PATIENT_F30_001_RT_TECH_001.png",
+      "source_sha256": "4e9e50a952e7f10571884f4c0856b9388bd994cf6972321bb225cf29bf584045",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\mri_series\\mri_kairo_20261109\\telop_frames\\telop_09.png",
+      "lines": [
+        "カイロを貼っています",
+        "どうすればいいですか"
+      ],
+      "characters": 20,
+      "position": "top",
+      "x_center": 540,
+      "y_center": 300,
+      "font_size_px": 64,
+      "blue_terms": [
+        "カイロ"
+      ]
+    },
+    {
+      "cut": 10,
+      "source": "F:\\ANRYCAMPANY\\reel_assets\\mri_series\\mri_kairo_20261109\\image_10_locker_save.png",
+      "source_sha256": "e06e62d9a6f936538feb439a182628c26653987c67b0e81d6f09aafe6336693b",
+      "output": "F:\\ANRYCAMPANY\\reel_assets\\mri_series\\mri_kairo_20261109\\telop_frames\\telop_10.png",
+      "lines": [
+        "検査前に",
+        "見返せるよう保存"
+      ],
+      "characters": 12,
+      "position": "center",
+      "x_center": 540,
+      "y_center": 960,
+      "font_size_px": 64,
+      "blue_terms": [
+        "保存"
+      ]
+    }
+  ]
+}
