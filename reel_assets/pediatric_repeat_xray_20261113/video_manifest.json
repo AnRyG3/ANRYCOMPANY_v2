@@ -1,0 +1,96 @@
+{
+  "title": "子どものレントゲン、前にも撮ったのにまた撮るのはなぜ？",
+  "speaker": "もち子さん・ノーマル",
+  "speaker_id": 20,
+  "speedScale": 1.15,
+  "additional_tempo_filter": false,
+  "bgm": "F:\\ANRYCAMPANY\\01_ショート動画_リール_YouTubeShorts\\インスタリール用\\BGM フリー素材\\Kind_Heart.mp3",
+  "bgm_volume": "-34dB",
+  "final_bgm_tail_seconds": 1.0,
+  "total_seconds": 49.633,
+  "voice_all": "F:\\ANRYCAMPANY\\reel_assets\\pediatric_repeat_xray_20261113\\audio\\voice_all.wav",
+  "video": "F:\\ANRYCAMPANY\\reel_assets\\pediatric_repeat_xray_20261113\\video\\子どものレントゲン_前にも撮ったのにまた_20261113.mp4",
+  "final_video": "F:\\ANRYCAMPANY\\01_ショート動画_リール_YouTubeShorts\\インスタ完成形\\子どものレントゲン_前にも撮ったのにまた_20261113.mp4",
+  "cuts": [
+    {
+      "cut": 1,
+      "frame": "F:\\ANRYCAMPANY\\reel_assets\\pediatric_repeat_xray_20261113\\telop_frames\\telop_01.png",
+      "voice": "F:\\ANRYCAMPANY\\reel_assets\\pediatric_repeat_xray_20261113\\audio\\voice_01.wav",
+      "voice_seconds": 6.251,
+      "scene_seconds": 6.333,
+      "scene_frames": 190
+    },
+    {
+      "cut": 2,
+      "frame": "F:\\ANRYCAMPANY\\reel_assets\\pediatric_repeat_xray_20261113\\telop_frames\\telop_02.png",
+      "voice": "F:\\ANRYCAMPANY\\reel_assets\\pediatric_repeat_xray_20261113\\audio\\voice_02.wav",
+      "voice_seconds": 3.36,
+      "scene_seconds": 3.467,
+      "scene_frames": 104
+    },
+    {
+      "cut": 3,
+      "frame": "F:\\ANRYCAMPANY\\reel_assets\\pediatric_repeat_xray_20261113\\telop_frames\\telop_03.png",
+      "voice": "F:\\ANRYCAMPANY\\reel_assets\\pediatric_repeat_xray_20261113\\audio\\voice_03.wav",
+      "voice_seconds": 4.523,
+      "scene_seconds": 4.633,
+      "scene_frames": 139
+    },
+    {
+      "cut": 4,
+      "frame": "F:\\ANRYCAMPANY\\reel_assets\\pediatric_repeat_xray_20261113\\telop_frames\\telop_04.png",
+      "voice": "F:\\ANRYCAMPANY\\reel_assets\\pediatric_repeat_xray_20261113\\audio\\voice_04.wav",
+      "voice_seconds": 3.499,
+      "scene_seconds": 3.6,
+      "scene_frames": 108
+    },
+    {
+      "cut": 5,
+      "frame": "F:\\ANRYCAMPANY\\reel_assets\\pediatric_repeat_xray_20261113\\telop_frames\\telop_05.png",
+      "voice": "F:\\ANRYCAMPANY\\reel_assets\\pediatric_repeat_xray_20261113\\audio\\voice_05.wav",
+      "voice_seconds": 3.616,
+      "scene_seconds": 3.7,
+      "scene_frames": 111
+    },
+    {
+      "cut": 6,
+      "frame": "F:\\ANRYCAMPANY\\reel_assets\\pediatric_repeat_xray_20261113\\telop_frames\\telop_06.png",
+      "voice": "F:\\ANRYCAMPANY\\reel_assets\\pediatric_repeat_xray_20261113\\audio\\voice_06.wav",
+      "voice_seconds": 3.872,
+      "scene_seconds": 3.967,
+      "scene_frames": 119
+    },
+    {
+      "cut": 7,
+      "frame": "F:\\ANRYCAMPANY\\reel_assets\\pediatric_repeat_xray_20261113\\telop_frames\\telop_07.png",
+      "voice": "F:\\ANRYCAMPANY\\reel_assets\\pediatric_repeat_xray_20261113\\audio\\voice_07.wav",
+      "voice_seconds": 6.443,
+      "scene_seconds": 6.533,
+      "scene_frames": 196
+    },
+    {
+      "cut": 8,
+      "frame": "F:\\ANRYCAMPANY\\reel_assets\\pediatric_repeat_xray_20261113\\telop_frames\\telop_08.png",
+      "voice": "F:\\ANRYCAMPANY\\reel_assets\\pediatric_repeat_xray_20261113\\audio\\voice_08.wav",
+      "voice_seconds": 5.835,
+      "scene_seconds": 5.933,
+      "scene_frames": 178
+    },
+    {
+      "cut": 9,
+      "frame": "F:\\ANRYCAMPANY\\reel_assets\\pediatric_repeat_xray_20261113\\telop_frames\\telop_09.png",
+      "voice": "F:\\ANRYCAMPANY\\reel_assets\\pediatric_repeat_xray_20261113\\audio\\voice_09.wav",
+      "voice_seconds": 6.048,
+      "scene_seconds": 6.133,
+      "scene_frames": 184
+    },
+    {
+      "cut": 10,
+      "frame": "F:\\ANRYCAMPANY\\reel_assets\\pediatric_repeat_xray_20261113\\telop_frames\\telop_10.png",
+      "voice": "F:\\ANRYCAMPANY\\reel_assets\\pediatric_repeat_xray_20261113\\audio\\voice_10.wav",
+      "voice_seconds": 4.235,
+      "scene_seconds": 5.333,
+      "scene_frames": 160
+    }
+  ]
+}

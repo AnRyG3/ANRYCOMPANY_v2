@@ -1,0 +1,191 @@
+[
+  {
+    "source": "F:\\ANRYCAMPANY\\reel_assets\\xray_front_side_remake_20261111\\sample_01_turning.png",
+    "source_size": [
+      941,
+      1672
+    ],
+    "source_sha256": "5e8146e9a74ce89f33bc404b92e95ed02a2efeec81edf03a75aadf02c388a0b3",
+    "output": "F:\\ANRYCAMPANY\\reel_assets\\xray_front_side_remake_20261111\\telop_frames_v2\\telop_01.png",
+    "output_size": [
+      1080,
+      1920
+    ],
+    "text": "前回は正面だけ今日は横向きも",
+    "characters": 14,
+    "lines": 2,
+    "position": "center",
+    "center_x": 540,
+    "center_y": 960,
+    "font_px": 64,
+    "max_line_width_px": 448
+  },
+  {
+    "source": "F:\\ANRYCAMPANY\\reel_assets\\xray_front_side_remake_20261111\\image_02_empathy.png",
+    "source_size": [
+      941,
+      1672
+    ],
+    "source_sha256": "d81fd81e95047319ef6ebdf1fc8eb427ec5588b81eb0377f1da60fae72e5ede5",
+    "output": "F:\\ANRYCAMPANY\\reel_assets\\xray_front_side_remake_20261111\\telop_frames_v2\\telop_02.png",
+    "output_size": [
+      1080,
+      1920
+    ],
+    "text": "前と違うと気になります",
+    "characters": 11,
+    "lines": 1,
+    "position": "center",
+    "center_x": 540,
+    "center_y": 960,
+    "font_px": 64,
+    "max_line_width_px": 704
+  },
+  {
+    "source": "F:\\ANRYCAMPANY\\reel_assets\\xray_front_side_remake_20261111\\image_03_room.png",
+    "source_size": [
+      941,
+      1672
+    ],
+    "source_sha256": "037075c92c813847ada78169f756f887d76eb9faf0f639d14eef02c459a7d3aa",
+    "output": "F:\\ANRYCAMPANY\\reel_assets\\xray_front_side_remake_20261111\\telop_frames_v2\\telop_03.png",
+    "output_size": [
+      1080,
+      1920
+    ],
+    "text": "1方向では見えにくいことも",
+    "characters": 13,
+    "lines": 1,
+    "position": "center",
+    "center_x": 540,
+    "center_y": 960,
+    "font_px": 64,
+    "max_line_width_px": 809
+  },
+  {
+    "source": "F:\\ANRYCAMPANY\\reel_assets\\xray_front_side_remake_20261111\\sample_04_side_position_v2.png",
+    "source_size": [
+      941,
+      1672
+    ],
+    "source_sha256": "6376199413481097fc12774578e2fe92c3b97a227cede006b1245b0fce178013",
+    "output": "F:\\ANRYCAMPANY\\reel_assets\\xray_front_side_remake_20261111\\telop_frames_v2\\telop_04.png",
+    "output_size": [
+      1080,
+      1920
+    ],
+    "text": "横向きで撮ることも",
+    "characters": 9,
+    "lines": 1,
+    "position": "center",
+    "center_x": 540,
+    "center_y": 960,
+    "font_px": 64,
+    "max_line_width_px": 576
+  },
+  {
+    "source": "F:\\ANRYCAMPANY\\reel_assets\\xray_front_side_remake_20261111\\image_05_purpose_v2.png",
+    "source_size": [
+      941,
+      1672
+    ],
+    "source_sha256": "dbfa0cf98d4e32b32af12a32a0a576837a0fb887f69db1d07e340ef1b3eaec56",
+    "output": "F:\\ANRYCAMPANY\\reel_assets\\xray_front_side_remake_20261111\\telop_frames_v2\\telop_05.png",
+    "output_size": [
+      1080,
+      1920
+    ],
+    "text": "向き・枚数は部位や目的で変わる",
+    "characters": 15,
+    "lines": 2,
+    "position": "center",
+    "center_x": 540,
+    "center_y": 960,
+    "font_px": 64,
+    "max_line_width_px": 576
+  },
+  {
+    "source": "F:\\ANRYCAMPANY\\reel_assets\\xray_front_side_remake_20261111\\image_06_turning.png",
+    "source_size": [
+      941,
+      1672
+    ],
+    "source_sha256": "b5d510f2abb7b46df7e078e6899e29c42961d944e49b10894049becdaf95dfd6",
+    "output": "F:\\ANRYCAMPANY\\reel_assets\\xray_front_side_remake_20261111\\telop_frames_v2\\telop_06.png",
+    "output_size": [
+      1080,
+      1920
+    ],
+    "text": "姿勢を変えることも",
+    "characters": 9,
+    "lines": 1,
+    "position": "center",
+    "center_x": 540,
+    "center_y": 960,
+    "font_px": 64,
+    "max_line_width_px": 576
+  },
+  {
+    "source": "F:\\ANRYCAMPANY\\reel_assets\\xray_front_side_remake_20261111\\image_07_side_summary.png",
+    "source_size": [
+      941,
+      1672
+    ],
+    "source_sha256": "6701ec2755850f1e70c6a34e7a20addc75a554eb566b37da9fcd6125a669e292",
+    "output": "F:\\ANRYCAMPANY\\reel_assets\\xray_front_side_remake_20261111\\telop_frames_v2\\telop_07.png",
+    "output_size": [
+      1080,
+      1920
+    ],
+    "text": "別の向きからも確認",
+    "characters": 9,
+    "lines": 1,
+    "position": "center",
+    "center_x": 540,
+    "center_y": 960,
+    "font_px": 64,
+    "max_line_width_px": 576
+  },
+  {
+    "source": "F:\\ANRYCAMPANY\\reel_assets\\xray_front_side_remake_20261111\\image_08_question.png",
+    "source_size": [
+      941,
+      1672
+    ],
+    "source_sha256": "b9144da805cd76cdf83c12f029dd6e8994decfc9d533000103865d73e6835f97",
+    "output": "F:\\ANRYCAMPANY\\reel_assets\\xray_front_side_remake_20261111\\telop_frames_v2\\telop_08.png",
+    "output_size": [
+      1080,
+      1920
+    ],
+    "text": "前回と向きが違うのはなぜですか？",
+    "characters": 16,
+    "lines": 2,
+    "position": "center",
+    "center_x": 540,
+    "center_y": 960,
+    "font_px": 64,
+    "max_line_width_px": 640
+  },
+  {
+    "source": "F:\\ANRYCAMPANY\\reel_assets\\xray_front_side_remake_20261111\\image_10_follow_background.png",
+    "source_size": [
+      941,
+      1672
+    ],
+    "source_sha256": "cd900f64c6acd1181575b499a55979924f1660d7f1d143cf5a16e655f1578928",
+    "output": "F:\\ANRYCAMPANY\\reel_assets\\xray_front_side_remake_20261111\\telop_frames_v2\\telop_09.png",
+    "output_size": [
+      1080,
+      1920
+    ],
+    "text": "フォローをお願いします",
+    "characters": 11,
+    "lines": 1,
+    "position": "center",
+    "center_x": 540,
+    "center_y": 960,
+    "font_px": 64,
+    "max_line_width_px": 704
+  }
+]

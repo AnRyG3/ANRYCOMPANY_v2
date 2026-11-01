@@ -1,0 +1,183 @@
+{
+  "video": "F:\\ANRYCAMPANY\\reel_assets\\xray_front_side_remake_20261111\\video\\前回は正面だけ_今日は横向きも_20261111.mp4",
+  "resolution": "1080x1920",
+  "fps": 30,
+  "duration_seconds": 40.1,
+  "speaker": "もち子さん・ノーマル",
+  "speaker_id": 20,
+  "speedScale": 1.15,
+  "editing_speed_change": false,
+  "bgm": "F:\\ANRYCAMPANY\\01_ショート動画_リール_YouTubeShorts\\インスタリール用\\BGM フリー素材\\Kind_Heart.mp3",
+  "bgm_gain": "-30dB",
+  "final_bgm_only_tail_seconds": 1.0,
+  "narration": [
+    "見る方向を増やすことがあります。",
+    "前回は正面だけだったのに、今日は横向きも。前と違うと、気になりますよね。",
+    "レントゲンは、ひとつの向きだけでは、見えにくいところが出ることがあります。",
+    "そのため、横向きなど、別の向きからも撮ることがあります。",
+    "撮る向きや枚数は、部位や検査の目的によって変わります。",
+    "向きを変えるときは、姿勢を変えてもらうことがあります。",
+    "別の向きからも見ることで、見えにくいところを減らせることがあります。",
+    "気になるときは、その場で、前回と向きが違うのはなぜですか、と聞いて大丈夫です。",
+    "検査の疑問を、これからも分かりやすくお届けします。フォローをお願いします。"
+  ],
+  "cuts": [
+    {
+      "cut": 1,
+      "text": "見る方向を増やすことがあります。",
+      "voice_file": "F:\\ANRYCAMPANY\\reel_assets\\xray_front_side_remake_20261111\\audio\\voice_01.wav",
+      "voice_seconds": 1.952,
+      "video_frames": 61,
+      "cut_seconds": 2.0333,
+      "audio_query": {
+        "speaker_name": "もち子さん",
+        "style": "ノーマル",
+        "speaker_id": 20,
+        "speedScale": 1.15,
+        "intonationScale": 1.06
+      }
+    },
+    {
+      "cut": 2,
+      "text": "前回は正面だけだったのに、今日は横向きも。前と違うと、気になりますよね。",
+      "voice_file": "F:\\ANRYCAMPANY\\reel_assets\\xray_front_side_remake_20261111\\audio\\voice_02.wav",
+      "voice_seconds": 5.9307,
+      "video_frames": 180,
+      "cut_seconds": 6.0,
+      "audio_query": {
+        "speaker_name": "もち子さん",
+        "style": "ノーマル",
+        "speaker_id": 20,
+        "speedScale": 1.15,
+        "intonationScale": 1.06
+      }
+    },
+    {
+      "cut": 3,
+      "text": "レントゲンは、ひとつの向きだけでは、見えにくいところが出ることがあります。",
+      "voice_file": "F:\\ANRYCAMPANY\\reel_assets\\xray_front_side_remake_20261111\\audio\\voice_03.wav",
+      "voice_seconds": 4.5227,
+      "video_frames": 138,
+      "cut_seconds": 4.6,
+      "audio_query": {
+        "speaker_name": "もち子さん",
+        "style": "ノーマル",
+        "speaker_id": 20,
+        "speedScale": 1.15,
+        "intonationScale": 1.06
+      }
+    },
+    {
+      "cut": 4,
+      "text": "そのため、横向きなど、別の向きからも撮ることがあります。",
+      "voice_file": "F:\\ANRYCAMPANY\\reel_assets\\xray_front_side_remake_20261111\\audio\\voice_04.wav",
+      "voice_seconds": 3.7547,
+      "video_frames": 115,
+      "cut_seconds": 3.8333,
+      "audio_query": {
+        "speaker_name": "もち子さん",
+        "style": "ノーマル",
+        "speaker_id": 20,
+        "speedScale": 1.15,
+        "intonationScale": 1.06
+      }
+    },
+    {
+      "cut": 5,
+      "text": "撮る向きや枚数は、部位や検査の目的によって変わります。",
+      "voice_file": "F:\\ANRYCAMPANY\\reel_assets\\xray_front_side_remake_20261111\\audio\\voice_05.wav",
+      "voice_seconds": 3.7653,
+      "video_frames": 115,
+      "cut_seconds": 3.8333,
+      "audio_query": {
+        "speaker_name": "もち子さん",
+        "style": "ノーマル",
+        "speaker_id": 20,
+        "speedScale": 1.15,
+        "intonationScale": 1.06
+      }
+    },
+    {
+      "cut": 6,
+      "text": "向きを変えるときは、姿勢を変えてもらうことがあります。",
+      "voice_file": "F:\\ANRYCAMPANY\\reel_assets\\xray_front_side_remake_20261111\\audio\\voice_06.wav",
+      "voice_seconds": 3.392,
+      "video_frames": 104,
+      "cut_seconds": 3.4667,
+      "audio_query": {
+        "speaker_name": "もち子さん",
+        "style": "ノーマル",
+        "speaker_id": 20,
+        "speedScale": 1.15,
+        "intonationScale": 1.06
+      }
+    },
+    {
+      "cut": 7,
+      "text": "別の向きからも見ることで、見えにくいところを減らせることがあります。",
+      "voice_file": "F:\\ANRYCAMPANY\\reel_assets\\xray_front_side_remake_20261111\\audio\\voice_07.wav",
+      "voice_seconds": 3.936,
+      "video_frames": 120,
+      "cut_seconds": 4.0,
+      "audio_query": {
+        "speaker_name": "もち子さん",
+        "style": "ノーマル",
+        "speaker_id": 20,
+        "speedScale": 1.15,
+        "intonationScale": 1.06
+      }
+    },
+    {
+      "cut": 8,
+      "text": "気になるときは、その場で、前回と向きが違うのはなぜですか、と聞いて大丈夫です。",
+      "voice_file": "F:\\ANRYCAMPANY\\reel_assets\\xray_front_side_remake_20261111\\audio\\voice_08.wav",
+      "voice_seconds": 5.952,
+      "video_frames": 181,
+      "cut_seconds": 6.0333,
+      "audio_query": {
+        "speaker_name": "もち子さん",
+        "style": "ノーマル",
+        "speaker_id": 20,
+        "speedScale": 1.15,
+        "intonationScale": 1.06
+      }
+    },
+    {
+      "cut": 9,
+      "text": "検査の疑問を、これからも分かりやすくお届けします。フォローをお願いします。",
+      "voice_file": "F:\\ANRYCAMPANY\\reel_assets\\xray_front_side_remake_20261111\\audio\\voice_09.wav",
+      "voice_seconds": 5.28,
+      "video_frames": 189,
+      "cut_seconds": 6.3,
+      "audio_query": {
+        "speaker_name": "もち子さん",
+        "style": "ノーマル",
+        "speaker_id": 20,
+        "speedScale": 1.15,
+        "intonationScale": 1.06
+      }
+    }
+  ],
+  "telop_frames": [
+    "F:\\ANRYCAMPANY\\reel_assets\\xray_front_side_remake_20261111\\telop_frames_v2\\telop_01.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\xray_front_side_remake_20261111\\telop_frames_v2\\telop_02.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\xray_front_side_remake_20261111\\telop_frames_v2\\telop_03.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\xray_front_side_remake_20261111\\telop_frames_v2\\telop_04.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\xray_front_side_remake_20261111\\telop_frames_v2\\telop_05.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\xray_front_side_remake_20261111\\telop_frames_v2\\telop_06.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\xray_front_side_remake_20261111\\telop_frames_v2\\telop_07.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\xray_front_side_remake_20261111\\telop_frames_v2\\telop_08.png",
+    "F:\\ANRYCAMPANY\\reel_assets\\xray_front_side_remake_20261111\\telop_frames_v2\\telop_09.png"
+  ],
+  "telop_frame_sha256": [
+    "2e883144342cbc74a0f7473ef7ced9fddbb3a423c54f4670f414d941643e42b8",
+    "8ada8d17d3b2c44d2b775315cad3cf688f51415ca00023da134d97959787c5ae",
+    "ffb66f557eb372d189aef80c994357fd897ab7c0b814846f31f958367d55f139",
+    "1df4111a2059da7180fc96a716c0c19219034f73cbb8f146d9f80a666d439c3a",
+    "518a78094f9a017f94052bd8700a640b6f2863dd2a29cf40fcfe2254dc586b34",
+    "17fc257423675ecc455b3ad8ca524c3bf08a3a26b7e4856e2338bba97adf2a32",
+    "b6ea2874f925be0f5b1e1eaa1e7db0c9b7f1e4ddc8dd67ca5d1718dc45e13211",
+    "0046090367c596761b4888a253f60e5e63d904a1e31b3e4d604d8d4521c15d42",
+    "a5e2d95cd8fa46231d6fe9a4ef3512eb7ceae682d339c1dbce4558200a2098c2"
+  ]
+}

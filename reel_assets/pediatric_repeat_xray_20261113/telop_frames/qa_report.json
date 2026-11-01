@@ -1,0 +1,272 @@
+[
+  {
+    "source": "F:\\ANRYCAMPANY\\reel_assets\\pediatric_repeat_xray_20261113\\sample_01_consultation_hook_shoes.png",
+    "source_sha256": "b9d70b9bde4f86fa0076b3c0f35a66debc0b2a60f523a0035a9aae4894855b20",
+    "source_size": [
+      941,
+      1672
+    ],
+    "output": "F:\\ANRYCAMPANY\\reel_assets\\pediatric_repeat_xray_20261113\\telop_frames\\telop_01.png",
+    "output_size": [
+      1080,
+      1920
+    ],
+    "text": "またレントゲン？理由は医師に聞けます",
+    "characters": 18,
+    "lines": 2,
+    "position": "lower_center",
+    "center_x": 540,
+    "center_y": 1400,
+    "font_px": 64,
+    "max_line_width_px": 640,
+    "box": [
+      172,
+      1299,
+      908,
+      1501
+    ]
+  },
+  {
+    "source": "F:\\ANRYCAMPANY\\reel_assets\\pediatric_repeat_xray_20261113\\cut_02_parent_concern.png",
+    "source_sha256": "fa9a8a64f97ccc1be32a145ae1833123b501cd7ba4ded5b7fed6ea47a2602bbf",
+    "source_size": [
+      941,
+      1672
+    ],
+    "output": "F:\\ANRYCAMPANY\\reel_assets\\pediatric_repeat_xray_20261113\\telop_frames\\telop_02.png",
+    "output_size": [
+      1080,
+      1920
+    ],
+    "text": "また撮ると聞くと心配",
+    "characters": 10,
+    "lines": 1,
+    "position": "lower_center",
+    "center_x": 540,
+    "center_y": 1400,
+    "font_px": 64,
+    "max_line_width_px": 640,
+    "box": [
+      172,
+      1340,
+      908,
+      1460
+    ]
+  },
+  {
+    "source": "F:\\ANRYCAMPANY\\reel_assets\\pediatric_repeat_xray_20261113\\cut_03_doctor_explains.png",
+    "source_sha256": "e38f8d92c4bac5af3a1afb1ac9374eb295ae17463ee44ab2c049d741831b3728",
+    "source_size": [
+      941,
+      1672
+    ],
+    "output": "F:\\ANRYCAMPANY\\reel_assets\\pediatric_repeat_xray_20261113\\telop_frames\\telop_03.png",
+    "output_size": [
+      1080,
+      1920
+    ],
+    "text": "診断／経過を見る",
+    "characters": 8,
+    "lines": 1,
+    "position": "lower_center",
+    "center_x": 540,
+    "center_y": 1400,
+    "font_px": 64,
+    "max_line_width_px": 512,
+    "box": [
+      236,
+      1340,
+      844,
+      1460
+    ]
+  },
+  {
+    "source": "F:\\ANRYCAMPANY\\reel_assets\\pediatric_repeat_xray_20261113\\cut_04_prior_image_purpose.png",
+    "source_sha256": "f5f32876bec786c44faddf583871e2342fcc728ea7a85bf130054481b9d1bd10",
+    "source_size": [
+      941,
+      1672
+    ],
+    "output": "F:\\ANRYCAMPANY\\reel_assets\\pediatric_repeat_xray_20261113\\telop_frames\\telop_04.png",
+    "output_size": [
+      1080,
+      1920
+    ],
+    "text": "撮る目的が違うことも",
+    "characters": 10,
+    "lines": 1,
+    "position": "lower_center",
+    "center_x": 540,
+    "center_y": 1400,
+    "font_px": 64,
+    "max_line_width_px": 640,
+    "box": [
+      172,
+      1340,
+      908,
+      1460
+    ]
+  },
+  {
+    "source": "F:\\ANRYCAMPANY\\reel_assets\\pediatric_repeat_xray_20261113\\cut_05_medical_necessity.png",
+    "source_sha256": "026a49e9f6a7f3cd2754f094082bd50e109ad53af254396fe7acaee85cdf92e4",
+    "source_size": [
+      941,
+      1672
+    ],
+    "output": "F:\\ANRYCAMPANY\\reel_assets\\pediatric_repeat_xray_20261113\\telop_frames\\telop_05.png",
+    "output_size": [
+      1080,
+      1920
+    ],
+    "text": "必要性は医師が判断",
+    "characters": 9,
+    "lines": 1,
+    "position": "lower_center",
+    "center_x": 540,
+    "center_y": 1400,
+    "font_px": 64,
+    "max_line_width_px": 576,
+    "box": [
+      204,
+      1340,
+      876,
+      1460
+    ]
+  },
+  {
+    "source": "F:\\ANRYCAMPANY\\reel_assets\\pediatric_repeat_xray_20261113\\cut_06_tell_previous_xray.png",
+    "source_sha256": "f40e0ad76abe382467e0828ea1d54b3498c98737075d80e3947fd16f8f2a3fa4",
+    "source_size": [
+      941,
+      1672
+    ],
+    "output": "F:\\ANRYCAMPANY\\reel_assets\\pediatric_repeat_xray_20261113\\telop_frames\\telop_06.png",
+    "output_size": [
+      1080,
+      1920
+    ],
+    "text": "前に撮ったことを伝える",
+    "characters": 11,
+    "lines": 1,
+    "position": "lower_center",
+    "center_x": 540,
+    "center_y": 1400,
+    "font_px": 64,
+    "max_line_width_px": 704,
+    "box": [
+      140,
+      1340,
+      940,
+      1460
+    ]
+  },
+  {
+    "source": "F:\\ANRYCAMPANY\\reel_assets\\pediatric_repeat_xray_20261113\\cut_07_xray_preparation_v2.png",
+    "source_sha256": "5ac0c608f789d513c92d2636db24a2780ebe27f6329f323ed28aa207b72935e1",
+    "source_size": [
+      941,
+      1672
+    ],
+    "output": "F:\\ANRYCAMPANY\\reel_assets\\pediatric_repeat_xray_20261113\\telop_frames\\telop_07.png",
+    "output_size": [
+      1080,
+      1920
+    ],
+    "text": "体格に合わせて調整",
+    "characters": 9,
+    "lines": 1,
+    "position": "lower_center",
+    "center_x": 540,
+    "center_y": 1400,
+    "font_px": 64,
+    "max_line_width_px": 576,
+    "box": [
+      204,
+      1340,
+      876,
+      1460
+    ]
+  },
+  {
+    "source": "F:\\ANRYCAMPANY\\reel_assets\\pediatric_repeat_xray_20261113\\cut_08_share_concern.png",
+    "source_sha256": "57d8fcf11a8718e81cd628586a6c24cecb314412cdc30582557551023742c509",
+    "source_size": [
+      941,
+      1672
+    ],
+    "output": "F:\\ANRYCAMPANY\\reel_assets\\pediatric_repeat_xray_20261113\\telop_frames\\telop_08.png",
+    "output_size": [
+      1080,
+      1920
+    ],
+    "text": "心配なら目的を聞けます",
+    "characters": 11,
+    "lines": 1,
+    "position": "lower_center",
+    "center_x": 540,
+    "center_y": 1400,
+    "font_px": 64,
+    "max_line_width_px": 704,
+    "box": [
+      140,
+      1340,
+      940,
+      1460
+    ]
+  },
+  {
+    "source": "F:\\ANRYCAMPANY\\reel_assets\\pediatric_repeat_xray_20261113\\cut_09_question_example.png",
+    "source_sha256": "f5fd825fb2c539c14d6e1f14034cda77521edbb655263d1e3563159ee9d7fb54",
+    "source_size": [
+      941,
+      1672
+    ],
+    "output": "F:\\ANRYCAMPANY\\reel_assets\\pediatric_repeat_xray_20261113\\telop_frames\\telop_09.png",
+    "output_size": [
+      1080,
+      1920
+    ],
+    "text": "前にも撮りましたが今回は何のためですか？",
+    "characters": 20,
+    "lines": 2,
+    "position": "lower_center",
+    "center_x": 540,
+    "center_y": 1400,
+    "font_px": 64,
+    "max_line_width_px": 704,
+    "box": [
+      140,
+      1299,
+      940,
+      1501
+    ]
+  },
+  {
+    "source": "F:\\ANRYCAMPANY\\reel_assets\\pediatric_repeat_xray_20261113\\cut_10_save_for_visit.png",
+    "source_sha256": "eb94f6ba58e023830090ee7689702b1297e3633e1a254d7d084890d1ea9cc0cf",
+    "source_size": [
+      941,
+      1672
+    ],
+    "output": "F:\\ANRYCAMPANY\\reel_assets\\pediatric_repeat_xray_20261113\\telop_frames\\telop_10.png",
+    "output_size": [
+      1080,
+      1920
+    ],
+    "text": "診察前に見返せるよう保存",
+    "characters": 12,
+    "lines": 1,
+    "position": "lower_center",
+    "center_x": 540,
+    "center_y": 1400,
+    "font_px": 64,
+    "max_line_width_px": 768,
+    "box": [
+      108,
+      1340,
+      972,
+      1460
+    ]
+  }
+]

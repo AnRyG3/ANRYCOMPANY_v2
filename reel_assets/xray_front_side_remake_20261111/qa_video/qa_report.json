@@ -1,0 +1,65 @@
+[
+  {
+    "cut": 1,
+    "midpoint_seconds": 1.017,
+    "video_frame": "F:\\ANRYCAMPANY\\reel_assets\\xray_front_side_remake_20261111\\qa_video\\video_mid_01.png",
+    "expected_telop_frame": "F:\\ANRYCAMPANY\\reel_assets\\xray_front_side_remake_20261111\\telop_frames_v2\\telop_01.png",
+    "mean_pixel_difference": 1.326
+  },
+  {
+    "cut": 2,
+    "midpoint_seconds": 5.033,
+    "video_frame": "F:\\ANRYCAMPANY\\reel_assets\\xray_front_side_remake_20261111\\qa_video\\video_mid_02.png",
+    "expected_telop_frame": "F:\\ANRYCAMPANY\\reel_assets\\xray_front_side_remake_20261111\\telop_frames_v2\\telop_02.png",
+    "mean_pixel_difference": 1.319
+  },
+  {
+    "cut": 3,
+    "midpoint_seconds": 10.333,
+    "video_frame": "F:\\ANRYCAMPANY\\reel_assets\\xray_front_side_remake_20261111\\qa_video\\video_mid_03.png",
+    "expected_telop_frame": "F:\\ANRYCAMPANY\\reel_assets\\xray_front_side_remake_20261111\\telop_frames_v2\\telop_03.png",
+    "mean_pixel_difference": 1.312
+  },
+  {
+    "cut": 4,
+    "midpoint_seconds": 14.55,
+    "video_frame": "F:\\ANRYCAMPANY\\reel_assets\\xray_front_side_remake_20261111\\qa_video\\video_mid_04.png",
+    "expected_telop_frame": "F:\\ANRYCAMPANY\\reel_assets\\xray_front_side_remake_20261111\\telop_frames_v2\\telop_04.png",
+    "mean_pixel_difference": 1.353
+  },
+  {
+    "cut": 5,
+    "midpoint_seconds": 18.383,
+    "video_frame": "F:\\ANRYCAMPANY\\reel_assets\\xray_front_side_remake_20261111\\qa_video\\video_mid_05.png",
+    "expected_telop_frame": "F:\\ANRYCAMPANY\\reel_assets\\xray_front_side_remake_20261111\\telop_frames_v2\\telop_05.png",
+    "mean_pixel_difference": 1.352
+  },
+  {
+    "cut": 6,
+    "midpoint_seconds": 22.033,
+    "video_frame": "F:\\ANRYCAMPANY\\reel_assets\\xray_front_side_remake_20261111\\qa_video\\video_mid_06.png",
+    "expected_telop_frame": "F:\\ANRYCAMPANY\\reel_assets\\xray_front_side_remake_20261111\\telop_frames_v2\\telop_06.png",
+    "mean_pixel_difference": 1.321
+  },
+  {
+    "cut": 7,
+    "midpoint_seconds": 25.767,
+    "video_frame": "F:\\ANRYCAMPANY\\reel_assets\\xray_front_side_remake_20261111\\qa_video\\video_mid_07.png",
+    "expected_telop_frame": "F:\\ANRYCAMPANY\\reel_assets\\xray_front_side_remake_20261111\\telop_frames_v2\\telop_07.png",
+    "mean_pixel_difference": 1.387
+  },
+  {
+    "cut": 8,
+    "midpoint_seconds": 30.783,
+    "video_frame": "F:\\ANRYCAMPANY\\reel_assets\\xray_front_side_remake_20261111\\qa_video\\video_mid_08.png",
+    "expected_telop_frame": "F:\\ANRYCAMPANY\\reel_assets\\xray_front_side_remake_20261111\\telop_frames_v2\\telop_08.png",
+    "mean_pixel_difference": 1.315
+  },
+  {
+    "cut": 9,
+    "midpoint_seconds": 36.95,
+    "video_frame": "F:\\ANRYCAMPANY\\reel_assets\\xray_front_side_remake_20261111\\qa_video\\video_mid_09.png",
+    "expected_telop_frame": "F:\\ANRYCAMPANY\\reel_assets\\xray_front_side_remake_20261111\\telop_frames_v2\\telop_09.png",
+    "mean_pixel_difference": 1.245
+  }
+]
